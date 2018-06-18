@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog("我是组件----testDemo")
+    NSLog(@"我是组件----testDemo");
 }
 
 
