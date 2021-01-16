@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
 
   s.name         = "testDemo"
   #我们刚打tag的版本是1.0.0 所以这也是
-  s.version      = "1.0.1"
+  s.version      = "1.0.2"
   s.summary      = "测试组件."
 
   #项目首页显示用不重要
