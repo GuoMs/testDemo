@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>id</key>
+	<integer>605</integer>
+	<key>name</key>
+	<string>视频美化文字</string>
+	<key>version</key>
+	<string>9.0.70</string>
+	<key>categories</key>
+	<array>
+		<dict>
+			<key>category_id</key>
+			<real>6050</real>
+			<key>name</key>
+			<string>基础</string>
+			<key>sub_categories</key>
+			<array>
+				<dict>
+					<key>sub_category_id</key>
+					<real>605000</real>
+					<key>items</key>
+					<array>
+						<dict>
+							<key>material_id</key>
+							<real>605099999</real>
+						</dict>
+					</array>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

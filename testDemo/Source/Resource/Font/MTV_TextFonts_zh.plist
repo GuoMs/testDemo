@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>fontName</key>
+		<string></string>
+		<key>thumbnail</key>
+		<string>morenziti</string>
+		<key>fontLight</key>
+		<string></string>
+		<key>fontBold</key>
+		<string></string>
+		<key>online</key>
+		<false/>
+		<key>defaultFont</key>
+		<true/>
+		<key>clickCount</key>
+		<string>10119000</string>
+	</dict>
+</array>
+</plist>

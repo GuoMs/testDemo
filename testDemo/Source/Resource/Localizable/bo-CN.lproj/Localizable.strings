@@ -1,0 +1,3958 @@
+/* No comment provided by engineer. */
+" 条内容" = " ནང་དོན།";
+
+/* No comment provided by engineer. */
+"#美图秀秀#" = "#Meitu#";
+
+/* No comment provided by engineer. */
+"#萌拍#" = "#སྲོགམ་ཆགས་པར་ལེན་ཆས།#";
+
+/* No comment provided by engineer. */
+"%.1f秒" = "%.1fསྐར་ཆ།";
+
+/* No comment provided by engineer. */
+"%@ 创建" = "%@ གསར་འཛུགས";
+
+/* No comment provided by engineer. */
+"%@人解锁 %@条内容" = "%@མིའི་ཟྭ་ཕྱེ %@ནང་དོན་གྱི་གྲངས།";
+
+/* No comment provided by engineer. */
+"%@条内容" = "%@ནང་དོན་།";
+
+/* No comment provided by engineer. */
+"%@条新内容" = "དོན་ཚན་ནང་དོན་གསར་པ་བརྒྱ་ཆ་།@ཨེ་མ་ཧོ་ལོ་ཙཱ།";
+
+/* No comment provided by engineer. */
+"%@次阅读" = "ཐིངས་%@བལྟ་ཀློགས་།";
+
+/* (No Comment) */
+"%@浏览" = "%@ རགས་བལྟ";
+
+/* No comment provided by engineer. */
+"%@虚化已开启" = "%@ རབ་རིབ་གཏོང་བྱེད་ཀྱི་སྒོ་ཕྱེ་ཡོད།།";
+
+/* No comment provided by engineer. */
+"%d小时前" = "དུས་ཚོད་%dསྔོན་དུ།";
+
+/* No comment provided by engineer. */
+"%ld张" = "%ldརིགས།";
+
+/* (No Comment) */
+"%lu分钟前" = "སྐར་མ%luསྔོན་དུ།";
+
+/* (No Comment) */
+"%lu小时前" = "དུས་ཚོད་%luསྔོན་དུ།";
+
+/* No comment provided by engineer. */
+"3D" = "3D";
+
+/* No comment provided by engineer. */
+"3D塑颜(面部重塑)" = "3Dའདྲ་གཟུགས";
+
+/* No comment provided by engineer. */
+"12条新内容" = "ནང་དོན་གསར་པ་གི་དོན་ཚན་བཅུ་གཉིས་པ་།";
+
+/* No comment provided by engineer. */
+"@我的" = "@ང་ལ་།";
+
+/* No comment provided by engineer. */
+"After" = "After";
+
+/* (No Comment) */
+"BeautyPlus" = "BeautyPlus";
+
+/* No comment provided by engineer. */
+"BeautyPlus-把手机变成自拍神器！" = "ཁ་པར་རང་པར་བསྐྱོན་པའི་སྟེང་ལ་བསྒྱུར་ཆོག";
+
+/* (No Comment) */
+"Common.ReleaseVersion" = "པར་གཞི་དངོས་མ།";
+
+/* (No Comment) */
+"Common.TestVersion" = "ཚོད་ལྟའི་པར་གཞི།";
+
+/* No comment provided by engineer. */
+"Copyright © " = "Copyright © ";
+
+/* No comment provided by engineer. */
+"Facebook" = "Facebook";
+
+/* No comment provided by engineer. */
+"Instagram" = "Instagram";
+
+/* No comment provided by engineer. */
+"LINE" = "LINE";
+
+/* No comment provided by engineer. */
+"PrivacyPolicyAttention" = "温馨提示";
+
+/* No comment provided by engineer. */
+"PrivacyPolicyMessage1" = "欢迎使用美图秀秀!美图秀秀非常重视您的隐私和个人信息保护。在您使用美图秀秀前，请认真阅读《用户协议》及《隐私政策》，您同意并接受全部条款后方可开始使用美图秀秀。";
+
+/* No comment provided by engineer. */
+"PrivacyPolicyMessage2" = "您使用美图秀秀前，请认真阅读《用户协议》及《隐私政策》，您同意并接受全部条款后方可开始使用美图秀秀。";
+
+/* No comment provided by engineer. */
+"QQ" = "QQ";
+
+/* No comment provided by engineer. */
+"QQ好友" = "QQདྲ་གྲོགས།";
+
+/* No comment provided by engineer. */
+"QQ空间" = "QQབར་སྟོང་།";
+
+/* (No Comment) */
+"RecordTip0" = "RecordTip0";
+
+/* (No Comment) */
+"RecordTip1" = "ལག་པ་བརྐྱངས་ནས་ཚུགས་ཀ་དང་རྣམ་པ་གཞན་ཞིག་བརྗེ་རོགས།";
+
+/* (No Comment) */
+"RecordTip2" = "པར་རྒྱག་མཐེབ་གནོན་བྱས་ཏེ་མུ་མཐུད་དུ་ཕབ་རོགས།";
+
+/* (No Comment) */
+"RecordTip3" = "RecordTip3";
+
+/* (No Comment) */
+"RecordTipPress1" = "ལག་པ་ཐོངས།";
+
+/* (No Comment) */
+"RecordTipPress2" = "མཐེབ་གནོན།";
+
+/* No comment provided by engineer. */
+"Submit" = "Submit";
+
+/* No comment provided by engineer. */
+"V系列不支持裁切" = "Vརིམ་ཕྲེང་འདྲ་བཟོ་བྱེད་མི་ཐུབ།";
+
+/* (No Comment) */
+"WiFi下不会自动播放视频哦" = "WIFIགནས་ཚུལ་འོག་བརྙན་ཐུང་རང་འགུལ་གྱིས་གཏོང་མི་ཐུབ།";
+
+/* No comment provided by engineer. */
+"[图片评论]" = " རི་མོའི་དཔྱད་བརྗོད།";
+
+/* (No Comment) */
+"again" = "again";
+
+/* (No Comment) */
+"click" = "click";
+
+/* No comment provided by engineer. */
+"emmm…你的照片有点深奥，ArtBot眉头一皱，发现画画并不简单，重新选一张图试试？" = "སྐུ་ཉིད་ཀྱི་འདྲ་པར་ཅུང་ཁྱད་མཚར་པོ་འདུག  ArtBot སྨིན་མའི་གཟེངས་ཅུང་མཐོ་བ་ལ་བལྟས་ཚེ།   པར་རིས་མཛེས་བཟོ་བྱས་པ་དེ་འདྲའི་སླ་མོ་ཞིག་མི་འདུག  ཡང་བསྐྱར་འདྲ་པར་ཤིག་འདེམས་རོགས།";
+
+/* No comment provided by engineer. */
+"iCloud云相册的照片，需要您先下载到系统相册，再重试哦～" = "iCloudཡེན་གྱི་འདྲ་པར་དག་སྐུ་ཉིད་ཀྱིས་ཐོག་མར་པར་དེབ་མ་ལག་ཁྲོད་དུ་ཕབ་ལེན་བྱས་རྗེས།   ཡང་བསྐྱར་ཚོད་ལྟ་གནང་རོགས།";
+
+/* No comment provided by engineer. */
+"iCloud云相册的视频，需要您先下载到系统相册，再重试哦～" = "iCloudཡེན་གྱི་བརྙན་རིས་་དག་སྐུ་ཉིད་ཀྱིས་ཐོག་མར་པར་དེབ་མ་ལག་ཁྲོད་དུ་ཕབ་ལེན་བྱས་རྗེས།   ཡང་བསྐྱར་ཚོད་ལྟ་གནང་རོགས།";
+
+/* No comment provided by engineer. */
+"iCloud照片下载中" = "iCloudའདྲ་པར་ཕབ་ལེན་བྱ་བཞིན་པ།";
+
+/* No comment provided by engineer. */
+"ibon" = "ibon";
+
+/* (No Comment) */
+"“%@”笔刷效果示例图" = "'%@' ཚོན་སྨྱུག་%@ཡིས་བྱེད་ནུས་དཔེ་བསྡུར་རི་མོ།";
+
+/* No comment provided by engineer. */
+"”" = "”";
+
+/* No comment provided by engineer. */
+"╥﹏╥...虚拟形象渲染失败，请重新导入一张高清正脸图喔~" = "རྟོག་བཟོའི་སྣང་བརྙན་ལེགས་འགྲུབ་མ་བྱུང་བས་ཡང་བསྐྱར་ངོ་དྭངས་མ་ཞིག་ནང་དུ་འདྲེན་རོགས།";
+
+/* No comment provided by engineer. */
+"╥﹏╥...虚拟形象渲染失败，请重新拍一张高清正脸图喔~" = "རྟོག་བཟོའི་སྣང་བརྙན་ཕམ་སོང་།ཡང་བསྐྱར་པར་ཞིག་ལེན་རོགས།";
+
+/* No comment provided by engineer. */
+"《用户协议》" = "《用户协议》";
+
+/* No comment provided by engineer. */
+"《隐私政策》" = "《隐私政策》";
+
+/* (No Comment) */
+"【特效】更名为【滤镜】哦" = "ཁྱད་ནུས་ཀྱི་མིང་འཚག་ཤེལ་དུ་བསྒྱུར་ཟིན།";
+
+/* (No Comment) */
+"【连接】" = "\"འབྲེལ་མཐུད།\"";
+
+/* No comment provided by engineer. */
+"【高光笔】更名为【修容笔】" = "〈མཐོ་འོ་སྙུག་>ཞེས་པར་མིང་བསྒྱུར་།（དག་བཅོས་ཤོང་སྨྱུ་གུ་）ཨོ་";
+
+/* (No Comment) */
+"一般" = "རྒྱུན་ལྡན།";
+
+/* No comment provided by engineer. */
+"一键下载" = "གཅིག་མནན་ཚེ་ཕབ་ལེན་བྱ་ཐུབ།";
+
+/* (No Comment) */
+"一键美图" = "མཐེབ་གཅིག་མཛེས་རིས།";
+
+/* (No Comment) */
+"一键美颜" = "མཐེབ་གཅིག་མཛེས་བཟོ།";
+
+/* No comment provided by engineer. */
+"上下(面部重塑)" = "上下";
+
+/* No comment provided by engineer. */
+"上滑查看相似内容" = "ནང་དོན་འདྲ་མཚུངས་ལ་བལྟ་བ།";
+
+/* (No Comment) */
+"上滑看更多" = "ཡར་འཐེན་ནས་དེ་ལས་མང་བ་ལྟ་རོགས།";
+
+/* No comment provided by engineer. */
+"下一步" = "下一步";
+
+/* No comment provided by engineer. */
+"下午好" = "དགོང་དྲོ་བདེ་ལེགས་";
+
+/* No comment provided by engineer. */
+"下巴" = "མ་ནེ།";
+
+/* No comment provided by engineer. */
+"下巴(面部重塑)" = "མ་ནེ།་";
+
+/* (No Comment) */
+"下拉加载更多" = "མར་འཐེན་ཚེ་དེ་ལས་མང་པོ་ཕབ་ལེན་བྱ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"下拉发现新世界" = "འཇིག་རྟེན་པའི་འོག་རྙེད་འཐེན་";
+
+/* (No Comment) */
+"下拉就可以拍照哦~" = "མར་འཐེན་ན་པར་རྒྱབ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"下拉查看更多" = "འོག་འཐེན་ཞིབ་ལྟ་དེ་ལས་མང་";
+
+/* No comment provided by engineer. */
+"下拉查看更多内容" = "འོག་འཐེན་ཞིབ་ལྟ་ནང་དོན་དེ་ལས་མང་ཨེ་མ་ཧོ་ལོ་ཙཱ།";
+
+/* No comment provided by engineer. */
+"下载" = "ཕབ་ལེན།";
+
+/* No comment provided by engineer. */
+"下载中" = "ཕབ་ལེན་བྱ་བཞིན་པ།";
+
+/* No comment provided by engineer. */
+"下载中..." = "ཕབ་ལེན་བྱ་བཞིན་པ།...";
+
+/* No comment provided by engineer. */
+"下载使用" = "ཕབ་ལེན་།བེད་སྤྱོད་།";
+
+/* No comment provided by engineer. */
+"下载全部滤镜" = "ཕབ་ལེན་ཡོངས་རྫོགས་མེ་ལོང་།";
+
+/* No comment provided by engineer. */
+"下载失败" = "ཕབ་ལེན་བྱ་མ་ཐུབ་པས།  ";
+
+/* No comment provided by engineer. */
+"下载失败，请检查网络后重试。" = "ཕབ་ལེན་བྱ་མ་ཐུབ་པས།   དྲ་རྒྱར་རྟོག་ཞིབ་བྱས་རྗེས་ཡང་བསྐྱར་ཚོད་ལྟ་གནང་རོགས།";
+
+/* No comment provided by engineer. */
+"下载失败，请重试" = "ཕབ་ལེན་ཕམ་སོང་།ཡང་བསྐྱར་ཚོད་ལྟ་བྱོས།";
+
+/* No comment provided by engineer. */
+"下载完成" = "ཕབ་ལེན་བྱས་ཟིན་པ།";
+
+/* No comment provided by engineer. */
+"下载完成, 还有%ld个素材未下载" = "ཕབ་ལེན་བྱས་ཐུབ་སོང་བས།   ད་དུང་རྒྱུ་ཆ %ld ལྷག་ཅིག་ཕབ་ལེན་བྱ་མ་ཐུབ་པ།";
+
+/* (No Comment) */
+"下载活动素材中" = "བྱ་འགུལ་དཔྱད་གཞི་ནང་འཇུག་བྱེད་བཞིན་པའི་སྒང་།";
+
+/* No comment provided by engineer. */
+"下载的字体可长按删除哦~" = "ཕབ་ལེན་བྱས་ཟིན་པའི་ཡིག་གཟུགས་ཡུན་རིང་བོར་མནན་ཚེ་བསུབས་ཐུབ།";
+
+/* No comment provided by engineer. */
+"下载素材需要耗费一定流量，建议在WiFi环境下载哦~" = "རྒྱུ་ཆ་ཕབ་ལེན་བྱེད་པར་བཞུར་ཚད་ངེས་ཅན་ཞིག་དགོས་པས།   སྐུད་མེད་དྲ་བའི་འོག་ནས་ཕབ་ལེན་བྱས་ན་བཟང་སྙམ།";
+
+/* No comment provided by engineer. */
+"不使用" = "བཀོལ་སྤྱོད་མི་བྱེད།";
+
+/* No comment provided by engineer. */
+"不保存" = "བསྡུ་ཉར་མི་བྱེད།";
+
+/* No comment provided by engineer. */
+"不再关注" = "དོ་སྣང་བྱེད་མི་སྲིད་པ།";
+
+/* No comment provided by engineer. */
+"不同意" = "不同意";
+
+/* No comment provided by engineer. */
+"不支持此比例的图片" = "བསྡུར་ཚད་ཅན་གྱི་འདྲ་པར་བཀོལ་སྤྱོད་བྱ་མི་ཐུབ།";
+
+/* No comment provided by engineer. */
+"不放弃" = "བསྐྱུར་མི་གཏོང་རོགས།";
+
+/* No comment provided by engineer. */
+"不显示位置" = "གནས་ཡུལ་གསལ་བོར་མི་སྟོན་པ།";
+
+/* No comment provided by engineer. */
+"不能遮挡" = "གབ་མི་ཐུབ་པ།";
+
+/* (No Comment) */
+"不虚化画面背景" = "པར་རིས་རྒྱབ་ལྗོངས་འཚག་ཤེལ་ཅན་དུ་མི་གཏོང་བ།";
+
+/* No comment provided by engineer. */
+"不要再输啦(╯▽╰)" = "ཕམ་མི་རུང་བ། (╯▽╰) ";
+
+/* No comment provided by engineer. */
+"不要放弃" = "བསྐྱུར་མི་གཏོང་རོགས།";
+
+/* (No Comment) */
+"不调暗画面背景" = "པར་རིས་རྒྱབ་ལྗོངས་ཀྱི་གསལ་ཚད་མི་བསྒྱུར་བ།";
+
+/* No comment provided by engineer. */
+"专区" = " ཆེད་ཁུལ།";
+
+/* No comment provided by engineer. */
+"专辑" = "ཆེད་བསྒྲིགས།";
+
+/* No comment provided by engineer. */
+"专辑下载失败" = "ཆེད་བསྒྲིགས་ཕབ་ལེན་བྱ་མ་ཐུབ་པ།";
+
+/* (No Comment) */
+"两指张合可以缩放虚化区域哦~" = "འདྲ་པ་ཇེ་ཆུང་དུ་བཏང་སྟེ་བཅོས་མའི་ཁུལ་དུ་འཇོག་པ་་";
+
+/* No comment provided by engineer. */
+"两指张合可缩放虚化区域" = "འདྲ་པ་ཇེ་ཆུང་དུ་བཏང་སྟེ་བཅོས་མའི་ཁུལ་དུ་འཇོག་པ་་";
+
+/* No comment provided by engineer. */
+"个人资料" = "མི་སྒེར་གྱི་གནས་ཚུལ།";
+
+/* (No Comment) */
+"个作品" = "བརྩམས་ཆོས་";
+
+/* No comment provided by engineer. */
+"个地标" = "ས་གསལ་མངོན་རྟགས་ཞིག་";
+
+/* No comment provided by engineer. */
+"个性签名" = "མི་སྒེར་གྱི་སྨྱུག་མིང་།";
+
+/* No comment provided by engineer. */
+"个性签名最多50字哦" = "མི་སྒེར་གྱི་སྨཡུག་མིང་ལ་ཆེས་མང་རུང་ཡིག་འབྲུ་ལྔ་བཅུ་དགོས།";
+
+/* No comment provided by engineer. */
+"个收藏" = "སྒེར་གྱི་ཉར་དེབ།";
+
+/* No comment provided by engineer. */
+"中" = "བར།";
+
+/* No comment provided by engineer. */
+"中心" = "ལྟེ་བ།";
+
+/* No comment provided by engineer. */
+"中边框" = " ཁྲོད་ཀྱི་མཐའ་སྒྲོམ།";
+
+/* No comment provided by engineer. */
+"为你推荐" = "ཁྱོད་ལ་མཚམས་སྦྱོར་བྱེད།";
+
+/* No comment provided by engineer. */
+"主人，好久没见到你了，来看看我有什么新玩意嘛~😊" = "བདག་པོ་ལགས།    ཡུན་རིང་ཤིག་ལ་ཁྱེད་ཉིད་མ་མཐོང་བས།   ངེད་ཅག་ལ་རྩེད་འཇོ་གསར་བ་ཅི་ཞིག་ཡོད་པར་གཟིགས་རོགས། 😍";
+
+/* No comment provided by engineer. */
+"举报" = "ཞུ་གཏུག";
+
+/* No comment provided by engineer. */
+"举报成功" = "ཞུ་གཏུག་ལེགས་འགྲུབ་བྱུང་།";
+
+/* No comment provided by engineer. */
+"了解滤镜详情" = "ཤེལ་འཚག་ཤེས་རྟོགས་གནས་ཚུལ་གསལ་བོ་ཤེས་འདོད་ན་";
+
+/* No comment provided by engineer. */
+"了解详情" = "ཞིབ་ཕྲར་གཟིགས་པ།";
+
+/* No comment provided by engineer. */
+"互相关注" = "ཕན་ཚུན་ལ་དོ་སྣང་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"五官立体" = "དབང་ལྔ་ལངས་གཟུགས་";
+
+/* No comment provided by engineer. */
+"亮度" = "གསལ་ཚད།";
+
+/* (No Comment) */
+"亮眼" = "མིག་ཇེ་གསལ།";
+
+/* No comment provided by engineer. */
+"亮眼画笔" = "ཆེ་ཆུང།";
+
+/* No comment provided by engineer. */
+"亲爱哒~ 写下你的美图定制的订单编号及需要解决的问题，美老师会尽快为你解决哦。" = "ཉིད་ཀྱིས་མཛེས་པར་གཏན་ཁེལ་སྒྲིག་སྲོལ་གྱི་ཨང་རྟགས་དང་ཐག་གཅོད་དགོས་པའི་གནད་དོན་དག་བྲིས་རྗེས། མཛེས་བརྙན་དགེ་རྒན་གྱིས་ལམ་སེང་ཐག་གཅོད་བྱ་ངེས།";
+
+/* No comment provided by engineer. */
+"亲爱的%@，生日快乐！" = "ཁྱེད་ཀྱི་སྐྱེས་སྐར་ལ་རྟེན་འབྲེལ་ཞུ།";
+
+/* No comment provided by engineer. */
+"亲，没有更多可加载了..." = "ཕབ་ལེན་བྱ་རྒྱུ་དེ་འདྲ་མང་པོ་མི་འདུག";
+
+/* (No Comment) */
+"人人都是摄影师!" = "མི་ཚང་མ་བརྙན་ལེན་པ་ཡིན།";
+
+/* No comment provided by engineer. */
+"人像保护" = "སྐྱེ་བོ་དེ་དག་གིས་སྲུང་སྐྱོབ་";
+
+/* No comment provided by engineer. */
+"人像保护(开启)" = "སྐྱེ་བོ་དེ་དག་གིས་སྲུང་སྐྱོབ་";
+
+/* No comment provided by engineer. */
+"人像美容" = "མི་སྣ་མཛེས་བཟོ།";
+
+/* No comment provided by engineer. */
+"人像识别功能可快速绘制人像区域，快下载通用模型到本地，体验全新效果吧～" = "མི་འདྲ་བའི་ངོས་འཛིན་ནུས་པས་མགྱོགས་མྱུར་གྱི་མིའི་འདྲ་དཔེའི་ཁྱབ་ཁོངས་།མྱུར་དུ་ཐུན་མོང་གི་དཔེ་དབྱིབས་ཕབ་ལེན་ས་གནས་འདིར་བྱེད་།གྲུབ་འབྲས་གསར་བ་ལེན་པ";
+
+/* (No Comment) */
+"人形" = "མི་གཟུགས།";
+
+/* No comment provided by engineer. */
+"人物" = "མི་སྣ།";
+
+/* No comment provided by engineer. */
+"人解锁" = "མི་སྣ་སྒོ་ཕྱེ།";
+
+/* No comment provided by engineer. */
+"人身攻击" = "མི་ལུས་འཇབ་རྒོལ།";
+
+/* No comment provided by engineer. */
+"仅支持单人哦" = "མི་རྐྱང་མ་གཏོགས་རྒྱབ་སྐྱོར་མི་བྱེད།";
+
+/* (No Comment) */
+"仅支持单人脸照片哦~" = "སྒེར་མིའི་ངོ་གདོང་ཁོ་ནར་རྒྱབ་སྐྱོར་བྱ།";
+
+/* (No Comment) */
+"今天" = "དེ་རིང་།";
+
+/* No comment provided by engineer. */
+"介绍一下自己吧！" = "རང་ཉིད་ངོ་སྤྲོད་བྱ་རོགས།";
+
+/* No comment provided by engineer. */
+"从相册选择" = "འདྲ་པར་ཁྲོད་ནས་འདེམས་རོགས།";
+
+/* No comment provided by engineer. */
+"他人保存我的图片时有水印" = "ཁོས་ངའི་འདྲ་པར་ཉར་ཚགས་བྱེད་དུས་ཆུ་དཔར་ཡོད།";
+
+/* No comment provided by engineer. */
+"他们在" = "ཁོ་ཚོས་";
+
+/* No comment provided by engineer. */
+"他们太害羞了，不然你主动点？" = "ཁོ་ཚོ་ཅུང་མཚེར་སྣང་སྐྱེས་བཞིན་ཡོད་པས།  སྐུ་ཉིད་ཀྱིས་མ་སྐུལ་དང་ལེན་བྱ་རྒྱུ་གལ།";
+
+/* (No Comment) */
+"以上" = "ཡན་ཆད།";
+
+/* No comment provided by engineer. */
+"会话气泡" = "གླེང་སྒྲོམ་གྱི་ལྦུ་བ།";
+
+/* No comment provided by engineer. */
+"低" = "དམའ།";
+
+/* No comment provided by engineer. */
+"低(五官)" = "དམའ་བ།";
+
+/* No comment provided by engineer. */
+"体验全新拼图" = "འདྲ་པར་སྒྲིག་བཟོ།";
+
+/* No comment provided by engineer. */
+"作品容易丢失，及时登录即可永久保存！" = "བརྩམས་ཆོས་བོར་སླ།་ཐོ་འགོད་བྱས་ན་ཡུན་རིང་དུ་ཉར་ཐུབ།";
+
+/* No comment provided by engineer. */
+"作品已删除" = "བརྩམས་ཆོས་གསུབ་ཚར།";
+
+/* No comment provided by engineer. */
+"作者" = "རྩོམ་པ་པོ་པར་";
+
+/* No comment provided by engineer. */
+"你之前有尚未保存的图片，是否\n继续编辑?" = "སྐུ་ཉིད་ལ་སྔོན་མར་ཉར་ཚགས་མ་བྱས་པའི་འདྲ་འདུག་པས།   མུ་མཐུད་དུ་དག་སྒྲིག་བྱའམ།";
+
+/* No comment provided by engineer. */
+"你关注的人都在这里" = "ཁྱེད་ཀྱིས་དོ་སྣང་བྱེད་པའི་མི་སྣ་དག་འདི་རུ་འདུས་ཡོད།";
+
+/* No comment provided by engineer. */
+"你可以在【我】中，设置你的个性化颜值管家哦" = "ཁྱོད་ཀྱིས་（ང་།）ལས་པའི་ཁྲོད་ནས་ཁྱོད་ཀྱི་རང་གཤིས་ཅན་གྱི་མཛེས་བཟོའི་གཉེར་བ་བྱས་ན་ཆོག ་། ";
+
+/* No comment provided by engineer. */
+"你可以选择1张图片作为评论～" = "ཁྱོད་ཀྱིས་འདྲ་པར་གཅིག་འདེམ་ནས་གདེང་འཇོག་བྱས་ཆོག";
+
+/* (No Comment) */
+"你可能喜欢的素材或效果" = "ཁྱེད་རང་དགའ་མོས་ཡོད་སྲིད་པའི་རྒྱུ་ཆའམ་ཕན་ནུས།";
+
+/* No comment provided by engineer. */
+"你可能喜欢的素材或效果；" = "ཁྱེད་རང་དགའ་མོས་ཡོད་སྲིད་པའི་རྒྱུ་ཆའམ་ཕན་ནུས།";
+
+/* No comment provided by engineer. */
+"你可能感兴趣的人" = "ཁྱོད་མི་སྤྲོ་བ་ཡོད་པའི་སྲིད་";
+
+/* No comment provided by engineer. */
+"你在社区暂存的内容发出去咯！" = "ཁྱོད་ཀྱིས་སྡེ་ཁུལ་ནས་གནས་སྐབས་སུ་ཉར་ཚགས་བྱས་པའི་ནང་དོན་སྐུར་རོགས།";
+
+/* No comment provided by engineer. */
+"你安装的%@版本过低或尚未安装哦~" = "སྐུ་ཉིད་ཀྱིས་ནང་འཇུག་བྱས་པའི་ %@པར་གཞིའི་ཚད་དམའ་བའམ་ནང་འཇུག་བྱས་མི་འདུག";
+
+/* No comment provided by engineer. */
+"你当前处于非WiFi条件下，字体包下载需要耗费较多流量，是否继续下载？" = "སྐུ་ཉིད་སྐུད་མེད་དྲ་རྒྱ་ཕྱེ་ཡོད་པའི་ཆ་རྐྱེན་འོག་ནས།    ཡིག་གཟུགས་སྒམ་ཕབ་ལལེན་བྱ་རྒྱུར་བཞུར་ཚད་ཅུང་མང་པོ་ཟད་འགྲོ་བས། མུ་མཐུད་དུ་ཕབ་ལེན་བྱའམ།";
+
+/* No comment provided by engineer. */
+"你当前处于非WiFi条件下，是否继续下载素材？" = "སྐུ་ཉིད་སྐུད་མེད་དྲ་རྒྱའི་སྒོ་ཕྱེ་ཡོད་པས།མུ་མཐུད་དུ་རྒྱུ་ཆ་ཕབ་ལེན་བྱ་རྒྱུ་ཡིན་ནམ།";
+
+/* No comment provided by engineer. */
+"你当前处于非WiFi条件，继续下载会耗费你相应的数据流量，是否继续下载呢？" = "་ཉིད་སྐུད་མེད་དྲ་རྒྱ་ཕྱེ་ཡོད་པའི་ཆ་རྐྱེན་འོག་ནས། དེ་དང་འབྲེལ་ཡོད་ཀྱི་གྲངས་འབོར་བཞུར་ཚད་ཟད་འགྲོ་བས།   མུ་མཐུད་དུ་ཕབ་ལེན་བྱ་རྒྱུ་ཡིན་ནམ།";
+
+/* No comment provided by engineer. */
+"你想和我说什么？" = "ཁྱེད་ཀྱིས་ང་ལ་སྐད་ཆ་ཅི་ཞིག་འཆད་འདོད་དམ།";
+
+/* No comment provided by engineer. */
+"你所在地区未开放本功能。" = "ཁྱེད་སྡོད་སའི་ས་ཁུལ་ལ་གསར་སྤེལ་བྱེད་ནུས་འདོན་མེད་པ།";
+
+/* No comment provided by engineer. */
+"你所导入的图片比例过长，无法使用，请重新选择。" = "ཁྱེད་ཀྱིས་ནང་འཇུག་བྱས་པའི་འདྲ་པར་གྱི་བསྡུར་ཚད་ཅུང་རིང་དྲགས་པས།་བཀོལ་སྤྱོད་བྱ་ཐུབ་པ་མི་འདུག   ཡང་བསྐྱར་འདེམས་རོགས";
+
+/* No comment provided by engineer. */
+"你所编辑的图片尚未保存，是否保存？" = "ཁྱོད་གནས་རྩོམ་སྒྲིག་པའི་པར་ད་དུང་ཉར་ཚགས་དང་།ཉར་ཚགས་ཡོད་མེད་དམ";
+
+/* (No Comment) */
+"你所购买的遥控器非官方二代美图遥控器，无法连接你的手机。" = "སྐུ་ཉིད་ཀྱིས་ཉོས་བའི་གཞུང་མིན་རབས་གཉིས་པའི་མཛེས་རིས་རྒྱང་བསྒྱུར་ཆས་དེ་ཁ་པར་དང་འབྲེལ་མཐུད་བྱ་";
+
+/* No comment provided by engineer. */
+"你的位置权限未开启，将导致地理位置信息不准确哦" = "ཁྱེད་ཀྱི་ས་གནས་ཆོག་མཆན་གྱི་སྒོ་ཕྱེ་མེད་པས།    ས་བབས་ཀྱི་ཆ་འཕྲིན་གསལ་བོ་མིན་པར་བྱ་སྲིད།";
+
+/* No comment provided by engineer. */
+"你的动漫化身即将生成..." = "ཁྱོད་ཀྱི་འགུལ་རིས་ཀྱི་རྣམ་སྤྲུལ་གྲུབ་རྒྱུ་རེད།";
+
+/* (No Comment) */
+"你的反馈已经超出最大限制的1000个字符啦~" = "ཁྱེད་ཀྱི་བསམ་འཆར་ཚད་བཀག་ལས་ཆེས་ཆེ་བའི་ཡིག་འབྲུ༡༠༠༠ལས་བརྒལ་འདུག";
+
+/* (No Comment) */
+"你的联系方式含有非法字符哦" = "ཁྱེད་ཀྱི་འབྲེལ་གཏུག་བྱ་ཐབས་ཁྲོད་ལུགས་མཐུན་མིན་པའི་ཡིག་རྟགས་འདུས་འདུག";
+
+/* No comment provided by engineer. */
+"你的联系方式已超过最大限制的140个字符哦~" = "ཁྱེད་ཀྱི་འབྲེལ་གཏུག་བྱ་ཐབས་ཚད་བཀག་ཆེས་ཆེ་བའི་ཚད་བཀག་གི་ཡིག་རྟགས་༡༤༠ལས་བརྒལ་འདུག";
+
+/* No comment provided by engineer. */
+"你的草稿卸载美图秀秀后会丢失，请及时发布噢～" = "ཁྱོད་ཀྱི་མ་ཟིན་བསུབ་རྗེས་མཛེས་ཆས་མེད་པར་གྱུར་ངེས་་ཡིན།་དུས་ལྟར་ཁྱབ་བསྒྲགས་བྱས་།";
+
+/* No comment provided by engineer. */
+"你的颜值管家当前处于关闭中，无法应用你所设定的美颜参数。" = "ཁྱོད་ཀྱི་མཛེས་ལོད་སྐྱེ་འབྲས་ཕྱག་མཛོད་ད་ལྟ་ཁ་རྒྱག་སྒོ་རྒྱག་ནང་དུ་གནས་ཡོད་པ་དང་།དཔྱད་གྲངས་མཛེས་རིགས་ཁྱོད་གནས་གཏན་འཁེལ་གྱི་བཀོལ་སྤྱོད་བྱེད་མི་ཐུབ་།";
+
+/* No comment provided by engineer. */
+"你输入的文字超过了规定字数，请重新编辑" = "ཁྱེད་ཀྱིས་གཏག་པའི་ཡི་གེ་གཏན་ཁེལ་གྱི་ཡིག་གྲངས་ལས་བརྒལ་འདུག་པས།  ཡང་བསྐྱར་དག་སྒྲིག་བྱ་རོགས།";
+
+/* No comment provided by engineer. */
+"你还未下载任何素材哦，快去素材中心下载吧！" = "སྐུ་ཉདི་ཀྱིས་རྒྱུ་ཆ་གང་ཡང་ཕབ་ལེན་བྱས་མི་འདུག་པས།   ལམ་སེང་རྒྱུ་ཆ་ལྟེ་གནས་ནས་ཕབ་ལེན་བྱ་རོགས།";
+
+/* (No Comment) */
+"你还未安装口袋购物客户端，需下载后才能使用。" = "སྐུ་ཉིད་ཀྱིས་ཁུག་ཆུང་ཉོ་ཚོང་བཀོལ་མཁན་སྦྲེལ་སྡེ་ནང་འཇུག་བྱས་མེད་པས།ནང་འཇུག་བྱོས་རྗེས་ད་གཟོད་བཀོ";
+
+/* (No Comment) */
+"你还未安装美拍客户端，需下载后才能使用。" = "སྐུ་ཉིད་ཀྱིས་མཛེས་བརྙན་བཀོལ་མཁན་སྦྲེལ་སྡེ་ནང་འཇུག་བྱས་མེད་པས།ནང་འཇུག་བྱོས་རྗེས་ད་གཟོད་བཀོལ་སྤྱོ";
+
+/* No comment provided by engineer. */
+"你还没有开启照片权限，开启之后即可保存图片" = "ཁྱེད་ཀྱིས་འདྲ་པར་དབང་ཚད་ཀྱི་སྒོ་ཕྱེས་མེད་པས།  སྒོ་ཕྱེས་རྗེས་འདྲ་པར་ཉར་ཚགས་བྱ་ཆོག";
+
+/* No comment provided by engineer. */
+"你还没有开启照片权限，开启之后美图秀秀才能访问你的照片" = "ཁྱེད་ཀྱིས་འདྲ་པར་དབང་ཚད་ཀྱི་སྒོ་ཕྱེས་མེད་པས།   སྒོ་ཕྱེ་རྗེས་མེའུ་ཐུའུ་མཛེས་བཟོ་ལས་འདྲ་པར་བཀོལ་སྤྱོད་བྱ་ཆོག";
+
+/* No comment provided by engineer. */
+"你还没有开启相机权限，开启之后即可拍照或录像" = "ཁྱེད་ཀྱིས་པར་ཆས་དབང་ཚད་ཀྱི་སགོ་ཕྱེ་མེད་པས།   སྒོ་ཕྱེ་རྗེས་དེ་མུར་པར་ལེན་དང་བརྙན་ཕབ་ཆོག";
+
+/* No comment provided by engineer. */
+"你还没有开启运动与健康权限，开启之后美图秀秀才能访问哦" = "ཁྱེད་ཀྱིས་གཟུགས་ཕུང་བདེ་ཐང་བརྟག་བཤེར་གྱི་མ་ལག་སྒོ་ཕྱེ་མེད་པས།  སྒོ་ཕྱེས་རྗེས་མེའུ་ཐུའུ་མཛེས་པར་བཀོལ་སྤྱོད་བྱ་ཆོག ";
+
+/* No comment provided by engineer. */
+"你还没有开启麦克风权限，开启之后即可录音" = "ཁྱོད་ཀྱིས་ད་དུང་སྒྲ་དུང་སྒོ་འབྱེད་པའི་དབང་ཆ་མེད།་སྒོ་ཕྱེ་རྗེས་སྒྲ་ལེན་ཆོག།";
+
+/* No comment provided by engineer. */
+"你还没有开启麦克风权限，开启之后即可摄像" = "ཁྱེད་ཀྱིས་སྐད་སྦུག་དབང་ཚད་ཀྱི་སྒོ་ཕྱེ་མེད་པས།   སྒོ་ཕྱེ་རྗེས་དེ་མུར་བརྙན་ཕབ་ཆོག";
+
+/* No comment provided by engineer. */
+"使用" = "བཀོལ་སྤྱོད།";
+
+/* (No Comment) */
+"使用(特效详情)" = "བཀོལ་སྤྱོད་ཀྱི་བྱེད་ནུས་ཞིབ་ཆ།";
+
+/* No comment provided by engineer. */
+"使用功能即表示您同意" = "བྱེུད་ནུས་བཀོལ་སྤྱོད་ཀྱི་སྐུ་ཉིད་འཐད་པ་བྱུང་བའི་བརྡ་ཐོན།";
+
+/* No comment provided by engineer. */
+"使用同款效果" = "ནང་གསེས་དོན་ཚན་གཅིག་པའི་ཕན་འབྲས་བེད་སྤྱོད་བྱས།";
+
+/* No comment provided by engineer. */
+"使用同款效果失败" = "ཐོ་འགོད་བྱས་རྗེས་ནང་གསེས་དོན་ཚན་གཅིག་པ་བཀོལ་ཆོག་།";
+
+/* No comment provided by engineer. */
+"使用增高塑形功能，需下载通用素材模型到本地才可使用哦，赶紧下载体验全新效果吧~" = "གཟུགས་ཕུང་སྣང་བརྙན་བཀོལ་སྤྱོད་བྱེད་པར། སྤྱི་སྤྱོད་རྒྱུ་ཆས་རྣམ་པ་ཕབ་ལེན་བྱེད་ཚེ།ད་གཟོད་བཀོལ་སྤྱོད་བྱ་ཐུབ།།";
+
+/* No comment provided by engineer. */
+"使用微笑嘴唇功能，需下载通用素材模型到本地才可使用哦，赶紧下载体验全新效果吧~" = "མཆུ་སྒྲོས་ཀྱི་ནུས་པ་ལ་འཛུམ་མདངས་ཀྱིས་ཐུན་མོང་དུ་སྤྱོད་པའི་རྒྱུ་ཆའི་རྣམ་པ་ས་གནས་དེ་གར་ཕབ་ལེན་བྱས་ན་བེད་སྤྱོད་གཏོང་ཐུབ་པ་རེད།";
+
+/* No comment provided by engineer. */
+"使用攻略" = "བཀོལ་སྤྱོད་བྱེད་ཐབས།";
+
+/* No comment provided by engineer. */
+"保存" = "ཉར་ཞགས་།";
+
+/* No comment provided by engineer. */
+"保存/分享" = "བསྡུ་ཉར། མཉམ་སྤྱོད།";
+
+/* No comment provided by engineer. */
+"保存为自定义贴纸，可在“美化-贴纸”中直接使用" = "རང་གི་མཚན་ཉིད་ཀྱི་སྦྱར་ཤོག་ལ་ཉར་ཚགས་བྱས་ན་ “མཛེས་བཟོ་-སྦྱར་ཤོག་”ནང་ཐད་ཀར་བེད་སྤྱོད་བྱས་ཆོག་།";
+
+/* No comment provided by engineer. */
+"保存为草稿" = "མ་ཡིག་ལ་ཉར་ཚགས་བྱས། ";
+
+/* No comment provided by engineer. */
+"保存到相册" = "འདྲ་པར་ཉར་དེབ་ནང་ལ་བསྡུ་ཉར་བྱེད།";
+
+/* No comment provided by engineer. */
+"保存到相册失败" = "འདྲ་པར་ཉར་དེབ་ནང་ལ་བསྡུ་ཉར་བྱེད་མ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"保存图片" = "ཉར་ཚགས།";
+
+/* No comment provided by engineer. */
+"保存失败" = "བསྡུ་ཉར་བྱེད་མ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"保存失败，请重新选择生日信息" = "བསྡུ་ཉར་བྱེད་མ་ཐུབ། ཡང་བསྐྱར་སྐྱེས་སྐར་གྱི་ཆ་འཕྲིན་ལ་གདམ་གསེས་བྱེད་རོགས།";
+
+/* No comment provided by engineer. */
+"保存成功" = "ཉར་ཚགས་ལེགས་འགྲུབ་བྱུང་ཡོད།";
+
+/* No comment provided by engineer. */
+"保存视频" = "ཉར་ཚགས།";
+
+/* No comment provided by engineer. */
+"保护关闭" = "སྲུང་སྐྱོབ་ཁ་རྒྱག་སྒོ་རྒྱག";
+
+/* No comment provided by engineer. */
+"修图" = "སྒྲིག་བཟོ།";
+
+/* No comment provided by engineer. */
+"修容笔" = "སྨྱུ་གུ་བཟོས་རུང་";
+
+/* No comment provided by engineer. */
+"倾斜(面部重塑)" = "གསེག་པ།";
+
+/* No comment provided by engineer. */
+"允许他人保存我的视频" = "མི་གཞན་ལ་ངའི་བརྙན་ཉར་ཚགས་བྱེད་དུ་བཅུག";
+
+/* No comment provided by engineer. */
+"先选择一张要编辑的贴纸哦~" = "སྔོན་ལ་རྩོམ་སྒྲིག་གི་ཤོག་བུ་སྦྱར་ཨོ་ཞིག་འདེམས་དགོས་།";
+
+/* No comment provided by engineer. */
+"光斑" = "འོད་ཕྲ།";
+
+/* No comment provided by engineer. */
+"免费下载" = "གླ་ཆ་མི་དགོས་པར་ཕབ་ལེན་བྱེད་ཐུབ།";
+
+/* No comment provided by engineer. */
+"免费冲印" = "རིན་མེད་པར་རྒྱག་།";
+
+/* (No Comment) */
+"免费解锁" = "རིན་མེད་བེད་སྤྱོད།";
+
+/* No comment provided by engineer. */
+"全 选" = "ཚང་མ་གདམ་པ།";
+
+/* No comment provided by engineer. */
+"全新增高塑形" = "གཟུགས་རིང་ཞིང་མཛེས་འགྱུར་རབས་གསར་བ།";
+
+/* No comment provided by engineer. */
+"全新微笑嘴唇" = "འཛུམ་མདངས་དང་མཆུ་སྒྲོས་གསར་བ།";
+
+/* No comment provided by engineer. */
+"全新马赛克人像保护" = "རབ་རིབ་མི་གསལ་བའི་གསར་རྐྱང་མི་སྣ་སྲུང་སྐྱོབ་ ";
+
+/* No comment provided by engineer. */
+"全选" = "ཚང་མ་གདམ་པ།";
+
+/* No comment provided by engineer. */
+"全部" = "ཚང་མ།";
+
+/* No comment provided by engineer. */
+"全部内容" = "ནང་དོན་ཚང་མ།";
+
+/* No comment provided by engineer. */
+"共%@条回复 >" = "ཁྱོན་བསྡོམས་%@ཕྱིར་ལན་བྱས་ ";
+
+/* (No Comment) */
+"共%ld个" = "སྡོམ་པའི་%dཡོད།";
+
+/* No comment provided by engineer. */
+"共%ld条回复" = "ཁྱོན་བསྡོམས་%ldཕྱིར་ལན་བྱས་ ";
+
+/* No comment provided by engineer. */
+"共有 %ld 个滤镜" = "སྤྱི་སྡོམ་%ldའཚག་ཤེསཞིག་འདུག་།";
+
+/* No comment provided by engineer. */
+"关于美图秀秀" = "meituདང་འབྲེལ་བ་།";
+
+/* No comment provided by engineer. */
+"关注" = "དོ་ཁུར།";
+
+/* No comment provided by engineer. */
+"关注(按钮)" = "དོ་སྣང་།";
+
+/* (No Comment) */
+"关注(热门)" = "དོ་སྣང་།（རྒྱུག་ཆེན）";
+
+/* No comment provided by engineer. */
+"关注了你" = "ཁྱོད་ལ་དོ་ཁུར་བྱས་ཡོད།";
+
+/* No comment provided by engineer. */
+"关注的人新作品通知" = "དོ་ཁུར་བྱས་པའི་མིའི་བརྩམས་ཆོས་གསར་པའི་བརྡ་ཐོ་";
+
+/* No comment provided by engineer. */
+"关闭" = "སྒོ་རྒྱག་པ།";
+
+/* No comment provided by engineer. */
+"关闭后前置自拍将不自动镜像" = "ཁ་རྒྱབ་རྗེས་མདུན་བཀོལ་རང་ཕབ་ཆས་ཀྱི་རང་འགུལ་ངང་ཤེལ་གཟུགས་མི་བྱ།";
+
+/* No comment provided by engineer. */
+"关闭后将使用通用美颜参数哦" = "སྒོ་རྒྱབ་རྗེས་མཛེས་བཟོ་སྤྱད་ཆོག།";
+
+/* No comment provided by engineer. */
+"关闭后，你可能错过重要消息通知" = "སྒོ་བརྒྱབ་རྫེས།རང་གིས་གསར་འགྱུར་གལ་ཆེན་་གྱི་བརྡ་ཐོ་ཤོར་སྲིད་";
+
+/* No comment provided by engineer. */
+"关闭后，你将不会收到以上互动通知" = "སྒོ་བརྒྱབ་རྫེས་།རང་གིས་མདུན་གྱི་མཉམ་འགུལ་བྱས་པའི་བརྡ་ཐོ་སྦྱོར་མི་ཐུབ་";
+
+/* No comment provided by engineer. */
+"关闭后，你将不会收到好友新作品的推送通知" = "སྒོ་བརྒྱབ་རྫེས་།རང་གྲོགས་པའི་བརྩམས་ཆོས་གསར་པའི་སྐྱེལ་བའི་བརྡ་ཐོ་སྦྱོར་མི་ཐུབ་";
+
+/* No comment provided by engineer. */
+"关闭后，你将不会收到好友私信推送通知" = "སྒོ་བརྒྱབ་རྫེས་།རང་གིས་གྲོགས་པའི་གསང་ཡིག་གི་སྐྱེལ་བའི་བརྡ་ཐོ་སྦྱོར་མི་ཐུབ་";
+
+/* No comment provided by engineer. */
+"关闭广告" = "སྒོ་རྒྱག་པ།";
+
+/* No comment provided by engineer. */
+"关闭颜值管家" = "མཛེས་ལོད་སྐྱེ་འབྲས་ཁ་རྒྱག་སྒོ་རྒྱག་ཕྱག་མཛོད་།";
+
+/* No comment provided by engineer. */
+"其他" = "གཞན་དག";
+
+/* No comment provided by engineer. */
+"内容" = "ནང་དོན།";
+
+/* No comment provided by engineer. */
+"内容太长啦~" = "ནང་དོན་ཧ་ཅང་ནང་འདུག";
+
+/* No comment provided by engineer. */
+"内容过少，请重新录制" = "ནང་དོན་ཉུང་དྲགས་པས་ཡང་བསྐྱར་ཕབ་ལེན་བྱེད་རོགས།";
+
+/* No comment provided by engineer. */
+"内置滤镜不能少于2个哦~" = "འཚག་ཤེལ་ནང་འཇུག་གཉིས་ལས་ཉུང་མི་རུང་།";
+
+/* No comment provided by engineer. */
+"内置滤镜不能少于3个哦~" = "འཚག་ཤེལ་ནང་འཇུག་གསུམ་ལས་ཉུང་མི་རུང་།";
+
+/* (No Comment) */
+"内置特效不能少于3个哦~" = "ནང་བཀོད་ཁྱད་ནུས་༣་ལས་ཉུང་མི་ཆོག།";
+
+/* No comment provided by engineer. */
+"再次点击切换随机效果" = "ཡང་བསྐྱར་གཅིག་མནན་རྗེས་རང་འདེམ་ཁྱད་ནུས་བརྗེ་སྤོར་བྱེད་ཆོག";
+
+/* No comment provided by engineer. */
+"再次点击音量键返回" = "ཡང་བསྐྱར་གཅིག་མནན་རྗེས་སྒྲ་གདངས་ཀྱི་མཐེབ་གཞུང་ཕྱིར་ལོག";
+
+/* (No Comment) */
+"再试一次" = "ཡང་བསྐྱར་ཚོད་ལྟ་ཐེངས་གཅིག་བྱ་རོགས།";
+
+/* No comment provided by engineer. */
+"冷艳" = "མཚར་སྡུག";
+
+/* No comment provided by engineer. */
+"减龄妆" = "ལོ་ཆུང་བར་གཏོང་བའི་མཛེས་སྤྲས།";
+
+/* No comment provided by engineer. */
+"分享" = "མཉམ་སྤྱོད།";
+
+/* No comment provided by engineer. */
+"分享 %@ 的MT【%@】，快来看看吧~" = "མཉམ་སྤྱོད། %@ ཡི་MT【%@】མྱུར་ཏུ་ལྟ་རུ་ཤོག";
+
+/* No comment provided by engineer. */
+"分享 %@ 的MT，快来看看吧~" = "མཉམ་སྤྱོད། %@ ཡི་MTམྱུར་ཏུ་ལྟ་རུ་ཤོག";
+
+/* (No Comment) */
+"分享到微信朋友圈" = "སྐད་འཕྲིན་གྲོགས་ཚོམ་དུ་བརྒྱུད་བསྐུར།";
+
+/* (No Comment) */
+"分享到新浪微博" = "ཞིན་ལང་པོད་འཕྲིན་དུ་བརྒྱུད་བསྐུར།";
+
+/* No comment provided by engineer. */
+"分享到社区" = "སྡེ་ཁུལ་ལ་མཉམ་སྑྱོད་བྱེད།";
+
+/* No comment provided by engineer. */
+"分享图片" = "འདྲ་པར་མཉམ་སྤྱོད།";
+
+/* No comment provided by engineer. */
+"分享美拍失败" = "མཛེས་བརྙན་མཉམ་སྤྱོད་བྱེད་མ་ཐུབ།";
+
+/* (No Comment) */
+"分享该“马赛克效果图”到%@，即可解锁该效果。" = "མ་སེ་ཁ་བྱེད་ནུས་%@དུ་བརྒྱུད་བསྐུར་བྱས་ན།བྱེད་ནུས་དེ་བེད་སྤྱོད་བྱ་ཆོག།";
+
+/* (No Comment) */
+"分享魔幻笔功能到%@，即可解锁包括「%@」在内的所有魔幻笔。" = "མཚར་སྨྱུག་བྱེད་ནུས་ %@ དུ་བརྒྱུད་བསྐུར་དུ་བྱས་ན།  「%@」";
+
+/* No comment provided by engineer. */
+"切换后置有惊喜哦" = "ཨོ་བསྒྱུར་མཐུད་རྗེས་དགའ་སྣང་ཞིག་འཇོག་";
+
+/* No comment provided by engineer. */
+"切换摄像头试试" = "བརྙན་མིག་བརྗེ་དེ་ཚོར་ལྟ་སྣང་བ།";
+
+/* No comment provided by engineer. */
+"刚刚" = "ད་གིན།";
+
+/* No comment provided by engineer. */
+"创建我的生活方式" = "རང་གི་འཚོ་བ་བསྐྱལ་ལུགས་བཟོས་པ་";
+
+/* No comment provided by engineer. */
+"创建收藏夹" = "ཉར་དེབ་ཁང་གསར་འཛུགས་བྱེད།";
+
+/* No comment provided by engineer. */
+"初恋" = "ཐོག་མའི་དགའ་རོགས།";
+
+/* No comment provided by engineer. */
+"删除" = "གསུབ་པ།";
+
+/* No comment provided by engineer. */
+"删除(%ld)" = "གསུབ་པ།(%ld)";
+
+/* (No Comment) */
+"删除分类后将同时删除分类中的所有素材，确定删除?" = "རིགས་དབྱེ་བ་དག་གསུབ་པ་དང་ལྷན་གཅིག་དུ་རིགས་དབྱེ་བ་ཡི་དཔེ་གཞི་ཚང་མ་གསུབ་ངེས་བས། གསུབ་བམ།";
+
+/* No comment provided by engineer. */
+"删除后将无法使用你所设置的美颜参数" = "གསུབ་རྗེས་ཁྱོད་ཀྱིས་བཞག་པའི་མཛེས་བཟོ་ཞུགས་གྲངས་བཀོལ་མི་ཐུབ།";
+
+/* No comment provided by engineer. */
+"删除字体" = "ཡིག་གཟུགས་གསུབ་པ།";
+
+/* No comment provided by engineer. */
+"删除成功" = "གསུབ་ཚར།";
+
+/* No comment provided by engineer. */
+"删除收藏夹" = " ཉར་དེབ་ཁང་གསུབ་པ།";
+
+/* No comment provided by engineer. */
+"制作下一张" = "པར་རིས་རྗེས་མ་སྒྲིག་བཟོ";
+
+/* No comment provided by engineer. */
+"前往【%@】" = "མདུན་སྤྱོད།[%@]";
+
+/* (No Comment) */
+"前往下载" = "ནང་འཇུག་བྱེད་དུ་འགྲོ།";
+
+/* No comment provided by engineer. */
+"前置自拍将为你自动镜像" = "མདུན་བཀོད་རང་པར་བསྐྱོན་ཆས་ཀྱིས་རང་འགུལ་ངང་ཤེལ་གཟུགས་བཟོ་སྲིད།";
+
+/* No comment provided by engineer. */
+"功能设置" = "བྱེད་ནུས་སྒྲིག་འགོད།";
+
+/* No comment provided by engineer. */
+"加入黑名单" = "ལྐོག་བཀོད་མིང་ཐོ་ནང་ལ་བཅུག་པ།";
+
+/* No comment provided by engineer. */
+"加入黑名单后，TA发布的内容不会再推荐给你并且无法对你进行关注、评论、私信等操作，确定吗？" = "ལྐོག་བཀོད་མིང་ཐོའི་ཁྲོད་དུ་བསྣན་རྗེས།  ཁོས་བསྒྲགས་སྤེལ་བྱས་པའི་ནང་དོན་དག་ཁྱེད་ལ་འོས་སྦྱོར་བྱེད་་མི་སྲིད་པ་མ་ཟད།  སྐུ་ཉིད་ལ་དོ་སྣང་དང་དཔྱད་འཇོག  སྒེར་འཕྲིན་སོགས་བྱ་མི་ཐུབ་པས།  ལྐོག་བཀོད་མིང་ཐོའི་ཁྲོད་དུ་འཇུག་སྲིད་དམ།";
+
+/* No comment provided by engineer. */
+"加入黑名单后，TA无法对你进行关注、评论等操作，确定吗？" = "ལྐོག་བཀོད་མིང་ཐོ་ནང་ལ་བཅུག་རྗེས། ཁོང་གི་སྑུ་ཉིད་ལ་དོ་ཁུར་དང་དཔྱད་བརྗོད་བྱ་མི་ཐུབ། དེ་བས་གཏན་ཁུལ་ཡིན་ནམ།";
+
+/* No comment provided by engineer. */
+"加载中..." = "ཕབ་འཇུག་བྱ་བཞིན་པ།...";
+
+/* No comment provided by engineer. */
+"加载失败，请重试！" = "ཕབ་འཇུག་བྱེད་མ་ཐུབ། ཡང་བསྐྱར་ཚོད་ལྟ་བྱ་རོགས།";
+
+/* No comment provided by engineer. */
+"动漫化身将跟随你的表情动作~\n你还能录制分享动画视频哦！" = "འགུལ་རིས་རྣམ་སྤྲུལ་ཁྱོད་ཀྱི་རྣམ་འགྱུར་གྱི་འགུལ་སྟངས་དང་བསྟུན་།～\nཁྱོད་ཀྱིས་ད་དུང་འགུལ་རིས་བརྙན་ལེན་ཐུབ་།";
+
+/* No comment provided by engineer. */
+"半身" = "གཟུགས་ཕྱེད།";
+
+/* (No Comment) */
+"单击拍照片" = "གཅིག་མཐེབ་བསྣན་ནས་པར་རྒྱག།";
+
+/* No comment provided by engineer. */
+"单击拍照，按住拍视频" = "ཐེངས་གཅིག་མནན་ཚེ་པར་ལེན་པ། ཡུན་རིང་མནན་ཚེ་བརྙན་ལེན་ཐུབ།";
+
+/* (No Comment) */
+"单击拍视频" = "གཅིག་མཐེབ་བསྣན་ནས་བརྙན་ཕབ།";
+
+/* (No Comment) */
+"单击标签切换方向" = "ཁྱད་རྟགས་མཐེབ་གནོན་བྱས་ཏེ་ཁ་ཕྱོགས་བསྒྱུར་བ།";
+
+/* (No Comment) */
+"单击美图遥控器按键" = "མཛེས་རིས་རྒྱང་བསྒྱུར་མཐེབ་གནོན།";
+
+/* (No Comment) */
+"单击美图遥控器按键 进行连接。" = " མཛེས་རིས་རྒྱང་བསྒྱུར་མཐེབ་གནོན་བྱས་ཏེ་འབྲེལ་མཐུད་བྱ།";
+
+/* No comment provided by engineer. */
+"单品推荐" = "ན་ཟུག་ཚོང་ཟོག་འོས་སྦྱོར། ";
+
+/* No comment provided by engineer. */
+"单张贴纸" = "ལྷེ་གཅིག་སྦྱར་བ།";
+
+/* (No Comment) */
+"卖萌贴图神器！" = "ཉམས་དོད་ཤོག་སྦྱར་ཆས།";
+
+/* No comment provided by engineer. */
+"历史标签" = "ལོ་རྒྱུས་ཁྱད་རྟགས།";
+
+/* No comment provided by engineer. */
+"历史话题" = "ལོ་རྒྱུས་ཀྱི་བརྗོད་གཞི་ ";
+
+/* No comment provided by engineer. */
+"原图" = "པར་རིས་ཐོག་མ།";
+
+/* No comment provided by engineer. */
+"原声" = "原声";
+
+/* No comment provided by engineer. */
+"去开启" = "སྒོ་འབྱེད་པ།";
+
+/* No comment provided by engineer. */
+"去美化" = "མཛེས་བཟོ་བྱས་།";
+
+/* No comment provided by engineer. */
+"去美容" = "རྣམ་པ་མཛེས་བཟོ།";
+
+/* No comment provided by engineer. */
+"去设置" = "སྒྲིག་འགོད་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"去选后本分类将不在列表中出现，重新选中该分类滤镜即可出现哦。" = "རྗེས་ཤོག་གྱི་རིགས་དབྱེ་བ་དེ་གདམ་གསེས་བྱེད་དུས།འཚག་ཤེལ་གྱི་རིགས་དབྱེ་བ་ནས་ཡང་བསྐྱར་གདམ་གསེས་བྱེད་ནས་མཐོངཐུབ།";
+
+/* No comment provided by engineer. */
+"去雾" = "སྨུག་སེལ";
+
+/* No comment provided by engineer. */
+"参与" = "ནང་ཞུགས།";
+
+/* No comment provided by engineer. */
+"双击可以点赞哦" = "མནོན་ཐེངས་གཉིས་ཀྱིས་དབང་ལྟོ་འབུལ་བ།";
+
+/* (No Comment) */
+"双指可以缩放照片哦" = "ཟུང་མཛུབ་མཐེབ་གནོན་བྱས་ཏེ་འདྲ་པར་ཇེ་ཆུང་དུ་གཏོང་བ།";
+
+/* No comment provided by engineer. */
+"双指可缩放文字大小哦" = "མཛུབ་གཉིས་ཀྱིས་ཡི་གེའི་ཆེ་ཆུང་བསྡུ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"双指放大图片涂抹更细致哦" = "འདྲ་པར་ཇེ་ཆེ་བཏང་དེ་སྐུ་ཞུགས་བྱེད་ན་དེ་བས་ཞིབ་ཕྲ་ཡོང་ཐུབ།";
+
+/* No comment provided by engineer. */
+"发布" = "ཁྱབ་སྤེལ་";
+
+/* No comment provided by engineer. */
+"发布中" = "ཁྱབ་སྤེལ་་ཁྲོད།";
+
+/* No comment provided by engineer. */
+"发布你的第一个作品吧" = "ཁྱོད་ཀྱི་བརྩམས་ཆོས་ཐོག་མ་དེ་ཁྱབ་སྤེལ་བྱེད་རོགས།";
+
+/* (No Comment) */
+"发布到有颜，让更多人看到你！" = "ཡོ་ཡན་དུ་སྤེལ་ནས་མི་མང་པོས་ཁྱེད་རང་མཐོང་ཐུབ།";
+
+/* (No Comment) */
+"发布到社区" = "གྲོང་ཚོགས་ཏུ་སྤེལ་བ།";
+
+/* No comment provided by engineer. */
+"发布到美图相册" = "Meituཔར་རིས་དེ་བསྐུར།";
+
+/* No comment provided by engineer. */
+"发布到美图相册时分享修图配方" = "Meituའདྲ་པར་སྐུར་དུས་རི་མོ་སྡེབ་སྦྱོར་བྱེད་དགོས།";
+
+/* No comment provided by engineer. */
+"发布即可保存到系统相册" = "མ་ལག་གི་པར་ཁུག་ཉར་ཚགས་བྱེད་ཆོག་།";
+
+/* No comment provided by engineer. */
+"发布失败" = "ཁྱབ་བསྒྲགས་ཕམ་སོང་།";
+
+/* No comment provided by engineer. */
+"发布失败，请重试" = "ཁྱབ་བསྒྲགས་ཕམ་ཁ་ཁྱེད་ལ་མཐོང་ཆེན་དང་ཚོད་ལྟ། ";
+
+/* No comment provided by engineer. */
+"发布成功" = "ཁྱབ་བསྒྲགས་ལེགས་འགྲུབ་བྱུང་།";
+
+/* No comment provided by engineer. */
+"发起人：" = "གྲོས་འགོ་འདོན་མཁན་གྱི་སྐོར།";
+
+/* No comment provided by engineer. */
+"发送" = "སྐུར་བ།";
+
+/* (No Comment) */
+"发送建议中..." = "གྲོས་གཞི་བསྐུར་བཞིན་ཡོད།";
+
+/* No comment provided by engineer. */
+"取消" = "མེད་པར་བཟོ་བ།";
+
+/* No comment provided by engineer. */
+"取消下载" = "ཕབ་ལེན་མི་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"取消全选" = "ཚང་མ་མི་འདེམ་པ།";
+
+/* No comment provided by engineer. */
+"变声" = "སྐད་འགྱུར་བ།";
+
+/* No comment provided by engineer. */
+"变美必备的美图利器，顶尖特效、马赛克、边框、贴纸、编辑等功能一应俱全，让你的照片时刻都很美！" = "མཛེས་བཟོ་བྱེད་པར་ངེས་པར་དུ་མཁོ་བའི་པར་བཟོ་ལག་ཆ། ཁྱད་ལྡན་གྱི་ནུས་པ་དང་།  རབ་རིབ་ཤོག་སྦྱར། མཐའ་སྒྲོམ།  ཤོག་སྦྱར།   དག་སྒྲིག་སོགས་ཀྱི་བྱེད་ནུས་ཚང་མ་འཛོམས་ཡོད། ཁྱེད་ཉིད་ཀྱི་འདྲ་པར་དུས་རྟག་དུ་མཛེས་ཉམས་ལྡན་སྲིད།";
+
+/* No comment provided by engineer. */
+"只可一键使用20个文字和20个贴纸哦～" = "མཐེབ་གཅིག་གིས་སྔོན་གྱི་ཡི་གེ་༢༠དང་མདུན་གྱི་སྦྱར་ཤོག་༢༠བཀོལ་ཆོག།~";
+
+/* No comment provided by engineer. */
+"只要能陪主人一起修照片，我就很开心呢~😍" = "བདག་པོ་དང་མཉམ་དུ་འདྲ་པར་བཟོ་བཅོས་བྱེད་ཐུབ་ན།སྐུ་ཉིད་ཧ་ཅང་དགའ་བོ་འདུག😘";
+
+/* No comment provided by engineer. */
+"叫上朋友一起玩" = "གྲོགས་པོ་བོས་དང་མཉམ་དུ་རྩེད་འཇོར་རོལ།";
+
+/* No comment provided by engineer. */
+"可涂抹擦除选中的贴纸哦~" = "བདམས་ཐོན་བྱུང་བའི་ཤོག་བུ་སྦྱར་བསྐུས་ན་།ཕྱི་ཕུད་ཆོག་ཨོ་གོ་";
+
+/* No comment provided by engineer. */
+"同意" = "གའཐད།";
+
+/* No comment provided by engineer. */
+"同意并继续" = "同意并继续";
+
+/* (No Comment) */
+"同意，并开始使用" = "འཐད་དེ་བཀོད་སྤྱོད་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"同款素材准备中" = "རྒྱུ་ཆ་འདྲ་བ་གྲ་སྒྲིག་བྱེད་བཞིན་འདུག་ཅུང་ཙམ་སྒུག་རོགས།";
+
+/* No comment provided by engineer. */
+"名片分享，点击预览" = "མིང་བྱང་བརྒྱུད་སྐུར།སྔོན་འཚུད་ལྟ་ཞིབ་ལ་མཛུབ་མནོན་བྱས།";
+
+/* No comment provided by engineer. */
+"向世界分享我的美好生活" = "སྐུ་ཉིད་ཀྱིས་བདེ་སྐྱིད་ཀྱི་འཚོ་བ་དེ་འཛམ་གླིང་ལ་མཉམ་སྤྱོད་བྱས།";
+
+/* (No Comment) */
+"向左滑动切换滤镜" = "གཡོན་འཐེན་བྱོས་དེ་འཚག་ཤེལ་བརྗེ་བ།";
+
+/* No comment provided by engineer. */
+"向左滑动查看下一张" = " གཡོན་ཕྱོགས་སུ་ཤུད་འགུལ་བྱེད་ནས་འདྲ་པར་རྗེས་མ་བལྟ་རོགས།";
+
+/* No comment provided by engineer. */
+"否" = "དགག་པ་འི།";
+
+/* No comment provided by engineer. */
+"哎呀，没有识别到腿部线条哦~" = "ཨ་ལེ། སྐྱ་རིས་རྐང་བའི་ཐོག་ལ་ངོས་འཛིན་བྱེད་མེད།";
+
+/* No comment provided by engineer. */
+"哎呀，没有识别到身材曲线哦~" = "ཨ་ལེ།  སྐྱ་རིས་རྐང་བའི་ཐོག་ལ་ངོས་འཛིན་བྱེད་མེད།";
+
+/* No comment provided by engineer. */
+"唇妆" = "ཁ་སྐག།";
+
+/* No comment provided by engineer. */
+"啊呀，不能发给自己啦" = "ཨ་ཁ་།རང་ཉིད་ལ་བསྐུར་མི་ཐུབ།";
+
+/* No comment provided by engineer. */
+"啊哦，还没有实拍内容哦，\n快来发布第一个作品吧！" = "ཨ།་ད་རུང་དངོས་བླངས་ནང་དོན་མི་འདུག་འོ།་\nམྱུར་དུ་བརྩམས་ཆོས་དང་པོ་སྤེལ་བར་ཤོག།";
+
+/* No comment provided by engineer. */
+"啊哦，这个标签下还没有内容，\n快来发布第一个作品吧！" = "ཨ།གླེང་གཞི་འདིའི་རྗེས་ན་གླེང་གཞི་མི་འདུག \nམྱུར་ཏུ་བརྩམས་ཆོས་ཐོག་མ་དེ་བསྐུར་རོགས།";
+
+/* No comment provided by engineer. */
+"啊哦，这个话题下还没有内容，\n快来发布第一个作品吧！" = "ཨ།གླེང་གཞི་འདིའི་རྗེས་ན་གླེང་གཞི་མི་འདུག  \nམྱུར་ཏུ་བརྩམས་ཆོས་ཐོག་མ་དེ་བསྐུར་རོགས།";
+
+/* No comment provided by engineer. */
+"喜欢美图秀秀吗?" = "མེའུ་ཐུའུ་མཛེས་བརྙན་ཐུགས་བློ་ལ་འབབ་བམ།";
+
+/* No comment provided by engineer. */
+"嘟嘴一下" = "མཆུ་སྦང་བ།";
+
+/* No comment provided by engineer. */
+"嘤😫~你都不来看我，我有这么多好东西你都不知道~" = "ཨ་ཡོ། ཁྱོད་་ང་ལ་ལྟ་རུ་མི་ཡོང་བས།ང་ལ་དངོས་རྫས་འདི་འདྲ་བཟང་བོ་ཡོད་པ་ཡང་ཁྱོས་མི་ཤེས";
+
+/* No comment provided by engineer. */
+"嘴唇(面部重塑)" = "མཆུ་ཏོ།";
+
+/* No comment provided by engineer. */
+"嘴型" = "ཁ་དབྱིབས།";
+
+/* No comment provided by engineer. */
+"嘻嘻，我有好多新玩意，和你一起玩好不好呀~😍" = "ཧ་ཧ། ང་ལ་རྩེད་ཆས་གསར་བ་མང་པོ་ཡོད།ཁྱོད་ང་དང་ལྷན་དུ་རྩེ་ན་ཆོག་གམ། 😍";
+
+/* No comment provided by engineer. */
+"回复" = "ཕྱིར་ལན་སློག་པ། ";
+
+/* No comment provided by engineer. */
+"回复后，你们的对话将自动移至私信列表" = "ཕྱིར་ལན་སློག་རྗེས།ཁྱེད་གཉིས་ཀྱི་ཁ་བརྡ་རང་འགུལ་གྱིས་སྒེར་འཕྲིན་རེའུ་མིག་ནང་ལ་སྤར་འགྲོ།";
+
+/* No comment provided by engineer. */
+"图片已保存" = "འདྲ་པར་ཉར་ཚགས་བྱས་ཟིན།";
+
+/* (No Comment) */
+"图片背景" = "འདྲ་པར་རྒྱབ་ལྗོངས།";
+
+/* No comment provided by engineer. */
+"图片衔接处拖动\n可调节大小噢" = "རི་མོའི་འབྲེལ་མཚམས་ནས་འདྲུད་འཐེན་བྱེད་དགོས།\nཆེ་ཆུང་སྙོམས་སྒྲིག་བྱེད་ཐུབ།";
+
+/* No comment provided by engineer. */
+"图片超出尺寸限制" = "འདྲ་པར་དེ་ཆེ་ཆུང་གི་ཚད་བཀག་ལས་བརྒལ་སོང་།";
+
+/* (No Comment) */
+"图片过大，无法选择。" = "འདྲ་པར་ཆེ་དྲགས་པས་གདམས་ལེན་བྱ་མི་ཐུབ།";
+
+/* No comment provided by engineer. */
+"图片过小，无法选择。" = "འདྲ་པར་ཆུང་འདུག།གདམ་གསེས་བྱ་མི་ཐུབ།";
+
+/* No comment provided by engineer. */
+"圆形" = "ཟླུམ་པོ།";
+
+/* No comment provided by engineer. */
+"地标" = "ས་རྟགས།";
+
+/* No comment provided by engineer. */
+"地标不存在" = "ས་རྟགས་མི་འདུག";
+
+/* (No Comment) */
+"增强" = "ཤུགས་ཆེ་རུ་གཏོང་བ།";
+
+/* No comment provided by engineer. */
+"增高" = "ཇེ་མཐོར་གཏོང་བ།";
+
+/* No comment provided by engineer. */
+"增高塑形" = "གཟུགས་མཛེས་ཤིང་རིང་དུ་བཟོ་བ།";
+
+/* No comment provided by engineer. */
+"增高搬到这里啦" = "རིང་གཟུགས་འདི་རུ་སྤོར་བ།";
+
+/* No comment provided by engineer. */
+"处理中..." = "ཐག་གཅོད་བྱེད་བཞིན་ཡོད།";
+
+/* No comment provided by engineer. */
+"处理失败，换张照片试试~" = "འདྲ་པར་ཡང་བསྐྱར་ཅིག་བརྗེ་ནད་ཚོད་ལྟ་བྱས་དང་།་ཐག་གཅོད་བྱེད་མ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"复制" = "འདྲ་བཤུ།";
+
+/* No comment provided by engineer. */
+"复制失败" = "འདྲ་བཤུ་ལེགས་འགྲུབ་མ་བྱུང་བ།";
+
+/* No comment provided by engineer. */
+"复制成功" = "འདྲ་བཤུ་ལེགས་འགྲུབ་བྱུང་བ།";
+
+/* No comment provided by engineer. */
+"复制链接" = "འདྲ་བཤུ་སྦྲེལ་མཐུད།";
+
+/* No comment provided by engineer. */
+"多发作品，收获更多的赞 ❤" = "བརྥམས་ཆོས་མང་པོ་བསྐུར་དང་།མཛུབ་མནོན་མང་པོ་ཐོབ་ངེས།❤";
+
+/* No comment provided by engineer. */
+"夜拍关闭" = "མཚན་མོའི་པར་བསྐྱོན་པ་ཡི་སྒོ་རྒྱབ་ཡོད།";
+
+/* No comment provided by engineer. */
+"夜拍功能已关闭" = "མཚན་མོའི་པར་བསྐྱོན་པ་ཡིས་སྒོ་རྒྱག་ཚར།";
+
+/* No comment provided by engineer. */
+"夜拍功能已开启" = "མཚན་མོ་པར་རྒྱག་པའི་བྱེད་ནུས་ཀྱི་སྒོ་ཕྱེ་ཡོད།";
+
+/* No comment provided by engineer. */
+"夜拍开启" = "མཚན་མོའི་པར་བསྐྱོན་པ་ཡིས་སྒོ་ཕྱེ་ཡོད།";
+
+/* (No Comment) */
+"夜拍开启后对焦速度慢，请保持镜头稳定~" = "མཚན་པར་ཕྱེ་རྗེས་དམིགས་སྒྲིག་འགྲོས་ཚད་ཇེ་དལ་དུ་འགྲོ་སྲིད་པས།པར་ཤེལ་གྱི་གཏན་འཇགས་རྒྱུན་འཁྱོངས་";
+
+/* No comment provided by engineer. */
+"大(五官)" = "ཆུང་";
+
+/* No comment provided by engineer. */
+"大小(面部重塑)" = "ཆེ་ཆུང་།";
+
+/* No comment provided by engineer. */
+"大眼" = "མིག་ཆེ།";
+
+/* No comment provided by engineer. */
+"大边框" = "མཐའ་སྒྲོམ་ཆེ་བ།";
+
+/* No comment provided by engineer. */
+"天生" = "ལྷན་སྐྱེས།";
+
+/* No comment provided by engineer. */
+"太多人脸啦，换张单人照试试吧~" = "མི་ཤིན་ཏུ་མང་གི་མི་གཅིག་ཅན་གྱི་པར་ཞིག་བརྗེ་ནས་ཚོད་ལྟ་བྱོས་དང་།";
+
+/* No comment provided by engineer. */
+"头像裁剪" = "མགོ་བརྙན་དྲས་པ།";
+
+/* No comment provided by engineer. */
+"女" = "མོ།";
+
+/* No comment provided by engineer. */
+"女神" = " ལྩ་མོ།";
+
+/* No comment provided by engineer. */
+"好友" = "གྲོགས་པོ་།";
+
+/* No comment provided by engineer. */
+"好想好想和你在一起，陪你修照片~😉" = "དངོས་གནས་ཁྱོད་དང་ལྷན་དུ་འགྲོགས་འདོད་ནས་།ཁྱོད་དང་ལྷན་དུ་འདྲ་པར་བཟོ་བཅོས་བྱ་འདོད།😉";
+
+/* No comment provided by engineer. */
+"好的" = "འོ་ཡ།";
+
+/* (No Comment) */
+"如何开启定位" = "ས་གནས་གཏན་འཁེལ་ཇི་ལྟར་ཁ་ཕྱེ་དགོས།";
+
+/* No comment provided by engineer. */
+"字体" = "ཡིག་གཟུགས།";
+
+/* No comment provided by engineer. */
+"字体删除后素材将无法使用该字体，确定删除？" = "ཡིག་གཟུགས་གསུབ་རྗེས། ཐོག་མའི་དཔྱད་གཞི་ཡིས་བཀོལ་ཟིན་པའི་ཡིག་གཟུགས་བཀོལ་སྤྱོད་བྱ་མི་ཐུབ་པས།གསུབ་བམ།";
+
+/* No comment provided by engineer. */
+"存为草稿" = "ཉར་ཟིན་བྲིས་ཤིག་";
+
+/* No comment provided by engineer. */
+"存储图片失败，请检查手机内存" = "འདྲ་རིས་གསོག་འཇོག་བྱེད་མག་ཐུབ། ཁ་པར་གྱི་ཤོང་གསོག་ནང་ལ་ཞིབ་བཤེར་བྱས་དང་།";
+
+/* No comment provided by engineer. */
+"存到相册" = "འདྲ་པར་ཉར་དེབ་ནང་ལ་འཇུག་པ།";
+
+/* No comment provided by engineer. */
+"完善资料" = "ཡིག་ཆ་འཐུས་ཚང་།";
+
+/* No comment provided by engineer. */
+"完善资料即可永久保存到美图相册！" = "རྒྱུ་ཆ་འཐུས་ཚང་དུ་བཏང་ན་Meituཔར་དེབ་ཉར་ཚགས་བྱེད་ཐུབ།";
+
+/* No comment provided by engineer. */
+"完善资料后查看好友列表" = "རྒྱུ་ཆ་འཐུས་ཚང་དུ་བཏང་རྗེས་གྲོགས་པོའི་རེའུ་མིག་ལ་གཟིགས་པ།";
+
+/* No comment provided by engineer. */
+"完善资料查看个人主页" = "Vམི་སྒེར་གྱི་ཆ་འཕྲིན་ཁ་སྐོང་ནས་ངོ་དངོས་ལྟ་བ།";
+
+/* No comment provided by engineer. */
+"完成" = "ལེགས་འགྲུབ།";
+
+/* No comment provided by engineer. */
+"定制个性化颜值管家，拍照或修图即可自动使用哦" = "རང་གཤིས་ཅན་གྱི་གཏན་ཁེལ་སྒྲིག་སྲོལ་མཛེས་ལོད་སྐྱེ་འབྲས་ཕྱག་མཛོད་དང་།པར་རྒྱག་གམ་བཟོ་བཅོས་བྱས་པར་ཨོ་རང་འགུལ་བེད་སྤྱོད་བྱས་ཆོག་།";
+
+/* No comment provided by engineer. */
+"宝贝" = "གཅེས་ཕྲུག";
+
+/* No comment provided by engineer. */
+"实拍" = "པར་རྒྱག།";
+
+/* No comment provided by engineer. */
+"实拍是使用美图秀秀相机拍摄的内容，快来分享你的实拍吧！" = "པར་ཆས་Meituཀྱིས་པར་ལེན་པའི་ནང་དོན་ཡིན།་མྱུར་དུ་ཁྱོད་ཀྱི་དངོས་པར་ལོངས་སྤྱོད་བྱེད་དུ་ཤོག།";
+
+/* No comment provided by engineer. */
+"实时与好友互动" = "དུས་ནམ་ཡང་གྲོགས་པོ་ལ་འབྲེལ་འདྲིས་བྱེད་པ";
+
+/* (No Comment) */
+"实时美颜" = "དུས་ལྟར་མཛེས་བཟོ།";
+
+/* (No Comment) */
+"实时美颜已关闭" = "མཛེས་བཟོའི་བྱེད་ནུས་རྒྱབ་ཟིན།";
+
+/* (No Comment) */
+"实时美颜已开启" = "མཛེས་བཟོའི་བྱེད་ནུས་ཁ་ཕྱེ་ཟིན།";
+
+/* No comment provided by engineer. */
+"宠物" = "གཅེས་དངོས།";
+
+/* No comment provided by engineer. */
+"宽(五官)" = "ཞང་ཆུང་";
+
+/* (No Comment) */
+"对比" = "བསྡུར་བ།";
+
+/* No comment provided by engineer. */
+"对比度" = "བསྡུར་ཚད།";
+
+/* (No Comment) */
+"封面" = "ངོ་དངོས།";
+
+/* No comment provided by engineer. */
+"将你的动漫形象分享给好友，获取特别定制的套装哦~" = "ཁྱོད་ཀྱི་འགུལ་རིས་གཟུགས་བརྙན་གྲོགས་པོ་དང་མཉམ་སྤྱོད་བྱས།་ཁྱད་པར་ཅན་གྱི་གཏན་འཁེལ་བྱས་པའི་ལྭ་བ་ཆ་ཚང་ཐོབ་པ།";
+
+/* No comment provided by engineer. */
+"小(五官)" = "ཆེ་";
+
+/* (No Comment) */
+"小伙伴们赶紧去下载新素材，体验全新效果吧~" = "གྲོགས་པོ་ཚོ་དཔྱད་གཞི་གསར་བ་ནང་འཇུག་བྱས་ནས་བྱེད་ནུས་གསར་བ་རོལ་མྱོང་བྱེད་དུ་འགྲོ།";
+
+/* No comment provided by engineer. */
+"小叮咛" = "གསལ་བརྡ་ཆུང་ཆུང་།";
+
+/* No comment provided by engineer. */
+"小脸" = "གདོང་ཆུང་།";
+
+/* No comment provided by engineer. */
+"小边框" = "མཐའ་སྒྲོམ་ཆུང་བ།";
+
+/* (No Comment) */
+"尚未开启蓝牙" = "ད་དུང་བོད་ཀྱི་ལོ་རྒྱུས་སྔོ་སོ། ";
+
+/* No comment provided by engineer. */
+"尺寸过小" = "རིང་ཐུང་གི་ཚད་ཆུང་འདུག";
+
+/* No comment provided by engineer. */
+"尽量为半身自拍" = "ཅི་ནུས་གང་ནུས་ཀྱི་གཟུགས་ཕྱེད་རང་པར་བསྐྱོན་པ་ལ་འབད།";
+
+/* No comment provided by engineer. */
+"居中" = "ཅུས་ཀྲུང་།";
+
+/* No comment provided by engineer. */
+"居右" = "གཡོན་ཕྱོགས་།";
+
+/* No comment provided by engineer. */
+"居左" = "གཡས་ཕྱོགས་།";
+
+/* No comment provided by engineer. */
+"居底" = "འོག་རིམ";
+
+/* No comment provided by engineer. */
+"居顶" = "སྟེང་ཕྱོགས་།";
+
+/* No comment provided by engineer. */
+"屏蔽理由" = "སྒྲིབ་འགོག་གནས་ལུགས།";
+
+/* No comment provided by engineer. */
+"展开" = "ཁྱབ་སྤེལ།";
+
+/* No comment provided by engineer. */
+"左右(面部重塑)" = "左右";
+
+/* (No Comment) */
+"已下载" = "ཕབ་ལེན་བྱས་ཟིན།";
+
+/* (No Comment) */
+"已为你开启自动保存原图" = "སྐུ་ཉིད་ཀྱི་རང་འགུལ་ངང་མ་དཔར་བསྡུ་ཉར་བྱེད་ནུས་ཕྱེ་ཡོད།";
+
+/* No comment provided by engineer. */
+"已为你开启静音拍照" = "སྐུ་ཉིད་ཀྱིས་སྒྲ་མེད་པར་རྒྱག་ཕྱེ་འདུག།";
+
+/* No comment provided by engineer. */
+"已为你开启颜值管家" = "མཛེས་ལོད་སྐྱེ་འབྲས་ནི་ཁྱོད་ཁ་འབྱེད་ཕྱག་མཛོད་།";
+
+/* No comment provided by engineer. */
+"已为你推荐%d个新内容" = " ཁྱོད་ལ་%dནང་དོན་གསར་བ་འོས་སྦྱོར་བྱེད།";
+
+/* No comment provided by engineer. */
+"已使用原声进行录制~" = "སྔར་གྱི་སྒྲ་བཀོལ་ནས་སྒྲ་འཇུག་པ།";
+
+/* No comment provided by engineer. */
+"已保存" = "ཉར་ཚགས་བྱས་ཟིན།";
+
+/* No comment provided by engineer. */
+"已保存到相册" = "འདྲ་རིས་དེ་བསྡུ་ཉར་བྱེད་ཚར།";
+
+/* No comment provided by engineer. */
+"已保存到系统相册" = "མ་ལག་གི་པར་ཉར་ཚགས་བྱས།";
+
+/* No comment provided by engineer. */
+"已保存至相册" = "པར་དེབ་ཉར་ཚགས་ཟིན་ནས་";
+
+/* No comment provided by engineer. */
+"已关注" = "དོ་ཁུར་བྱས་ཟིན།";
+
+/* No comment provided by engineer. */
+"已关闭" = "སྒོ་རྒྱབ་་ཟིན། ";
+
+/* No comment provided by engineer. */
+"已关闭瘦脸大眼" = "ངོ་ཚུགས་ཕྲ་བཟོ་དང་མིག་ཇེ་ཆེ་གཏོང་བའི་བྱེད་ནུས་རྒྱབ་ཟིན།";
+
+/* No comment provided by engineer. */
+"已关闭祛斑祛痘" = "འབྲུམ་བུ་ཐོར་བུ་མེད་པར་གཏོང་བ་སྒོ་རྒྱབ་པ་";
+
+/* No comment provided by engineer. */
+"已切换为浅栗色" = "རོག་རོག་སྟེང་ངོས་བསྒྱུར་མཐུད་བྱས་ཟིན་";
+
+/* No comment provided by engineer. */
+"已切换为深棕色" = "བསྒྱུར་མཐུད་ཟིན་ཆེད་གཏིང་སྨུག་ཆུང་";
+
+/* No comment provided by engineer. */
+"已切换为灰褐色" = "བསྒྱུར་མཐུད་ཟིན་ཆེད་།རྐྱང་སེར་ཐལ་";
+
+/* No comment provided by engineer. */
+"已切换为红棕色" = "བསྒྱུར་བརྗེས་ཟིན་བྱེད་སྨྱུག་དམར་";
+
+/* No comment provided by engineer. */
+"已切换为黑色" = "བསྒྱུར་མཐུད་ནག་པོར་གྱུར་ཟིན་།";
+
+/* (No Comment) */
+"已切换眉毛颜色" = "སྨིན་མདོག་བརྗེ་སྤོར་བྱས་ཡོད།";
+
+/* No comment provided by engineer. */
+"已删除" = "གསུབ་ཚར།";
+
+/* No comment provided by engineer. */
+"已加入黑名单" = "ལྐོག་བཀོད་མིང་ཐོའི་་ནང་ལ་བཞག་ཡོད།";
+
+/* No comment provided by engineer. */
+"已复制，快去分享给好友吧！" = "འདྲ་བཟོ་བྱེད་ཚར། མྱུར་ཏུ་གྲོགས་པོ་དག་ལ་བརྒྱུད་སྐུར་བྱས།";
+
+/* No comment provided by engineer. */
+"已开启" = "བྱེད་འགོ་ཚུགས་པ་";
+
+/* No comment provided by engineer. */
+"已开启瘦脸大眼" = "ངོ་ཚུགས་ཕྲ་བཟོ་དང་མིག་ཇེ་ཆེར་གཏོང་བའི་བྱེད་ནུས་ཕྱེ་འདུག།";
+
+/* No comment provided by engineer. */
+"已开启祛斑祛痘" = "འབྲུམ་བུ་ཐོར་བུ་མེད་པར་གཏོང་བ་སྒོ་ཕྱེ་བ་";
+
+/* No comment provided by engineer. */
+"已收到你的反馈，美老师会尽快解决你的问题哦。" = "ཁྱོད་ཀྱི་ལྡོག་ལན་འབྱོར་ཡོད། དགེ་རྒན་མེ་ཡིས་གང་མྱུར་གྱི་ཁྱོད་ཀྱི་གནད་དོན་ཐག་གཅོད་བྱ་ངེས།";
+
+/* No comment provided by engineer. */
+"已收藏至" = "ཉར་དེབ་ནང་དུ་བཞག་ཚར།";
+
+/* (No Comment) */
+"已断开连接" = "འབྲེལ་མཐུད་གཅོད་པ།";
+
+/* No comment provided by engineer. */
+"已是全部的位置信息" = "དེ་ཚང་མའི་གོ་གནས་ཆ་འཕྲིན།";
+
+/* No comment provided by engineer. */
+"已移出黑名单" = "ལྐོག་བཀོད་མིང་ཐོ་ལས་ཕུད་ཚར།";
+
+/* No comment provided by engineer. */
+"已移动至" = "སྤོར་འགུལ་བྱེད་ཚར";
+
+/* No comment provided by engineer. */
+"已经是最后一个了" = "ཆེས་མཐའ་མཇུག་རེད།";
+
+/* No comment provided by engineer. */
+"已经是第一个了" = "ཐོག་དང་པོ་རེད།";
+
+/* (No Comment) */
+"已经添加了%lu张照片" = "འདྲ་པར་%luནང་འཇུག་བྱས་འདུག";
+
+/* (No Comment) */
+"已经添加了0张照片" = "འདྲ་པར་0གདམས་ཟིན།";
+
+/* No comment provided by engineer. */
+"已解锁" = "ཟྭ་ཕྱེ་ཚར།";
+
+/* No comment provided by engineer. */
+"已达最大值" = "ཆེས་ཆེ་བའི་གྲངས་བབ་ལ་ཐོན།";
+
+/* No comment provided by engineer. */
+"已达最小值" = "ཆེས་ཆུང་བའི་གརངས་བབ་ལ་ཐོན།";
+
+/* (No Comment) */
+"已选中 %lu 个分类" = "དེ་བདམས་པ། %lu ཞིག། རིགས་དབྱེ།";
+
+/* No comment provided by engineer. */
+"已选择 %lu 个素材" = "གདམ་གསེས་བྱེད་ཚར།  %1u་ཡི་ཐོག་མའི་དཔྱད་གཞི།";
+
+/* No comment provided by engineer. */
+"已选择%@秒" = "སྔར་ཡོད་ཀྱི་བསལ་འདེམས།  %@ སྐར་ཆ་འི། ";
+
+/* No comment provided by engineer. */
+"已选择图片，不支持选择视频哦。" = "འདྲ་པར་གདམ་ཚར་བས། བརྙན་མིག་ལ་གདམ་གསེས་བྱ་མི་ཐུབ།";
+
+/* No comment provided by engineer. */
+"帐号管理" = "ཐོ་ཞུགས་ཨང་གྲངས་ལ་དོ་དམ།";
+
+/* No comment provided by engineer. */
+"常规反馈" = "རྒྱུན་སྲོལ་ལྡོག་ལན།";
+
+/* No comment provided by engineer. */
+"年龄" = "ལོ།";
+
+/* No comment provided by engineer. */
+"延时3秒" = "དུས་འགྱངས་སྐར་ཆ༣";
+
+/* No comment provided by engineer. */
+"延时3秒已开启" = "སྐར་ཆ་གསུམ་གྱི་དུས་འགྱངས་ཀྱི་སྒོ་ཕྱེ་ཡོད།";
+
+/* No comment provided by engineer. */
+"延时6秒" = "དུས་འགྱངས་སྐར་ཆ༦";
+
+/* No comment provided by engineer. */
+"延时6秒已开启" = "སྐར་ཆ་གསུམ་གྱི་དུས་འགྱངས་ཀྱི་སྒོ་ཕྱེ་ཡོད།";
+
+/* No comment provided by engineer. */
+"延时关闭" = "དུས་འགྱངས་ཀྱི་སྒོ་རྒྱག";
+
+/* No comment provided by engineer. */
+"延时功能已关闭" = "དུས་འགྱངས་བྱེད་ནུས་ཀྱིས་སྒོ་རྒྱག་ཚར།";
+
+/* No comment provided by engineer. */
+"建议图片拼接后，直接通过美图秀秀分享到微博。因为从手机相册分享时，大尺寸图片会被微博严重压缩。" = "འདྲ་པར་སྦྲུལ་མཐུད་བྱས་རྗེས།ཐད་ཀར་ཏུ་མེའུ་ཐུའུ་མཛེས་བཟོ་ནས་པོད་འཕྲིན་ལ་མཉམ་རོལ་བྱེད་པ།རྒྱུ་མཚན་ནི་ཁ་པར་གྱི་པར་དེབ་མཉམ་རོལ་བྱེད་སྐབས།ཚད་ཐིག་ཆེ་བའི་འདྲ་པར་པོ་འཕྲིན་ནས་ཚབས་ཆེ་བའི་སྒོ་ནས་མནོན་བཙུར་བྱེད།";
+
+/* No comment provided by engineer. */
+"开启" = "སྒོ་འབྱེད་པ།";
+
+/* No comment provided by engineer. */
+"开启位置权限" = "གནས་ཡུལ་དབང་གནས་ཀྱིས་སྒོ་ཕྱེ།";
+
+/* No comment provided by engineer. */
+"开启我的颜值管家" = "ཁ་འབྱེད་ཕྱག་མཛོད་མཛེས་ལོད་སྐྱེ་འབྲས་།";
+
+/* No comment provided by engineer. */
+"开启推送通知获得权限" = "བརྡ་ཁྱབ་བརྒྱུད་སྐུར་གྱི་ཁ་ཕྱེ་ན་དབང་ཚད་ཐོབ།";
+
+/* No comment provided by engineer. */
+"开启照片权限" = "འདྲ་པར་གྱིས་དབང་ཚད་སྒོ་ཕྱེ།";
+
+/* No comment provided by engineer. */
+"开启相机权限" = "པར་ཆས་ཀྱི་དབང་ཚད་སྒོ་ཕྱེ།";
+
+/* No comment provided by engineer. */
+"开启运动与健康权限" = "ལུས་རྩལ་བདེ་ཐང་གི་དབང་ཚད་སྒོ་ཕྱེ།";
+
+/* No comment provided by engineer. */
+"开启通知才能及时收到消息哦" = "བརྡ་ཐོ་ཡི་སྒོ་ཕྱེ་ཚར་རྗེས་ད་གཟོད་མྱུར་ཏུ་གནས་ཚུལ་འབྱོར་ཐུབ།";
+
+/* No comment provided by engineer. */
+"开启防抖后取景会迟缓哦" = "འདར་འགོག་གི་སྒོ་ཕྱེ་རྗེས་པར་དུ་བླང་བྱ་འདེམས་སྒྲུག་འགོར་འགྱངས་བྱ་ངེས།";
+
+/* No comment provided by engineer. */
+"开启颜值管家" = "ཁ་འབྱེད་ཕྱག་མཛོད་མཛེས་ལོད་སྐྱེ་འབྲས་།";
+
+/* No comment provided by engineer. */
+"开启麦克风权限" = "སྐད་སྦུག་དབང་ཚད་ཀྱི་སྒོ་ཕྱེ།";
+
+/* No comment provided by engineer. */
+"开始渲染虚拟形象..." = "བཟོ་ལྟའི་སྣང་བརྙན་སྒྲོ་འདོགས་བྱེད་མགོ་བརྩམས།";
+
+/* No comment provided by engineer. */
+"开源组件许可" = "སྤྱི་སྤྱོད་མ་ལག་གི་ཆོག་མཆན།";
+
+/* No comment provided by engineer. */
+"张嘴巴" = "ཁ་གདང་བ";
+
+/* No comment provided by engineer. */
+"强度" = "དྲག་ཚད།";
+
+/* No comment provided by engineer. */
+"当你在使用相机、人像美容及滤镜相关自动功能时，将默认应用你所设定的美颜参数。" = "ཁྱོད་པར་ཆས་བེད་སྤྱོད་རྩིས་།འདྲ་པར་མཛེས་སྤྲས་དང་དེ་བཞིན་ཤེལ་འཚག་འབྲེལ་ཡོད་རང་འགུལ་བྱེད་ནུས་སྐབས་།ཁྱོད་ཀྱིས་ཁ་མ་སངས་པར་ཁས་ལེན་པ་བཀོལ་སྤྱོད་གཏན་འཁེལ་གནས་ཀྱི་མཛེས་ལོད་སྐྱེ་འབྲས་ཕྱག་མཛོད་ཁྱོད་ཀྱི་མཛེས་ལོད་སྐྱེ་འབྲས་ཕྱག་མཛོད་གཏན་འཁེལ་སུབ་པ་།";
+
+/* No comment provided by engineer. */
+"当前为非WiFi播放，可在设置-通用中关闭自动播放" = "མིག་སྔར་wifiགཏོང་བ་ཡིན་ལ།་བཀོལ་སྤྱོད་ཁྲོད་རང་འགུལ་གྱིས་སྒོ་རྒྱག་པ་ཡིན།";
+
+/* No comment provided by engineer. */
+"当前为非WiFi播放，注意流量消耗，可在设置-通用中开启自动播放" = "མིག་སྔར་wifiམིན་ལ།་བཞུར་ཚད་ཀྱི་ཟད་གྲོན་ལ་དོ་སྣང་བྱེད་དགོས།་བཀོད་སྒྲིག་བྱེད་པ་སྟེ་ཀུན་སྤྱོད་ཁྲོད་ནས་རང་འགུལ་གྱིས་གཏོང་བ་རེད།";
+
+/* No comment provided by engineer. */
+"当前为非WiFi环境，是否使用流量观看视频？" = "མིག་སྔར་wifiམིན་པའི་ཁོར་ཡུག་ཏུ་རྒྱུག་ཚད་བཀོལ་ནས་བརྙན་ལ་བལྟ་བ་ཡིན་ནམ།";
+
+/* No comment provided by engineer. */
+"当前使用的网络不是WiFi，是否继续下载" = "མིག་སྔར་བཀོལ་སྤྱོད་བྱེད་བཞིན་པའི་དྲ་རྒྱ་ནི་WiFiརེད།་མུ་མཐུད་དུ་ཕབ་ལེན་བྱེད་དམ།";
+
+/* No comment provided by engineer. */
+"当前图片长宽比例过大，继续编辑会导致图片模糊，是否继续？" = "འདྲ་པར་དམིགས་སྔར་གྱི་འདྲ་རིང་ཐུང་ཚད་དྲག་པས།བསྟུད་མར་སྒྲིག་བཟོ་བྱེད་དུས། རབ་རིབ་གྱུར་འགྲོ་བས་སྒྲིག་བཟོ་བྱེད་དམ།";
+
+/* No comment provided by engineer. */
+"当前已在首页" = "ད་ལྟ་པར་ངོས་ཐོག་མ་ཡོད་ན་ཡོད།";
+
+/* (No Comment) */
+"当前无网络可以使用，请确保您已经开启GPRS或WIFI！" = "མིག་སྔར་དྲ་རྒྱ་བཀོལ་སྤྱོད་བྱ་རྒྱུ་མེད་པས་སྐུ་ཉིད་ཀྱི་GPRSའམ WIFIཕྱེ་ཡོད་པ་ཁག་ཐེག་བྱ་རོགས།";
+
+/* No comment provided by engineer. */
+"当前环境昏暗，建议开启夜拍功能哦~" = "ད་ལྟ་ཁོར་ཡུག་མུན་ནག་འདུག་པས།རེ་བ་ཡིན་ན་མཚན་པར་རྒྱག་པའི་བྱེད་ནུས་ཀྱི་སྒོ་ཕྱེ་ན་བཟང་།";
+
+/* No comment provided by engineer. */
+"当前网络不可用，是否前往系统设置进行网络设置？" = "མིག་སྔར་གྱི་དྲ་རྒྱ་བཀོལ་སྤྱོད་བྱ་མི་ཐུབ་པས།   མ་ལག་སྒྲིག་འགོད་ཁྲོད་ནས་དྲ་རྒྱ་སྒྲིག་འགོད་བྱ་རྒྱུ་ཡིན་ནམ།";
+
+/* (No Comment) */
+"当前网络不稳定，检查失败。请稍后再试。" = "མིག་སྔར་དྲ་རྒྱ་གཏན་འཇགས་མེན་པས།དག་ཐེར་བྱེད་མ་ཐུབ་པས་ཅུང་ཙམ་སྒྱག་རྗེས་ཚོད་ལྟ་བྱེད་རོགས།";
+
+/* No comment provided by engineer. */
+"录制时间过短" = "བརྙན་ལེན་པའི་དུས་ཚོད་ཐུང་དྲགས་སོང་།";
+
+/* No comment provided by engineer. */
+"录音" = "སྒྲ་ཕབ།";
+
+/* No comment provided by engineer. */
+"微信" = "བསྒྱུར་མ་";
+
+/* No comment provided by engineer. */
+"微信好友" = "སྐད་འཕྲིན་དྲ་གྲོགས།";
+
+/* (No Comment) */
+"微信必备表情制作神器!" = "སྐད་འཕྲིན་ཉེར་མཁོའི་བཟོ་ལྟ་སྒྲིག་བཟོ་འཕྲུལ་ཆས།";
+
+/* No comment provided by engineer. */
+"微笑(面部重塑)" = "འཛུམ་མདངས།";
+
+/* (No Comment) */
+"快速登录" = "ཐོ་འགོད་མགྱོགས་མྱུར་ཅན།";
+
+/* No comment provided by engineer. */
+"性别" = "ཕོ་མོ།";
+
+/* No comment provided by engineer. */
+"恢复经典首页" = "ངོ་ངོས་གཞི་མ་བསྐྱར་བསྐྲུན་བྱས།";
+
+/* (No Comment) */
+"恭喜！你成功解锁了MT！" = "སྐུ་ཉིད་ཀྱི་MTབེད་སྤྱོད་བྱ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"恭喜，已生成你的专属颜值管家" = "རྟེན་འབྲེལ་ཞུ།་ཁྱོད་ལ་ཆེད་གཏོགས་ཀྱི་རང་གཤིས་ཅན་གྱི་ཡིག་ཚགས་སུ་གྲུབ་འདུག།";
+
+/* No comment provided by engineer. */
+"您使用的已经是美图秀秀最新版啦！" = "སྐུ་ཉིད་ཀྱིས་བཀོལ་སྤྱོད་བྱས་ཟིན་པ་ནི་མེའུ་ཐུའུ་མཛེས་བཟོའི་པར་གཞི་ཆེས་གསར་བ་དེ་ཡིན།";
+
+/* (No Comment) */
+"您输入的内容为空，请及时反馈问题给我们哦~" = "སྐུ་ཉིད་ཀྱི་ནང་དོན་སྟོང་བ་ཡིན་པས།གནད་དོན་ཡོད་ཚེ་དུས་ལྟར་ང་ཚོར་ཕྱིར་ལྡོག་བྱ་རོགས།☺";
+
+/* (No Comment) */
+"您选择的图片尺寸过大，请重新选择" = "སྐུ་ཉིད་ཀྱི་འདྲ་པར་ཆེ་དྲགས་པས།བསྐྱར་གདམས་བྱ་རོགས།";
+
+/* No comment provided by engineer. */
+"想要永久保存内容吗？快完善资料吧~" = "ནང་དོན་ཡུན་རིང་ཉར་ཚགས་བྱེད་དགོས་སམ། མྱུར་དུ་རྒྱུ་ཆ་འཐུས་ཚང་དུ་གཏོང་།";
+
+/* No comment provided by engineer. */
+"想要永久保存内容吗？快登录吧~" = "ནང་དོན་ཡུན་རིང་ཉར་ཚགས་བྱེད་དགོས་སམ། མྱུར་དུ་ནང་འཇུག་བྱོས།";
+
+/* No comment provided by engineer. */
+"想跟宝宝们说： 拼图模块大升级啦！全新拼图拥有各种好看、时尚的素材，宝宝们快来体验吧" = "😉དྲ་གོགས་རྣམས་པར་ཞུ་རྒྱུར།   པར་སྒྲིག་རྣམ་པ་རིམ་པ་ཆེན་པོར་འཕར་ཐུབ་སོང་བས།    རྣམ་པ་གསར་བའི་པར་སྒྲིག་ལ་བལྟས་ན་མཛེས་བ་དང་། དར་སྲོལ་གསར་མའི་རྒྱུ་ཆ་བཅས་འཛོམས་ཡོད་པས།  གྲོགས་པོ་རྣམས་མྱུར་མོར་ཚོད་ལྟ་བྱེད་དུ་ཤོག💖😘";
+
+/* No comment provided by engineer. */
+"意见反馈" = "བསམ་འཆར་ཐེར་འདོན།";
+
+/* No comment provided by engineer. */
+"感谢你的反馈，产品与技术团队正在努力解决问题了哦！" = "སྐུ་ཉིད་་ཀྱིས་ཐེར་འདོན་བྱེད་པར་བཀའ་དྲིན་ཆེ།  ཐོན་རྫས་དང་ལག་རྩལ་ཚན་ཆུང་གིས་ཧུར་ཐག་སྒོས་གནད་དོན་ཐག་གཅོད་བྱ་བཞིན་མཆིས།";
+
+/* No comment provided by engineer. */
+"感谢反馈, 将减少该广告展现" = "བསམ་འཆར་ལ་བཀའ་དྲིན་ཆེ།་བརྡ་ཁྱབ་ཀྱི་རྣམ་པ་ཇེ་ཉུང་ལ་གཏོང་ཐུབ།";
+
+/* No comment provided by engineer. */
+"我" = "ང་།";
+
+/* (No Comment) */
+"我们将为你提供" = "ང་ཚོ་ས་ཁྱོད་ལ།";
+
+/* No comment provided by engineer. */
+"我关注的人" = "ངའི་དོ་སྣང་བྱེད་སའི་མི་སྣ་།";
+
+/* No comment provided by engineer. */
+"我在这里" = "ང་འདི་རུ་ཡོད།";
+
+/* No comment provided by engineer. */
+"我正在积攒美好" = "ངས་ད་ལྟ་མཛེས་སྡུག་ལྡན་པ་དག་གསོག་ཉར་བྱེད་བཞིན་ཡོད།";
+
+/* No comment provided by engineer. */
+"我的相册" = "བདག་གི་པར་དེབ།";
+
+/* No comment provided by engineer. */
+"我的粉丝正在来的路上" = "བདག་གི་མོས་གྲོགས་རྣམས་ལམ་ཆས་བཞིན་པའི་སྒང་ཡིན།";
+
+/* No comment provided by engineer. */
+"我的钱包" = "བདག་གི་སྒོོར་ཁུག";
+
+/* No comment provided by engineer. */
+"我的颜值管家" = "ངའི་མཛེས་ལོད་སྐྱེ་འབྲས་ཕྱག་མཛོད་།";
+
+/* No comment provided by engineer. */
+"我知道了" = "ངས་ཤེས་སོང་།";
+
+/* No comment provided by engineer. */
+"我竟然还没有个性签名" = "དབདག་ལ་ད་དུང་སྨྱུག་མིང་མི་འདུག";
+
+/* No comment provided by engineer. */
+"我要使用" = "ངས་བཀོལ་སྤྱོད་བྱ་རྒྱུ།";
+
+/* (No Comment) */
+"我要码" = "ངས་ནང་འཇུག་བྱ།";
+
+/* No comment provided by engineer. */
+"我还未解锁地标" = "ངས་ས་གསལ་མངོན་རྟགས་ཀྱི་སྒོ་ཕྱེ་མི་འདུག";
+
+/* No comment provided by engineer. */
+"我还没有收藏" = " ངས་ད་དུང་ཉར་ཚགས་བྱེད་མེད།";
+
+/* No comment provided by engineer. */
+"所在地" = "གནས་སའི་ཡུལ།";
+
+/* No comment provided by engineer. */
+"所有人" = "མི་ཚང་མ།";
+
+/* No comment provided by engineer. */
+"手动" = "ལག་འགུལ་";
+
+/* No comment provided by engineer. */
+"手指上滑，取消录制" = "ལག་པའི་སྟེང་ཤུད་ནས་སྒྲ་ལེན་མི་དགོས། ";
+
+/* (No Comment) */
+"手绘自拍" = "ལག་བྲིས་རང་དཔར།";
+
+/* No comment provided by engineer. */
+"打开后他人下载你的图片时会有水印" = "ཁ་ཕྱེ་རྗེས་མི་གཞན་གྱིས་ཁྱོད་ཀྱི་འདྲ་པར་ཕབ་ལེན་བྱས་ན་ཆུ་དཔར་ཡོད་སྲིད།";
+
+/* No comment provided by engineer. */
+"打开后他人可以保存你的视频" = "ཁ་ཕྱེ་རྗེས་གཞན་གྱིས་ཁྱོད་ཀྱི་བརྙན་ཉར་ཚགས་བྱས་ཆོག";
+
+/* No comment provided by engineer. */
+"打开后他人可以在社区使用你的修图配方" = "ཁ་ཕྱེས་རྗེས་མི་གཞན་པས་ཁྱོད་ཀྱི་རི་མོ་དེ་བཀོལ་ཆོག་པ་རེད།";
+
+/* No comment provided by engineer. */
+"打开我，你和网红之间就没有距离哦~🎁" = "དེ་སྒོ་ཕྱེ་རྗེས།   དྲ་སྒང་གི་གྲགས་ཆེའི་མི་སྣ་དང་ཁྱེད་གཉིས་ཀྱི་དབར་ཐག་ལ་ཧེ་བག་མི་འདུག😉";
+
+/* No comment provided by engineer. */
+"打开通知提醒" = "བརྡ་སྦྱོར་གསལ་བརྡ་སྒོ་ཕྱེ་བ།";
+
+/* No comment provided by engineer. */
+"打开通知提醒(Alert)" = "བརྡ་སྦྱོར་གསལ་བརྡ་སྒོ་ཕྱེ་བ།";
+
+/* No comment provided by engineer. */
+"打开镜头就能看见最美的自己，近50款小清新范儿的实时特效，搭配美颜功能，就是要用镜头宠爱你！" = "པར་སྒོ་ཕྱེ་ཚེ་ཆེས་མཛེས་པའི་རང་ཉིད་མཐོང་ཐུབ་ལ།  ཁྱད་འཕགས་ལྡན་པའི་ནུས་པ་རིགས་ལྔ་བཅུ་ལྷག་དང་ངོ་མཛེས་འོས་སྦྱོར་བྱེད་པའི་ནུས་པ་བཅས་ལྡན།";
+
+/* No comment provided by engineer. */
+"抓娃娃" = "བྱིས་པར་གཅེས་བ།";
+
+/* No comment provided by engineer. */
+"抱歉，因您未达到创建美图帐号年龄要求，您无法创建帐号" = "དགོངས་དག   སྐུ་ཉིད་ཀྱི་མེའུ་ཐུའུ་མཛེས་བཟོའི་ཐོ་ཞུགས་ཨང་གྲངས་ཀྱི་ལོ་ཚོད་ཀྱི་གནས་ཚུལ་ཚད་གཞི་ལས་མི་འདང་བའི་རྐྱེན་གྱིས།   ཐོ་ཞུགས་ཨང་གྲངས་བཟོ་མི་ཐུབ།";
+
+/* No comment provided by engineer. */
+"拍摄" = "པར་རྒྱག་པ";
+
+/* No comment provided by engineer. */
+"拍照" = "པར་ལེན་པ།";
+
+/* No comment provided by engineer. */
+"拍照(社区)" = "པར་ལེན་པ།";
+
+/* No comment provided by engineer. */
+"拍照时将有拍照声音哦" = "པར་རྒྱག་སྐབས་སྒྲ་ཡོད།";
+
+/* No comment provided by engineer. */
+"拖动到此处删除" = "འདྲེད་འགུལ་མཚམས་འདི་ནས་གསུབ་འཇོག";
+
+/* No comment provided by engineer. */
+"拖动到此处放弃编辑" = "གནས་འདིར་འདྲུད་འཐེན་བྱས་ནས་རྩོམ་སྒྲིག་པ་།";
+
+/* (No Comment) */
+"拖动拉杆即可磨皮" = "འཐེན་ཐུར་འཐེན་ནས་པགས་འཐེན་བྱ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"拼图" = "པར་སྒྲིག་པ།";
+
+/* (No Comment) */
+"拼图功能需要至少%ld张图片!" = "པར་སྒྲིག་བྱེད་ནུས་སུ་ཉུང་ཡང་པར་%ldདགོས།";
+
+/* No comment provided by engineer. */
+"拼图大升级" = "པར་སྒྲིག་པའི་རིམ་པ་འཕར་བ།";
+
+/* (No Comment) */
+"拼图边框" = "པར་སྒྲིག་མཐའ་ཤིང་།";
+
+/* No comment provided by engineer. */
+"拼接" = "སྦྲེལ་མཐུད།";
+
+/* No comment provided by engineer. */
+"拿下首评" = "ཐོག་མའི་དཔྱད་བརྗོད་བླངས་པ།";
+
+/* No comment provided by engineer. */
+"按住说话" = "གནན་ནས་སྐད་ཆ་ཤོད།";
+
+/* No comment provided by engineer. */
+"授权已过期，请重新登录" = "ཆོག་མཆན་གྱི་དུས་ཡུན་བདའ་ཟིན་པས། ཡང་བསྐྱར་ཐོ་ཞུགས་བྱ་རོགས།";
+
+/* No comment provided by engineer. */
+"探店" = "ཚོང་ཁང་ལ་ལྟ་བ་།";
+
+/* No comment provided by engineer. */
+"探索" = "འཚོལ་བཤེར།";
+
+/* No comment provided by engineer. */
+"接受哪些人的私信" = "སྒེར་འཕྲིན་དང་ལེན་བྱེད་པ་།";
+
+/* No comment provided by engineer. */
+"接受最新功能动态" = "བྱེད་ནུས་གསར་བའི་འགུལ་རྣམ་དང་ལེན་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"接收哪些人的私信" = "སྒོ་བརྒྱབ་རྫེས་།རང་གིས་མདུན་གྱི་མཉམ་འགུལ་བྱས་པའི་བརྡ་ཐོ་སྦྱོར་མི་ཐུབ་";
+
+/* No comment provided by engineer. */
+"推动脸颊即可瘦脸" = "ངོ་གདོང་ལ་རེག་ཚེ་དེ་མུར་མཛེས་བཟོ་བྱ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"推荐" = "འོས་སྦྱོར།";
+
+/* No comment provided by engineer. */
+"推荐(首页)" = "འོས་སྦྱོར།";
+
+/* No comment provided by engineer. */
+"推荐滤镜" = "འཚག་ཤེལ་ངོ་སྤྲོད་བྱས།";
+
+/* No comment provided by engineer. */
+"推荐用户" = "བཀོལ་སྤྱོད་མཁན་འོས་སྦྱོར།";
+
+/* No comment provided by engineer. */
+"推送通知" = "སྐྱེལ་བའི་བརྡ་ཐོ་";
+
+/* (No Comment) */
+"描述这个视频..." = "བརྙན་རིས་འདི་ཞིབ་བརྗོད་གནང་།";
+
+/* (No Comment) */
+"描述这张照片..." = "འདྲ་པར་འདི་ལ་ཞིབ་བརྗོད་གནང་རོགས།";
+
+/* No comment provided by engineer. */
+"提到了你" = "ཁྲོདུ་ཁྱེད་རང་གླེང་བྱུང་།";
+
+/* No comment provided by engineer. */
+"提升(面部重塑)" = "ཇེ་མཐོར་གཏོང་བ།";
+
+/* No comment provided by engineer. */
+"提示" = "གས་ལ་བརྡ།";
+
+/* No comment provided by engineer. */
+"搜索" = "འཚོལ་བཤེར།";
+
+/* No comment provided by engineer. */
+"搜索标签或添加你的标签" = "རྟགས་འཚོལ་བཤེར་དང་ཡང་ན་ཁྱེད་ཀྱི་རྟགས་སྣོན་དགོས";
+
+/* No comment provided by engineer. */
+"搜索用户“%@" = "བཀོལ་སྤྱོད་མཁན་འཚོལ་བཤེར། “%@";
+
+/* No comment provided by engineer. */
+"搜索美图ID、昵称" = "MTཨ་གྲངས།/གཅེས་མིང།";
+
+/* No comment provided by engineer. */
+"搜索美图ID、昵称、话题、内容" = "ཨང་གྲངས་འཚོལ་བཤེར་Meituདང་།གཅེས་མིང་དང་།བརྗོད་གཞི་དང་ནང་དོན་";
+
+/* No comment provided by engineer. */
+"搜索话题" = "གླེང་གཞི་འཚོལ་སྙེག";
+
+/* No comment provided by engineer. */
+"搜索附近位置" = "ཉེ་འཁོར་གྱི་ས་གནས་འཚོལ་བཤེར།";
+
+/* No comment provided by engineer. */
+"搜索附近位置失败" = "ཉེ་འཁོར་གྱི་ས་གནས་འཚོལ་བཤེར་བྱེད་མ་ཐུབ།";
+
+/* (No Comment) */
+"播放会有声音哦" = "ཕྱིར་གཏོང་བྱ་སྐབས་སྒྲ་ཡོད་སྲིད།";
+
+/* No comment provided by engineer. */
+"收藏" = "བསྡུ་ཉར་";
+
+/* No comment provided by engineer. */
+"收藏动态" = " གནས་ཚུལ་ཉར་ཚགས།";
+
+/* No comment provided by engineer. */
+"收藏夹不存在" = "ཉར་དེབ་ཁང་དེ་མི་འདུག";
+
+/* No comment provided by engineer. */
+"收藏夹最多10个字" = "ཉར་དེབ་ཁང་ལ་ཆེས་མང་ན་ཡི་གེ་༡༠";
+
+/* No comment provided by engineer. */
+"收藏夹最多创建%ld个" = "%ldཉར་དེབ་ཆེས་མང་བའི་གསར་འཛུགས་ཞིག";
+
+/* No comment provided by engineer. */
+"收藏至" = "ཉར་ཚགས་དེ།";
+
+/* No comment provided by engineer. */
+"收起" = "བསྡུ་བ།";
+
+/* (No Comment) */
+"放大区域" = "ཁྱབ་ཁོངས་ཇེ་ཆེར་གཏོང་བ།";
+
+/* No comment provided by engineer. */
+"放弃" = "བསྐྱུར་བ།";
+
+/* No comment provided by engineer. */
+"放弃对资料的修改吗？" = "ཡིག་ཆ་འདི་བཟོ་བཅོས་བྱ་རྒྱུ་བསྐྱུར་རམ།";
+
+/* No comment provided by engineer. */
+"政治敏感" = "ཆབ་སྲིད་གནད་དོན།";
+
+/* (No Comment) */
+"效果加载中..." = "ཕན་འབྲས།དེའི་ལྗིད་ཚད";
+
+/* No comment provided by engineer. */
+"效果更佳小秘诀：" = "ཕན་ནུས་དེ་ལས་བཟང་བའི་ཐབས་རྩལ་ཆུང་ཆུང་།:";
+
+/* No comment provided by engineer. */
+"效果选择" = "ཕན་འབྲས་འདེམས་གསེས།";
+
+/* No comment provided by engineer. */
+"文字" = "ཡི་གེ།";
+
+/* No comment provided by engineer. */
+"文字描述" = "གསལ་བཤད། ";
+
+/* (No Comment) */
+"文字样式" = "ཡི་གེའི་རྣམ་པ།";
+
+/* No comment provided by engineer. */
+"文艺" = "རིག་རྩལ།";
+
+/* (No Comment) */
+"断开" = "འབྲེལ་གཅོད།";
+
+/* (No Comment) */
+"断开连接后将无法继续通过遥控器拍照，是否断开？" = "ཞིང་བར་སྦྲེལ་རྗེས་ཐབས་མེད་པར་མུ་མཐུད་བརྒྱུད་དེ་རྒྱང་བསྒྱུར་ཆས།པར་རྒྱག་མིན་འབྲེལ་མཐུད།";
+
+/* No comment provided by engineer. */
+"新一代智能美颜神器，自动美肤、瘦脸瘦身、明眸亮眼，一秒拥有高颜值，打造最美自拍！" = "རབས་གསར་པའི་རིག་ནུས་ཀྱི་ངོ་གདོང་མཛེས་བཟོའི་ཡོ་ཆས་ལ། རང་འགུལ་ངང་མཛེས་བཟོ་དང་སྱེ་གཟུགས་ཇེ་སྐམ་དུ་གཏོང་བ།  མིག་ཟུང་མཛེས་བཟོ་བྱེད་པ། སྐར་ཆ་གཅིག་ལ་མཛེས་ཉམས་དོད་པ་བཅས་ཀྱིས་ ཁྱེད་ཀྱི་འདྲ་པར་ཆེས་མཛེས་ཤོས་དེ་བཟོ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"新功能【3D塑颜】" = "ནུས་པ་གསར་པ་(་3Dརྣམ་པ་འདྲ།་)";
+
+/* No comment provided by engineer. */
+"新增自定义贴纸哦" = "གསར་དུ་སྣོན་པའི་རང་བརྗོད་སྦྱོར་ཤོག";
+
+/* No comment provided by engineer. */
+"新浪微博" = "ཟིན་ན་པོད་ཕྲན།";
+
+/* No comment provided by engineer. */
+"新粉丝" = "རྒྱབ་སྐྱོར་གསར་པ་";
+
+/* No comment provided by engineer. */
+"旋转" = "སྐོར་བ།";
+
+/* No comment provided by engineer. */
+"无法选择“下载中”的图片" = "ཕབ་ལེན་བྱ་བཞིན་པའི་འདྲ་པར་འདེམས་མི་ཐུབ།";
+
+/* (No Comment) */
+"无访问权限" = "འདྲི་རྩད་ཆོག་མཆན་མི་འདུག";
+
+/* No comment provided by engineer. */
+"无边框" = "མཐའ་སྒྲོམ་མེད་པ།";
+
+/* No comment provided by engineer. */
+"无音乐" = "གླུ་གཞས་མེད་པ།";
+
+/* No comment provided by engineer. */
+"既然来了，不关注一下？" = "ཐོན་ཡོད་ཚེ།  དོ་སྣང་མི་བྱའམ།";
+
+/* No comment provided by engineer. */
+"日系" = "འཇར་པན་གྱི་ཁྱད་ཆོས་འདྲེས།";
+
+/* No comment provided by engineer. */
+"早上好" = "ཞོགས་པ་བདེ་ལེགས་";
+
+/* No comment provided by engineer. */
+"星座" = "སྐར་ཚོམ།";
+
+/* (No Comment) */
+"昨天" = "ཁ་སང་།";
+
+/* No comment provided by engineer. */
+"是" = "ཡིན།";
+
+/* No comment provided by engineer. */
+"是否保存当前图片?" = "མིག་སྔར་གྱི་འདྲ་པར་བསྡུ་ཉར་བྱའམ།";
+
+/* No comment provided by engineer. */
+"是否放弃当前所操作的图片?" = " ད་ལྟ་བཀོལ་སྤྱོད་བྱེད་པའི་འདྲ་པར་གྱི་མཚམས་འཇོག་གམ།";
+
+/* No comment provided by engineer. */
+"是否放弃当前操作图片?" = "མིག་སྔར་གྱི་འདྲ་པར་འདི་སྒྲིག་བཟོ་མི་བྱའམ།";
+
+/* No comment provided by engineer. */
+"是否放弃当前操作？" = "མིག་སྔར་གྱི་ལག་ལེན་བློས་བཏང་བ་ཡིན་ནམ།";
+
+/* No comment provided by engineer. */
+"是否确认删除评论?" = "བསུབ་རྒྱུ་ཡིན་པ་ཁག་ཐེག་བྱེད་དམ།";
+
+/* No comment provided by engineer. */
+"昵称" = "འབོད་མིང་།";
+
+/* No comment provided by engineer. */
+"昵称不能为空" = "Nའབོད་མིང་སྟོང་བར་འཇོག་མི་རུང་།";
+
+/* (No Comment) */
+"昵称最多10个字哦" = "ཆེས་མང་ན་ཡི་གེ་༡༠་མ་གཏོགས་ཡོད་མི་ཆོག།";
+
+/* (No Comment) */
+"显示标签" = "ཁྱད་རྟགས་ཕྱིར་མངོན།";
+
+/* No comment provided by engineer. */
+"晒给朋友看" = "གྲོགས་པོར་བལྟ་རུ་འཇུག་པ།";
+
+/* No comment provided by engineer. */
+"晚上好" = "མཚན་མོ་བདེ་ལེགས་";
+
+/* (No Comment) */
+"普通" = "རྒྱུན་ལྡན།";
+
+/* No comment provided by engineer. */
+"智能" = "རིག་ནུས།";
+
+/* No comment provided by engineer. */
+"智能不可缩放虚化区域" = "རིག་ནུས་ཀྱིས་རབ་རིབ་ཅན་གྱི་སར་ཆུང་དུ་གཏོང་མི་རུང་།";
+
+/* No comment provided by engineer. */
+"智能优化" = "རིག་ནུས་ལེགས་འགྱུར།";
+
+/* (No Comment) */
+"智能美型" = "རང་འགུལ་མཛེས་བཟོ།";
+
+/* (No Comment) */
+"智能美型已关闭" = "ངོ་ཚུགས་ཕྲ་བཟོ་དང་མིག་ཇེ་ཆེ་གཏོང་བའི་བྱེད་ནུས་རྒྱབ་ཟིན།";
+
+/* (No Comment) */
+"智能美型已开启" = "ངོ་ཚུགས་ཕྲ་བཟོ་དང་མིག་ཇེ་ཆེར་གཏོང་བའི་བྱེད་ནུས་ཕྱེ་འདུག།";
+
+/* (No Comment) */
+"智能美白中..." = "རང་འགུལ་མཛེས་བཟོ་བྱེད་བཞིན་ཡོད།";
+
+/* No comment provided by engineer. */
+"智能补光" = "རིག་ནུས་ཀྱིས་འོད་གསབ་པ།";
+
+/* No comment provided by engineer. */
+"暂不支持多人哦" = "གནས་སྐབས་སུ་མི་མང་པའི་དུས་མཉམ་དུ་བཀོལ་མི་ཐུབ།";
+
+/* No comment provided by engineer. */
+"暂不支持表情" = "གནས་སྐབས་སུ་རྣམ་འགྱུར་ལ་རྒྱབ་སྐྱོར་མི་བྱེད།";
+
+/* (No Comment) */
+"暂不登录" = "གནས་སྐབས་ཐོ་འགོད་མི་བྱ།";
+
+/* No comment provided by engineer. */
+"暂不绑定" = "གནས་སྐབས་སུ་བཀག་སྡོམ་མ";
+
+/* No comment provided by engineer. */
+"暂存在社区的内容发布失败，已存到草稿箱" = "གནས་སྐབས་སྡེ་ཁུལ་བཞག་པའི་ནང་དོན་སྐུར་ཐུབས་མ་སོང་། འབྲི་དེབ་ནང་དུ་ཉར་ཚགས་བྱས་ཡོད་";
+
+/* No comment provided by engineer. */
+"暂无@，是他们太害羞了" = "གནས་སྐབས་མེད་པ། @ཁོ་ཚོ་ས་ཧ་ཅང་ངོ་ཚ་བ་";
+
+/* (No Comment) */
+"暂无下载素材哦" = "གནས་སྐབས་སུ་དཔྱད་གཞི་ནང་འཇུག་བྱ་རྒྱུ་མེད།";
+
+/* No comment provided by engineer. */
+"暂无收藏" = "ཅི་ཡང་ཉར་ཚགས་བྱེད་མི་འདུག";
+
+/* No comment provided by engineer. */
+"暂无新版" = "གནས་སྐབས་སུ་པར་གཞི་གསར་བ་མི་འདུག";
+
+/* No comment provided by engineer. */
+"暂无相关结果" = "གནས་སྐབས་འབྲེལ་ཡོད་མཇུག་འབྲས་མེད་";
+
+/* No comment provided by engineer. */
+"暂无评论，是他们太害羞了" = "གནས་སྐབས་སུ་དཔྱད་བརྗོད་གསར་བ་སྤེལ་མི་འདུག་པས། ཁོ་ཚོ་བག་ཚ་བོ་འདུག";
+
+/* No comment provided by engineer. */
+"暂未搜索到你想要的地点" = "གནས་སྐབས་སུ་ཁྱེད་རང་དགོས་བའི་ས་གནས་འཚོལ་བཤེར་བྱ་མི་ཐུབ།";
+
+/* No comment provided by engineer. */
+"暗角" = "ནག་ཟུར།";
+
+/* No comment provided by engineer. */
+"暗角功能已关闭" = "འོད་དབེན་པའི་གྲུ་ཟུར་གྱི་བྱེད་ནུས་ཀྱི་སྒོ་བརྒྱབ་ཟིན།";
+
+/* No comment provided by engineer. */
+"暗角功能已开启" = "འོད་དབེན་པའི་གྲུ་ཟུར་གྱི་བྱེད་ནུས་ཀྱི་སྒོ་ཕྱེ་ཟིན།";
+
+/* No comment provided by engineer. */
+"暗部改善" = "མི་གསལ་བ་གསལ་གཏོང་།";
+
+/* (No Comment) */
+"更合适你的修图习惯" = "སྐུ་ཉིད་ཀྱི་པར་བཅོས་གོམས་གཤིས་དང་འཚམས།";
+
+/* No comment provided by engineer. */
+"更多" = "དེ་ལས་མང་";
+
+/* No comment provided by engineer. */
+"更多作品" = "བརྩམས་ཆོས་དེ་ལས་མང་པ།";
+
+/* No comment provided by engineer. */
+"更多搜索记录" = "འཚོལ་བཤེར་བྱས་པའི་ཟིན་ཐོ་དེ་ལས་མང་པ།";
+
+/* No comment provided by engineer. */
+"更多滤镜" = "ཚགས་ཤེལ་དེ་ལས་མང་པ།";
+
+/* No comment provided by engineer. */
+"更多用户" = "བཀོལ་སྤྱོད་མཁན་དེ་ལས་མང་པ།";
+
+/* No comment provided by engineer. */
+"更多素材" = "རྒྱུ་ཆ་དེ་ལས་མང་པ།";
+
+/* (No Comment) */
+"更多设置" = "སྒྲིག་བཟོ་དེ་ལས་མང་བ།";
+
+/* (No Comment) */
+"更多边框" = "མཐའ་ཤིང་དེ་ལས་མང་བ།";
+
+/* No comment provided by engineer. */
+"更适合作为壁纸哦" = "ྒྱབ་པར་བྱས་ན་འཚམས་འདུག།";
+
+/* No comment provided by engineer. */
+"更适合你的修图习惯；" = "སྐུ་ཉིད་ཀྱི་པར་བཅོས་གོམས་གཤིས་དང་འཚམས།";
+
+/* No comment provided by engineer. */
+"最多只可以发布%d字哟" = "ཆེས་མང་ན་ཡི་གེ་%dལས་བཀོལ་མི་ཆོག་།";
+
+/* (No Comment) */
+"最多只能选择%ld张图片哦~" = "ཆེས་མང་ན་འདྲ་པར་%ldགདམས་ལེན་བྱ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"最多可添加20个贴纸哦" = "ཆེས་མང་ན་སྦྱར་ཤོག་༢༠བསྣོན་ཆོག་";
+
+/* (No Comment) */
+"最多支持添加9张哦" = "འདྲ་པར་༩ལས་ཁ་སྣོན་བྱ་མི་རུང་།";
+
+/* No comment provided by engineer. */
+"最多支持选择%ld张哦" = " %ldལ་ཆེས་མང་བའི་རྒྱབ་སྐྱོར་འདུག";
+
+/* No comment provided by engineer. */
+"最多添加20个标签" = "ཆེས་མང་ན་ཁྱུད་རྟགས་༢༠་བཀོལ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"最多输入30个字哦" = "ཡི་གེ་༣༠་ལས་གཏག་མི་རུང་།";
+
+/* No comment provided by engineer. */
+"最新" = "ཆེས་གསར་བ།";
+
+/* No comment provided by engineer. */
+"综合" = "General";
+
+/* No comment provided by engineer. */
+"最新的素材，最好玩的活动再也不会错过啦" = "གསར་བ་གསར་རྐྱང་གི་རྒྱུ་ཆ་དང་། རྩེད་རིགས་གསར་བའི་བྱ་འགུལ་སོགས་ཀྱི་གོ་སྐབས་འཆོར་མི་རུང་།";
+
+/* No comment provided by engineer. */
+"最热" = "ཀུན་གྱིས་དོ་སྣང་བྱེད་ཡུལ";
+
+/* No comment provided by engineer. */
+"最近联系人" = "ཉེ་ལམ་གྱི་འབྲེལ་གཏུག་མི་སྣ།";
+
+/* No comment provided by engineer. */
+"有%ld个素材正在下载..." = "%ldལྷག་གི་རྒྱུ་ཆ་ཕབ་ལེན་བྱ་བཞིན་འདུག";
+
+/* No comment provided by engineer. */
+"有什么不爽的，尽情吐槽吧！你也可以加入官方QQ群：993916801 ，帅气的程序猿GG将现场为你解答哦~" = "མི་སྐྱིད་པའི་དོན་དག་རེ་ཡོད་ཚེ། གང་འདོད་དུ་བརྗོད་རོགས། ཁྱེད་ཀྱང་གཞུང་ཕྱོགས་ཀྱི་QQ";
+
+/* (No Comment) */
+"有什么不爽的，尽情吐槽吧！你的描述越具体，我们才能越好的解决问题哦~" = "མི་སྐྱིད་པ། དགའ་བདེ་འཁང་ར།ཡ། ཁྱོད་ཀྱི་བརྗོད་ན་དེ་ཙམ་གྱིས་ཞིབ་ཕྲ། ང་ཚོ་ས་ད་གཟོད་ན་དེ་ཙམ་ལེགས་པའི་གནད་དོན་ཐག་གཅོད་བྱེད་པའི་ཨོ།";
+
+/* No comment provided by engineer. */
+"朋友圈" = "གྲོགས་ཚོམ།";
+
+/* (No Comment) */
+"朋友圈新玩法!" = "གྲོགས་ཚོམ་རྩེ་སྟངས་གསར་བ།";
+
+/* No comment provided by engineer. */
+"服务升级，该功能暂不可用" = "ཞབས་ཞུ་རིམ་འཕར་།ནུས་པ་དེ་གནས་སྐབས་བེད་སྤྱོད་བྱེད་མི་ཐུབ་།";
+
+/* (No Comment) */
+"服务协议" = "ཞབས་ཞུའི་གན་རྒྱ།";
+
+/* (No Comment) */
+"服务协议及隐私权政策" = "ཞབས་ཞུ་གན་རྒྱ་དང་གསང་དབང་སྒྲིག་ཁྲིམས།";
+
+/* No comment provided by engineer. */
+"服务条款" = "ཞབས་ཞུའི་དོན་ཚན།";
+
+/* No comment provided by engineer. */
+"未关注人的消息" = "དོ་ཁུར་བྱེད་མེད་པའི་མི་ཡིས་སྒེར་འཕྲིན་ཤོག";
+
+/* No comment provided by engineer. */
+"未开启" = "འགོ་ཕྱེ་མེད་པ་";
+
+/* No comment provided by engineer. */
+"未成功保存至相册" = "པར་དེབ་ཉར་ཚགས་ནས་ལེགས་འགྲུབ་མ་";
+
+/* No comment provided by engineer. */
+"未检测到人物肖像，请自由编辑抠图区域" = "མི་སྣའི་འདྲ་པར་མ་རྙེད་པས།་རང་དབང་གིས་རྩོམ་སྒྲིག་ས་ཁོངས་ཇུས་འགོད་གནང་རོགས།";
+
+/* No comment provided by engineer. */
+"未检测到人脸" = "མིའི་གདོང་ལ་ཞིབ་དཔྱད་ཚད་ལེན་བྱ་མ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"未知" = "མ་ཤེས་པ།";
+
+/* No comment provided by engineer. */
+"未精准识别到五官，无法使用美妆功能。请尽量使用正脸照。" = "དབང་པོ་ལྔ་དེ་གནད་ལ་འཕུགས་ནས་ངོས་འཛིན་བྱ་མ་ཐུབ་པས།མཛེས་སྤྲས་ཀྱི་ནུས་པ་བཀོལ་སྤྱོད་བྱ་ཐབས་མི་འ";
+
+/* No comment provided by engineer. */
+"未精准识别到五官，无法使用自动功能。请尽量使用正脸照。" = "དབང་པོ་ལྔ་དེ་གནད་ལ་འཕུགས་ནས་ངོས་འཛིན་བྱ་མ་ཐུབ་པས།རང་འགུལ་གྱི་ནུས་པ་བཀོལ་སྤྱོད་བྱ་ཐབས་མི་འ";
+
+/* No comment provided by engineer. */
+"未精准识别到五官，无法使用面部重塑功能。请尽量使用正脸照。" = "དབང་པོ་ལྔ་དེ་གནད་ལ་འཕུགས་ནས་ངོས་འཛིན་བྱ་མ་ཐུབ་པས།ངོ་གདོང་བསྐྱར་བཞེངས་ཀྱི་ནུས་པ་བཀོལ་སྤྱོད་";
+
+/* No comment provided by engineer. */
+"未能定位到当前位置" = "མིག་སྔའི་གནས་ཡུལ་གྱི་གནས་ཐིག་གཏན་ཁུལ་བྱ་ཐུབ་མི་འདུག";
+
+/* No comment provided by engineer. */
+"未设置" = "མི་འགྱུར་ ";
+
+/* No comment provided by engineer. */
+"未识别到人像，无法开启人像保护，请尽量使用正脸照。" = "མི་གཟུགས་ངོ་མ་ཤེས་ན།མི་ལ་སྲུང་སྐྱོབ་བྱེད་མི་ཐུབ་པས།གདོང་དྲང་མོ་བཀོལ་ཅི་ཐུབ་བྱོས།";
+
+/* No comment provided by engineer. */
+"本分类暂无下载素材哦~" = "རིགས་འདིའི་ཁྲོད་དུ་གནས་སྐབས་སུ་རྒྱུ་ཆ་ཕབ་ལེན་བྱ་རྒྱུ་མི་འདུག";
+
+/* No comment provided by engineer. */
+"本分类暂时不支持多人脸，是否前往【%@】分类尝试多人效果？" = "རིགས་འདི་དག་མི་མང་པོས་བཀོལ་སྤྱོད་བྱ་མི་ཐུབ་པས།  མདུན་ངོས་ནས་ ";
+
+/* (No Comment) */
+"本地仅保存处理后图片哦" = "རང་གནས་སུ་སྒྲིག་བཅོས་བྱས་ཟིན་པའི་འདྲ་པར་མ་གཏོགས་འཇོག་མི་ཐུབ།";
+
+/* No comment provided by engineer. */
+"权限受限" = "དབང་ཚད་ཞལ་ཚད་བཀག་ཐོབ་པ། ";
+
+/* No comment provided by engineer. */
+"条内容" = " ་ནང་དོན།";
+
+/* No comment provided by engineer. */
+"条评论" = "དཔྱད་བརྗོད་སྤེལ་གྲངས་འདུག";
+
+/* No comment provided by engineer. */
+"来看看我的MT" = "བདག་གི་MTལ་བལྟ་རུ་ཤོག";
+
+/* No comment provided by engineer. */
+"来看看我的MT：“%@”" = "བདག་གི་MTལ་བལྟ་རུ་ཤོག: \"%@\"";
+
+/* No comment provided by engineer. */
+"来自美图" = "མེའུ་ཐུའུ་ནསབླངས།";
+
+/* No comment provided by engineer. */
+"来自艺术家" = "སྒྭ་རྩལ་བ་་ནས་ཐོན།";
+
+/* No comment provided by engineer. */
+"来，关注美图秀秀吧" = "ཤོག་དང་།  མེའུ་ཐུའུ་མཛེས་བཟོར་དོ་སྣང་བྱ་རོགས།";
+
+/* (No Comment) */
+"柚子相机" = "ཤིང་ཏོག་ཡིའུ་ཙི་དང་སྟུན་པ།";
+
+/* (No Comment) */
+"柚子相机-让普通照片一秒拥有文艺范儿！" = "ཡོ་ཙི་པར་ཆས།རྒྱུན་ལྡན་གྱི་འདྲ་པར་མཚར་སྡུག་གི་ཁྱད་ཆོས་བསྐྱོན་པ།";
+
+/* No comment provided by engineer. */
+"查看专辑" = "ཆེད་བསྒྲིགས་ལ་ཞིབ་ལྟ།";
+
+/* No comment provided by engineer. */
+"查看全部" = "ཚང་མར་བལྟ་བ།";
+
+/* No comment provided by engineer. */
+"查看图片" = "འདྲ་པར་ལ་ལྟོས།";
+
+/* No comment provided by engineer. */
+"查看更多的位置信息" = "ས་གནས་ཆ་འཕྲིན་དེ་ལས་མང་པོ་བལྟ་བ།";
+
+/* No comment provided by engineer. */
+"查看更多评论" = "དེ་ལས་མང་ཞིབ་ལྟ་དཔྱད་གཏམ་";
+
+/* No comment provided by engineer. */
+"查看艺术家" = "སྒྱུ་རྩལ་བ་ལ་བལྟ་བ།";
+
+/* No comment provided by engineer. */
+"查看详情" = "ཞིབ་ཕྲར་གཟིགས་པ།";
+
+/* No comment provided by engineer. */
+"标签" = "ཁ་བྱང་།";
+
+/* No comment provided by engineer. */
+"根据法律要求, 互联网帐号需实名认证, 为保障美图帐号的正常使用, 请绑定手机" = "ཁྲིམས་ལུགས་ཀྱི་རེ་བ་ལྟར་ན།་མཉམ་སྦྲེལ་དྲ་བའི་ཨང་གྲངས་ལ་དངོས་མིང་གིས་བདེན་དཔུང་བྱེད་དགོས།་དེ་ནི་Meituཨང་གྲངས་རྒྱུན་ལྡན་ངང་བཀོལ་སྤྱོད་བྱེད་པར་ཁག་ཐེག་བྱེད་ཐུབ།";
+
+/* (No Comment) */
+"椭圆形" = "འཇོང་དབྱིབས།";
+
+/* No comment provided by engineer. */
+"模型下载失败" = "རྣམ་པ་ཕབ་ལེན་བྱེད་མ་ཐུབ་པ།";
+
+/* No comment provided by engineer. */
+"模板" = "མ་དཔེ།";
+
+/* No comment provided by engineer. */
+"模版" = "དཔེ་གཞི།";
+
+/* No comment provided by engineer. */
+"模特" = "མོ་ཐྲོལ་";
+
+/* No comment provided by engineer. */
+"横向" = "འཕྲེད་ཕྱོགས།";
+
+/* No comment provided by engineer. */
+"橡皮擦" = "འགྱིག་བསུབ།";
+
+/* No comment provided by engineer. */
+"次使用" = "བཀོལ་སྤྱོད་བྱ་ཐེངས་";
+
+/* (No Comment) */
+"欢迎使用此分类素材" = "རིགས་དགར་དཔྱད་གཞི་བེད་སྤྱོད་གནང་པར་དགའ་བསུ་ཞུ།";
+
+/* No comment provided by engineer. */
+"款滤镜" = "ནང་གསེས་དོན་ཚན་འཚག་མེ་ལོང་།";
+
+/* No comment provided by engineer. */
+"正在下载" = "ཕབ་ལེན་བྱ་བཞིན་པ།";
+
+/* (No Comment) */
+"正在下载小应用" = "མཉེན་ཆས་ཆུང་བ་ནང་འཇུག་བྱེད་བཞིན་འདུག།";
+
+/* No comment provided by engineer. */
+"正在删除会话" = "གླེང་མོལ་བྱས་པའི་ནང་དོན་བསུབ་བཞིན་པ།";
+
+/* No comment provided by engineer. */
+"正在搜索附近的位置" = "ཉེ་འཁོར་གྱི་ས་གནས་འཚོལ་བཞིན་པ།...";
+
+/* No comment provided by engineer. */
+"正在构建二次元空间映射..." = "བར་སྟོང་ལྡོག་འཕྲོ་ཐེངས་གཉིས་པ་བཟོ་བཞིན་ཡོད།";
+
+/* No comment provided by engineer. */
+"正在检测你的特征点..." = "ཁྱོད་ཀྱི་ཁྱད་ཆོས་ལ་ཚོད་ལྟ་བྱེད་བཞིན་པའི་སྒང་ཡིན།";
+
+/* (No Comment) */
+"正在突破次元壁..." = "ཙེ་ཡོན་གྱི་ལྡེབ་ངོས་གཏོར་བཞིན་ཡོད།";
+
+/* (No Comment) */
+"正在解锁MT..." = "MTའབྱེད་ཀྱིན་འདུག།";
+
+/* No comment provided by engineer. */
+"正在进行视角配准..." = "ད་ལྟ་མཐོང་ཟུར་བཀོད་པ་ཚད་ལྡན་བྱ་བཞིན་ཡོད།";
+
+/* No comment provided by engineer. */
+"正脸" = "ངོ་གདོང་།";
+
+/* No comment provided by engineer. */
+"每行文字达到字数上限时自动换行哦!" = "དུམ་བུ་ཚང་མའི་ཡིག་འབྲུ་ཚད་ལོན་རྫེས་རངབཞིན་དུམ་བུ་བརྫེ་སྲིད་།";
+
+/* (No Comment) */
+"比例" = "བསྡུར་ཕྱོད།";
+
+/* No comment provided by engineer. */
+"氧气" = " གསོ་རླུང་།";
+
+/* No comment provided by engineer. */
+"水印" = "ཁ་བྱང་།";
+
+/* No comment provided by engineer. */
+"水印功能已关闭" = "ཆུ་དཔར་བྱེད་ནུས་རྒྱབ་ཟིན།";
+
+/* No comment provided by engineer. */
+"水印功能已开启" = "ཆུ་དཔར་བྱེད་ནུས་བཀོལ་སྤྱོད།";
+
+/* No comment provided by engineer. */
+"没有内容呢，不如你来发一条？" = "ནང་དོན་ཅི་ཡང་མི་འདུག་པས།   ཁྱེད་ཀྱིས་གཅིག་བསྐུར་རོགས།";
+
+/* No comment provided by engineer. */
+"没有找到你要的用户" = "ཁྱེད་ལ་དགོས་པའི་བཀོལ་སྤྱོད་མཁན་མི་འདུག";
+
+/* No comment provided by engineer. */
+"没有找到该话题，快去创建ta吧" = "གླེང་གཞི་མ་རྙེས་པས།གླེང་གཞི་ཤིག་བཙལ་རོགས།";
+
+/* No comment provided by engineer. */
+"没有识别到人脸哦，换个角度再试试~" = "མི་གདོང་ངོས་འཛིན་བྱེད་མ་ཐུབ་ཚེ་ལྟ་ཕྱོགས་གཞན་ཞིག་ནས་ཚོད་ལྟ་བྱས།";
+
+/* No comment provided by engineer. */
+"没有识别到人脸哦，换张照片再试试~" = "མི་གདོང་ངོས་འཛིན་མ་ཐུབ་པ་རེད།་འདྲ་པར་བརྗེ་ནས་ཚོད་ལྟ་བྱོས།";
+
+/* No comment provided by engineer. */
+"没有识别到人脸哦，重新拍一张试试~" = "མི་ཡི་གདོང་ངོས་མ་ཟིན་པས་ཡང་བསྐྱར་པར་ཞིག་བརྒྱབ་ནས་ཚོད་ལྟ་བྱེད།";
+
+/* (No Comment) */
+"注册新帐号" = "ཐོ་གྲངས་གསར་བ་ཐོ་འགོད་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"注意" = "མཉམ་བཞོག";
+
+/* No comment provided by engineer. */
+"活跃用户" = "བཀོལ་སྤྱོད་མཁན་གྱི་སྒོ་འབྱེད་པ།";
+
+/* No comment provided by engineer. */
+"流量提醒" = "བཞུར་ཚད་དྲན་སྐུལ།";
+
+/* No comment provided by engineer. */
+"浏览" = "རགས་བལྟ";
+
+/* (No Comment) */
+"浓淡" = "གར་སླ། ";
+
+/* No comment provided by engineer. */
+"海报" = "ཚགས་པར།";
+
+/* (No Comment) */
+"海报列表" = "བརྡ་ཁྱབ་རིམ་ཐོ།";
+
+/* (No Comment) */
+"海报工厂" = "བརྡ་ཁྱབ་བཟོ་གྲྭ།";
+
+/* (No Comment) */
+"海报拼图边框" = "བརྡ་ཁྱབ་པར་སྒྲིག་མཐའ་ཤིང་།";
+
+/* No comment provided by engineer. */
+"海报边框" = "ཚགས་པར་གྱི་མཐའ་སྒྲོམ།";
+
+/* No comment provided by engineer. */
+"涂抹图片可显示文字" = "འདྲ་པར་འབྲི་སྣོན་བྱས་ན་ཡི་གེ་འཆར་ཐུབ།";
+
+/* No comment provided by engineer. */
+"涂抹皱纹即可祛除" = "གཉེར་མར་རི་མོ་བྱུགས་ཚེ་འབྲུམ་བུ་མེད་པར་བཟོ་ཐུབ།";
+
+/* (No Comment) */
+"涂抹相应区域即可提亮，也可用来美白牙齿哦" = "མཛེས་བཟོ་བྱ་དགོས་སར་རི་མོ་བྱུགས་ཏེ་དཀར་མདངས་ལྡན་ལ།  སོ་ཡང་མཛེས་པོར་བཟོ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"涂抹相应区域即可提亮，也可用来美白牙齿哦~" = " ཚོན་བྱུག་ཡོད་པའི་འོས་བབ་ཀྱི་ཁྱབ་ཁུངས་ལ་འོད་གསལ་ཐུབ། གཞན་སོ་དཀར་པོ་གཏོང་ཐུབ།";
+
+/* No comment provided by engineer. */
+"涂抹相应区域即可消除哦~" = "ནག་ཐིག་གི་དར་རི་མོ་བྱུགས་ཚེ།མཛེས་བཟོ་བྱ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"涂抹眼睛即可亮眼" = "མིག་ལ་རི་ོ་བྱགས་ཚེ་མིག་མདངས་གསལ་བོར་བྱ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"涂抹黑眼圈即可祛除" = "མིག་མཐའ་ནག་པོར་གྱུར་བ་དེ་མེད་པར་བཟོ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"涂鸦笔" = "རི་མོ་འབྲི་སྨྱུག";
+
+/* No comment provided by engineer. */
+"消息" = "འཕྲིན་ཐུང་།";
+
+/* No comment provided by engineer. */
+"消除笔" = "གཙང་སེལ་སྨྱུ་གུ";
+
+/* (No Comment) */
+"添加有颜文字描述" = "ཡོ་ཡན་ཡི་གེ་ནང་འཇུག་བྱས་ཏེ་ཞིབ་བརྗོད།";
+
+/* No comment provided by engineer. */
+"添加标签" = "ཁྱད་རྟགས་ནང་འཇུག།";
+
+/* No comment provided by engineer. */
+"清新" = "清新";
+
+/* No comment provided by engineer. */
+"清空" = "གཙང་སེལ།";
+
+/* No comment provided by engineer. */
+"清空搜索记录" = "འཚོལ་ཞིབ་ཟིན་ཐོ་མེད་པར་བཟོ་བ།";
+
+/* No comment provided by engineer. */
+"清除中..." = "གཙང་སེལ།";
+
+/* No comment provided by engineer. */
+"清除缓存" = "ཕབ་འཇུག་མེད་པར་བཟོ་བ།";
+
+/* No comment provided by engineer. */
+"温馨提示" = "གསལ་བརྡ་གཏོང་རྒྱུར།";
+
+/* No comment provided by engineer. */
+"游戏" = "རོལ་རྩེད།";
+
+/* No comment provided by engineer. */
+"滑动可选择一张封面" = "འདྲེད་འཐེན་བྱས་ཚེ་མདུན་ཤོག་པར་རིས་གཅིག་འདེམས་ཆོག";
+
+/* No comment provided by engineer. */
+"滑动图片可旋转" = "འདྲ་པར་འདྲེད་འགུལ་བྱས་ཚེ་སྐོར་ཐུབ།";
+
+/* No comment provided by engineer. */
+"滤镜" = "ཚགས་ཤེལ།";
+
+/* No comment provided by engineer. */
+"滤镜下架找不到了？ 去 美图秀秀小程序 看看>" = "ཚགས་ཤེལ་སྒྲོམ་ནས་འབབ་ཆས་རྙེད་མི་ཐུབ་དམ།  མེའུ་ཐུའུ་མཛེས་བཟོའི་ལས་རིམ་ཁྲོད་དུ་བལྟ་རུ་སོང་།";
+
+/* No comment provided by engineer. */
+"滤镜去选后将不在列表中出现，重新选中即可出现哦。" = "ཚགས་ཤེལ་འདེམས་རྗེས་རེའུ་མིག་ཁྲོད་ནས་འབྱུང་སྲིད་པས། ཡང་བསྐྱྱར་འདེམས་ཚེ་འབྱུང་སྲིད།";
+
+/* (No Comment) */
+"滤镜拍后将为你开启瘦脸大眼" = "འཚག་ཤེལ་བཀོལ་ནས་པར་རྒྱབ་རྗེས་ངོ་ཕྲ་བཟོ་དང་མིག་ཆེ་བཟོ་བྱེད་སྲིད།";
+
+/* No comment provided by engineer. */
+"滤镜拍后将为你自动祛斑祛痘" = "འཚག་ཤེལ་བཀོལ་ནས་པར་རྒྱབ་རྗེས་རང་འགུལ་ངང་འབྲུམ་ཤུལ་བསུབ་ཐུབ།";
+
+/* (No Comment) */
+"滤镜拍后瘦脸大眼已关闭" = "འཚག་ཤེལ་བཀོལ་ནས་པར་རྒྱབ་རྗེས་ངོ་ཕྲ་བཟོ་དང་མིག་ཆེ་བཟོ་མི་བྱ།";
+
+/* No comment provided by engineer. */
+"滤镜拍后祛斑祛痘已关闭" = "འཚག་ཤེལ་བཀོལ་ནས་པར་རྒྱབ་རྗེས་ངོ་ཕྲ་བཟོ་དང་མིག་ཆེ་བཟོ་མི་བྱ།";
+
+/* No comment provided by engineer. */
+"滤镜期限" = "མེ་ལོང་འཚག་པའི་དུས་ཡུན";
+
+/* No comment provided by engineer. */
+"潮流" = "རླབས་རྒྱུན།";
+
+/* (No Comment) */
+"炫彩" = "མདངས་ལྡན།";
+
+/* No comment provided by engineer. */
+"炫彩边框" = "མཚར་འོད་མཐའ་སྒྲོམ།";
+
+/* (No Comment) */
+"点击【连接】后，" = "འབྲེལ་མཐུད་ལ་མཐེབ་གནོན་བྱས་རྗེས།";
+
+/* (No Comment) */
+"点击任意位置添加标签" = "གང་རུང་དུ་མཐེབ་གནོན་བྱས་ནས་ཁྱད་རྟགས་ནང་འཇུག་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"点击创建" = "དེ་མཚུངས་ཀྱི་གསར་གཏོད།";
+
+/* (No Comment) */
+"点击可切换\n文字样式哦" = " མཛུབ་མནོན་བྱེད་དུས་\nཡི་ཡི་གེ་ཡི་རྣམ་པ་བརྗེ་སྤོར་བྱེད་ཐུབ།";
+
+/* No comment provided by engineer. */
+"点击封面前往个人主页查看" = "མདུན་ཤོག་ལ་མནན་ཏེ་མི་སྒེར་གྱི་གཙོ་ངོས་ལ་ཞིབ་ལྟ་བྱ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"点击屏幕即可拍照" = "འཆར་ངོས་ལ་མནན་ཚེ་པར་ལེན་ཐུབ།";
+
+/* (No Comment) */
+"点击展开透明度滑竿哦" = "མནན་ཏེ་གསལ་ཆ་ཤེས་ཐུབ།";
+
+/* No comment provided by engineer. */
+"点击微调" = "མཐེབ་གནོན་སྒྲིག་བཟོ།";
+
+/* No comment provided by engineer. */
+"点击换色" = "མདོག་བརྗེ་ ";
+
+/* No comment provided by engineer. */
+"点击播放声音" = "མནན་ཏེ་གླུ་གཞས་གཏོང་ཐུབ།";
+
+/* No comment provided by engineer. */
+"点击查看" = "མནན་ཏེ་བལྟ་བ།";
+
+/* No comment provided by engineer. */
+"点击此处编辑文字" = "མཛུབ་མནོན་བྱེད་དང་འདི་ནས་ཡི་གེ་རྩོམ་སྒྲིག་བྱེད་ཐུབ།";
+
+/* No comment provided by engineer. */
+"点击痘痘即可祛除" = "མནན་ཚེ་འབྲུམ་བུ་མེད་པར་བཟོ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"点击眼睛即可放大" = "མནན་ཚེ་མིག་ཟུང་ཇེ་ཆེར་འཇོག་ཐུང།";
+
+/* No comment provided by engineer. */
+"点击输入文字" = "མནན་ནས་ཡི་གེ་གཏག་རོགས།";
+
+/* No comment provided by engineer. */
+"点击选择保护区域" = "གནོན་འདེམས་གྱིས་སྲུང་སྐྱོབ་བྱེད་འོས་པའི་ས་ཁོངས་";
+
+/* No comment provided by engineer. */
+"点击重试" = "མནན་ཏེ་ཡང་བསྐྱར་ཚོད་ལྟ་གནང་བ།";
+
+/* No comment provided by engineer. */
+"点点头" = "མགོ་གཡུག་པ།";
+
+/* No comment provided by engineer. */
+"点这里快速返回图片处理～" = "འདིར་མནན་ཚེ་མྱུར་མོར་པར་རིས་ཐག་གཅོད་བྱ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"热门标签" = "རྒྱུག་ཆེན་ཁྱད་རྟགས།";
+
+/* No comment provided by engineer. */
+"热门话题" = " མང་གསན་གླེང་གཞི།";
+
+/* No comment provided by engineer. */
+"焦糖妆" = "焦糖妆";
+
+/* No comment provided by engineer. */
+"照片" = "འདྲ་པར།";
+
+/* No comment provided by engineer. */
+"照片炫爆朋友圈的秘密？我只告诉你~❤️" = "གྲོགས་པའོ་ཚོམས་ནས་འདྲ་པར་ངོམས་པའི་གསང་བ་དེ་དག་ངས་ཁྱེད་མ་གཏོགས་གཞན་སུ་གཅིག་ལ་ཡང་མི་བ❤️";
+
+/* (No Comment) */
+"照片瞬间高大上!" = "འདྲ་པར་སྐད་ཅིག་མ་རྩྭ་རིགས་མཐོན་པོ་འི་སྟེང། ";
+
+/* No comment provided by engineer. */
+"特别定制的套装需要登录使用哦~" = "ཁྱད་པར་དུ་གཏན་འཁེལ་བྱས་པའི་གྱོན་གོས་ཐོ་འགོད་བྱེད་དགོས་འདུག";
+
+/* (No Comment) */
+"特效" = "ཁྱད་ནུས།";
+
+/* (No Comment) */
+"特效去选后将不在内置中出现，重新选中即可出现哦。" = "ཁྱད་ནུས་བླངས་རྗེས་ནང་ངོས་སུ་མི་འཆར་ལ་ཡང་བསྐྱར་གདམས་རྗེས་ད་གཟོད་འཆར་ཐུབ།";
+
+/* No comment provided by engineer. */
+"特效程度" = "ཁྱད་ནུས་ཀྱི་ཚད་གཞི།";
+
+/* No comment provided by engineer. */
+"现在发布，你就是第一个占据这里的人！" = "ད་ལྟ་སྤྱི་བསྒྲགས་བྱས་ཏེ་ཁྱོད་ནི་དང་པོ་བཟུང་བ་འདིར་མི།";
+
+/* (No Comment) */
+"现在请点击手中的遥控器" = "ད་ལྟ་དེ་མཚུངས་ཀྱི་ལག་ཏུ་བསྒྱུར་ཆས།";
+
+/* No comment provided by engineer. */
+"甜美" = "སྐྱིད་པོ།";
+
+/* No comment provided by engineer. */
+"生成视频失败，请重试" = "བརྙན་གྲུབ་པ་ཕམ་སོང་།ཡང་བསྐྱར་ཚོད་ལྟ་བྱོས།";
+
+/* No comment provided by engineer. */
+"生日" = "སྐྱེས་སྐར།";
+
+/* No comment provided by engineer. */
+"用户" = "སྤྱོད་མཁན།";
+
+/* No comment provided by engineer. */
+"用户不存在" = "སྤྱོད་མཁན་མི་གནས་པ།";
+
+/* (No Comment) */
+"用户协议" = "བཀོལ་མཁན་གན་རྒྱ།";
+
+/* No comment provided by engineer. */
+"用户协议与隐私政策" = "བཀོལ་མཁན་གན་རྒྱ་དང་གསང་དབང་སྒྲིག་ཁྲིམས།";
+
+/* (No Comment) */
+"用户协议及隐私权政策" = "བཀོལ་མཁན་གན་རྒྱ་དང་གསང་དབང་སྒྲིག་ཁྲིམས།";
+
+/* No comment provided by engineer. */
+"由于你将该照片存储在iCloud上，需要下载到本地才可进行编辑哦，是否下载该照片？" = "ཁྱོད་འདི་འདྲ་པར་ཉར་གསོག་ནི་iCloudཐོག་དགོས་མཁོ་ནང་འཇུགནས་ཡུལ་དེ་ན་ཆོག་པ་ལ་རྩོམ་སྒྲིག་ཨོ་མིན་ནང་འཇུགདེའི་འདྲ་པར།     ";
+
+/* No comment provided by engineer. */
+"由于当前版本过低，导致无法下载使用该素材，请更新至最新版本。" = "རྐྱེན་གྱིས་མིག་སྔ་འི་པར་གཞི་དམའ་བའི་དབང་གིས་ཐབས་མེད་ནང་འཇུགསྤྱད་དེ་ཐོག་མ་ཞུ་གསར་སྒྱུར་ནས་གསར་ཤོས་ཀྱི་པར་གཞི།";
+
+/* No comment provided by engineer. */
+"男" = "ཕོ།";
+
+/* No comment provided by engineer. */
+"男友" = "མཛའ་གྲོགས།";
+
+/* No comment provided by engineer. */
+"男神" = "མཛའ་གྲོགས།";
+
+/* No comment provided by engineer. */
+"画笔" = "པིན་སྨྱུག";
+
+/* No comment provided by engineer. */
+"画笔大小" = "པུར་སྨྱུག་གི་ཆེ་ཆུང་།";
+
+/* (No Comment) */
+"画质" = "པར་གྱི་མ་དཔེ།";
+
+/* No comment provided by engineer. */
+"画质设置" = "པར་སྤུས།བཀོད་སྒྲིག།";
+
+/* No comment provided by engineer. */
+"留下你的联系方式，方便我们更好的为你解决问题哦~" = "ཤུལ་དུ་ཁྱོད་གཏུག་བྱེད་ཐབས་སྟབས་བདེ་ང་ཚོ་ར་སྔར་ལས་ལེགས་པའི་ཁྱོད་ལ་གནད་དོན་ཐག་གཅོད་བྱེད་པའི་ཨོ། ";
+
+/* No comment provided by engineer. */
+"痘痘大小" = "འབྲུམ་བུའི་ཆེ་ཆུང།";
+
+/* No comment provided by engineer. */
+"瘦脸" = "གདོང་ཇེ་ཕྲ་གཏོང་བ།";
+
+/* (No Comment) */
+"瘦脸瘦身" = "སྐམ་ཞིང་རེད་པ་";
+
+/* No comment provided by engineer. */
+"瘦脸范围" = "རིད་ངོ་ཁྱབ་ཁོངས";
+
+/* No comment provided by engineer. */
+"瘦腿" = "རྐང་པ་སྐམ་པོ།";
+
+/* No comment provided by engineer. */
+"瘦鼻" = "སྣ་ཕྲ་མོ།";
+
+/* No comment provided by engineer. */
+"登录" = "ཐོ་འགོད།";
+
+/* No comment provided by engineer. */
+"登录即可体验完整功能" = "ཐོ་འགོད་བྱས་ན་ནུས་པ་ཆ་ཚང་ཉམས་ལེན་བྱེད་ཐུབ།";
+
+/* No comment provided by engineer. */
+"登录即可永久保存到美图相册！" = "ཐོ་འགོད་བྱས་ན་Meitu་འདྲ་པར་ཉར་ཚགས་བྱེད་ཐུབ།";
+
+/* No comment provided by engineer. */
+"登录后与ta对话" = "ཐོ་འཇུག་བྱས་རྗེས་ཁོ་དང་ཁ་བརྡ་བྱེད་རོགས།";
+
+/* No comment provided by engineer. */
+"登录后关注ta" = "ཐོ་འགོད་བྱས་རྗེས་ཁོ་ལ་དོ་ཁུར་བྱེད་།";
+
+/* No comment provided by engineer. */
+"登录后可下载" = "ཐོ་འགོད་བྱས་རྗེས་ཕབ་ལེན་བྱས་ཆོག་།";
+
+/* No comment provided by engineer. */
+"登录后可举报" = "ཐོ་ཞུགས་བྱས་རྗེས་ཞུ་གཏུག་བྱ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"登录后可使用同款" = "ཐོ་འགོད་བྱས་རྗེས་ནང་གསེས་དོན་ཚན་གཅིག་པ་བཀོལ་ཆོག་།";
+
+/* (No Comment) */
+"登录后可关注" = "ཐོ་ཞུགས་བྱས་རྗེས་དོ་སྣང་བྱ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"登录后可发布" = "ཐོ་ཞུགས་བྱས་རྗེས་སྤེལ་ཐུབ།";
+
+/* (No Comment) */
+"登录后可发私信" = "ཐོ་ཞུགས་བྱས་རྗེས་སྒེར་འཕྲིན་བསྐུར་ཐུབ།";
+
+/* No comment provided by engineer. */
+"登录后可拉黑" = "ཐོ་ཞུགས་བྱས་རྗེས་ཐོ་ནང་དུ་འཇོག་ཐུབ།";
+
+/* No comment provided by engineer. */
+"登录后可收藏" = "ཐོ་ཞུགས་བྱེད་རྗེས་ཉར་ཚགས་བྱ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"登录后可点赞" = "ཐོ་ཞུགས་བྱས་རྗེས་བསྟོད་ཐུབ།";
+
+/* No comment provided by engineer. */
+"登录后可评论" = "ཐོ་ཞུགས་བྱས་རྗེས་དཔྱད་འཇོག་བྱ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"登录后查看关注的人" = "ཐོ་ཞུགས་བྱས་རྗེས་དོ་སྣང་ཟིན་པའི་མི་ལྟ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"登录后查看好友列表" = "ཐོ་འགོད་བྱས་རྗེས་གྲོགས་པོའི་མིང་ཐོ་ལ་བལྟས།";
+
+/* No comment provided by engineer. */
+"登录后查看消息" = "ཐོ་ཞུགས་བྱས་རྗེས་ཡིག་འཕྲིན་ལྟ་ཐུབ།";
+
+/* (No Comment) */
+"登录后查看通知" = "ཐོ་ཞུགས་བྱས་རྗེས་སྒེར་བརྡ་འཕྲིན་ལྟ་ཐུབ།།";
+
+/* No comment provided by engineer. */
+"登录后设置隐私" = "ཐོ་ཞུགས་བྱས་རྗེས་སྒེར་དབང་འཇོག་ཐུབ།";
+
+/* No comment provided by engineer. */
+"登录后进行账号管理" = "ཐོ་ཞུགས་བྱས་རྗེས་བཀོལ་གྲངས་དོ་དམ་བྱ་ཆོག།";
+
+/* No comment provided by engineer. */
+"登录后领取宝箱" = "ཐོ་འཇུག་རྗེས་ནོར་སྒམ་ལེན་";
+
+/* No comment provided by engineer. */
+"登录成功" = "ཐོ་ཞུགས་ལེགས་འགྲུབ་བྱུང་།";
+
+/* No comment provided by engineer. */
+"登录查看个人主页" = "ཐོ་ཞུགས་བྱེད་ནས་སྒེར་གྱི་པར་ངོས་ཐོག་མ་ལ་བལྟ།";
+
+/* No comment provided by engineer. */
+"登录查看粉丝数" = "དགའ་བའི་གྲངས་ཀ་ཐོ་འགོད་དང་ཞིབ་བཤེར་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"登录领现金" = "ཐོ་ཞིགས་བྱེད་ནས་ལག་དངུལ་ལེན།";
+
+/* No comment provided by engineer. */
+"白皙" = "དཀར་གཙང་།";
+
+/* No comment provided by engineer. */
+"盗图/抄袭" = "པར་རྐུ་བཤུས་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"盗用身份" = "རྐུ་སྤྱོད་ཐོབ་ཐང་།";
+
+/* No comment provided by engineer. */
+"直接保存" = "ཐད་ཀར་བསྡུ་ཉར།";
+
+/* No comment provided by engineer. */
+"直接分享，画质更清晰哦" = "ཐད་ཀར་བརྒྱུད་བསྐུར་བྱས་ན་པར་སྤུས་བཟང་།";
+
+/* (No Comment) */
+"直接拍照才可拆颜值红包哦~" = "ཐད་ཀར་པར་རྒྱབ་ན་ཁུག་དམར་ལེན་ཐུབ།";
+
+/* No comment provided by engineer. */
+"直播" = "ཐད་གཏོང་།";
+
+/* No comment provided by engineer. */
+"直线" = "དྲང་ཐིག";
+
+/* No comment provided by engineer. */
+"相关内容" = "འབྲེལ་ཡོད་ནང་དོན";
+
+/* No comment provided by engineer. */
+"相关权限受限，请到手机设置-美图秀秀-打开对应权限" = "འབྲེལ་ཡོད་ཀྱི་དབང་ཚད་ལ་ཚད་དགག་ཐེབས་པའི།ཁ་པར་གྱི་སྒྲིག་བཀོལ་ནས་མེའུ་ཐུའུ་མཛེས་བཟོ།དེ་ནས་དབ";
+
+/* No comment provided by engineer. */
+"相册" = "པར་རིས།";
+
+/* No comment provided by engineer. */
+"相机" = "པར་ཆས།";
+
+/* No comment provided by engineer. */
+"相机设置" = "པར་ཆས་སྒྲིག་འགོད།";
+
+/* No comment provided by engineer. */
+"眉毛" = "སྨིན་མ།";
+
+/* No comment provided by engineer. */
+"眉毛(面部重塑)" = "སྨིན་མ།";
+
+/* No comment provided by engineer. */
+"眉高(面部重塑)" = "སྨིན་མ་རིང་།";
+
+/* No comment provided by engineer. */
+"眨眨眼" = "མིག་རྡེབ་རྡེབ།";
+
+/* No comment provided by engineer. */
+"眼妆" = "མིག་སྐག།";
+
+/* No comment provided by engineer. */
+"眼睛(面部重塑)" = "མིག།";
+
+/* (No Comment) */
+"眼睛放大" = "མིག་ཆེ་ཆུང་བཟོ་བ་";
+
+/* No comment provided by engineer. */
+"眼睛放大Label" = "མིག་ཆེ་ཆུང་བཟོ་བ་";
+
+/* No comment provided by engineer. */
+"眼距(面部重塑)" = "མིག་གི་བར་ཐག";
+
+/* No comment provided by engineer. */
+"眼高(面部重塑)" = "མིག་དཔངས་མཐོ་བ།";
+
+/* No comment provided by engineer. */
+"瞬间让照片高大上的拼图神器！" = "ངས་་མྱུར་ཏུ་འདྲ་པར་ཚང་མ་ཚད་རིམ་མཐོ་བའི་པར་སྒྲིག་ཆས་སུ་གཏོང་ཐུབ།";
+
+/* No comment provided by engineer. */
+"知道了" = "ཤེས་སོང་།";
+
+/* No comment provided by engineer. */
+"矫正" = "ཡོ་བསྲང་།";
+
+/* No comment provided by engineer. */
+"短(五官)" = "ཐུང་";
+
+/* (No Comment) */
+"短视频，超好看！1.5亿用户正在看美拍！" = "བརྙན་ཐུང་དེ་ལས་ཀྱང་མཛེས།བཀོལ་མཁན་དུས་ཕྱུར་༡༥ལྟ་བཞིན་པའི་མཛེས་བརྙན།";
+
+/* No comment provided by engineer. */
+"确定" = "ངེས་གཏན།";
+
+/* No comment provided by engineer. */
+"确定不再关注Ta吗？" = "ཁོ་ལ་དངོས་གནས་དོ་ཁུར་མི་བྱེད་དམ།";
+
+/* No comment provided by engineer. */
+"确定关闭颜值管家？" = "མཛེས་ལོད་སྐྱེ་འབྲས་ཁ་རྒྱག་སྒོ་རྒྱག་གཏན་འཁེལ་ཕྱག་མཛོད་།";
+
+/* No comment provided by engineer. */
+"确定删除你的颜值管家？" = "ཁྱོད་ཀྱི་མཛེས་བཟོ་ཡིག་ཚགས་བསུབ་རྒྱུ་ཁག་ཐེག་ཡིན་ནམ། ";
+
+/* No comment provided by engineer. */
+"确定删除所选中的素材?" = "གདམ་ཟིན་པའི་ཐོག་མའི་དཔྱད་གཞི་དག་དངོས་གནས་གསུབ་བམ།";
+
+/* No comment provided by engineer. */
+"确定删除该滤镜？" = "འཚག་ཤེལ་འདི་དངོས་གནས་གསུབ་བམ།";
+
+/* No comment provided by engineer. */
+"确定前往美拍吗~" = "མཛེས་པར་ལེན་དུ་འགྲོ་རྒྱུ་གཏན་ཁེལ་ཡིན་ནམ།";
+
+/* No comment provided by engineer. */
+"确定恢复到默认效果吗?" = "སོར་བཞག་གི་ཕན་འབྲས་ཐོན་པར་ཁག་ཐེག་བྱེད་ཐུབ་བམ།";
+
+/* (No Comment) */
+"确定重新发送该反馈？" = "བསམ་འཆར་འདི་ཡང་བསྐྱར་སྐུར་རྒྱུ་ཐག་གཅོད་དམ།";
+
+/* No comment provided by engineer. */
+"确认" = "ཐག་ཆོད་པ།";
+
+/* No comment provided by engineer. */
+"确认删除" = "གཏན་འཁེལ་སུབ་བཅོས་བྱེད།";
+
+/* No comment provided by engineer. */
+"确认删除%ld个收藏？" = "%ldཉར་ཚགས་བྱེད་ཡོད་པ་གསུབ་རྒྱུ་གཏན་ཁུལ་ཡིན་ནམ།";
+
+/* No comment provided by engineer. */
+"确认删除该消息?" = "དངོས་གནས་བརྡ་འཕྲིན་འདི་གསུབ་བམ།";
+
+/* No comment provided by engineer. */
+"确认删除这个收藏夹？" = "ཉར་དེབ་ཁང་འདི་གསུབ་རྒྱུ་ཡིན་པ་གཏན་ཁེལ་ཡིན་ནམ།";
+
+/* (No Comment) */
+"确认添加" = "ཁ་སྣོན་གཏན་ཁེལ་བྱེད་པ།";
+
+/* (No Comment) */
+"磨皮" = "བརྡར་ལྤགས།";
+
+/* No comment provided by engineer. */
+"社区" = "སྤྱི་ཁུལ།";
+
+/* (No Comment) */
+"祛斑祛痘" = "སྲེ་ཐིག་སེལ་བྱེད།";
+
+/* No comment provided by engineer. */
+"祛皱" = "གཉེར་མ་ལེན་བ།";
+
+/* No comment provided by engineer. */
+"祛皱笔" = "གཉེར་མ་མཛེས་བཟོའི་སྨྱུ་གུ";
+
+/* (No Comment) */
+"祛黑眼圈" = "མིག་མཐའི་ནག་པོ་སེལ་བ།";
+
+/* No comment provided by engineer. */
+"祛黑眼圈Label" = "མིག་མཐའི་ནག་པོ་སེལ་བ།";
+
+/* No comment provided by engineer. */
+"私信" = "གསང་ཡིག་";
+
+/* No comment provided by engineer. */
+"私密收藏夹" = "གསང་བའི་ཉར་དེབ།";
+
+/* No comment provided by engineer. */
+"移出黑名单" = "ལྐོག་འགོད་མིང་ཐོ་ལས་ལེན་པ།";
+
+/* No comment provided by engineer. */
+"移动" = "སྤོར་འགུལ།";
+
+/* No comment provided by engineer. */
+"移动定位点调整妆容" = "གནས་ཐིག་གཏན་ཁེལ་གྱིས་དྲིལ་བསྒྲགས་ཆས་སྙོམས་སྒྲིག་བྱས།";
+
+/* No comment provided by engineer. */
+"移动网络下不会自动播放视频哦" = "སྤོ་འགུལ་དྲ་རྒྱའི་ཁྲོད་དུ་རང་འགུལ་གྱིས་བརྙན་གཏོང་མི་ཐུབ།";
+
+/* No comment provided by engineer. */
+"移动至" = "སྤོར་འགུལ་ཁྲོད།";
+
+/* No comment provided by engineer. */
+"稍后设置" = "རྗེས་ནས་སྒྲིག་དང།";
+
+/* No comment provided by engineer. */
+"窄(五官)" = "ཞང་ཆེ་";
+
+/* No comment provided by engineer. */
+"立即参与" = "མྱུར་དུ་ཞུགས།";
+
+/* No comment provided by engineer. */
+"立即完善资料" = "མྱུར་དུ་རྒྱུ་ཆ་འཐུས་ཚང་དུ་གཏོང་དགོས།";
+
+/* No comment provided by engineer. */
+"立即开启" = "འཕྲལ་མར་ཕྱེ་བ། ";
+
+/* No comment provided by engineer. */
+"立即更新" = "མྱུར་དུ་གསར་སྒྱུར་བྱེད་པ";
+
+/* No comment provided by engineer. */
+"立即登录" = "མྱུར་དུ་ཐོ་འཇུག་བྱོས་།";
+
+/* No comment provided by engineer. */
+"立即登录注册" = "འཕྲལ་མར་ཐོ་ཞུགས།ཐོ་འགོད།";
+
+/* No comment provided by engineer. */
+"立即绑定" = "དེ་མ་ཐག་ཏུ་སྦྲེལ་རོགས།";
+
+/* No comment provided by engineer. */
+"第一段会变成首页标题哦！" = "ཚན་པ་དང་པོ་ཤོག་ངོས་དང་པོའི་ཁ་བྱང་དུ་འགྱུར་སྲིད།";
+
+/* No comment provided by engineer. */
+"等待中..." = "རེ་སྒུག་ཁྲོད།";
+
+/* (No Comment) */
+"简单" = "སླ་མོ།";
+
+/* No comment provided by engineer. */
+"简单边框" = "མཐའ་ཤིང་སྟབས་བདེ།";
+
+/* No comment provided by engineer. */
+"管理" = "དོ་དམ།";
+
+/* No comment provided by engineer. */
+"粉丝" = "རྒྱབ་སྐྱོར་པ།";
+
+/* No comment provided by engineer. */
+"粗(五官)" = "སྦོམ་";
+
+/* No comment provided by engineer. */
+"精致" = "སྤུས་དག";
+
+/* No comment provided by engineer. */
+"精致五官" = "ལེགས་སྒྲ";
+
+/* (No Comment) */
+"系统蓝牙未打开" = "ད་དུང་བོད་ཀྱི་ལོ་རྒྱུས་སྔོ་སོ།";
+
+/* No comment provided by engineer. */
+"素材上新，好玩的活动再也不会错过啦" = "རྒྱུ་ཆ་ཆེས་གསར་བ་དང་བྱ་འགུལ་ཆེས་སྐྱིད་པོ་ད་ནས་བཟུང་བོར་མི་སྲིད།";
+
+/* No comment provided by engineer. */
+"素材下载中" = "རྒྱུ་ཆ་ཕབ་ལེན་བྱེད་བཞིན་པ།";
+
+/* No comment provided by engineer. */
+"素材下载中..." = "ཐོག་མ་འི། རྒྱུ་ཆ་ཕབ་ལེན་བྱེད་བཞིན་པ།";
+
+/* No comment provided by engineer. */
+"素材下载失败" = "རྒྱུ་ཆ་ཕབ་ལེན་བྱེད་མི་ཐུབ།";
+
+/* No comment provided by engineer. */
+"素材下载数量：%ld个" = "ྱུ་ཆ་ཕབ་ལེན་གྲངས་འབོར：%ld";
+
+/* No comment provided by engineer. */
+"素材中心" = "རྒྱུ་ཆའི་ལྟེ་གནས།";
+
+/* (No Comment) */
+"素材中心全新升级啦！" = "དཔྱད་གཞི་ལྟེ་བ་རིམ་གསར་དུ་འཕར་བ།";
+
+/* (No Comment) */
+"素材中心在这里哦~" = "རྒྱུ་ཆའི་ལྟེ་གནས་འདི་ན་ཡོད།";
+
+/* (No Comment) */
+"素材中心需要有网络才可以使用哦！当前无可用网络，请确保您已经开启GPRS或WIFI!" = "ཐོག་མའི་ལྟེ་གནས་དགོས་དྲ་རྒྱ་ད་གཟོད་བཀོལ་སྤྱོད་ཨོ། མིག་སྔར་མེད་པའི་རང་བྱུང་དྲ་རྒྱ། འགན་ལེན་ཁྱེད་ཟིན་པའི་རྒྱང་སྐྱོད་GPRSའམ་WIFI།";
+
+/* No comment provided by engineer. */
+"素材管理" = "དཔྱད་གཞི་དོ་དམ།";
+
+/* No comment provided by engineer. */
+"红润" = "དམར་ཞིང་འཇམ་པ།";
+
+/* No comment provided by engineer. */
+"红色区域为增高区域" = "ཁྱབ་ཁོངས་དམར་པོ་དེ་ཁྱབ་ཁོངས་ཇེ་ཆར་ལ་གཏོང་བ།";
+
+/* (No Comment) */
+"纯色背景" = "མདོག་གཅིག་རྒྱབ་ལྗོངས།";
+
+/* No comment provided by engineer. */
+"纵向" = "གཞུང་ཕྱོགས།";
+
+/* (No Comment) */
+"线形" = "ཐིག་རྣམ།";
+
+/* No comment provided by engineer. */
+"细(五官)" = "ཕྲ་";
+
+/* No comment provided by engineer. */
+"绑定手机" = "འབྲེལ་བའི་ཁ་པར་";
+
+/* No comment provided by engineer. */
+"绑定手机可防止帐号被盗，并获得更多服务，点我绑定" = "ཁ་པར་བསྡམས་ན་ཨང་གྲངས་རྐུ་བ་འགོག་ཐུབ་པ་མ་ཟད་ད་དུང་ཞབས་ཞུ་མང་པོ་ཐོབ་ཐུབ།ངས་སྦྲེལ་ཐུབ་།";
+
+/* No comment provided by engineer. */
+"继续" = "མུ་མཐུད་དུ།";
+
+/* No comment provided by engineer. */
+"继续上滑将展示其他热门内容哦" = "མུ་མཐུད་དུ་དར་ཤུད་ཡིན་པས་གཞན་པའི་ཡིད་སྨོན་བྱེད་ཡུལ་འགྲེམ་སྟོན་བྱེད་དགོས།";
+
+/* No comment provided by engineer. */
+"继续下载" = "མུ་མཐུད་དུ་ཕབ་ལེན་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"继续制作" = "མུ་མཐུད་དུ་བཟོ་སྐྲུན་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"继续完善" = "མུ་མཐུད་དུ་འཐུས་ཚང་གཏོང་རོགས།";
+
+/* No comment provided by engineer. */
+"继续拼图" = "མུ་མཐུད་དུ་པར་རིས་སྒྲིག་མཐུད།";
+
+/* No comment provided by engineer. */
+"继续编辑" = "མུ་མཐུད་དུ་རྩོམ་སྒྲིག་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"继续美化" = "མུ་མཐུད་མཛེས་བཟོ་";
+
+/* No comment provided by engineer. */
+"继续美容" = "རྣམ་པ་མཛེས་བཟོ།";
+
+/* No comment provided by engineer. */
+"继续试听" = "མུ་མཐུད་དུ་བསྐྱར་ཉན།";
+
+/* No comment provided by engineer. */
+"缓存已清空" = "ནང་འཇུག་གཙང་བཤེར་བྱེད་ཚར།";
+
+/* No comment provided by engineer. */
+"编辑" = "དག་སྒྲིག།";
+
+/* No comment provided by engineer. */
+"编辑个人资料" = "སྒེར་གྱི་རྒྱུ་ཆ་ལ་རྩོམ་སྒྲིག་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"编辑收藏夹" = "ཉར་དེབ་ཁང་རྩོང་སྒྲིག";
+
+/* No comment provided by engineer. */
+"编辑资料" = "རྒྱུ་ཆ་རྩོམ་སྒྲིག་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"网络好像出问题了，请重试。" = "དྲ་རྒྱ་ལ་ཕལ་ཆེལ་གནད་དོན་བྱུང་ཡོད་འདུག ཡང་བསྐྱར་ཚོད་ལྟ་བྱ་རོགས།";
+
+/* No comment provided by engineer. */
+"网络好像有问题哦~" = "དྲ་རྒྱ་ཕལ་ཆེལ་གནད་དོན་བྱུང་འདུག";
+
+/* No comment provided by engineer. */
+"网络提示" = "དྲ་བའི་གསལ་སྟོན།";
+
+/* No comment provided by engineer. */
+"网络有问题，点击重试" = "དྲ་རྒྱར་གནད་དོན་བྱུང་ཡོད་པའི་ཡང་བསྐྱར་ཚོད་ལྟ་རོགས།";
+
+/* No comment provided by engineer. */
+"网络连接不顺畅，请稍后再试" = "དྲ་རྒྱ་འབྲེལ་མཐུད་ལེགས་འགྲུབ་མ་བྱུང་བའི། ཅུང་ཙམ་འགོར་ནས་ཡང་བསྐྱར་ཚོད་ལྟ་བྱ་རོགས།";
+
+/* No comment provided by engineer. */
+"网络连接失败，请设置后重试~" = "དྲ་རྒྱའི་འབྲེལ་མཐུད་ལ་ཕམ་ཁ་བྱུང་བས་སྒྲིག་བཀོད་རྗེས་སུ་ཚོད་ལྟ་བྱས།";
+
+/* No comment provided by engineer. */
+"美化下一张" = "པར་རིས་རྗེས་མ་ཡི་རྣམ་པ་མཛེས་བཟོ་བྱས།";
+
+/* No comment provided by engineer. */
+"图片美化" = "འདྲ་པར་མཛེས་བཟོ།";
+
+/* No comment provided by engineer. */
+"图片美化小技巧" = "མཛེས་ཉམས་རི་མོའི་ཐབས་རྩལ་ཆུང་ཆུང་།";
+
+/* No comment provided by engineer. */
+"美化美容使用攻略" = "རྣམ་པ་མཛེས་བཟོ་བྱས་དེ་མཛེས་སྤྲས་བྱེད་པའི་ཐབས་ལམ།";
+
+/* No comment provided by engineer. */
+"美图AI" = "མཛེས་རིས་AI";
+
+/* No comment provided by engineer. */
+"美图ID" = "Meitu ID";
+
+/* No comment provided by engineer. */
+"美图ID已复制" = "མཛེས་པར་ཨང་གྲངསཐོ་ཞུགས།";
+
+/* No comment provided by engineer. */
+"美图出品【海报工厂】" = "མེའུ་ཐུའུ་ཐོན་རྫས་【ཚགས་པར་བཟོ་གྲྭ】";
+
+/* No comment provided by engineer. */
+"美图定制" = "MeituDIY";
+
+/* (No Comment) */
+"美图帐号" = "མེའུ་ཐུའུ་ཡི་ནང་དོན་གསར་ཤོས་རིགས་འཚོལ་བ།";
+
+/* (No Comment) */
+"美图帐号登录" = "མཛེས་པའི་རི་མོ་རྩིས་ཐོའི་ཨང་གྲངས་ཞུགས།";
+
+/* No comment provided by engineer. */
+"美图用户推荐" = "མེའུ་ཐུའུ་བེད་སྤྱོད་མཁན་གྱི་འོས་སྦྱོར་བྱེད།";
+
+/* No comment provided by engineer. */
+"美图秀秀" = "མཛེས་པར་ངོམ་པ།";
+
+/* No comment provided by engineer. */
+"美图秀秀#动漫化身#" = "Meitu #འགུལ་རིས་ཀྱི་རྣམ་པ།#";
+
+/* (No Comment) */
+"美图秀秀ID 已复制" = "མཛེས་པར་ཨང་གྲངསཐོ་ཞུགས།";
+
+/* (No Comment) */
+"美图秀秀九格切图" = "རིམ་དགུའི་པར་གཅོད།";
+
+/* (No Comment) */
+"美图秀秀小应用" = "མེའུ་ཐུའུ་མཛེས་བཟོ་ཡི་རིམ་པ།";
+
+/* No comment provided by engineer. */
+"美图秀秀小程序" = "མེའུ་ཐུའུ་མཛེས་བཟོ་ཡི་རིམ་པ།";
+
+/* No comment provided by engineer. */
+"美图秀秀服务条款" = "མེའུ་ཐུའུ་མཛེས་བཟོ་ཡི་ཞབས་ཞུའི་དོན་ཚན།";
+
+/* No comment provided by engineer. */
+"美图秀秀社区" = "མེའུ་ཐུའུ་མཛེས་བཟོ་ཡི་སྤྱི་ཁུལ།";
+
+/* No comment provided by engineer. */
+"美图精选推送" = "མཛེས་པར་གཅེས་འཏུས་ཀྱི་སྐྱེལ་བ་";
+
+/* (No Comment) */
+"美图贴贴" = "མཛེས་རིས་སྦྱར་ཤོག།";
+
+/* (No Comment) */
+"美图遥控器" = "མཛེས་རིས་རྒྱང་བསྒྱུར་ཆས།";
+
+/* (No Comment) */
+"美图遥控器连接发生未知错误" = "མཛེས་རིས་རྒྱང་བསྒྱུར་ཆས་འབྲེལ་མཐུད་ལ་ངོས་མ་ཟིན་པའི་ནོར་འཁྲུལ་བྱུང་།";
+
+/* No comment provided by engineer. */
+"美图风向标" = "ཚ་བསྒྲགས་རིམ་MT";
+
+/* No comment provided by engineer. */
+"美图黑科技" = "མཛེས་རྩལ་མཐོ་ཤོས།་";
+
+/* (No Comment) */
+"美型" = "མཛེས་གཟུགས།";
+
+/* No comment provided by engineer. */
+"美妆" = "མཛེས་བཟོ།";
+
+/* No comment provided by engineer. */
+"美容下一张" = "པར་རྗེས་མ་མཛེས་བཟོ་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"美形" = "མཛེས་དབྱིབས།";
+
+/* No comment provided by engineer. */
+"美拍" = "མཛེས་བརྙན།";
+
+/* (No Comment) */
+"美拍 – 最火的短视频社区" = "མཛེས་བརྙན།།ཆེས་རྒྱུག་ཆེ་བའི་བརྙན་ཐུང་གྲོང་ཚོགས།";
+
+/* No comment provided by engineer. */
+"美肤" = "པགས་མཛེས་";
+
+/* No comment provided by engineer. */
+"美腿" = "རྐང་པ་སྐམ་པོ།";
+
+/* No comment provided by engineer. */
+"美颜" = "མཛེས་བཟོ།";
+
+/* (No Comment) */
+"美颜相机" = "མཛེས་བཟོ།སྟབས་བསྟུན།";
+
+/* No comment provided by engineer. */
+"美食" = "ཟས་ཞིམ།";
+
+/* No comment provided by engineer. */
+"肤色" = "ངོ་པགས།";
+
+/* No comment provided by engineer. */
+"肤色美白" = "ཤ་མདོག་པོ་";
+
+/* No comment provided by engineer. */
+"肩部" = "ཕྲག་པ།";
+
+/* No comment provided by engineer. */
+"背景" = "རྒྱབ་ལྗོངས་";
+
+/* No comment provided by engineer. */
+"背景保护" = "རྒྱབ་ལྗོངས་སྲུང་སྐྱོང་";
+
+/* No comment provided by engineer. */
+"背景保护(开启)" = "རྒྱབ་ལྗོངས་སྲུང་སྐྱོང་";
+
+/* (No Comment) */
+"背景列表" = "རྒྱབ་ལྗོངས་རེའུ་མིག་བཀོད། ";
+
+/* (No Comment) */
+"背景虚化" = "རྒྱབ་ལྗོངས་རྫུན་ཅན། ";
+
+/* No comment provided by engineer. */
+"脸型" = "གདོང་དབྱིབས།";
+
+/* No comment provided by engineer. */
+"脸型(面部重塑)" = "གདོང་དབྱིབས།";
+
+/* No comment provided by engineer. */
+"脸宽(面部重塑)" = "ངོ་ཞེང་།";
+
+/* No comment provided by engineer. */
+"脸部不能遮挡哦" = "ངོ་གདོང་འགོག་འགེབས་བྱེད་མི་ཆོག";
+
+/* No comment provided by engineer. */
+"自动" = "རང་འགུལ།";
+
+/* (No Comment) */
+"自动保存到相册" = "རང་འགུལ་ངང་པར་མཛོད་དུ་བསྡུ་ཉར་བྱེད་པ།";
+
+/* (No Comment) */
+"自动关闭拍照声音" = "རང་འགུལ་ངང་པར་རྒྱག་པའི་སྒྲ་ཁ་རྒྱག་པ།";
+
+/* No comment provided by engineer. */
+"自定义" = "རང་སྒྲུབ།";
+
+/* No comment provided by engineer. */
+"自定义贴纸" = "སྦྱར་ཤོག་རང་སྒྲུབ་བྱོས།";
+
+/* No comment provided by engineer. */
+"自定义贴纸人像识别" = "རང་མཚན་རང་བཞིན་སྦྱར་ཤོག་མི་ངོས་འཛིན་པ་།";
+
+/* (No Comment) */
+"自拍美颜" = "རང་འགུལ་མཛེས་བཟོ།";
+
+/* No comment provided by engineer. */
+"自然" = "རང་བྱུང་།";
+
+/* No comment provided by engineer. */
+"自由" = "རང་དབང་།";
+
+/* (No Comment) */
+"自由拼图背景" = "རང་འགུལ་པར་སྒྲིག་རྒྱབ་ལྗོངས།";
+
+/* No comment provided by engineer. */
+"至少需要1个文字" = "མ་མཐའ་ཡང་ཡི་གེ་གཅིག་དགོས།";
+
+/* No comment provided by engineer. */
+"至少需要一张图片哦" = "མ་མཐའ་ཡང་འདྲ་པར་གཅིག་དགོས།";
+
+/* No comment provided by engineer. */
+"色情低俗" = "འདོད་ཆགས་ཐ་ཤལ།";
+
+/* No comment provided by engineer. */
+"色散" = "མདོག་ཐོར།";
+
+/* No comment provided by engineer. */
+"色温" = "མདོག་དྲོད།";
+
+/* No comment provided by engineer. */
+"艺术家主页" = "སྒྱུ་རྩལ་པས་གཙོ་ངོས།";
+
+/* No comment provided by engineer. */
+"艺术家还没有添加微博链接哦～" = "སྒྱུ་རྩལ་པ་ཁྱེད་ཀྱིས་ད་རུངཔོད་ཕྲན་གྱི་་སྦྲེལ་མཐུད་མནན་མི་འདུག";
+
+/* No comment provided by engineer. */
+"若您未开启网络权限，请点此开启。" = "གལ་ཏེ་ཁྱོད་ཀྱིས་དྲ་རྒྱའི་དབང་ཚད་ཀྱི་སྒོ་ཕྱེ་མེད་ན།  དེའི་སྒོ་ཕྱེ་རོགས།";
+
+/* No comment provided by engineer. */
+"草稿箱" = "མ་ཟིན་སྒམ་";
+
+/* (No Comment) */
+"获取地理位置失败,请确认定位功能已打开" = "ས་གནས་གཏན་འཁེལ་བྱེད་མ་ཐུབ།དེ་དང་འབྲེལ་བའི་བྱེད་ནུས་ཁ་ཕྱེ་ཡོད་མེད་ལྟ་རོགས།";
+
+/* No comment provided by engineer. */
+"获取最新版本信息..." = "པར་གཞི་གསར་བའི་བརྡ་འཕྲིན་འབྱོར་བ།";
+
+/* No comment provided by engineer. */
+"获赞与收藏" = "བཟང་བསྟོད་ཐོབ་པ་དང་ཉར་ཚགས་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"萌拍" = "གཅེས་པར།";
+
+/* No comment provided by engineer. */
+"萌拍不支持使用精致五官哦～" = "མཛེས་བཟོ་མ་ལག་འདི་ཡིས་སྤུས་དག་ཅན་གྱི་དབང་ལྔ་ལེགས་སྒྲིག་བྱེད་པ་ལ་རྒྱབ་སྐྱོར་མི་འདུག";
+
+/* No comment provided by engineer. */
+"萌趣" = "བླང་བྱ་།";
+
+/* No comment provided by engineer. */
+"虚假广告" = "རབ་རིབ་བྱེད་ནུས་ཀྱི་སྒོ་རྒྱབ་ཡོད།";
+
+/* No comment provided by engineer. */
+"虚化" = "ཚགས་ཤེལ་མང་པོ།";
+
+/* (No Comment) */
+"虚化功能已关闭" = "ཚགས་ཤེལ་གཏོང་བའི་བྱེད་ནུས་ཁ་རྒྱབ།";
+
+/* (No Comment) */
+"虚化功能已开启" = "ཚགས་ཤེལ་གཏོང་བའི་བྱེད་ནུས་ཁ་ཕྱེ།";
+
+/* No comment provided by engineer. */
+"虚化已关闭" = "ཚགས་ཤེལ་གཏོང་བའི་བྱེད་ནུས་ཁ་རྒྱབ།";
+
+/* (No Comment) */
+"虚化画面背景" = "ཚགས་ཤེལ་པར་རིས་རྒྱབ་ལྗོངས།";
+
+/* No comment provided by engineer. */
+"补光关闭" = "གསབ་འོད་ཀྱི་སྒོ་བརྒྱབ་ཡོད།";
+
+/* No comment provided by engineer. */
+"补光开启" = "གསབ་འོད་ཀྱི་སྒོ་ཕྱེ་ཡོད།";
+
+/* No comment provided by engineer. */
+"补光灯功能已关闭" = "གསབ་འོད་གློག་སྒྲོན་ནུས་བ་ཡི་སྒོ་རྒྱབ་ཡོད།";
+
+/* No comment provided by engineer. */
+"补光灯功能已开启" = "གསབ་འོད་གློག་སྒྲོན་ནུས་བ་ཡི་སྒོ་ཕྱེ་ཡོད།";
+
+/* No comment provided by engineer. */
+"表情" = "བཟོ་བལྟ་།";
+
+/* No comment provided by engineer. */
+"表情包" = "བཟོ་ལྟའི་ཁུག་མ།";
+
+/* (No Comment) */
+"表情工厂" = "ཉམས་འགྱུར་བཟོ་གྲྭ།";
+
+/* No comment provided by engineer. */
+"裁剪" = "འདྲ་གཅོད།";
+
+/* No comment provided by engineer. */
+"装扮" = "མཛེས་བཟོ་།";
+
+/* No comment provided by engineer. */
+"褪色" = "མདོག་ལོག་";
+
+/* (No Comment) */
+"观看完此视频，即可解锁包括「%@」在内的所有魔幻笔。" = "བརྙན་ཐུང་འདི་བལྟས་ཚར་རྗེས། %@ནང་ལོག་ཀྱི་མཚར་སྨྱུག་ཚང་མ་བེད་སྤྱོད་བྱ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"视频" = "བརྙན་ཐུང་།";
+
+/* No comment provided by engineer. */
+"视频和图片处理成功后，不会自动保存" = "བརྙན་ཐུང་དང་འདྲ་པར་སྒྲིག་བཟོ་བྱས་ཚར་རྗེས།རང་འགུལ་ངང་བསྡ་ཉར་མི་བྱ།";
+
+/* No comment provided by engineer. */
+"视频和照片处理成功后，将自动保存到本地" = "བརྙན་ཐུང་དང་འདྲ་པར་སྒྲིག་བཟོ་བྱས་ཚར་རྗེས།རང་འགུལ་བསྡུ་ཉར་བྱེད་པ།";
+
+/* (No Comment) */
+"视频将在WiFi条件下自动播放哦" = "བརྙན་ཐུང་འདི་WIFIཆ་རྐྱེན་འོག་ཏུ་རང་འགུལ་ངང་གཏོང་ཐུབ།";
+
+/* No comment provided by engineer. */
+"视频将在移动网络下自动播放哦" = "བརྙན་ནི་མི་འགྱངས་བར་སྤོ་འགུལ་དྲ་རྒྱའི་ཁྲོད་དུ་རང་འགུལ་གྱིས་གཏོང་སྲིད།";
+
+/* No comment provided by engineer. */
+"视频已保存到相册；" = "བརྙན་དེ་པར་སྒམ་ནང་དུ་ཉར་ཚགས་བྱས་ཡོད།";
+
+/* No comment provided by engineer. */
+"视频录制好后将自动变声哦~" = "བརྙན་ཕབ་བཟོ་ཡག་པོ་བྱས་རྗེས་རང་འགུལ་སྒྲ་འགྱུར་སྲིད།";
+
+/* No comment provided by engineer. */
+"视频时长最短1秒哦" = "བརྙན་གྱི་དུས་ཡུན་ཆེས་ཐུང་ན་སྐར་ཆ་གཅིག";
+
+/* (No Comment) */
+"视频时长最短3秒哦" = "བརྙན་གྱི་དུས་ཡུན་ཆེས་ཐུང་ན་སྐར་ཆ་གསུམ།";
+
+/* No comment provided by engineer. */
+"视频生成中..." = "བརྙན་འགྲུབ་བཞིན་པ།";
+
+/* No comment provided by engineer. */
+"视频还未保存，你要放弃本次拍摄么？" = "བརྙན་རིས་ད་རུང་ཉར་ཚགས་བྱེད་མེད་པས། ཁྱོད་ཀྱིས་ཐེངས་འདིས་བརྙན་རིས་བསྐྱུར་རམ།";
+
+/* No comment provided by engineer. */
+"觉得不错的话就给个五星好评吧^ ^~" = "ཡག་པོ་འདུག་ན་སྐར་ལྔའི་གཟེངས་བསྟོད་སྟེར་རོགས།";
+
+/* No comment provided by engineer. */
+"解锁" = "ཟྭ་ཕྱེ་བ།";
+
+/* No comment provided by engineer. */
+"解锁%@个地标，超过%d%%的用户" = "ཟྭ་་ཕྱེ་བ།%@ཡི་ས་རྟགས།，ཚད་བརྒལ་%d%%ཡི་བེད་སྤྱོད་མཁན།";
+
+/* (No Comment) */
+"解锁并分享" = "བརྒྱུད་བསྐུར་དང་བེད་སྤྱོད།";
+
+/* (No Comment) */
+"解锁成功" = "བེད་སྤྱོད་ཐུབ།";
+
+/* No comment provided by engineer. */
+"触屏拍摄" = "མཛུབ་གནོན་བརྙན་ཤེལ་གྱིས་པར་རྒྱག་པ།";
+
+/* No comment provided by engineer. */
+"触屏拍照已关闭" = "མཛུབ་གནོན་བརྙན་ཤེལ་པར་ཆས་ཀྱི་ཁ་རྒྱག་ཚར།";
+
+/* (No Comment) */
+"警告" = "ཉེན་བརྡ།";
+
+/* No comment provided by engineer. */
+"设置" = "སྒྲིག་བཀོད།";
+
+/* No comment provided by engineer. */
+"设置封面" = "མདུན་ཤོག་སྒྲིག་འགོད་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"设置语言" = "སྐད་རིགས་སྒྲིག་འགོད་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"评论" = "དཔྱད་བརྗོད།";
+
+/* No comment provided by engineer. */
+"评论成功" = "དཔྱད་བརྗོད་ལེགས་འགྲུབ་བྱུང་།";
+
+/* No comment provided by engineer. */
+"评论成功 " = "དཔྱད་བརྗོད་ལེགས་འགྲུབ་བྱུང་།";
+
+/* No comment provided by engineer. */
+"评论详情" = "ཞིབ་ཕྲར་གཟིགས་པ།";
+
+/* No comment provided by engineer. */
+"识别到多人，请选择一位生成动漫形象" = "མི་མང་པོ་ངོ་ཤེས་སུ་བཅུག་སྟེ་འགུལ་ཙམ་ལྡན་པའི་སྣང་བརྙན་གྱི་འཐབ་གྲོགས་ཤིག་འདེམས་རོགས་སུ་གདན་འདྲེན་ཞུས།";
+
+/* No comment provided by engineer. */
+"识别到多人，请选择一位进行美容" = "མི་མང་པོའི་ཁྲོད་ནས་མི་གཅིག་གདམ་གསེས་བྱེད་དེ་རྣམ་པ་མཛེས་བཟོ་བྱ་རོགས།";
+
+/* No comment provided by engineer. */
+"识别失败" = "དབྱེ་འབྱེད་ཕམ་ཉེས་བྱུང་།";
+
+/* No comment provided by engineer. */
+"试听音乐需要耗费一定流量，建议在WiFi环境试听哦~" = "རོལ་དབྱངས་ཉན་འདོད་ན་བཞུར་རྒྱུན་ངེས་ཅན་ཞིག་གཟད་གྲོན་བྱེད་དགོས་པས།  རེ་བ་ན་སྐུད་མེད་དྲ་ཡོད་ས་ནས་ཉན་རོགས།";
+
+/* No comment provided by engineer. */
+"话题" = "གླེང་གཞི།";
+
+/* (No Comment) */
+"该专题已不存在了哦~" = "གླེང་གཞི་འདི་མི་འདུག";
+
+/* No comment provided by engineer. */
+"该分类已不存在了哦~" = "རིགས་དབྱེ་འདི་ད་ལྟ་་མི་འདུག";
+
+/* No comment provided by engineer. */
+"该分类还未下载任何素材，快去素材中心下载吧！" = "རྒྱུ་ཆ་འདི་དག་ད་རུང་ཕབ་ལེན་བྱེད་མེད་པས། མྱུར་དུ་རྒྱུ་ཆ་སྟུ་གནས་ནས་ཕབ་ལེན་བྱེད་དགོས།";
+
+/* No comment provided by engineer. */
+"该图片处理后尺寸过小，会影响最终效果哦，确定选择本图片？" = "འདྲ་པར་འདི་ཐག་གཅོད་རྗེས་རིང་ཐུང་གི་ཚད་ཆུང་དྲག་པའི།ཆེས་མཐའ་མཇུག་གི་གྲུབ་འབྲས་ལ་ཤགས་རྐྱེན་ཐེབས་སྲིད།དེ་བས་འདྲ་པར་འདི་དངོས་གནས་གསམགསེས་བྱེད་དམ།";
+
+/* No comment provided by engineer. */
+"该地标下还没有内容哦" = "ས་རྟགས་འདིའི་རྗེས་ནས་གནས་སྐབས་ནང་དོན་གཞན་མེད། ";
+
+/* No comment provided by engineer. */
+"该城市下还没有地标哦" = "གྲོང་ཁྱེར་འདི་ལ་ད་རུང་ས་རྟགས་མི་འདུག";
+
+/* No comment provided by engineer. */
+"该素材不支持切换取景尺寸" = "རྒྱུ་ཆ་དེས་གཡོ་དཔེ་སྒྱུར་པའི་རིང་ཐུང་ལ་རྒྱབ་སྐྱོར་བྱེད་མི་ཐུབ་";
+
+/* No comment provided by engineer. */
+"该素材不支持切换摄像头" = "རྒྱུ་ཆ་དེས་བརྙན་མིག་བསྡུ་ལེན་བྱེད་པར་རྒྱབ་སྐྱོར་བྱེད་མི་ཐུབ་";
+
+/* No comment provided by engineer. */
+"该素材不支持闪光灯" = "རྒྱུ་ཆ་དེས་འཁྲུག་སྒྲོན་ལ་རྒྱབ་སྐྱོར་བྱེད་མི་ཐུབ་";
+
+/* No comment provided by engineer. */
+"该素材不支持防抖" = "རྒྱུ་ཆ་དེས་འདར་འགོག་ལ་རྒྱབ་སྐྱོར་བྱེད་མི་ཐུབ་";
+
+/* No comment provided by engineer. */
+"该素材仅在限定时间内使用哦" = "རྒྱུ་ཆ་འདི་དག་དུས་བཀག་ཡོད་པའི་ནང་བཀོལ་སྤྱོད་བྱེད་པ།";
+
+/* (No Comment) */
+"该素材仅支持%ld张哦" = " རྒྱུ་ཆ་འདིས་%ldཔར་འདི་ཁོ་ན་ལ་རྒྱབ་སྐྱོར་བྱེད།";
+
+/* No comment provided by engineer. */
+"说点什么..." = "ཚིག་འགའ་ཤོད།";
+
+/* No comment provided by engineer. */
+"说点什么吧" = "སྐབས་འདིར་ཅི་ཞིག་མཉམ་སྤྱོད་བྱེད་འདོད།";
+
+/* (No Comment) */
+"请 重新点击 手机与遥控器" = "ཡང་བསྐྱར་ཁ་པར་དང་རྒྱང་བསྒྱུར་ཤེལ་མཐེབ་གནོན་བྱ་རོགས།";
+
+/* No comment provided by engineer. */
+"请保持正脸哦~" = "ངོ་གདོང་གཙང་མ་རྒྱུན་འཁྱོངས་བྱེད་རོགས།";
+
+/* (No Comment) */
+"请先完善资料哦~" = "ཆ་འཕྲིན་ཚང་སྐོང་བྱ་རོགས།";
+
+/* No comment provided by engineer. */
+"请先添加收藏" = "ཉར་ཚགས་སྣོན་རོགས།";
+
+/* (No Comment) */
+"请先选择%ld张照片" = "%ldཐོག་མར་འདྲ་པར་འདི་འདེམས་རོགས།";
+
+/* No comment provided by engineer. */
+"请在完整图片尺寸下添加标签哦" = "འདྲ་པར་གྱི་ཆེ་ཆུང་ཡོངས་རྫོགས་ཀྱི་འོག་ཏུ་ཤོག་བྱང་ཁ་སྣོན་བྱེད་རོགས།འ";
+
+/* No comment provided by engineer. */
+"请填写生日信息" = "སྐྱེས་སྐར་ཆ་འཕྲིན་འབྲི་རོགས།";
+
+/* (No Comment) */
+"请检查系统设置，是否开启了“访问限制”功能，并解除限制" = "མ་ལག་གི་སྒྲིག་བཟོ་རྟགས་དཔྱད་བྱས་ཏེ།ཁ་ཕྱེ་ཆོག་མཆན་གནང་ཡོད་མེད་ལྟས་ཏེ་ཆོག་མཆན་གནང་རོགས།";
+
+/* (No Comment) */
+"请求失败, 请检查您的网络后重试。" = "ཞུ་བ་ནོར་འཁྲུལ།སྐུ་ཉིད་ཀྱི་དྲ་ལམ་རྟགས་དཔྱད་བྱས་ཏེ་ཡང་བསྐྱར་ཚོད་ལྟ་བྱ་རོགས།";
+
+/* No comment provided by engineer. */
+"请求开启地理位置权限，为你推荐附近精彩内容" = "ས་ཁམས་གནས་ཡུལ་དབང་ཚད་སྒོ་འབྱེད་ནས། ཁྱེད་ལ་ཉེ་འཁོར་གྱི་ངོ་མཚར་བའི་ནང་དོན་འོས་སྦྱོར་བྱེད།";
+
+/* No comment provided by engineer. */
+"请输入昵称" = "འབོད་མིང་འབྲི་རོགས།";
+
+/* (No Comment) */
+"请选择%ld张照片" = "%ldའདྲ་པར་འདི་འདེམས་རོགས།";
+
+/* (No Comment) */
+"请选择1-9张照片" = "1-9བར་གྱི་འདྲ་པར་འདེམས་རོགས་";
+
+/* (No Comment) */
+"请选择分类" = "སྐྱེས་སྐར་འདེམས་རོགས།";
+
+/* No comment provided by engineer. */
+"请选择图片哦~" = "སྐུ་ཉིད་ཀྱི་འདྲ་པར་ཞིག་འདེམས་རོགས།";
+
+/* No comment provided by engineer. */
+"请选择图片或视频哦~" = "འདྲ་པར་འམ་བརྙན་རིས་འདེམས་རོགས།";
+
+/* No comment provided by engineer. */
+"请选择生日" = "རྒྱུ་ཆ་འདེམས་རོགས།";
+
+/* No comment provided by engineer. */
+"请选择素材" = "རྒྱུ་ཆ་འདེམས་རོགས།";
+
+/* No comment provided by engineer. */
+"请通知我" = "སྙོམས་སྒྲིག";
+
+/* No comment provided by engineer. */
+"调整" = "ཤོག་སྦྱར";
+
+/* (No Comment) */
+"调暗画面背景" = "པར་རིས་རྒྱབ་ལྗོངས་དཀར་ཚད་ཇེ་དམའ་རུ་གཏོང་བ།";
+
+/* (No Comment) */
+"谢谢您的建议!" = "སྐུ་ཉིད་ཀྱི་བསམ་འཆར་བཏོན་པ་བཀའ་དྲིན་ཆེ།";
+
+/* No comment provided by engineer. */
+"质感" = "ཐོག་མའི་ཚོར་བ།";
+
+/* (No Comment) */
+"购买美图遥控器" = "མཛེས་རིས་རྒྱང་བསྒྱུར་ཆས་ཉོ་རོགས།";
+
+/* No comment provided by engineer. */
+"贴纸" = "སྦྱར་ཤོག།";
+
+/* No comment provided by engineer. */
+"贴纸专辑" = "མཛེས་བཟོའི་མ་ལག་ཆེད་སྒྲིག";
+
+/* No comment provided by engineer. */
+"贴纸管理" = "ཤོག་སྦྱར་དོ་དམ་";
+
+/* No comment provided by engineer. */
+"资料更新成功" = "རྒྱུ་ཆ་གསར་བསྒྱུར་ལེགས་འགྲུབ་བྱུང་།";
+
+/* No comment provided by engineer. */
+"赞" = "བསྟོད།";
+
+/* No comment provided by engineer. */
+"赞了你" = "ཁྱོད་བསྟོད།";
+
+/* No comment provided by engineer. */
+"赞了你的评论" = "ཁྱོད་ཀྱི་དཔྱད་བརྗོད་ལ་བསྟོད་པ་བྱས།";
+
+/* No comment provided by engineer. */
+"超出发布范围" = "ཁྱབ་བསྒྲབས་བྱེད་པའི་ཁྱབ་ཁོངས་ལས་བརྒལ།";
+
+/* (No Comment) */
+"超过的字符将被删除哦~" = "ལས་བརྒལ་བའི་ཡིག་རྟགས་བྱས་པ་སུབ་པ་ཨོ།";
+
+/* No comment provided by engineer. */
+"超高清视频不支持导入哦~" = "གནས་སྤོར་བ།";
+
+/* (No Comment) */
+"跳过，暂不登录" = "གནས་སྐབས་ཐོ་ཞུགས་མི་བྱ།";
+
+/* No comment provided by engineer. */
+"身形" = "གཟུགས་དབྱིབས།";
+
+/* (No Comment) */
+"轻美型" = "མཛེས་བཟོ་སྟབས་བདེ།";
+
+/* (No Comment) */
+"辅助线" = "རམས་འདེགས་ཐིག";
+
+/* No comment provided by engineer. */
+"输入收藏夹名" = "ཉར་དེབ་ཀྱི་མིང་འགོད་རོགས།";
+
+/* (No Comment) */
+"边框" = "མཐའ་སྒྲོམ།";
+
+/* (No Comment) */
+"边框列表" = "མཐའ་ཤིང་ཐོ་ཡིག";
+
+/* (No Comment) */
+"边框管理" = "མཐའ་ཤིང་དོ་དམ།";
+
+/* No comment provided by engineer. */
+"过渡" = "བར་བརྒལ།";
+
+/* No comment provided by engineer. */
+"近(五官)" = "ཉེ་།";
+
+/* No comment provided by engineer. */
+"返回" = "ཕྱིར་ལོག";
+
+/* (No Comment) */
+"返回首页" = "ངོ་ངོས་ཕྱིར་ལྡོག།";
+
+/* No comment provided by engineer. */
+"还没关注？去发现页收获美好吧" = "ད་དུང་དོ་སྣང་བྱེད་མེད།མདུན་ངོས་སུ་སོང་ནས་མཛེས་སྡུག་དེ་ལས་མང་བ་འཚོལ་རོགས།";
+
+/* No comment provided by engineer. */
+"还没关注？去热门页发现更多美好吧" = "དོ་སྣང་བྱས་མེད་པས།མདུན་ངོས་སུ་སོང་ནས་མཛེས་སྡུག་དེ་ལས་མང་བ་འཚོལ་རོགས།";
+
+/* No comment provided by engineer. */
+"还没关注？去热门页收获美好吧" = "ད་རུང་དོ་ཁུར་བྱེད་མེད།  ལྡེབ་ངོས་ནས་མཛེས་བ་བསྡུ་ལེན་དང་གསར་རྙེད་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"还没关注？右滑去发现更多美好吧" = "ད་རུང་དོ་ཁུར་བྱེད་མེད། གཡས་སུ་འདྲེད་ན་མཛེས་བ་མང་པོ་ཞིག་གསར་རྙེད་བྱུང་།";
+
+/* No comment provided by engineer. */
+"还没好友？主动点，你们就有故事了" = "Sམ་སྐུལ་དང་བླངས་སྒོ་ནས་འབྲེལ་བ་བྱས་ན། ཁྱེད་གཉིས་ལ་གཏམ་རྒྱུད་བྱུང་ཟིན།";
+
+/* No comment provided by engineer. */
+"还没有草稿哦~" = "འདིར་ཟིན་བྲིས་མིན་འདུག་";
+
+/* No comment provided by engineer. */
+"这一刻想分享点什么~" = "སྐབས་འདིར་ཅི་ཞིག་མཉམ་སྤྱོད་བྱེད་འདོད།";
+
+/* No comment provided by engineer. */
+"这一刻想分享点什么～" = "སྐབས་འདིར་ཅི་ཞིག་མཉམ་སྤྱོད་བྱེད་དགོས་";
+
+/* No comment provided by engineer. */
+"这么久都没来撩我了，你知道我在等你吗？👄" = "ཡུན་རིང་ཞིག་ལ་ང་དང་མ་རྩེ་བས།   ངས་ཁྱོད་ལ་སྒུག་ཡོད་པ་ཁྱོད་ཀྱིས་ཤེས་སམ། ❤️";
+
+/* No comment provided by engineer. */
+"这就是首页啦~\\(≧▽≦)/~" = "~\\(≧▽≦)/~འདི་ནི་དཔེ་གཞི་ཐོག་མ་ཡིན།";
+
+/* No comment provided by engineer. */
+"这里展示你最近使用过的%d张贴纸～" = "འདི་ནས་ཁྱོད་ཀྱིས་ཉེ་ལམ་དུ་བཀོལ་སྤྱོད་བྱེད་པའི་ཤོག་བུ་སྦྱར་མ་༥༠གཏོང་།";
+
+/* (No Comment) */
+"这里切换特效哦" = "འདི་ནས་ཁྱད་ནུས་རྣམ་པ་བརྗེ་རོགས།";
+
+/* (No Comment) */
+"这里发现更多滤镜" = "འདི་ནས་འཚག་ཤེལ་དེ་ལས་མང་བ་འཚོལ་རོགས།";
+
+/* No comment provided by engineer. */
+"这里发现更多滤镜哦" = "འདི་ན་དེ་ལས་མང་གསར་རྙེད་ཀྱི་མེ་ལོང་འཚག་ཨོ་";
+
+/* No comment provided by engineer. */
+"这里发现更多素材" = "འདི་ནས་དཔྱད་གཞི་དེ་ལས་མང་བ་འཚོལ་རོགས།";
+
+/* (No Comment) */
+"这里可以删除素材哦" = "འདི་ནས་དཔྱད་གཞི་བསུབ་རོགས།";
+
+/* No comment provided by engineer. */
+"这里可以调整五官哦" = "འདི་ནས་དབང་བོ་ལྔ་བོ་ལེགས་སྒྲིག་བྱེད་ཆོག";
+
+/* (No Comment) */
+"这里添加妆容哦" = "མཛེས་བཟོ་ཁ་སྣོན་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"这里添加自定义贴纸哦" = "འདི་ན་མཚན་ཉིད་སྦྱོར་ཤོག་སྣོན་དགོས།";
+
+/* No comment provided by engineer. */
+"进入人像美容" = "མི་སྣའི་སྣང་བརྙན་མཛེས་བཟོ་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"进入相机" = "པར་ཆས་ནང་སླེབས་པ།";
+
+/* No comment provided by engineer. */
+"进入图片美化" = "འདྲ་པར་མཛེས་བཟོ་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"远(五官)" = "རྒྱང་།";
+
+/* (No Comment) */
+"连接" = "འབྲེལ་མཐུད།";
+
+/* (No Comment) */
+"连接失败！" = "འབྲེལ་མཐུད་མ་ཐུབ།";
+
+/* (No Comment) */
+"连接失败，请重新连接！" = "འབྲེལ་མཐུད་བྱ་མ་ཐུབ་པས་ཡང་བསྐྱར་ཚོད་ལྟ་བྱ་རོགས།";
+
+/* (No Comment) */
+"连接成功！" = "འབྲེལ་མཐུད་བྱས་ཟིན།";
+
+/* No comment provided by engineer. */
+"选图失败" = "པར་འདེམས་ནས་ནོར་འདུག";
+
+/* No comment provided by engineer. */
+"选择图片" = "འདྲ་པརགདམས་པ་།";
+
+/* No comment provided by engineer. */
+"选择好友" = "གྲོགས་གདམས་པ།";
+
+/* No comment provided by engineer. */
+"选择收藏夹" = "ཉར་དེབ་ཁང་འདེམ་པ།";
+
+/* No comment provided by engineer. */
+"选择正脸自拍照" = "གདོང་ལ་གཏད་དེ་རང་པར་རྒྱག་པ།";
+
+/* No comment provided by engineer. */
+"选择照片" = "འདྲ་པརགདམས་པ་།";
+
+/* No comment provided by engineer. */
+"选择音乐" = "选择音乐";
+
+/* No comment provided by engineer. */
+"透明度" = "དྭངས་ཚད།";
+
+/* No comment provided by engineer. */
+"通用" = "རྒྱུན་སྤྱོད།";
+
+/* (No Comment) */
+"遥控器写入防伪验证随机值失败" = "རྒྱང་བསྒྱུར་ཆས་ར་སྤྲོད་གྲངས་བྱེད་མ་ཐུབ།";
+
+/* (No Comment) */
+"遥控器已进入节能模式！30秒内单击遥控器可重新连接。" = "རྒྱང་བསྒྱུར་ཆས་ནུས་གྲོན་རྣམ་པར་བཅོས་འདུག།སྐར་ཆ་༣༠ནང་རྒྱང་བསྒྱར་མཐེབ་གནོན་བྱས་ན་ཡང་བསྐྱར་འབྲེ";
+
+/* (No Comment) */
+"遥控器电量不足15%，请及时更换电池！" = "རྒྱང་བསྒྱུར་ཆས་གློག་ནུས་15%མི་འདང་བས།གློག་སྣུམ་བརྗེ་རོགས།";
+
+/* (No Comment) */
+"遥控器读取防伪验证随机值失败" = "རྒྱང་བསྒྱུར་ཆས་ར་སྤྲོད་གྲངས་བྱེད་མ་ཐུབ།";
+
+/* (No Comment) */
+"遥控器连接中..." = "རྒྱང་བསྒྱུར་འབྲེལ་མཐུད་བྱེད་བཞིན་ཡོད།";
+
+/* (No Comment) */
+"遥控器连接超时" = "རྒྱང་བསྒྱུར་འབྲེལ་མཐུད་དུས་ཚོད་ལས་བརྒལ།";
+
+/* (No Comment) */
+"配件设置" = "མཁོ་ཆས་སྒྲིག་བཟོ།";
+
+/* No comment provided by engineer. */
+"重发该消息?" = "གནས་ཚུལ་དེ་ཡང་བསྐྱར་སྐུར་རམ།";
+
+/* (No Comment) */
+"重新点击" = "ཡང་བསྐྱར་མཐེབ་གནོན།";
+
+/* (No Comment) */
+"重新连接" = "ཡང་བསྐྱར་འབྲེལ་མཐུད།";
+
+/* No comment provided by engineer. */
+"重新选图" = "བསྐྱར་དུ་པར་གདམས་པ།";
+
+/* No comment provided by engineer. */
+"重置" = "བསྐྱར་བཀོད།";
+
+/* No comment provided by engineer. */
+"重试" = "ཡང་བསྐྱར་ཚོད་ལྟ་བྱོས།";
+
+/* No comment provided by engineer. */
+"锐化" = "རྟུལ་འགྱུར།";
+
+/* No comment provided by engineer. */
+"键盘" = "མཐེས་གཞུང་།";
+
+/* No comment provided by engineer. */
+"长(五官)" = "རིང་";
+
+/* No comment provided by engineer. */
+"长图" = "རི་མོ་རིང་བོ།";
+
+/* No comment provided by engineer. */
+"长按可更改图片顺序" = "རིང་པོ་མནན་ན་འདྲ་པར་གྱི་གོ་རིམ་བརྗེ་ཐུབ།";
+
+/* No comment provided by engineer. */
+"长按识别二维码" = "རྩ་གཉིས་ཨང་རྟགས་ཀྱི་རིང་ཚད་ལྟར་ངོས་འཛིན་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"闪光灯关闭" = "འོད་འཕྲོའི་གློག་སྒོ་བརྒྱབ་འདུག";
+
+/* No comment provided by engineer. */
+"闪光灯已关闭" = "འོད་འཕྲོའི་གློག་སྒོ་བརྒྱབ་འདུག";
+
+/* No comment provided by engineer. */
+"闪光灯已常亮" = "རྒྱུན་བཀར་འོད་འཕྲོའི་གློག";
+
+/* No comment provided by engineer. */
+"闪光灯已开启" = "འོད་འཕྲོའི་གློག་ཡོངས་སུ་བཀར་འདུག";
+
+/* No comment provided by engineer. */
+"闪光灯已自动" = "རང་འགུལ་གྱི་འོད་འཕྲོའི་གློག་བཀར།";
+
+/* No comment provided by engineer. */
+"闪光灯常亮" = "རྒྱུན་བཀར་འོད་འཕྲོའི་གློག";
+
+/* No comment provided by engineer. */
+"闪光灯开启" = "འོད་འཕྲོའི་གློག་བཀར་བ།";
+
+/* No comment provided by engineer. */
+"闪光灯自动" = "རང་འགུལ་གྱི་འོད་འཕྲོའི་གློག་བཀར།";
+
+/* No comment provided by engineer. */
+"间距(面部重塑)" = "བར་ཐག";
+
+/* No comment provided by engineer. */
+"防抖已关闭" = "འདར་འགོག་སྒོ་རྒྱབ་ཡོད།";
+
+/* No comment provided by engineer. */
+"限时" = "དུས་བཅད།";
+
+/* No comment provided by engineer. */
+"限时素材只能在一定时间内使用哦，过期后素材将不可再使用哦~" = "Tརྒྱུ་ཆ་འདི་དག་དུས་བཀག་ཡོད་པའི་ནང་བཀོལ་སྤྱོད་བྱེད་པ།དུས་ཚོད་མགོར་བརྗེ་ནས་རྒྱུ་ཆ་འདི་དག་བཀོལ་སྤྱོད་བྱེད་མི་ནུས།";
+
+/* No comment provided by engineer. */
+"随时分享" = "དུས་དང་རྣམ་པ་ཀུན་ཏུ་བཀོལ་སྤྱོད་བྱེད་པ།";
+
+/* No comment provided by engineer. */
+"隐私与通知" = "གསང་དབང་དང་བརྡ་ཐོ་";
+
+/* (No Comment) */
+"隐私政策" = "གསང་དབང་སྒྲིག་ཁྲིམས།";
+
+/* No comment provided by engineer. */
+"隐私权政策" = "གསང་བའི་སྲུད་ཇུས་དབང་ཆ།";
+
+/* (No Comment) */
+"隐藏标签" = "ཁྱད་རྟགས་འགེབ་གསང་།";
+
+/* (No Comment) */
+"需要同意用户协议及隐私权政策哦" = "བཀོལ་མཁན་གན་རྒྱ་དང་སྒེར་དབང་སྒྲིག་ཁྲིམས་དང་ལེན་བྱ་དགོས།";
+
+/* No comment provided by engineer. */
+"需要完善头像、性别、生日才能获得现金红包哦~~" = "ངེས་པར་དུ་ཚད་ལྡན་གྱི་མགོ་པར་དང་ཕོ་མོ་དབྱེ་བ སྐྱེས་སྐར་སོགས་ཡོད་དུས་ཁུག་དམར་གྱི་བྱ་དགའ་འཐོབ།~~";
+
+/* No comment provided by engineer. */
+"静物" = "བརྟན་དངོས";
+
+/* (No Comment) */
+"面部重塑" = "ངོ་གདོང་སླར་གསོ་།";
+
+/* No comment provided by engineer. */
+"音乐" = "གླུ་དབྱངས།";
+
+/* No comment provided by engineer. */
+"音乐准备中..." = "གླུ་དབྱིངས་གྲ་སྒྲིག་བྱེད་བཞིན་ཡོད།";
+
+/* No comment provided by engineer. */
+"音效" = "གཞས་།";
+
+/* No comment provided by engineer. */
+"颗粒" = "རིལ་རྡོག།";
+
+/* No comment provided by engineer. */
+"额~ 太多人脸了，换张照片再试试~" = "ཧ  ངོ་གདོང་མང་དྲགས་པས། འདྲ་པར་གཞན་ཞིག་བརྗེ་ནས་ཚོད་ལྟ་བྱ་རོགས།";
+
+/* No comment provided by engineer. */
+"额~ 没有识别到人脸，换张照片再试试~" = "ཧུ  ངོ་གདོང་ལ་དབྱེ་འབྱེད་བྱས་མེད་པས། འདྲ་པར་གཞན་ཞིག་བརྗེ་ནས་ཚོད་ལྟ་བྱེད།";
+
+/* No comment provided by engineer. */
+"额头" = "དཔྲལ་བ།";
+
+/* No comment provided by engineer. */
+"额头(面部重塑)" = "ཐོད་པ།";
+
+/* (No Comment) */
+"额，处理时出现问题" = "ཨེ།ལས་སྒྲུབ་བྱེད་སྐབས་གནད་དོན་འདུག།";
+
+/* No comment provided by engineer. */
+"颧骨" = "མཁུར་རུས།";
+
+/* No comment provided by engineer. */
+"风景" = "ཡུལ་ལྗོངས།";
+
+/* No comment provided by engineer. */
+"饱和度" = "ཚད་ལོངས་ཚད།";
+
+/* No comment provided by engineer. */
+"首页" = "ལྡེབ་ངོས་མགོ་མ";
+
+/* (No Comment) */
+"首页主题设置" = "ངོ་དངོས་གླེང་གཞི་སྒྲིག་བཟོ།";
+
+/* No comment provided by engineer. */
+"马上下载" = "མྱུར་དུ་ཕབ་ལེན་བྱེད་པ";
+
+/* No comment provided by engineer. */
+"马上更新" = "མྱུར་དུ་གསར་སྒྱུར་བྱེད་པ";
+
+/* (No Comment) */
+"马上观看" = "དུས་ལྟར་ལྟ་བ།";
+
+/* (No Comment) */
+"马赛克" = "མ་སེ་ཁོ།";
+
+/* (No Comment) */
+"马赛克样式" = "མ་སེ་ཁོའི་རྣམ་པ།";
+
+/* No comment provided by engineer. */
+"马赛克笔" = "རབ་རིབ་མི་གསལ་བའི་སྨྱུ་གུ་";
+
+/* No comment provided by engineer. */
+"高" = "མཐོ";
+
+/* No comment provided by engineer. */
+"高(五官)" = "མཐོ་བ་";
+
+/* (No Comment) */
+"高光笔" = "འོད་སྨྱུག";
+
+/* No comment provided by engineer. */
+"高光调节" = "མཐོ་འོད་སྙོམ་སྒྲིག།";
+
+/* No comment provided by engineer. */
+"高冷的我没关注任何人" = "ཁེངས་དྲགས་ཅན་གྱི་མི་ལ་དོ་སྣང་བྱེད་མཁན་མེད།";
+
+/* No comment provided by engineer. */
+"高度(面部重塑)" = "མཐོ་ཚད།";
+
+/* (No Comment) */
+"高清" = "མཐོ་གསལ།";
+
+/* (No Comment) */
+"魔幻笔" = "མཚར་སྨྱག།";
+
+/* No comment provided by engineer. */
+"黑科技照片1秒变超唯美手绘，自拍美图赞爆朋友圈，万千高颜值美少女都爱用哦！" = "མཛེས་རྩལ་མཐོ་ཤོས་བེད་སྤྱད་དེ་འདྲ་པར་དེ་སྐར་ཆ་གཅིག་གི་ནང་ཆེས་མཛེས་པའི་ལག་བྲིས་སུ་འགྱུར་ཐུབ་ལ།   རང་ཉིད་ཀྱིས་མཛེས་བཟོ་བྱས་པའི་འདྲ་པར་བར་སྟོང་དུ་སྟོན་ན་དཔང་བསྟོད་གྲངས་མེད་འབུལ་ངེས།  གཞོན་ནུ་མང་པོས་བེད་སྤྱོད་རྒྱུར་དགའ་པོ་ཡོད།";
+
+/* No comment provided by engineer. */
+"默然" = "ཁ་མི་གྲགས་པ།";
+
+/* No comment provided by engineer. */
+"鼓励一下" = "སྐུལ་ལྕགགཏོང་བ།";
+
+/* No comment provided by engineer. */
+"鼻子(面部重塑)" = "སྣ།";
+
+/* No comment provided by engineer. */
+"鼻尖(面部重塑)" = "སྣ་རྩེ།";
+
+/* No comment provided by engineer. */
+"鼻梁(面部重塑)" = "སྣ་གདོང་།";
+
+/* No comment provided by engineer. */
+"鼻翼(面部重塑)" = "སྣ་ཤོག";
+
+/* No comment provided by engineer. */
+"😌 就知道你还会回来的~" = "😌 ཁྱེད་རང་ཕྱིར་ཕེབས་རྒྱུ་ཡིན་པ་ངས་ཤེས་འདུག།";
+
+"观看免费下载" = "Watch to unlock";
+"观看免费试用" = "Get FREE Trial";
+"解锁A" = "Free";
+
+"记录家庭日常" = "Capture wonderful family moments ";
+"收藏恋爱瞬间" = "Sweet memories with that special someone";
+"分享好友趣事" = "Share funny stories";
+"存储个人影像" = "Save private photos/videos";
+
+"在这里, 你可以创建私人相册, 邀请[最重要的人]一起上传照片或视频" = "Create an album that can only be seen by you and select users. [Invite friends] to add their own special moments.";
+
+"向上滑动切换内容" = "Swipe up for more";
+
+/* No comment provided by engineer. */
+"视频美化" = "Video";
+
+"工具箱" = "Tools";
+
+"相机（社区首页）" = "相机";
+"图片美化（社区首页）" = "图片美化";
+"人像美容（社区首页）" = "人像美容";
+"拼图（社区首页）" = "拼图";
+"视频美化（社区首页）" = "视频美化";
+"素材中心（社区首页）" = "素材中心";
+"工具箱（社区首页）" = "工具箱";
+"使用攻略（社区首页）" = "使用攻略";
+"点我get变美技巧" = "Tap to get tips";
+"点开看精彩内容" = "Tap to find surpassing content";

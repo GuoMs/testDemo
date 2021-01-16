@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="17709" systemVersion="19G2021" minimumToolsVersion="Automatic" sourceLanguage="Swift" userDefinedModelVersionIdentifier="">
+    <entity name="MTVExtraMusic" representedClassName="MTVExtraMusic" syncable="YES">
+        <attribute name="isOnline" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="localMusicPath" optional="YES" attributeType="String"/>
+        <attribute name="musicID" optional="YES" attributeType="String"/>
+        <attribute name="musicName" optional="YES" attributeType="String"/>
+        <attribute name="resourceInfo" optional="YES" attributeType="Transformable"/>
+        <attribute name="rhythmData" optional="YES" attributeType="Binary"/>
+        <attribute name="tid" optional="YES" attributeType="String"/>
+        <attribute name="zipURL" optional="YES" attributeType="String"/>
+    </entity>
+    <entity name="MTVFont" representedClassName="MTVFont" syncable="YES">
+        <attribute name="filename" optional="YES" attributeType="String"/>
+        <attribute name="fontID" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="font_id"/>
+            </userInfo>
+        </attribute>
+        <attribute name="fontLight" optional="YES" attributeType="String"/>
+        <attribute name="fontName" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="font_name"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isDownload" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="isOnline" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="lastUsedTime" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="preload" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="size" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="sort" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="thumbnailBlack" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="thumbnail_black"/>
+            </userInfo>
+        </attribute>
+        <attribute name="thumbnailBlue" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="thumbnail_blue"/>
+            </userInfo>
+        </attribute>
+        <attribute name="thumbnailWhite" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="thumbnail_white"/>
+            </userInfo>
+        </attribute>
+        <attribute name="wwanToast" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="zipURL" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="url"/>
+            </userInfo>
+        </attribute>
+    </entity>
+    <entity name="MTVMaterial" representedClassName="MTVMaterial" syncable="YES">
+        <attribute name="bgColor" optional="YES" attributeType="String"/>
+        <attribute name="buyIcon" optional="YES" attributeType="String"/>
+        <attribute name="buyLink" optional="YES" attributeType="String"/>
+        <attribute name="buyPrice" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="price"/>
+            </userInfo>
+        </attribute>
+        <attribute name="cgPic" optional="YES" attributeType="String"/>
+        <attribute name="cgScheme" optional="YES" attributeType="String"/>
+        <attribute name="codeName" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="code_name"/>
+            </userInfo>
+        </attribute>
+        <attribute name="colour" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="color"/>
+            </userInfo>
+        </attribute>
+        <attribute name="copyright" optional="YES" attributeType="String"/>
+        <attribute name="createAt" optional="YES" attributeType="Double" defaultValueString="-1" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="created_at"/>
+            </userInfo>
+        </attribute>
+        <attribute name="downloadTime" optional="YES" attributeType="Double" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="endTime" optional="YES" attributeType="Double" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="end_time"/>
+            </userInfo>
+        </attribute>
+        <attribute name="extendedImageURL" optional="YES" attributeType="String"/>
+        <attribute name="extendUITag" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="extraInfo" optional="YES" attributeType="Transformable">
+            <userInfo>
+                <entry key="mappedKeyName" value="extra_info"/>
+            </userInfo>
+        </attribute>
+        <attribute name="features" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="material_feature"/>
+            </userInfo>
+        </attribute>
+        <attribute name="forbiddenTime" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="hasMusic" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="hidden" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="hotness" optional="YES" attributeType="Integer 64" defaultValueString="-1" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="hotness"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isANewMaterial" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="isDelete" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="isDownload" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="isForbidden" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="isOnline" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="isSupportVideo" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="isUse" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="isZipVersionChange" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="lastUsedTime" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="materialID" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="material_id"/>
+            </userInfo>
+        </attribute>
+        <attribute name="maxVersion" optional="YES" attributeType="String" defaultValueString="9999">
+            <userInfo>
+                <entry key="mappedKeyName" value="max_version"/>
+            </userInfo>
+        </attribute>
+        <attribute name="minVersion" optional="YES" attributeType="String" defaultValueString="0">
+            <userInfo>
+                <entry key="mappedKeyName" value="min_version"/>
+            </userInfo>
+        </attribute>
+        <attribute name="modelName" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="model_name"/>
+            </userInfo>
+        </attribute>
+        <attribute name="musicBeginTime" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="musicID" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="previewURL" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="preview"/>
+            </userInfo>
+        </attribute>
+        <attribute name="radioTypeValue" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="regionTypeValue" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="region_type"/>
+            </userInfo>
+        </attribute>
+        <attribute name="relateFileURL" optional="YES" attributeType="String"/>
+        <attribute name="serviceIndex" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="sort"/>
+            </userInfo>
+        </attribute>
+        <attribute name="specialID" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="startTime" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="start_time"/>
+            </userInfo>
+        </attribute>
+        <attribute name="supportScope" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="support_scope"/>
+            </userInfo>
+        </attribute>
+        <attribute name="thresholdTypeValue" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="thumbnailHeight" optional="YES" attributeType="Float" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="height"/>
+            </userInfo>
+        </attribute>
+        <attribute name="thumbnailURL" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="thumbnail_url"/>
+            </userInfo>
+        </attribute>
+        <attribute name="thumbnailWidth" optional="YES" attributeType="Float" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="width"/>
+            </userInfo>
+        </attribute>
+        <attribute name="tips" optional="YES" attributeType="String"/>
+        <attribute name="topic" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="topic"/>
+            </userInfo>
+        </attribute>
+        <attribute name="tryTime" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="typeValue" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="type"/>
+            </userInfo>
+        </attribute>
+        <attribute name="unlocked" optional="YES" attributeType="Boolean" usesScalarValueType="YES"/>
+        <attribute name="wwanToast" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="zipURL" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="zip_url"/>
+            </userInfo>
+        </attribute>
+        <attribute name="zipVersion" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <relationship name="subCategory" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="MTVMaterialSubCategory" inverseName="materials" inverseEntity="MTVMaterialSubCategory"/>
+    </entity>
+    <entity name="MTVMaterialCategory" representedClassName="MTVMaterialCategory" syncable="YES">
+        <attribute name="categoryID" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="category_id"/>
+            </userInfo>
+        </attribute>
+        <attribute name="hasOnlineData" optional="YES" attributeType="Integer 32" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="isUpdate" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="radioTypes" optional="YES" attributeType="String"/>
+        <attribute name="serviceIndex" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updateTime" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="updated_at"/>
+            </userInfo>
+        </attribute>
+        <relationship name="modular" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="MTVMaterialModular" inverseName="categories" inverseEntity="MTVMaterialModular"/>
+        <relationship name="subCategories" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="MTVMaterialSubCategory" inverseName="category" inverseEntity="MTVMaterialSubCategory"/>
+    </entity>
+    <entity name="MTVMaterialModular" representedClassName="MTVMaterialModular" syncable="YES">
+        <attribute name="bannerURL" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="banner"/>
+            </userInfo>
+        </attribute>
+        <attribute name="count" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="num"/>
+            </userInfo>
+        </attribute>
+        <attribute name="haveNew" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="inMaterialCenter" optional="YES" attributeType="Boolean" defaultValueString="YES" usesScalarValueType="YES"/>
+        <attribute name="lastUpdateID" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="modularID" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="id"/>
+            </userInfo>
+        </attribute>
+        <attribute name="modularName" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="name"/>
+            </userInfo>
+        </attribute>
+        <attribute name="serviceIndex" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="type" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="module"/>
+            </userInfo>
+        </attribute>
+        <relationship name="categories" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="MTVMaterialCategory" inverseName="modular" inverseEntity="MTVMaterialCategory"/>
+    </entity>
+    <entity name="MTVMaterialSubCategory" representedClassName="MTVMaterialSubCategory" syncable="YES">
+        <attribute name="buyIcon" optional="YES" attributeType="String"/>
+        <attribute name="descr" optional="YES" attributeType="String"/>
+        <attribute name="downloadTime" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="endTime" optional="YES" attributeType="Double" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="end_time"/>
+            </userInfo>
+        </attribute>
+        <attribute name="forbidden" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="forbiddenTime" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES"/>
+        <attribute name="haveNew" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="icon" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="icon"/>
+            </userInfo>
+        </attribute>
+        <attribute name="index" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="sort"/>
+            </userInfo>
+        </attribute>
+        <attribute name="innerImageURL" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="inner_pic"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isDelete" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="isDownload" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES"/>
+        <attribute name="isNeedLogin" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="need_login"/>
+            </userInfo>
+        </attribute>
+        <attribute name="isTop" optional="YES" attributeType="Boolean" defaultValueString="NO" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="is_top"/>
+            </userInfo>
+        </attribute>
+        <attribute name="maxVersion" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="max_version"/>
+            </userInfo>
+        </attribute>
+        <attribute name="minVersion" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="min_version"/>
+            </userInfo>
+        </attribute>
+        <attribute name="name" optional="YES" attributeType="String"/>
+        <attribute name="previewImageURL" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="pre_pic"/>
+            </userInfo>
+        </attribute>
+        <attribute name="rgb" optional="YES" attributeType="String"/>
+        <attribute name="specialID" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="district"/>
+            </userInfo>
+        </attribute>
+        <attribute name="startTime" optional="YES" attributeType="Double" defaultValueString="0.0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="start_time"/>
+            </userInfo>
+        </attribute>
+        <attribute name="subCategoryID" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="sub_category_id"/>
+            </userInfo>
+        </attribute>
+        <attribute name="thresholdTypeValue" optional="YES" attributeType="Integer 64" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="thumbnailURL" optional="YES" attributeType="String">
+            <userInfo>
+                <entry key="mappedKeyName" value="ori_pic"/>
+            </userInfo>
+        </attribute>
+        <attribute name="typeValue" optional="YES" attributeType="Integer 32" defaultValueString="0" usesScalarValueType="YES"/>
+        <attribute name="updateAt" optional="YES" attributeType="Integer 64" defaultValueString="0.0" usesScalarValueType="YES">
+            <userInfo>
+                <entry key="mappedKeyName" value="updated_at"/>
+            </userInfo>
+        </attribute>
+        <relationship name="category" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="MTVMaterialCategory" inverseName="subCategories" inverseEntity="MTVMaterialCategory"/>
+        <relationship name="materials" optional="YES" toMany="YES" deletionRule="Cascade" destinationEntity="MTVMaterial" inverseName="subCategory" inverseEntity="MTVMaterial"/>
+    </entity>
+    <elements>
+        <element name="MTVExtraMusic" positionX="-45" positionY="144" width="128" height="149"/>
+        <element name="MTVFont" positionX="-9" positionY="171" width="128" height="254"/>
+        <element name="MTVMaterial" positionX="-36" positionY="9" width="128" height="884"/>
+        <element name="MTVMaterialCategory" positionX="-63" positionY="-18" width="128" height="164"/>
+        <element name="MTVMaterialModular" positionX="-54" positionY="-9" width="128" height="179"/>
+        <element name="MTVMaterialSubCategory" positionX="-18" positionY="27" width="128" height="449"/>
+    </elements>
+</model>

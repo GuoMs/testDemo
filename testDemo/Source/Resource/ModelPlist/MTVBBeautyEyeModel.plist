@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_eye_size_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_eye_size_hilighted</string>
+		<key>name</key>
+		<string>大小</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_eye_height_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_eye_height_hilighted</string>
+		<key>name</key>
+		<string>眼高</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_eye_distance_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_eye_distance_hilighted</string>
+		<key>name</key>
+		<string>眼距</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_eye_slant_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_eye_slant_hilighted</string>
+		<key>name</key>
+		<string>倾斜</string>
+	</dict>
+</array>
+</plist>

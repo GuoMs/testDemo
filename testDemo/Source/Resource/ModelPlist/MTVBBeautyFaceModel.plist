@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_beauty_origin_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_beauty_origin_higlighted</string>
+		<key>name</key>
+		<string>原始</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_beauty_round_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_beauty_round_higlighted</string>
+		<key>name</key>
+		<string>圆脸专用</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_beauty_square_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_beauty_square_higlighted</string>
+		<key>name</key>
+		<string>方脸专用</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_beauty_long_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_beauty_long_higlighted</string>
+		<key>name</key>
+		<string>长脸专用</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_beauty_short_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_beauty_short_higlighted</string>
+		<key>name</key>
+		<string>短脸专用</string>
+	</dict>
+</array>
+</plist>

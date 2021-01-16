@@ -1,0 +1,6502 @@
+/* No comment provided by engineer. */
+" 条内容" = " โพสต์";
+
+/* No comment provided by engineer. */
+"“%@”笔刷效果示例图" = "แสดงตัวอย่างแปรง ‘%@’";
+
+/* No comment provided by engineer. */
+"“美图秀秀”想要打开“美拍”" = "Meitu ต้องการเปิด \"Meipai\"";
+
+/* No comment provided by engineer. */
+"”" = "”";
+
+/* No comment provided by engineer. */
+"[表情]" = "[อิโมจิ]";
+
+/* No comment provided by engineer. */
+"[视频]" = "[วิดีโอ]";
+
+/* No comment provided by engineer. */
+"[图片]" = "[รูปภาพ]";
+
+/* No comment provided by engineer. */
+"[图片评论]" = "[ความเห็นพร้อมรูปภาพ]";
+
+/* No comment provided by engineer. */
+"《隐私政策》" = "นโยบายความเป็นส่วนตัว";
+
+/* No comment provided by engineer. */
+"《用户协议》" = "ข้อตกลงบริการ";
+
+/* No comment provided by engineer. */
+"【高光笔】更名为【修容笔】" = "ฟังก์ชัน \\\"ไฮไลต์\\\" เปลี่ยนชื่อเป็นฟังก์ชัน \\\"คอนทัวร์\\\"";
+
+/* No comment provided by engineer. */
+"【连接】" = "“เชื่อมต่อ”";
+
+/* No comment provided by engineer. */
+"【特效】更名为【滤镜】哦" = "[เอฟเฟกต์] ได้เปลี่ยนชื่อเป็น [ฟิลเตอร์]";
+
+/* No comment provided by engineer. */
+"@我的" = "กล่าวถึง";
+
+/* No comment provided by engineer. */
+"#美图秀秀#" = "#Meitu#";
+
+/* No comment provided by engineer. */
+"#美图秀秀抠图#" = "#Meituคัตเอาต์";
+
+/* No comment provided by engineer. */
+"#萌拍#" = "#เซลฟี่น่ารัก ๆ#";
+
+/* No comment provided by engineer. */
+"#魔法照片#" = "#โฟลว#";
+
+/* No comment provided by engineer. */
+"%.1f秒" = "%.1f s";
+
+/* No comment provided by engineer. */
+"%@ 创建" = "%@ สร้าง";
+
+/* No comment provided by engineer. */
+"%@ 的美志" = "%@'s บิวตี้ล็อก";
+
+/* No comment provided by engineer. */
+"%@ 点赞了%d个日志" = "%@  ถูกใจ แกลเลอรีของ %d";
+
+/* No comment provided by engineer. */
+"%@撤回了一条消息" = "%@ ยกเลิก 1 ข้อความ";
+
+/* No comment provided by engineer. */
+"%@次阅读" = "%@ ยอดดู";
+
+/* No comment provided by engineer. */
+"%@的美志" = "%@'s บิวตี้ล็อก";
+
+/* No comment provided by engineer. */
+"%@的私人相册" = "%@'s Private Album";
+
+/* No comment provided by engineer. */
+"%@的原声" = "ไฟล์เสียงต้นฉบับของ%@";
+
+/* No comment provided by engineer. */
+"%@关注了%@" = "%@ กำลังติดตาม %@";
+
+/* No comment provided by engineer. */
+"%@浏览" = "%@ วิว";
+
+/* No comment provided by engineer. */
+"%@人解锁 %@条内容" = "ผู้ใช้ %@ คนได้ปลดล็อก %@ โพสต์แล้ว";
+
+/* No comment provided by engineer. */
+"%@天免费试用，到期自动续费 %@，可随时取消。" = "ทดลองใช้ฟรี%@ - วันโดยจะต่ออายุโดยอัตโนมัติในราคา%@ คุณสามารถยกเลิกได้ตลอดเวลา";
+
+/* No comment provided by engineer. */
+"%@条内容" = "%@ โพสต์ ";
+
+/* No comment provided by engineer. */
+"%@虚化已开启" = "%@ เบลอ เปิด";
+
+/* No comment provided by engineer. */
+"%d人" = "%1$d members";
+
+/* No comment provided by engineer. */
+"%d天前" = "%d วันก่อน";
+
+/* No comment provided by engineer. */
+"%d小时前" = "%d hour(s) ago";
+
+/* No comment provided by engineer. */
+"%d张照片，%d个视频" = "%d photo(s) and %d video(s)";
+
+/* No comment provided by engineer. */
+"%ld 张" = "%ld photos";
+
+/* No comment provided by engineer. */
+"%ld-天免费试用" = "ลองใช้ฟรี%ldวัน";
+
+/* No comment provided by engineer. */
+"%ld天免费试用" = "ลองใช้ฟรี%ldวัน";
+
+/* No comment provided by engineer. */
+"%ld张" = "%ld";
+
+/* No comment provided by engineer. */
+"%lu分钟前" = "%lu นาทีที่ผ่านมา";
+
+/* No comment provided by engineer. */
+"%lu小时前" = "%lu ชั่วโมงที่ผ่านมา";
+
+/* No comment provided by engineer. */
+"😌 就知道你还会回来的~" = "😌ยินดีต้อนรับกลับมา!";
+
+/* 会员落地页-续费提醒 */
+"1. 美图粉钻VIP会员开通后，将于本周期到期前24小时，为您自动续费并延长对应周期时长；" = "1. เมื่อทำการเปิดใช้งานสมาชิก VIP จะได้รับการต่ออายุโดยอัตโนมัติ 24 ชั่วโมงก่อนที่ช่วงเวลาปัจจุบันจะหมดอายุ โดยจะทำการขยายระยะเวลาที่เกี่ยวเนื่องให้คุณ";
+
+/* 会员落地页-续费提醒 */
+"2. 苹果账号开通的自动续费服务是与苹果签订的订阅关系，需在苹果手机上登录苹果账号才能取消，美图秀秀无权取消，方法参考：" = "บริการต่ออายุอัตโนมัติในบัญชี Apple ของคุณให้บริการโดย Apple ดังนั้น Meitu จึงไม่สามารถยกเลิกให้คุณได้โดยตรง คุณสามารถเข้าสู่ระบบบัญชี Apple บนอุปกรณ์ iOS ของคุณเพื่อยกเลิกโดยทำตามขั้นตอนต่อไปนี้: ";
+
+/* 会员落地页-续费提醒 */
+"3.如需取消订阅，请在扣费前至少24小时关闭自动续费；" = "3. หากคุณต้องการยกเลิกการสมัครสมาชิก โปรดปิดการต่ออายุอัตโนมัติอย่างน้อย 24 ชั่วโมงก่อนสิ้นสุดระยะเวลาที่ชำระเงินไว้แล้วในปัจจุบัน";
+
+/* (No Comment) */
+"3D塑颜(面部重塑)" = "เปลี่ยนทรง 3D";
+
+/* 会员落地页-续费提醒 */
+"4.由于苹果AppleID限制，iOS用户实际支付价格以苹果支付实际展示为准。" = "4. เนื่องจากข้อจำกัดของ Apple ID ราคาจริงที่ผู้ใช้ iOS ชำระจะเป็นไปตามราคาจริงที่แสดงบน Apple Pay";
+
+/* No comment provided by engineer. */
+"9格模板暂不支持视频" = "ไม่รองรับเทมเพลตตาราง 9 ช่องในขณะนี้";
+
+/* No comment provided by engineer. */
+"10秒" = "10 วินาที";
+
+/* No comment provided by engineer. */
+"12条新内容" = "12 โพสต์ใหม่";
+
+/* No comment provided by engineer. */
+"15秒" = "15 วินาที";
+
+/* No comment provided by engineer. */
+"20秒" = "20 วินาที";
+
+/* No comment provided by engineer. */
+"9999万" = "99.99 ล้าน";
+
+/* No comment provided by engineer. */
+"啊哦，这个标签下还没有内容，\n快来发布第一个作品吧！" = "โอ๊ะโอ แท็กนี้ยังไม่มีโพสต์เลยในขณะนี้ \nเข้ามาเขียนโพสต์แรกได้เลย!";
+
+/* No comment provided by engineer. */
+"啊哦，这个话题下还没有内容，\n快来发布第一个作品吧！" = "โอ๊ะโอ ขณะนี้ไม่มีโพสต์ในหัวข้อนี้\nมาสร้างโพสต์แรกของคุณเลย!";
+
+/* No comment provided by engineer. */
+"啊呀，不能发给自己啦" = "ขออภัย คุณไม่สามารถส่งหาตัวเองได้";
+
+/* No comment provided by engineer. */
+"爱心" = "หัวใจ";
+
+/* No comment provided by engineer. */
+"按住拖动" = "กดค้างเพื่อลาก";
+
+/* No comment provided by engineer. */
+"按住拖动可更改排序" = "กดค้างเพื่อจัดลำดับใหม่";
+
+/* No comment provided by engineer. */
+"按住左右两端可调节长度" = "กดค้างไว้ทั้งสองข้างเพื่อปรับความยาว";
+
+/* No comment provided by engineer. */
+"暗部" = "เงา";
+
+/* No comment provided by engineer. */
+"暗部改善" = "เงา";
+
+/* No comment provided by engineer. */
+"暗角" = "วิกเนต";
+
+/* No comment provided by engineer. */
+"暗角功能已关闭" = "วิกเนต ปิด";
+
+/* No comment provided by engineer. */
+"暗角功能已开启" = "วิกเนต เปิด";
+
+/* No comment provided by engineer. */
+"白皙" = "Fancy";
+
+/* No comment provided by engineer. */
+"白牙" = "Làm trắng";
+
+/* No comment provided by engineer. */
+"半身" = "เหนือเอว";
+
+/* No comment provided by engineer. */
+"帮TA修图" = "Edit";
+
+/* No comment provided by engineer. */
+"绑定" = "ผูก  ";
+
+/* No comment provided by engineer. */
+"绑定成功" = "เชื่อมโยงแล้ว";
+
+/* No comment provided by engineer. */
+"绑定手机" = "เชื่อมกับโทรศัพท์";
+
+/* No comment provided by engineer. */
+"绑定手机可防止帐号被盗，并获得更多服务，点我绑定" = "แตะที่นี่เพื่อเชื่อมโยงหมายเลขโทรศัพท์ของคุณเพื่อป้องกันการโจรกรรม และเพื่อรับบริการเพิ่มเติม";
+
+/* No comment provided by engineer. */
+"绑定帐号" = "ผูกบัญชี ";
+
+/* No comment provided by engineer. */
+"宝贝" = "น่าเอ็นดู";
+
+/* No comment provided by engineer. */
+"饱和度" = "ความอิ่มตัว";
+
+/* No comment provided by engineer. */
+"保存" = "บันทึก";
+
+/* No comment provided by engineer. */
+"保存/分享" = "บันทึกและแชร์";
+
+/* No comment provided by engineer. */
+"保存草稿并退出" = "บันทึกแบบร่างและออก";
+
+/* No comment provided by engineer. */
+"保存成功" = "บันทึกแล้ว";
+
+/* No comment provided by engineer. */
+"保存到相册" = "บันทึก";
+
+/* No comment provided by engineer. */
+"保存到相册失败" = "บันทึกล้มเหลว";
+
+/* No comment provided by engineer. */
+"保存失败，请重试" = "บันทึกไม่สำเร็จ กรุณาลองอีกครั้ง";
+
+/* No comment provided by engineer. */
+"保存失败，请重新选择生日信息" = "บันทึกล้มเหลว กรุณาแก้ไขวันเกิดของคุณใหม่";
+
+/* No comment provided by engineer. */
+"保存时长不能超过5分钟哦" = "ไม่สามารถบันทึกวิดีโอที่ยาวกว่า 5 นาทีได้";
+
+/* No comment provided by engineer. */
+"保存时长不能小于0.1秒哦" = "อย่างน้อย 0.1 วินาที สำหรับวิดีโอ";
+
+/* No comment provided by engineer. */
+"保存时自动存为配方" = "บันทึกเป็นแม่แบบการตัดต่อของฉัน";
+
+/* No comment provided by engineer. */
+"保存视频" = "บันทึก";
+
+/* No comment provided by engineer. */
+"保存图片" = "บันทึก";
+
+/* No comment provided by engineer. */
+"保存为GIF" = "บันทึกเป็น GIF";
+
+/* No comment provided by engineer. */
+"保存中" = "กำลังบันทึก…";
+
+/* No comment provided by engineer. */
+"保存中..." = "Saving...";
+
+/* No comment provided by engineer. */
+"保护笔" = "เส้นตรง";
+
+/* No comment provided by engineer. */
+"保护关闭" = "ปิด";
+
+/* No comment provided by engineer. */
+"抱歉，获取手机信息失败，暂不支持购买" = "ขออภัย ตรวจสอบข้อมูลโทรศัพท์มือถือไม่สำเร็จ ไม่รองรับการสั่งซื้อเป็นการชั่วคราว";
+
+/* No comment provided by engineer. */
+"抱歉，无法在TestFlight包中购买会员~ 如需购买，请到App Store下载最新包进行" = "ขออภัย ไม่สามารถซื้อ VIP ในแพค TestFlight ได้ กรุณาไปที่ App Store เพื่อดาวน์โหลดเวอร์ชั่นล่าสุดและซื้อหากจำเป็น";
+
+/* No comment provided by engineer. */
+"抱歉，因您未达到创建美图帐号年龄要求，您无法创建帐号" = "ขออภัย คุณไม่สามารถจัดทำบัญชี Meitu เนื่องจากคุณไม่อยู่ในเงื่อนไขอายุที่กำหนด";
+
+/* No comment provided by engineer. */
+"抱歉，暂无搜索到你想要的地点" = "ขออภัย ไม่พบสถานที่";
+
+/* No comment provided by engineer. */
+"爆款" = "อินเทรนด์";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-背景tab标题 */
+"背景" = "พื้นหลัง";
+
+/* No comment provided by engineer. */
+"背景保护" = "พื้นหลัง";
+
+/* 背景保护提示特殊处理 */
+"背景保护(开启)" = "ล็อกพื้นหลัง";
+
+/* No comment provided by engineer. */
+"背景列表" = "พื้นหลัง";
+
+/* No comment provided by engineer. */
+"背景图裁剪" = "ครอบตัดพื้นหลัง";
+
+/* No comment provided by engineer. */
+"背景虚化" = "เบลอ";
+
+/* No comment provided by engineer. */
+"背景暂不支持使用动图" = "พื้นหลังไม่รองรับภาพเคลื่อนไหว";
+
+/* No comment provided by engineer. */
+"本地仅保存处理后图片哦" = "เฉพาะภาพที่ประมวลผลแล้วเท่านั้นจึงจะบันทึกไว้ในเครื่อง";
+
+/* No comment provided by engineer. */
+"本地音乐" = "เพลงที่ดาวน์โหลด";
+
+/* No comment provided by engineer. */
+"本地音乐卡点需要等待5秒以上" = "การใช้การยึดบีทกับเพลงในเครื่องต้องการเวลาประมวลเพิ่ม 5 วินาทีขึ้นไป";
+
+/* No comment provided by engineer. */
+"本分类暂无下载和历史使用素材哦~" = "ไม่มีวัตถุดิบที่ดาวน์โหลดและมีประวัติใช้งานในหมวดหมู่นี้";
+
+/* No comment provided by engineer. */
+"本分类暂无下载素材哦~" = "ไม่มีรายการดาวน์โหลดอีกในหมวดหมู่นี้";
+
+/* (No Comment) */
+"鼻尖(面部重塑)" = "ปลายจมูก";
+
+/* (No Comment) */
+"鼻梁(面部重塑)" = "สันจมูก";
+
+/* No comment provided by engineer. */
+"鼻翼" = "ปีกจมูก";
+
+/* (No Comment) */
+"鼻翼(面部重塑)" = "ปีกจมูก";
+
+/* No comment provided by engineer. */
+"鼻子" = "จมูก";
+
+/* (No Comment) */
+"鼻子(面部重塑)" = "จมูก";
+
+/* No comment provided by engineer. */
+"比例" = "สัดส่วน";
+
+/* No comment provided by engineer. */
+"壁纸" = "วอลเปเปอร์";
+
+/* No comment provided by engineer. */
+"壁纸合成" = "สร้างวอลเปเปอร์";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-背景tab-边距滑竿标签 */
+"边距" = "ระยะขอบ";
+
+/* 海外地区-审核开关关闭-订阅会员-支付时取消 */
+"边框" = "กรอบ";
+
+/* No comment provided by engineer. */
+"边框管理" = "จัดการ";
+
+/* No comment provided by engineer. */
+"边框列表" = "กรอบ";
+
+/* No comment provided by engineer. */
+"编辑" = "แก้ไข";
+
+/* (No Comment) */
+"编辑(经典首页)" = "Video ";
+
+/* No comment provided by engineer. */
+"编辑个人资料" = "แก้ไขโปรไฟล์";
+
+/* No comment provided by engineer. */
+"编辑收藏夹" = "แก้ไขรายการโปรด";
+
+/* No comment provided by engineer. */
+"编辑资料" = "แก้ไขโปรไฟล์";
+
+/* No comment provided by engineer. */
+"变暗" = "ทำให้มืด";
+
+/* No comment provided by engineer. */
+"变亮" = "สว่างขึ้น";
+
+/* No comment provided by engineer. */
+"变美必备的美图利器，顶尖特效、马赛克、边框、贴纸、编辑等功能一应俱全，让你的照片时刻都很美！" = "สัมผัสกับความมหัศจรรย์ของฟิลเตอร์ปรับสวย! เอฟเฟกต์ระดับท็อป โมเสค กรอบภาพ สติกเกอร์และการปรับแต่งต่าง ๆ จะทำให้คุณดูสมบูรณ์แบบที่สุดในทุกเวลา!";
+
+/* No comment provided by engineer. */
+"变速" = "ความเร็ว";
+
+/* No comment provided by engineer. */
+"标签" = "แท็ก";
+
+/* No comment provided by engineer. */
+"标题" = "หัวเรื่อง";
+
+/* No comment provided by engineer. */
+"标题最多20个字哟~" = "หัวเรื่องสูงสุด 20 อักขระ";
+
+/* No comment provided by engineer. */
+"标准" = "มาตรฐาน";
+
+/* No comment provided by engineer. */
+"表情" = "อิโมจิ";
+
+/* No comment provided by engineer. */
+"表情工厂" = "StickerLabs";
+
+/* No comment provided by engineer. */
+"播放会有声音哦" = "การถ่ายทอดจะมีเสียง";
+
+/* No comment provided by engineer. */
+"补充说明更具体的修图需求~" = "Please describe your requirements in as much detail as possible";
+
+/* No comment provided by engineer. */
+"补光灯功能已关闭" = "ฟังก์ชันแฟลช-ปิด";
+
+/* No comment provided by engineer. */
+"补光灯功能已开启" = "แฟลช เปิด";
+
+/* No comment provided by engineer. */
+"补光关闭" = "แฟลช ปิด";
+
+/* No comment provided by engineer. */
+"补光开启" = "แฟลช เปิด";
+
+/* No comment provided by engineer. */
+"不保存" = "ไม่บันทึก";
+
+/* No comment provided by engineer. */
+"不调暗画面背景" = "วิกเนต ปิด";
+
+/* No comment provided by engineer. */
+"不放弃" = "ยกเลิก";
+
+/* No comment provided by engineer. */
+"不感兴趣" = "ไม่สนใจ";
+
+/* No comment provided by engineer. */
+"不能删除自己哦" = "You cannot delete yourself from this album.";
+
+/* No comment provided by engineer. */
+"不能遮挡" = "อย่าบัง";
+
+/* No comment provided by engineer. */
+"不使用水印" = "ไม่ใช้โลโก้";
+
+/* No comment provided by engineer. */
+"不同意" = "ไม่ยอมรับ";
+
+/* No comment provided by engineer. */
+"不同意并退出" = "ไม่ยอมรับและออก";
+
+/* No comment provided by engineer. */
+"不透明度" = "ทึบแสง";
+
+/* No comment provided by engineer. */
+"不显示位置" = "ซ่อนตำแหน่งที่อยู่";
+
+/* No comment provided by engineer. */
+"不虚化画面背景" = "เลิกเบลอพื้นหลัง";
+
+/* No comment provided by engineer. */
+"不要放弃" = "ไม่ล้มเลิก";
+
+/* No comment provided by engineer. */
+"不要再输啦(╯▽╰)" = "กรุณาหยุดพิมพ์";
+
+/* No comment provided by engineer. */
+"不再关注" = "เลิกติดตาม";
+
+/* No comment provided by engineer. */
+"不支持此比例的图片" = "ไม่รองรับสัดส่วนภาพนี้";
+
+/* No comment provided by engineer. */
+"不支持的音乐格式" = "ไม่รองรับรูปแบบไฟล์เสียงนี้";
+
+/* No comment provided by engineer. */
+"部分素材不支持使用，换其他的试试~" = "ขาดบางองค์ประกอบ กรุณาลองแบบอื่น";
+
+/* No comment provided by engineer. */
+"擦除" = "ยางลบ";
+
+/* No comment provided by engineer. */
+"裁剪" = "ครอปตัด";
+
+/* No comment provided by engineer. */
+"彩色" = "สีสัน";
+
+/* No comment provided by engineer. */
+"踩快拍" = "เครื่องหมายบีทเพิ่มเติม";
+
+/* No comment provided by engineer. */
+"踩慢拍" = "เพิ่มเครื่องหมายบีท";
+
+/* No comment provided by engineer. */
+"参数错误" = "พารามิเตอร์เกิดข้อผิดพลาด";
+
+/* No comment provided by engineer. */
+"参与话题" = "เข้าร่วม";
+
+/* No comment provided by engineer. */
+"残忍拒绝" = "ไม่ล่ะ";
+
+/* No comment provided by engineer. */
+"操作成功" = "การดำเนินงานเสร็จสิ้น";
+
+/* No comment provided by engineer. */
+"操作成功，将减少此类内容推荐" = "รายการที่แนะนำแบบนี้จะลดลง";
+
+/* No comment provided by engineer. */
+"草稿箱" = "แบบร่าง";
+
+/* No comment provided by engineer. */
+"草稿已损坏" = "แบบร่างเกิดความเสียหาย";
+
+/* No comment provided by engineer. */
+"测一测" = "ทดสอบความสนุก";
+
+/* No comment provided by engineer. */
+"查看更多" = "ดูเพิ่มเติม";
+
+/* No comment provided by engineer. */
+"查看更多的位置信息" = "ดูข้อมูลสถานที่เพิ่มเติม";
+
+/* No comment provided by engineer. */
+"查看更多评论" = "ดูความเห็นเพิ่มเติม";
+
+/* No comment provided by engineer. */
+"查看全部" = "ดูทั้ง";
+
+/* No comment provided by engineer. */
+"查看权益" = "ดูสิทธิประโยชน์ของคุณ";
+
+/* No comment provided by engineer. */
+"查看权益列表" = "ดูสิทธิประโยชน์ VIP";
+
+/* No comment provided by engineer. */
+"查看图片" = "ดูรูปภาพ";
+
+/* No comment provided by engineer. */
+"查看详情" = "ดูรายละเอียด";
+
+/* No comment provided by engineer. */
+"查看修前原图" = "Original image";
+
+/* No comment provided by engineer. */
+"查看艺术家" = "ศิลปิน";
+
+/* 私信-大图页 */
+"查看原图" = "Original image";
+
+/* No comment provided by engineer. */
+"查看专辑" = "คอลเลกชัน";
+
+/* No comment provided by engineer. */
+"常规反馈" = "ทั่วไป";
+
+/* No comment provided by engineer. */
+"常见问题" = "FAQ";
+
+/* No comment provided by engineer. */
+"超出发布范围" = "อยู่นอกระยะการโพสต์";
+
+/* No comment provided by engineer. */
+"超高清视频不支持导入哦~" = "ไม่รองรับวิดีโอ ultra HD";
+
+/* No comment provided by engineer. */
+"超过的字符将被删除哦~" = "อักขระส่วนเกินจะถูกตัดทิ้ง";
+
+/* No comment provided by engineer. */
+"超清拍摄" = "ถ่ายแบบ HD";
+
+/* No comment provided by engineer. */
+"超清人像" = "ภาพเหมือน AI";
+
+/* No comment provided by engineer. */
+"超清人像更擅长处理人像，请选择正脸人像照片哦。" = "ภาพเหมือน AI สามารถประมวลผลภาพเหมือนได้เป็นอย่างดี กรุณาใช้รูปที่ถ่ายหน้าตรง";
+
+/* No comment provided by engineer. */
+"撤回" = "ยกเลิก";
+
+/* 私信会话详情页-撤回消息提示 */
+"撤回成功" = "ยกเลิกข้อความสำเร็จ";
+
+/* 私信会话详情页-撤回消息提示 */
+"撤回失败" = "ยกเลิกไม่สำเร็จ";
+
+/* No comment provided by engineer. */
+"撤回云美化服务授权" = "เรียกคืนการอนุญาตบริการแต่งสวยบนคลาวด์";
+
+/* 私信会话详情页-撤回消息提示 */
+"撤回中" = "กำลังยกเลิก";
+
+/* No comment provided by engineer. */
+"撤销" = "ยกเลิก";
+
+/* No comment provided by engineer. */
+"撤销保护笔" = "ลบเส้นตรง";
+
+/* No comment provided by engineer. */
+"撤销擦除" = "ยกเลิก";
+
+/* No comment provided by engineer. */
+"撤销动画路径" = "ลบแนวทางการเคลื่อนไหว";
+
+/* No comment provided by engineer. */
+"成为美图粉钻VIP，领取全部专属特权。" = "เพลิดเพลินกับทุกฟีเจอร์";
+
+/* 一键美颜滑竿名称占位字符 */
+"程度" = "ระดับ";
+
+/* No comment provided by engineer. */
+"尺寸" = "ขนาด";
+
+/* No comment provided by engineer. */
+"尺寸过小" = "ขนาดภาพเล็กเกินไป";
+
+/* No comment provided by engineer. */
+"宠物" = "สัตว์เลี้ยง";
+
+/* No comment provided by engineer. */
+"出场" = "ปิด";
+
+/* No comment provided by engineer. */
+"出场动画" = "ปิด";
+
+/* No comment provided by engineer. */
+"初恋" = "ละเอียดอ่อน";
+
+/* No comment provided by engineer. */
+"处理失败，换张照片试试~" = "การประมวลผลล้มเหลว ลองใช้ภาพอื่นดูไหม";
+
+/* No comment provided by engineer. */
+"处理失败，请检查网络连接" = "ไม่สามารถดำเนินการได้ กรุณาตรวจสอบการตั้งค่าเครือข่ายของคุณ";
+
+/* No comment provided by engineer. */
+"处理失败，请重试" = "ไม่สามารถดำเนินการได้ กรุณาลองใหม่อีกครั้ง";
+
+/* No comment provided by engineer. */
+"处理中 " = "กำลังประมวลผล...";
+
+/* No comment provided by engineer. */
+"处理中..." = "กำลังประมวลผล...";
+
+/* No comment provided by engineer. */
+"触屏拍摄" = "ถ่าย";
+
+/* No comment provided by engineer. */
+"触屏拍照已关闭" = "กดเพื่อล็อค ปิด";
+
+/* No comment provided by engineer. */
+"穿越CG次元" = "ผ่านมิติ CG";
+
+/* No comment provided by engineer. */
+"创建" = "Create";
+
+/* No comment provided by engineer. */
+"创建并邀请微信好友" = "Create an album and invite your WeChat friends";
+
+/* No comment provided by engineer. */
+"创建配方" = "สร้างแม่แบบ ";
+
+/* No comment provided by engineer. */
+"创建收藏夹" = "สร้างใหม่";
+
+/* No comment provided by engineer. */
+"创建私人相册" = "Create private album";
+
+/* No comment provided by engineer. */
+"创建相册" = "Create ";
+
+/* No comment provided by engineer. */
+"创建相册失败" = "Failed to create album";
+
+/* No comment provided by engineer. */
+"创作者：" = "ผู้สร้าง";
+
+/* No comment provided by engineer. */
+"垂直" = "แนวตั้ง";
+
+/* No comment provided by engineer. */
+"垂直翻转" = "แนวตั้ง";
+
+/* No comment provided by engineer. */
+"纯色背景" = "ธรรมดา";
+
+/* 一键美颜底部效果tab */
+"纯欲" = "มีเสน่ห์";
+
+/* No comment provided by engineer. */
+"唇妆" = "ริมฝีปาก";
+
+/* No comment provided by engineer. */
+"此音乐下暂时没有内容" = "โอ๊ะโอ ที่นี่ไม่มีอะไร";
+
+/* No comment provided by engineer. */
+"次使用" = "ใช้แล้ว %s ครั้ง";
+
+/* No comment provided by engineer. */
+"从视频中提取音乐" = "แยกเพลงออกจากวิดีโอ";
+
+/* No comment provided by engineer. */
+"从相册选择" = "เลือกจากอัลบั้ม";
+
+/* No comment provided by engineer. */
+"从预置图库选择" = "เลือกจากอัลบั้มเริ่มต้น";
+
+/* No comment provided by engineer. */
+"粗(五官)" = "หนา";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-文本tab-粗体按钮 */
+"粗体" = "ตัวหนา";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-描边tab-粗细滑竿标签
+   首页-视频美化-选中任一图片或视频-文字tab-样式tab-外发光tab-粗细滑竿标签 */
+"粗细" = "หนาบาง";
+
+/* (No Comment) */
+"粗细(面部重塑)" = "ขนาด";
+
+/* No comment provided by engineer. */
+"存储个人影像" = "Save private photos/videos";
+
+/* No comment provided by engineer. */
+"存到相册" = "บันทึกลงอัลบั้ม";
+
+/* No comment provided by engineer. */
+"存为草稿" = "บันทึกเป็นแบบร่าง";
+
+/* No comment provided by engineer. */
+"存为贴纸" = "บันทึกเป็นสติกเกอร์";
+
+/* No comment provided by engineer. */
+"存为GIF" = "บันทึกเป็น GIF";
+
+/* No comment provided by engineer. */
+"打开" = "เปิด";
+
+/* No comment provided by engineer. */
+"打开后，他人可以保存你的视频" = "Once enabled, others can save your videos.";
+
+/* No comment provided by engineer. */
+"打开后，他人可以保存你的图片" = "Once enabled, others can save your images.";
+
+/* No comment provided by engineer. */
+"打开后，他人可以使用你的视频原声拍摄视频" = "เปิดเพื่ออนุญาตให้ผู้อื่นใช้เพลงของคุณในวิดีโอของพวกเขา";
+
+/* No comment provided by engineer. */
+"打开后，他人可以在社区使用你的修图配方" = "Once enabled, others can apply your templates on community.";
+
+/* No comment provided by engineer. */
+"打开后，他人下载你的图片时会有水印" = "Once enabled, others can download your photos with watermark.";
+
+/* No comment provided by engineer. */
+"打开镜头就能看见最美的自己，近50款小清新范儿的实时特效，搭配美颜功能，就是要用镜头宠爱你！" = "ความสมบูรณ์แบบของคุณในทุกอณูกับทุกภาพที่ถ่าย! เรียลไทม์เอฟเฟกต์สุดสวยเกือบ 50 แบบ พร้อมฟังก์ชั่น รีทัช ที่จะทำให้คุณเรียกความสนใจได้จากทุกสายตา! ";
+
+/* 会员落地页-续费提醒 */
+"打开苹果手机“设置”→进入“iTunes Store与App Store”→点击“Apple ID”→进入“账户设置”→点击“订阅”，选择美图秀秀，取消订阅" = "ไปที่การตั้งค่า - iTunes Store และ App Store - ป้อน Apple ID ของคุณ - การตั้งค่าบัญชี - การสมัครสมาชิก - เลือก Meitu - ยกเลิก";
+
+/* No comment provided by engineer. */
+"打开通知提醒" = "กรุณาเปิดใช้การแจ้งเตือน";
+
+/* No comment provided by engineer. */
+"打开通知提醒(Alert)" = "เปิดใช้การแจ้งเตือน";
+
+/* No comment provided by engineer. */
+"打开我，你和网红之间就没有距离哦~🎁" = "เคยได้ยินไหม? ถ่ายรูปวันละครั้งช่วยให้สุขภาพดี 😉";
+
+/* No comment provided by engineer. */
+"大(五官)" = "ใหญ่";
+
+/* No comment provided by engineer. */
+"大边框" = "กว้าง";
+
+/* No comment provided by engineer. */
+"大光圈" = "รูรับแสง";
+
+/* No comment provided by engineer. */
+"大家正在搜" = "ทุกคนกำลังค้นหา";
+
+/* (No Comment) */
+"大小(面部重塑)" = "ขนาด";
+
+/* No comment provided by engineer. */
+"大眼" = "ขยายตา";
+
+/* No comment provided by engineer. */
+"单次播放" = "ครั้งเดียว";
+
+/* No comment provided by engineer. */
+"单击标签切换方向" = "แตะแท็กหนึ่งครั้งเพื่อหมุน";
+
+/* No comment provided by engineer. */
+"单击美图遥控器按键" = "คลิกที่ปุ่ม Meitu Remote";
+
+/* No comment provided by engineer. */
+"单击美图遥控器按键 进行连接。" = " คลิกที่ปุ่ม Meitu Remote เพื่อสิ้นสุดการเชื่อมต่อ";
+
+/* No comment provided by engineer. */
+"单击拍视频" = "กดเพื่อบันทึกวิดีโอ";
+
+/* No comment provided by engineer. */
+"单击拍照，按住拍视频" = "แตะเพื่อถ่ายภาพ แตะค้างเพื่อบันทึกวิดีโอ";
+
+/* No comment provided by engineer. */
+"单击拍照片" = "กดเพื่อถ่ายภาพ";
+
+/* No comment provided by engineer. */
+"单品推荐" = "แนะนำ";
+
+/* No comment provided by engineer. */
+"单张贴纸" = "สติกเกอร์";
+
+/* No comment provided by engineer. */
+"当你在使用相机、人像美容及滤镜相关自动功能时，将默认应用你所设定的美颜参数。" = "ความงามของฉัน จะใช้งานเป็นค่าเริ่มต้นเมื่อคุณใช้ฟังก์ชันอัตโนมัติอย่างเช่นกล้อง, การแต่งสวย, ฟิลเตอร์, และไฟล์ความงาม";
+
+/* No comment provided by engineer. */
+"当前的评论功能已关闭" = "ความคิดเห็นถูกปิดไว้";
+
+/* No comment provided by engineer. */
+"当前环境昏暗，建议开启夜拍功能哦~" = "ลองใช้โหมด มุมมองกลางคืน ในสภาพแสงน้อย";
+
+/* No comment provided by engineer. */
+"当前仅授权访问部分照片，无法获取相册最新照片。" = "ขณะนี้ คุณอนุญาตให้เข้าถึงเฉพาะบางรูปเท่านั้นเราไม่สามารถเข้าถึงรูปถ่ายล่าสุดในอัลบั้มคุณได้";
+
+/* No comment provided by engineer. */
+"当前片段过短不支持定格" = "คลิปสั้นเกินกว่าจะใช้การหยุดภาพ";
+
+/* No comment provided by engineer. */
+"当前设备已绑定会员账号" = "เครื่องปัจจุบันเชื่อมกับบัญชีสมาชิกแล้ว";
+
+/* No comment provided by engineer. */
+"当前使用的网络不是WiFi，是否继续下载" = "ไม่มีการเชื่อมต่อ Wi-Fi ต้องการดาวน์โหลดต่อหรือไม่";
+
+/* No comment provided by engineer. */
+"当前使用配方包含付费素材，订阅后才可使用哦~" = "แม่แบบที่คุณใช้มีไอเทมที่คุณต้องชำระเงิน สมัครสมาชิกแล้วจึงจะสามารถใช้ได้";
+
+/* No comment provided by engineer. */
+"当前图片长宽比例过大，继续编辑会导致图片模糊，是否继续？" = "ภาพของคุณไม่ได้สัดส่วนและอาจเบลอหลังตัดต่อ ต้องการดำเนินการต่อหรือไม่";
+
+/* No comment provided by engineer. */
+"当前网络不可用，是否前往系统设置进行网络设置？" = "ไม่มีการเชื่อมต่ออินเทอร์เน็ต ไปที่การตั้งค่าเพื่อตรวจสอบเครือข่าย?";
+
+/* No comment provided by engineer. */
+"当前网络不稳定，检查失败。请稍后再试。" = "ไม่สามารถเชื่อมต่อได้ กรุณาตรวจสอบค่าเครือข่ายของคุณ และลองใหม่อีกครั้ง";
+
+/* No comment provided by engineer. */
+"当前为非wifi环境，注意流量消耗" = "คุณไม่ได้ใช้ WiFi อยู่ กรุณาระมัดระวังการใช้งานอินเทอร์เน็ตมือถือของคุณ";
+
+/* No comment provided by engineer. */
+"当前位置不支持分割" = "ตำแหน่งปัจจุบันไม่รองรับการแบ่งส่วน";
+
+/* No comment provided by engineer. */
+"当前位置不支持复制" = "ตำแหน่งปัจจุบันไม่รองรับการทำสำเนา";
+
+/* No comment provided by engineer. */
+"当前位置不支持添加" = "ตำแหน่งปัจจุบันไม่ซัพพอร์ตการเพิ่มเพลง";
+
+/* No comment provided by engineer. */
+"当前位置已有边框" = "คุณเพิ่มกรอบรูปตรงนี้แล้ว";
+
+/* No comment provided by engineer. */
+"当前位置已有ar贴纸" = "คุณเพิ่มสติกเกอร์ARตรงนี้แล้ว";
+
+/* No comment provided by engineer. */
+"当前位置已有AR贴纸" = "คุณเพิ่มสติกเกอร์ARตรงนี้แล้ว";
+
+/* No comment provided by engineer. */
+"当前无网络可以使用，请确保您已经开启GPRS或WIFI！" = "ไม่สามารถเชื่อมต่อ กรุณาตรวจสอบค่าเครือข่ายของคุณ";
+
+/* No comment provided by engineer. */
+"当前效果将自动应用， 切换后无法再次调整。" = "ใช้เอฟเฟกต์ปัจจุบันโดยอัตโนมัติ ซึ่งจะไม่สามารถแก้ไขได้หลังจากเปลี่ยนแล้ว";
+
+/* No comment provided by engineer. */
+"当前已在首页" = "คุณอยู่หน้าโฮมเพจอยู่แล้ว";
+
+/* No comment provided by engineer. */
+"当前有配方未随帐号绑定，有丢失风险" = "มีแม่แบบที่ยังไม่ได้ผูกกับบัญชี มีโอกาสสูญหาย ";
+
+/* No comment provided by engineer. */
+"当前有配方未随帐号绑定，有丢失风险，是否绑定？" = "แม่แบบที่คุณใช้ ยังไม่ได้ผูกกับบัญชี มีโอกาสสูญหาย จะผูกกับบัญชีหรือไม่?";
+
+/* No comment provided by engineer. */
+"导入时长过长，请删减后重试" = "วิดีโอยาวเกินไป กรุณาลบบางคลิปออกแล้วลองอีกครั้ง";
+
+/* No comment provided by engineer. */
+"导入视频，提取视频中的声音\n作为背景音乐使用" = "นำเข้าวิดีโอและแยกเสียงออกเพื่อ\nใช้เป็นเพลงประกอบ";
+
+/* No comment provided by engineer. */
+"导入图片" = "นำเข้ารูปภาพ";
+
+/* No comment provided by engineer. */
+"导入音乐" = "นำเข้าเพลง";
+
+/* No comment provided by engineer. */
+"到期自动续费 %@，可随时取消。" = "จำนวนต่ออายุอัตโนมัติ:%@ ยกเลิกได้ตลอด";
+
+/* No comment provided by engineer. */
+"倒放" = "เล่นย้อน";
+
+/* No comment provided by engineer. */
+"倒放过的视频原声会被消除" = "เสียงต้นฉบับของวิดีโอที่ย้อนกลับจะถูกลบ";
+
+/* No comment provided by engineer. */
+"倒放失败，请重试" = "ไม่สามารถย้อนกลับได้ กรุณาลองใหม่อีกครั้ง";
+
+/* No comment provided by engineer. */
+"盗图/抄袭" = "มีลิขสิทธิ์";
+
+/* No comment provided by engineer. */
+"盗用身份" = "ล็อกอินที่ไม่ได้รับอนุญาต";
+
+/* No comment provided by engineer. */
+"地标" = "แลนด์มาร์ก";
+
+/* No comment provided by engineer. */
+"地标不存在" = "Place not found";
+
+/* No comment provided by engineer. */
+"地点" = "ตำแหน่ง";
+
+/* No comment provided by engineer. */
+"的原声" = "ไฟล์เสียงต้นฉบับของ ";
+
+/* No comment provided by engineer. */
+"登录" = "ล็อกอิน";
+
+/* No comment provided by engineer. */
+"登录查看" = "ล็อกอินเพื่อดู";
+
+/* No comment provided by engineer. */
+"登录查看粉丝数" = "ล็อกอินเพื่อดูแฟนๆ";
+
+/* No comment provided by engineer. */
+"登录查看个人主页" = "ล็อกอินเพื่อดูโปรไฟล์";
+
+/* No comment provided by engineer. */
+"登录查看已创建的修图配方" = "ล็อกอินเพื่อดูแม่แบบที่คุณสร้าง";
+
+/* No comment provided by engineer. */
+"登录查看已收藏的修图配方" = "ลงชื่อเข้าใช้เพื่อดูแม่แบบการตัดต่อในรายการโปรด";
+
+/* No comment provided by engineer. */
+"登录成功" = "เข้าสู่ระบบสำเร็จ";
+
+/* No comment provided by engineer. */
+"登录后才可保存配方" = "ล็อกอินแล้วสามารถบันทึกแม่แบบได้";
+
+/* No comment provided by engineer. */
+"登录后查看关注的人" = "ล็อกอินเพื่อดูผู้ติดตาม.";
+
+/* No comment provided by engineer. */
+"登录后查看好友列表" = "ล็อกอินเพื่อดูรายชื่อเพื่อน";
+
+/* No comment provided by engineer. */
+"登录后查看通知" = "หลังจากล็อกอินสามารถรับประกาศได้";
+
+/* No comment provided by engineer. */
+"登录后查看消息" = "ล็อกอินเพื่อดูข้อความ";
+
+/* No comment provided by engineer. */
+"登录后关注ta" = "ล็อกอินเพื่อติดตาม";
+
+/* No comment provided by engineer. */
+"登录后进行账号管理" = "ล็อกอินเพื่อจัดการบัญชีของคุณ";
+
+/* No comment provided by engineer. */
+"登录后可点赞" = "หลังจากล็อกอินสามารถกดถูกใจได้";
+
+/* No comment provided by engineer. */
+"登录后可发布" = "หลังจากล็อกอินสามารถเผยแพร่ได้";
+
+/* No comment provided by engineer. */
+"登录后可发私信" = "หลังจากล็อกอินสามารถส่งข้อความส่วนตัวได้";
+
+/* No comment provided by engineer. */
+"登录后可关注" = "หลังจากล็อกอินสามารถติดตามได้";
+
+/* No comment provided by engineer. */
+"登录后可举报" = "ล็อกอินเพื่อรายงาน";
+
+/* No comment provided by engineer. */
+"登录后可拉黑" = "หลังจากล็อกอินสามารถบล็อกได้";
+
+/* No comment provided by engineer. */
+"登录后可拼3个及以上视频哦" = "ล็อกอินเพื่อสร้างภาพตัดปะด้วยวิดีโอ 3 ชิ้นขึ้นไป";
+
+/* No comment provided by engineer. */
+"登录后可拼3个及以上视频哦，去登录 >" = "ล็อกอินเพื่อสร้างภาพตัดปะด้วยวิดีโอ 3 ชิ้นขึ้นไป เข้าสู่ระบบ";
+
+/* No comment provided by engineer. */
+"登录后可评论" = "หลังจากล็อกอินสามารถแสดงความคิดเห็นได้";
+
+/* No comment provided by engineer. */
+"登录后可使用同款" = "ล็อกอินเพื่อใช้เอฟเฟกต์เดียวกัน";
+
+/* No comment provided by engineer. */
+"登录后可收藏" = "ล็อกอินเพื่อเพิ่มรายการโปรด";
+
+/* No comment provided by engineer. */
+"登录后可下载" = "ล็อกอินเพื่อดาวน์โหลด";
+
+/* No comment provided by engineer. */
+"登录后可以上传到私人相册" = "Log in to upload to private album";
+
+/* No comment provided by engineer. */
+"登录后领取宝箱" = "ล็อกอินเพื่อรับหีบสมบัติของคุณ";
+
+/* No comment provided by engineer. */
+"登录后设置隐私" = "ล็อกอินเพื่อจัดการตั้งค่าความเป็นส่วนตัว";
+
+/* No comment provided by engineer. */
+"登录后与ta对话" = "ล็อกอินเพื่อแชท";
+
+/* No comment provided by engineer. */
+"登录即可体验完整功能" = "ล็อกอินเพื่อสัมผัสประสบการณ์เวอร์ชันเต็ม";
+
+/* No comment provided by engineer. */
+"登录即可享受权益" = "เข้าสู่ระบบเพื่อรับสิทธิประโยชน์";
+
+/* No comment provided by engineer. */
+"登录领现金" = "ล็อกอินเพื่อรับเงินสด";
+
+/* No comment provided by engineer. */
+"等待中..." = "กำลังรอ...";
+
+/* No comment provided by engineer. */
+"低(五官)" = "ต่ำ";
+
+/* No comment provided by engineer. */
+"点点头" = "พยักหน้า";
+
+/* No comment provided by engineer. */
+"点击“上传”按钮，开始添加照片/视频吧" = "Tap \"Upload\" to start adding photo/videos!";
+
+/* No comment provided by engineer. */
+"点击【连接】后，" = "หลังจากคลิก “เชื่อมต่อ”";
+
+/* No comment provided by engineer. */
+"点击按钮开始修图" = "Tap here to start!";
+
+/* No comment provided by engineer. */
+"点击播放声音" = "แตะเล่นเสียง";
+
+/* No comment provided by engineer. */
+"点击查看" = "แตะเพื่อดู";
+
+/* No comment provided by engineer. */
+"点击查看大图可调整个人水印" = "แตะเพื่อดูรูปภาพเต็มและปรับลายน้ำ";
+
+/* No comment provided by engineer. */
+"点击创建" = "แตะเพื่อสร้าง";
+
+/* No comment provided by engineer. */
+"点击创建自定义话题" = "สร้างหัวข้อใหม่";
+
+/* No comment provided by engineer. */
+"点击此处编辑文字" = "แตะที่นี่เพื่อแก้ไขข้อความ";
+
+/* No comment provided by engineer. */
+"点击痘痘即可祛除" = "กดเพื่อลบสิว";
+
+/* No comment provided by engineer. */
+"点击封面前往个人主页查看" = "กดเลือกที่หน้าปกเพื่อดูหน้าโปรไฟล์";
+
+/* No comment provided by engineer. */
+"点击更换喜欢的背景吧" = "แตะเพื่อเปลี่ยนพื้นหลัง";
+
+/* No comment provided by engineer. */
+"点击换色" = "เปลี่ยนสี";
+
+/* No comment provided by engineer. */
+"点击即可直接保存当前效果" = "แตะเพื่อบันทึกเอฟเฟกต์ปัจจุบัน";
+
+/* No comment provided by engineer. */
+"点击进入ta的个人主页 >" = "กดเพื่อดูหน้าโปรไฟล์";
+
+/* No comment provided by engineer. */
+"点击可进行人像保护" = "แตะเพื่อล็อกรูปเหมือน";
+
+/* No comment provided by engineer. */
+"点击可切换\n文字样式哦" = "กดเพื่อ\nสลับแบบอักษร ";
+
+/* No comment provided by engineer. */
+"点击可添加自定义贴纸" = "แตะเพื่อเพิ่มสติกเกอร์แบบกำหนดเอง";
+
+/* No comment provided by engineer. */
+"点击屏幕即可拍照" = "กดเพื่อล็อค";
+
+/* No comment provided by engineer. */
+"点击前往系统设置开启权限" = "แตะเพื่ออนุญาตการเข้าถึง";
+
+/* No comment provided by engineer. */
+"点击切换贴纸类型" = "แตะเพื่อเปลี่ยนชนิดสติกเกอร์";
+
+/* No comment provided by engineer. */
+"点击任意位置添加标签" = "แตะตรงไหนก็ได้เพื่อเพิ่มแท็ก";
+
+/* No comment provided by engineer. */
+"点击输入文字" = "เพิ่มข้อความ";
+
+/* No comment provided by engineer. */
+"点击修改水印" = "แตะเพื่อแก้ไขลายน้ำ";
+
+/* No comment provided by engineer. */
+"点击选中操作对象" = "แตะเพื่อเลือกวัตถุ";
+
+/* No comment provided by engineer. */
+"点击眼睛即可放大" = "กดที่ดวงตาเพื่อขยายใหญ่";
+
+/* No comment provided by engineer. */
+"点击预览动效" = "แตะเพื่อดูตัวอย่างเอฟเฟกต์";
+
+/* No comment provided by engineer. */
+"点击展开透明度滑竿哦" = "คลิกอีกครั้งเพื่อแสดงแถบเลื่อน";
+
+/* No comment provided by engineer. */
+"点击这里可添加转场哦" = "แตะที่นี่เพื่อเพิ่มการเปลี่ยนฉาก!";
+
+/* No comment provided by engineer. */
+"点击重试" = "แตะเพื่อลองใหม่";
+
+/* (No Comment) */
+"点开看精彩内容" = "Tap to find surpassing content";
+
+/* (No Comment) */
+"点我get变美技巧" = "Tap to get tips";
+
+/* No comment provided by engineer. */
+"点赞了%@的评论" = "ถูกใจ%@คอมเมนต์";
+
+/* No comment provided by engineer. */
+"点赞了%@的日志" = "ถูกใจแกลเลอรีของ %@";
+
+/* No comment provided by engineer. */
+"点这里发视频和图片评论" = "กดที่นี่เพื่อส่งคอมเมนต์วิดีโอหรือรูป";
+
+/* No comment provided by engineer. */
+"点这里快速返回图片处理～" = "กดเพื่อย้อนกลับไปที่การประมวลผลภาพ";
+
+/* No comment provided by engineer. */
+"调暗画面背景" = "วิกเนต เปิด";
+
+/* No comment provided by engineer. */
+"调节滑竿自动吸色" = "ปรับสีผิวอัตโนมัติโดยการปรับแถบเลื่อน";
+
+/* No comment provided by engineer. */
+"调色" = "จานสี";
+
+/* No comment provided by engineer. */
+"调整" = " ปรับแต่ง";
+
+/* No comment provided by engineer. */
+"调整使用攻略" = "แนะนำการปรับแต่ง";
+
+/* No comment provided by engineer. */
+"叠加" = "ซ้อน";
+
+/* No comment provided by engineer. */
+"订阅会员，素材免费用" = "สมัครสมาชิก สามารถใช้องค์ประกอบฟรี";
+
+/* No comment provided by engineer. */
+"定格" = "หยุดภาพ";
+
+/* No comment provided by engineer. */
+"定制个性化颜值管家，拍照或修图即可自动使用哦" = "จัดการวิธีดูแลความงามของคุณเอง! สามารถแชะภาพหรือตกแต่งได้โดยอัตโนมัติ";
+
+/* No comment provided by engineer. */
+"定制你的专属水印" = "ออกแบบลายน้ำพิเศษของคุณ";
+
+/* No comment provided by engineer. */
+"定制完美头身比" = "ปรับแต่งศีรษะทันที";
+
+/* No comment provided by engineer. */
+"定制专属个人水印，保存图片即可自动使用哦" = "ปรับแต่งลายน้ำของคุณเองที่จะใช้โดยอัตโนมัติหลังบันทึกแล้ว";
+
+/* No comment provided by engineer. */
+"动画" = "อนิเมชั่น";
+
+/* No comment provided by engineer. */
+"动画路径" = "แนวทาง";
+
+/* No comment provided by engineer. */
+"动画时长" = "ระยะเวลาอนิเมชั่น";
+
+/* No comment provided by engineer. */
+"动图暂不支持倒放哦" = "รูปภาพแบบไดนามิกไม่รองรับการเล่นย้อน";
+
+/* No comment provided by engineer. */
+"抖音" = "TikTok";
+
+/* No comment provided by engineer. */
+"痘痘大小" = "ขนาด";
+
+/* No comment provided by engineer. */
+"嘟嘴一下" = "เบะปาก";
+
+/* No comment provided by engineer. */
+"独家3D立体滤镜" = "ฟิลเตอร์ 3D เอ็กซ์คลูซีฟ";
+
+/* No comment provided by engineer. */
+"独家CG滤镜，下载素材包立即体验" = "ฟิลเตอร์ CG พิเศษ ดาวน์โหลดชุดองค์ประกอบเพื่อสัมผัส";
+
+/* No comment provided by engineer. */
+"短(五官)" = "สั้น";
+
+/* No comment provided by engineer. */
+"短脸" = "สั้นลง";
+
+/* No comment provided by engineer. */
+"短脸专用" = "สั้น";
+
+/* No comment provided by engineer. */
+"短视频，超好看！1.5亿用户正在看美拍！" = "วิดีโอสั้นที่น่าสนใจ! ผู้ใช้ 150 ล้านคนกำลังใช้ Meipai อยู่!";
+
+/* No comment provided by engineer. */
+"段视频或图片" = "วิดีโอหรือรูปภาพ";
+
+/* No comment provided by engineer. */
+"断开" = "ตัดการเชื่อมต่อ";
+
+/* No comment provided by engineer. */
+"断开连接后将无法继续通过遥控器拍照，是否断开？" = "หลังจากตัดการเชื่อมต่อ คุณจะไม่สามารถใช้ Meitu Remote เพื่อถ่ายภาพ ต้องการตัดการเชื่อมต่อหรือไม่";
+
+/* No comment provided by engineer. */
+"对比" = "เปรียบเทียบ";
+
+/* No comment provided by engineer. */
+"对比度" = "คอนทราสต์";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-对齐tab标题 */
+"对齐" = "จัดแนว";
+
+/* No comment provided by engineer. */
+"多次涂抹可增强磨皮效果" = "Swipe again to enhance the smooth effect.";
+
+/* No comment provided by engineer. */
+"多发作品，收获更多的赞 ❤" = "โพสต์ผลงานเพิ่มเติมเพื่อเพิ่มยอดไลค์ ❤";
+
+/* No comment provided by engineer. */
+"多人相册" = "Group Album";
+
+/* No comment provided by engineer. */
+"额，处理时出现问题" = "เราพบปัญหาขณะประมวลผล";
+
+/* No comment provided by engineer. */
+"额~ 没有识别到人脸，换张照片再试试~" = "เราไม่สามารถตรวจจับใบหน้ามนุษย์ได้ ลองใช้ภาพอื่นดูไหม";
+
+/* No comment provided by engineer. */
+"额~ 太多人脸了，换张照片再试试~" = "มีหน้าคนมากเกินไปในภาพนี้ กรุณาลองภาพอื่น";
+
+/* No comment provided by engineer. */
+"额头" = "หน้าผาก";
+
+/* (No Comment) */
+"额头(面部重塑)" = "หน้าผาก";
+
+/* No comment provided by engineer. */
+"恶意刷屏" = "เนื้อหาสแปม";
+
+/* No comment provided by engineer. */
+"发布" = "โพสต์ ";
+
+/* No comment provided by engineer. */
+"发布参与修图节" = "Post and join the festival";
+
+/* No comment provided by engineer. */
+"发布成功" = "โพสต์แล้ว";
+
+/* No comment provided by engineer. */
+"发布到美图相册" = "โพสต์ไปที่แกลเลอรี MT";
+
+/* No comment provided by engineer. */
+"发布到美图相册时分享修图配方" = "โพสต์ไปที่แกลเลอรี MT ด้วยแม่แบบการแชร์";
+
+/* No comment provided by engineer. */
+"发布到社区" = "แชร์";
+
+/* No comment provided by engineer. */
+"发布到有颜，让更多人看到你！" = "แชร์ไปยัง Youyan ให้ผู้คนรู้จักคุณมากขึ้น!";
+
+/* No comment provided by engineer. */
+"发布失败" = "โพสต์ไม่สำเร็จ";
+
+/* No comment provided by engineer. */
+"发布中，请稍等片刻" = "กำลังโพสต์ กรุณารอสักครู่";
+
+/* No comment provided by engineer. */
+"发际线" = "แนวเส้นผม";
+
+/* No comment provided by engineer. */
+"发际线定位失败，换张图试试~" = "ไม่พบแนวผม กรุณาลองรูปอื่น";
+
+/* No comment provided by engineer. */
+"发起人：" = "ออร์แกไนเซอร์:";
+
+/* No comment provided by engineer. */
+"发送" = "ส่ง";
+
+/* No comment provided by engineer. */
+"发送建议中..." = "กำลังส่ง...";
+
+/* No comment provided by engineer. */
+"发现兴趣相投的朋友" = "ค้นพบเพื่อนใหม่ๆ!";
+
+/* 美容-祛皱-智能的一个tab */
+"法令纹" = "ลักยิ้ม";
+
+/* No comment provided by engineer. */
+"法式刘海" = "สไตล์ฝรั่งเศส";
+
+/* No comment provided by engineer. */
+"翻转" = "พลิก";
+
+/* No comment provided by engineer. */
+"返回" = "ย้อนกลับ";
+
+/* No comment provided by engineer. */
+"返回会丢失当前视频，是否返回？" = "วิดีโอนี้อาจสูญหายไปหากคุณย้อนกลับ แน่ใจหรือไม่ว่าต้องการย้อนกลับ?";
+
+/* No comment provided by engineer. */
+"返回首页" = "กลับไปที่หน้าหลัก";
+
+/* No comment provided by engineer. */
+"方脸专用" = "จัตุรัส";
+
+/* No comment provided by engineer. */
+"方形" = "จัตุรัส";
+
+/* No comment provided by engineer. */
+"防抖已关闭" = "ปิดระบบป้องกันการสั่นไหวไว้";
+
+/* No comment provided by engineer. */
+"放大区域" = "ขนาด";
+
+/* No comment provided by engineer. */
+"放弃" = "ล้มเลิก";
+
+/* No comment provided by engineer. */
+"放弃对资料的修改吗？" = "ล้มเลิกการเปลี่ยนแปลงหรือไม่";
+
+/* 海外地区-审核开关关闭-订阅会员-支付时取消 */
+"放弃加入VIP吗？" = "ไม่ต้องการเข้าร่วมเป็น VIP?";
+
+/* 海外地区-审核开关关闭-订阅会员-支付时取消 */
+"放弃优惠" = "ไม่รับข้อเสนอ";
+
+/* No comment provided by engineer. */
+"分割" = "บางส่วนแล้ว";
+
+/* No comment provided by engineer. */
+"分割失败" = "การแบ่งส่วนล้มเหลว";
+
+/* No comment provided by engineer. */
+"分享" = "แชร์";
+
+/* No comment provided by engineer. */
+"分享 %@ 的MT，快来看看吧~" = "แชร์ %@ MT ลองตรวจสอบดู!";
+
+/* No comment provided by engineer. */
+"分享 %@ 的MT【%@】，快来看看吧~" = "แชร์ %@ MT, 【%2$@】 ลองตรวจสอบดู!";
+
+/* No comment provided by engineer. */
+"分享到" = "แชร์ใน";
+
+/* No comment provided by engineer. */
+"分享到美图秀秀" = "แชร์ใน Meitu";
+
+/* No comment provided by engineer. */
+"分享到微信朋友圈" = "แชร์ใน WeChat";
+
+/* No comment provided by engineer. */
+"分享到新浪微博" = "แชร์ทาง Sina Weibo";
+
+/* No comment provided by engineer. */
+"分享该“马赛克效果图”到%@，即可解锁该效果。" = "แชร์แผนที่โมเสคนี้ใน %@ และปลดล็อคเอฟเฟกต์นี้ทันที";
+
+/* No comment provided by engineer. */
+"分享好友趣事" = "Share funny stories";
+
+/* No comment provided by engineer. */
+"分享美拍失败" = "ไม่สามารถแชร์ไปยัง Meipai";
+
+/* No comment provided by engineer. */
+"分享魔幻笔功能到%@，即可解锁包括「%@」在内的所有魔幻笔。" = "แชร์ แปรงวิเศษ ใน %@ และปลดล็อคแปรงทั้งหมดรวมทั้ง「%@」";
+
+/* No comment provided by engineer. */
+"分享你的变美百科，可以让更多人看到哦！" = "แชร์บทสอนการแต่งสวยของคุณให้โดดเด่น!";
+
+/* No comment provided by engineer. */
+"分享失败，视频长度不符合抖音要求(视频长度≥3秒)" = "Failed to share. TikTok's requires videos to be at least 3 seconds in length.";
+
+/* No comment provided by engineer. */
+"分享失败，视频长度不符合抖音要求(视频长度在3s ~ 1小时内)" = "Failed to share. TikTok requires that videos be between 3 seconds and 1 hour in length.";
+
+/* No comment provided by engineer. */
+"分享图片" = "แชร์";
+
+/* No comment provided by engineer. */
+"粉瓷白" = "แฟร์ ";
+
+/* No comment provided by engineer. */
+"粉丝" = "ผู้ติดตาม";
+
+/* No comment provided by engineer. */
+"粉钻会员专属权益" = "สิทธิประโยชน์ Meitu VIP";
+
+/* (No Comment) */
+"丰唇(面部重塑)" = "อวบอิ่ม";
+
+/* No comment provided by engineer. */
+"丰太阳穴" = "ขมับ";
+
+/* No comment provided by engineer. */
+"丰胸" = "หน้าอก";
+
+/* No comment provided by engineer. */
+"风格" = "สไตล์";
+
+/* 审核开关关闭-订阅会员-支付时取消 */
+"风格妆" = "สไตล์";
+
+/* No comment provided by engineer. */
+"风景" = "ทิวทัศน์";
+
+/* No comment provided by engineer. */
+"封面" = "หน้าปก";
+
+/* No comment provided by engineer. */
+"否" = "ไม่";
+
+/* 海外地区-审核开关关闭-订阅会员-支付时取消 */
+"肤色" = "โทน";
+
+/* 审核开关关闭-订阅会员-支付时取消 */
+"肤色功能" = "ฟังก์ชันโทนสีผิว";
+
+/* No comment provided by engineer. */
+"肤色美白" = "ผิว";
+
+/* 一键美颜滑竿名称 */
+"肤质" = "ประเภทผิว";
+
+/* No comment provided by engineer. */
+"服务升级，该功能暂不可用" = "การอัปเกรดบริการ: ฟีเจอร์นี้ใช้งานไม่ได้ชั่วคราว";
+
+/* No comment provided by engineer. */
+"服务协议" = "ข้อตกลงการให้บริกา";
+
+/* No comment provided by engineer. */
+"服务协议及隐私权政策" = "ข้อตกลงบริการและนโยบายความเป็นส่วนตัว";
+
+/* No comment provided by engineer. */
+"辅助线" = "เส้นกริด";
+
+/* No comment provided by engineer. */
+"复制" = "คัดลอก";
+
+/* 消息详情页-复制成功 */
+"复制成功" = "คัดลอกแล้ว";
+
+/* No comment provided by engineer. */
+"复制链接" = "คัดลอก URL";
+
+/* No comment provided by engineer. */
+"复制失败" = "คัดลอกล้มเหลว";
+
+/* 一键美颜底部效果tab */
+"馥郁" = "สง่า";
+
+/* No comment provided by engineer. */
+"该城市下还没有地标哦" = "ไม่มีแลนด์มาร์กในเมืองนี้ ";
+
+/* No comment provided by engineer. */
+"该地标下还没有内容哦" = "ไม่มีเนื้อหาภายในแลนด์มาร์กนี้";
+
+/* No comment provided by engineer. */
+"该分类还未下载任何素材，快去素材中心下载吧！" = "คุณยังไม่ได้ดาวน์โหลดเนื้อหาใด ๆ สำหรับหมวดหมู่นี้ ไปที่ ศูนย์เนื้อหา ตอนนี้!";
+
+/* No comment provided by engineer. */
+"该分类已不存在了哦~" = "หมวดหมู่นี้ไม่มีอีกต่อไป";
+
+/* No comment provided by engineer. */
+"该马赛克不支持形状笔刷哦~" = "โมเสกนี้ไม่รองรับรูปทรงแปรง";
+
+/* No comment provided by engineer. */
+"该模板原始素材已被删除，但仍可继续使用" = "เอฟเฟกต์เดิมของเทมเพลตถูกลบไปแล้ว แต่คุณยังสามารถใช้ได้อยู่";
+
+/* 收藏夹—移动到相同收藏 */
+"该内容已在此收藏夹中" = "เนื้อหาอยู่ในรายการโปรดนี้แล้ว";
+
+/* No comment provided by engineer. */
+"该配方所用素材均已下架，换其他配方使用哦~" = "องค์ประกอบในแม่แบบนี้เป็นออฟไลน์ทั้งหมด กรุณาเปลี่ยนเป็นแม่แบบอื่น";
+
+/* No comment provided by engineer. */
+"该配方已不支持使用，换其他的试试~" = "ไม่สามารถใช้แม่แบบตัดต่อนี้ได้ กรุณาลองใหม่อีกครั้ง";
+
+/* No comment provided by engineer. */
+"该设备最多支持%ld个视频" = "วิดีโอไม่เกิน %ld ไฟล์ในอุปกรณ์นี้";
+
+/* No comment provided by engineer. */
+"该素材不支持防抖" = "ฟีเจอร์นี้ไม่รองรับฟังก์ชันป้องกันการสั่น";
+
+/* No comment provided by engineer. */
+"该素材不支持切换取景尺寸" = "ฟีเจอร์นี้ไม่รองรับการเปลี่ยนสัดส่วนภาพ";
+
+/* No comment provided by engineer. */
+"该素材不支持切换摄像头" = "ฟีเจอร์นี้ไม่รองรับการสลับกล้อง";
+
+/* No comment provided by engineer. */
+"该素材不支持闪光灯" = "ฟีเจอร์นี้ไม่รองรับแฟลช";
+
+/* No comment provided by engineer. */
+"该素材仅在限定时间内使用哦" = "เนื้อหานี้สามารถใช้ได้ในระยะเวลาที่กำหนดเท่านั้น";
+
+/* No comment provided by engineer. */
+"该素材仅支持%ld个哦" = "วัตถุดิบนี้รองรับวิดีโอ %ld เท่านั้น";
+
+/* No comment provided by engineer. */
+"该素材仅支持%ld张哦" = "เนื้อหานี้รองรับเพียง %ld ภาพในการแก้ไข";
+
+/* No comment provided by engineer. */
+"该位置无法添加贴纸" = "ไม่สามารถเพิ่มสติกเกอร์ที่นี่ได้!";
+
+/* No comment provided by engineer. */
+"该专题已不存在了哦~" = "หัวข้อนี้ไม่มีอีกต่อไป";
+
+/* No comment provided by engineer. */
+"感谢反馈, 将减少该广告展现" = "ขอบคุณสำหรับการตอบกลับของคุณ คุณจะเห็นโฆษณาเช่นนี้น้อยลง";
+
+/* No comment provided by engineer. */
+"感谢你的反馈，产品与技术团队正在努力解决问题了哦！" = "ขอบคุณสำหรับความเห็นของคุณ ทีมงานของเรากำลังทำการตรวจสอบ!";
+
+/* No comment provided by engineer. */
+"刚刚" = "Just now";
+
+/* No comment provided by engineer. */
+"高(五官)" = "สูง";
+
+/* (No Comment) */
+"高度(面部重塑)" = "ความสูง";
+
+/* No comment provided by engineer. */
+"高光" = "ไฮไลต์";
+
+/* No comment provided by engineer. */
+"高光笔" = "ไฮไลท์";
+
+/* No comment provided by engineer. */
+"高光不支持使用锁定功能~" = "ไฮไลต์ไม่ซัพพอร์ตการล็อค";
+
+/* No comment provided by engineer. */
+"高光调节" = "ไฮไลท์";
+
+/* No comment provided by engineer. */
+"高级设置" = "การตั้งค่า";
+
+/* No comment provided by engineer. */
+"高冷的我没关注任何人" = "ฉันมีมาตรฐานของฉัน และจะไม่ตามใคร!";
+
+/* No comment provided by engineer. */
+"高清" = "สูง";
+
+/* No comment provided by engineer. */
+"高清 自然 不网气" = "คมชัดสูง เป็นธรรมชาติและสดใหม่";
+
+/* No comment provided by engineer. */
+"告诉大家你想要修成什么样子的~" = "Editing requirements";
+
+/* No comment provided by engineer. */
+"个地标" = "แลนด์มาร์ก";
+
+/* No comment provided by engineer. */
+"个人水印" = "ลายน้ำ";
+
+/* No comment provided by engineer. */
+"个人相册" = "Personal Album";
+
+/* No comment provided by engineer. */
+"个人资料" = "โพรไฟล์";
+
+/* No comment provided by engineer. */
+"个收藏" = "รายการโปรด";
+
+/* No comment provided by engineer. */
+"个性化推荐会提升浏览体验，关闭后会明显影响你的内容浏览，是否确认关闭？" = "เรื่องเฉพาะบุคคลที่แนะนำช่วยปรับปรุงประสบการณ์การค้นดู หากปิดไว้จะส่งผลกระทบต่อประสบการณ์ใช้งาน แน่ใจหรือไม่ว่าจะปิด?";
+
+/* No comment provided by engineer. */
+"个性化选项" = "เฉพาะบุคคล";
+
+/* No comment provided by engineer. */
+"个性签名" = "ประวัติ";
+
+/* No comment provided by engineer. */
+"个性签名最多50字哦" = "สูงสุด 50 ตัวอักษร";
+
+/* No comment provided by engineer. */
+"个作品" = "ทำงาน";
+
+/* No comment provided by engineer. */
+"根据法律要求, 互联网帐号需实名认证, 为保障美图帐号的正常使用, 请绑定手机" = "ตามกฎหมายที่จำเป็น บัญชีอินเทอร์เน็ตต้องทำการยืนยันตัวตนด้วยชื่อจริง เพื่อให้แน่ใจว่าจะใช้งาน MTid ได้ตามปกติ กรุณาเชื่อมโยงหมายเลขโทรศัพท์ของคุณ";
+
+/* No comment provided by engineer. */
+"根据你的语言设置，将为你展示经典版MT社区。" = "เราจะแสดงชุมชน MT ในโฮมเพจของคุณตามการตั้งค่าภาษาของคุณ";
+
+/* No comment provided by engineer. */
+"根据你的语言设置，将为你展示新版MT社区。" = "เราจะแสดงโฮมเพจใหม่ตามการตั้งค่าภาษาของคุณ";
+
+/* No comment provided by engineer. */
+"更多" = "กรอบ";
+
+/* No comment provided by engineer. */
+"更多边框" = "กรอบ";
+
+/* No comment provided by engineer. */
+"更多服务" = "บริการอื่นๆ";
+
+/* No comment provided by engineer. */
+"更多滤镜" = "กรอบ";
+
+/* No comment provided by engineer. */
+"更多热门搜索" = "ค้นหาสิ่งที่นิยมเพิ่มเติม";
+
+/* No comment provided by engineer. */
+"更多设置" = "กรอบ";
+
+/* No comment provided by engineer. */
+"更多素材" = "เพิ่มเติม";
+
+/* No comment provided by engineer. */
+"更多虚化" = "กรอบ";
+
+/* No comment provided by engineer. */
+"更多用户" = "กรอบ";
+
+/* No comment provided by engineer. */
+"更多作品" = "อื่นๆ";
+
+/* No comment provided by engineer. */
+"更合适你的修图习惯" = "กระบวนการตัดต่อภาพที่เหมาะกับคุณยิ่งขึ้น";
+
+/* No comment provided by engineer. */
+"更换背景" = "เปลี่ยนพื้นหลัง";
+
+/* No comment provided by engineer. */
+"更换背景图" = "Change Background";
+
+/* No comment provided by engineer. */
+"更适合你的修图习惯；" = "กระบวนการตัดต่อภาพที่เหมาะกับคุณยิ่งขึ้น;";
+
+/* No comment provided by engineer. */
+"更新失败，请重试" = "อัปเดตล้มเหลว กรุณาลองใหม่";
+
+/* No comment provided by engineer. */
+"工具和素材" = "เครื่องมือและองค์ประกอบ";
+
+/* 经典首页工具按钮文案(两行) */
+"工具箱" = "Highlight";
+
+/* (No Comment) */
+"工具箱(经典首页)" = "Tools";
+
+/* (No Comment) */
+"工具箱（社区首页）" = "Highlight";
+
+/* No comment provided by engineer. */
+"功能设置" = "ฟังก์ชั่น";
+
+/* (No Comment) */
+"攻略(经典首页)" = "Guide";
+
+/* No comment provided by engineer. */
+"恭喜，已生成你的专属颜值管家" = "ยินดีด้วย! คุณได้สร้างโปรไฟล์ความงามของตัวเองแล้ว";
+
+/* No comment provided by engineer. */
+"恭喜！你成功解锁了MT！" = "ขอแสดงความยินดี! คุณปลดล็อค MT แล้ว!";
+
+/* No comment provided by engineer. */
+"恭喜你成为粉钻会员~" = "ยินดีด้วยที่ได้เป็น VIP!";
+
+/* No comment provided by engineer. */
+"共%@条回复 >" = "มีการตอบกลับรวม %@ รายการ";
+
+/* No comment provided by engineer. */
+"共%ld个" = "รวม %ld ฟิลเตอร์";
+
+/* No comment provided by engineer. */
+"共%ld条回复" = "มีการตอบกลับรวม %ld รายการ";
+
+/* No comment provided by engineer. */
+"共有 %ld 个滤镜" = "ฟิลเตอร์รวม %ld";
+
+/* No comment provided by engineer. */
+"购买美图遥控器" = "จัดซื้อ Meitu Remote";
+
+/* No comment provided by engineer. */
+"购买素材" = "ซื้อเอฟเฟกต์";
+
+/* (No Comment) */
+"购买素材(简)" = "ซื้อ";
+
+/* No comment provided by engineer. */
+"购买同款" = "ซื้อ";
+
+/* No comment provided by engineer. */
+"购物车" = "ตะกร้าสินค้า ";
+
+/* No comment provided by engineer. */
+"鼓励一下" = "ให้คะแนนเราตอนนี้";
+
+/* No comment provided by engineer. */
+"关闭" = "ปิด";
+
+/* No comment provided by engineer. */
+"关闭广告" = "ปิด";
+
+/* No comment provided by engineer. */
+"关闭后，你将不会收到好友私信推送通知" = "หลังปิดใช้งาน คุณจะไม่ได้รับการแจ้งเตือนข้อความ";
+
+/* No comment provided by engineer. */
+"关闭后，你将不会收到好友新作品的推送通知" = "หลังปิดใช้งาน คุณจะไม่ได้รับการแจ้งเตือนการโพสต์ใหม่";
+
+/* No comment provided by engineer. */
+"关闭后，你将不会收到以上互动通知" = "หลังปิดใช้งาน คุณจะไม่ได้รับการแจ้งเตือนจากการกล่าวถึง";
+
+/* No comment provided by engineer. */
+"关闭后，你可能错过重要消息通知" = "หลังปิดใช้งาน คุณอาจพลาดการแจ้งเตือนสำคัญ";
+
+/* No comment provided by engineer. */
+"关闭后将使用通用美颜参数哦" = "ปิดเพื่อใช้ค่าการแต่งสวยทั่วไป";
+
+/* No comment provided by engineer. */
+"关闭后前置自拍将不自动镜像" = "หลังปิดใช้งาน การถ่ายเซลฟีด้วยกล้องหน้าจะไม่ถูกกลับด้านเองโดยอัตโนมัติ";
+
+/* No comment provided by engineer. */
+"关闭颜值管家" = "ปิด ความงามของฉัน";
+
+/* No comment provided by engineer. */
+"关于美图秀秀" = "เกี่ยวกับ Meitu";
+
+/* No comment provided by engineer. */
+"关注" = "ติดตาม";
+
+/* No comment provided by engineer. */
+"关注(按钮)" = "ติดตาม";
+
+/* No comment provided by engineer. */
+"关注(热门)" = "ติดตาม";
+
+/* No comment provided by engineer. */
+"关注成功" = "กำลังติดตาม";
+
+/* No comment provided by engineer. */
+"关注的人新作品通知" = "การแจ้งเตือนจากผู้ใช้ที่ฉันติดตาม";
+
+/* No comment provided by engineer. */
+"关注感兴趣的朋友" = "ถูกใจไหม? งั้นติดตามเลย!";
+
+/* No comment provided by engineer. */
+"关注感兴趣的人，结交有同好的朋友" = "Follow and meet users with the same interests ";
+
+/* No comment provided by engineer. */
+"关注了你" = "ได้ติดตามคุณ";
+
+/* No comment provided by engineer. */
+"观看免费使用一次" = "ชมโฆษณาเพื่อใช้หนึ่งครั้ง";
+
+/* (No Comment) */
+"观看免费试用" = "ดูเพื่อลองใช้ฟรี";
+
+/* (No Comment) */
+"观看免费下载" = "ดูเพื่อดาวน์โหลดฟรี";
+
+/* No comment provided by engineer. */
+"观看完此视频，即可解锁包括「%@」在内的所有魔幻笔。" = "รับชมวิดีโอนี้ และปลดล็อคแปรงทั้งหมด รวมทั้ง「%@」";
+
+/* No comment provided by engineer. */
+"管理" = "จัดการ";
+
+/* No comment provided by engineer. */
+"管理相册" = "Manage album";
+
+/* No comment provided by engineer. */
+"光斑" = "แฟลร์";
+
+/* No comment provided by engineer. */
+"光效" = "แสง";
+
+/* No comment provided by engineer. */
+"广告" = "โฆษณา";
+
+/* No comment provided by engineer. */
+"过渡" = "การเปลี่ยนภาพ";
+
+/* No comment provided by engineer. */
+"还没关注？去发现页收获美好吧" = "ยังไม่ได้ติดตามใคร? ไปดูหน้า ค้นพบ เพื่อหาโพสต์ที่คุณชอบได้เลย!";
+
+/* No comment provided by engineer. */
+"还没关注？去热门页发现更多美好吧" = "ยังไม่ได้ติดตามใครเลย? ไปที่หน้า กำลังนิยม เพื่อหาดูโพสต์ที่คุณน่าจะชอบ!";
+
+/* No comment provided by engineer. */
+"还没关注？去热门页收获美好吧" = "ยังไม่ได้ติดตามใครเลย? ไปที่หน้า กำลังนิยม เพื่อหาดูโพสต์ที่คุณน่าจะชอบ!";
+
+/* No comment provided by engineer. */
+"还没关注？右滑去发现更多美好吧" = "ยังไม่ได้ติดตามใคร? ปัดไปทางขวาแล้วเริ่มสำรวจดูได้เลย!";
+
+/* No comment provided by engineer. */
+"还没好友？主动点，你们就有故事了" = "ยังไม่มีเพื่อน? ก้าวออกจากคอมฟอร์ตโซนของคุณตอนนี้เลย";
+
+/* No comment provided by engineer. */
+"还没有草稿哦\n快去发布你的作品吧" = "ไม่มีอะไรที่นี่ ลองโพสต์เลย!";
+
+/* No comment provided by engineer. */
+"还没有赞过任何作品，多点赞能收获更多赞哦" = "คุณยังไม่ได้ถูกใจโพสต์ใด ถูกใจโพสต์เพื่อรับการถูกใจเพิ่ม";
+
+/* No comment provided by engineer. */
+"还未创建配方，可点击保存按钮右侧“┇”设置。" = "คุณยังไม่ได้สร้างแม่แบบใดๆ คุณสามารถกด \"┇\" ด้านขวาของ ปุ่มบันทึกเพื่อตั้งค่า";
+
+/* No comment provided by engineer. */
+"还原" = "นำกลับมา";
+
+/* No comment provided by engineer. */
+"海报" = "โปสเตอร์";
+
+/* No comment provided by engineer. */
+"海报边框" = "โปสเตอร์";
+
+/* No comment provided by engineer. */
+"海报工厂" = "PosterLabs";
+
+/* No comment provided by engineer. */
+"海报列表" = "โปสเตอร์";
+
+/* No comment provided by engineer. */
+"海报拼图边框" = "กรอบ";
+
+/* No comment provided by engineer. */
+"好的" = "ตกลง";
+
+/* No comment provided by engineer. */
+"好物推荐" = "แนะนำ";
+
+/* No comment provided by engineer. */
+"好想好想和你在一起，陪你修照片~😉" = "เราอยู่ตรงนี้เสมอเพื่อเปลี่ยนทุกรูปเป็นช่วงเวลาที่แบ่งปันได้!😉";
+
+/* No comment provided by engineer. */
+"好友" = "เพื่อน";
+
+/* No comment provided by engineer. */
+"好友动态" = "การแจ้งเตือน";
+
+/* No comment provided by engineer. */
+"黑科技照片1秒变超唯美手绘，自拍美图赞爆朋友圈，万千高颜值美少女都爱用哦！" = "ปรับเปลี่ยนภาพของคุณเป็นผลงานวาดด้วยมือที่สวยงามกับเทคโนโลยีสุดวิเศษของเรา ทำให้เพื่อน ๆ ประทับใจ และเป็นหนึ่งในผู้ใช้ที่ทุกคนจะต้องให้ความสนใจผ่านฟังก์ชั่นนี้!";
+
+/* No comment provided by engineer. */
+"横向" = "แนวนอน";
+
+/* No comment provided by engineer. */
+"红包" = "Red Packet";
+
+/* No comment provided by engineer. */
+"红润" = "Rosy";
+
+/* No comment provided by engineer. */
+"红色区域为增高区域" = "ลากที่พื้นที่สีแดงเพื่อเพิ่มความยาวของขา";
+
+/* No comment provided by engineer. */
+"忽略" = "ข้าม";
+
+/* No comment provided by engineer. */
+"互相关注" = "เพื่อน";
+
+/* 视频美化-文字-添加任意文字选中-二级列表 */
+"花字" = "ศิลปะ";
+
+/* No comment provided by engineer. */
+"滑动可选择一张封面" = "กวาดนิ้วเพื่อเลือกภาพหน้าปก";
+
+/* No comment provided by engineer. */
+"滑动图片可旋转" = "พลิกภาพเพื่อหมุนองศา";
+
+/* No comment provided by engineer. */
+"画笔" = "ปากกา";
+
+/* No comment provided by engineer. */
+"画笔大小" = "ขนาด";
+
+/* No comment provided by engineer. */
+"画布" = "กรอบ";
+
+/* No comment provided by engineer. */
+"画面中未识别到脸部" = "ไม่สามารถตรวจจับใบหน้าใดๆ ได้";
+
+/* No comment provided by engineer. */
+"画质" = "คุณภาพของภาพ";
+
+/* No comment provided by engineer. */
+"画质设置" = "คุณภาพของภาพ";
+
+/* No comment provided by engineer. */
+"画中画" = "เปิดสองหน้าต่าง";
+
+/* No comment provided by engineer. */
+"话题" = "หัวข้อ";
+
+/* No comment provided by engineer. */
+"话题标签最多只能添加%d个呦" = "เพิ่มมากกว่า%dแท็กไม่ได้";
+
+/* No comment provided by engineer. */
+"欢迎进入美图秀秀" = "ยินดีต้อนรับสู่ Meitu";
+
+/* No comment provided by engineer. */
+"欢迎使用此分类素材" = "เพลิดเพลินไปกับธีมต่าง ๆ!";
+
+/* No comment provided by engineer. */
+"缓存已清空" = "ล้างแคชแล้ว";
+
+/* No comment provided by engineer. */
+"换个词试试吧~" = "ลองใช้คำค้นใหม่หรือไม่?";
+
+/* No comment provided by engineer. */
+"恢复" = "คืนค่า";
+
+/* No comment provided by engineer. */
+"恢复保护笔" = "คืนค่าเส้นตรง";
+
+/* No comment provided by engineer. */
+"恢复擦除" = "คืนค่า";
+
+/* No comment provided by engineer. */
+"恢复动画路径" = "คืนค่าแนวทางการเคลื่อนไหว";
+
+/* No comment provided by engineer. */
+"恢复购买" = "คืนค่าการซื้อ";
+
+/* No comment provided by engineer. */
+"恢复购买失败，请重试" = "คืนค่าการซื้อไม่สำเร็จ กรุณาลองอีกครั้ง";
+
+/* No comment provided by engineer. */
+"恢复经典首页" = "คืนค่าโฮมเพจแบบคลาสสิก";
+
+/* No comment provided by engineer. */
+"恢复游客订阅/购买" = "กู้คืนการซื้อของผู้เยี่ยมชม";
+
+/* No comment provided by engineer. */
+"回复" = "ตอบกลับ ";
+
+/* No comment provided by engineer. */
+"回复后，你们的对话将自动移至私信列表" = "หลังจากตอบกลับ บทสนทนาจะย้ายอัตโนมัติไปยังรายการ PM";
+
+/* No comment provided by engineer. */
+"回复评论：" = "ความเห็นที่ตอบกลับ";
+
+/* No comment provided by engineer. */
+"会话气泡" = "ฟองน้ำ";
+
+/* No comment provided by engineer. */
+"会员协议" = "นโยบายการสมัคร";
+
+/* No comment provided by engineer. */
+"绘制动画路径" = "วาดแนวทางการเคลื่อนไหว";
+
+/* No comment provided by engineer. */
+"混合" = "ผสม";
+
+/* No comment provided by engineer. */
+"混合模式" = "โหมดผสมผสาน";
+
+/* No comment provided by engineer. */
+"活跃用户" = "ผู้ที่ยังใช้งาน";
+
+/* No comment provided by engineer. */
+"获取不到素材包，请重试哦~" = "ไม่สามารถรับแพคเกจเอฟเฟกต์ได้ กรุณาลองใหม่อีกครั้ง";
+
+/* No comment provided by engineer. */
+"获取地理位置失败,请确认定位功能已打开" = "ไม่สามารถระบุตำแหน่งของคุณ กรุณาตรวจสอบว่าเปิดบริการระบุตำแหน่งไว้";
+
+/* No comment provided by engineer. */
+"获取最新版本信息..." = "กำลังตรวจหาข้อมูลอัพเดต...";
+
+/* No comment provided by engineer. */
+"获赞" = "ไลค์";
+
+/* No comment provided by engineer. */
+"获赞与收藏" = "ถูกใจและรายการโปรด";
+
+/* 视频美化-文字-添加任意文字选中-二级列表 */
+"基础" = "พื้นฐาน";
+
+/* No comment provided by engineer. */
+"即将播放下一条视频" = "วิดีโอถัดไปจะเล่นโดยอัตโนมัติ";
+
+/* No comment provided by engineer. */
+"记得分享刚修的美图呦~" = "แชร์รูปภาพใหม่กับเพื่อนๆ!";
+
+/* No comment provided by engineer. */
+"记录家庭日常" = "Capture wonderful family moments ";
+
+/* No comment provided by engineer. */
+"季" = "3 เดือน";
+
+/* No comment provided by engineer. */
+"既然来了，不关注一下？" = "เมื่อคุณอยู่ที่นี่แล้ว ไม่ลองติดตามใครสักคนดูล่ะ?";
+
+/* No comment provided by engineer. */
+"继续" = "ดำเนินการต่อ";
+
+/* No comment provided by engineer. */
+"继续编辑" = "ดำเนินการต่อ";
+
+/* No comment provided by engineer. */
+"继续美化" = "ดำเนินต่อ";
+
+/* No comment provided by engineer. */
+"继续美容" = "ปรับแต่ง";
+
+/* No comment provided by engineer. */
+"继续拼图" = "ดำเนินการต่อ";
+
+/* No comment provided by engineer. */
+"继续上滑将展示其他热门内容哦" = "เลื่อนขึ้นเพื่อแสดงเนื้อหาอื่นๆที่กำลังนิยม";
+
+/* No comment provided by engineer. */
+"继续添加更多素材可能影响预览流畅度" = "เริ่มการเพิ่มองค์ประกอบที่อาจส่งผลต่อความลื่นไหลของพรีวิว";
+
+/* No comment provided by engineer. */
+"继续完善" = "ดำเนินการต่อ";
+
+/* No comment provided by engineer. */
+"继续下载" = "ดำเนินการต่อ";
+
+/* No comment provided by engineer. */
+"继续修图" = "ดำเนินการต่อ";
+
+/* 审核开关关闭-订阅会员-支付时取消 */
+"继续支付" = "ดำเนินการชำระเงินต่อ";
+
+/* No comment provided by engineer. */
+"继续制作" = "ดำเนินต่อ";
+
+/* No comment provided by engineer. */
+"加入黑名单" = "เพิ่มไปยังบัญชีดำ";
+
+/* No comment provided by engineer. */
+"加入黑名单后，TA发布的内容不会再推荐给你并且无法对你进行关注、评论、私信等操作，确定吗？" = "หลังจากขึ้นบัญชีดำแล้ว เนื้อหาของผู้ใช้รายนี้จะไม่ถูกแนะนำให้กับคุณอีกต่อไป พวกเขาจะไม่สามารถ: ติดตาม แสดงความเห็น หรือส่ง PM ถึงคุณ แน่ใจว่าต้องการดำเนินการต่อหรือไม่";
+
+/* No comment provided by engineer. */
+"加入黑名单后，TA无法对你进行关注、评论等操作，确定吗？" = "หลังจากขึ้นบัญชีดำแล้ว ผู้ใช้รายนี้จะไม่สามารถติดตามหรือแสดงความเห็นในเนื้อหาของคุณได้ แน่ใจว่าต้องการดำเนินการต่อหรือไม่";
+
+/* No comment provided by engineer. */
+"加深" = "เพิ่มความเข้ม";
+
+/* No comment provided by engineer. */
+"加载失败" = "การโหลดล้มเหลว";
+
+/* No comment provided by engineer. */
+"加载失败，请检查网络连接后重试~" = "ดาวน์โหลดล้มเหลว กรุณาตรวจสอบการตั้งค่าเครือข่ายของคุณ";
+
+/* No comment provided by engineer. */
+"加载失败，请重试！" = "โหลดล้มเหลว กรุณาลองใหม่อีกครั้งในภายหลัง";
+
+/* No comment provided by engineer. */
+"加载中，请稍后" = "กำลังโหลดโปรดรอ...";
+
+/* No comment provided by engineer. */
+"加载中..." = "กำลังโหลด...";
+
+/* No comment provided by engineer. */
+"加载中…" = "กำลังโหลด...";
+
+/* (No Comment) */
+"间距(面部重塑)" = "ระยะห่าง";
+
+/* No comment provided by engineer. */
+"肩部" = "ไหล่";
+
+/* No comment provided by engineer. */
+"肩颈" = "คอและไหล่";
+
+/* No comment provided by engineer. */
+"剪辑创作" = "ตัดต่อ";
+
+/* No comment provided by engineer. */
+"简单" = "ง่าย";
+
+/* No comment provided by engineer. */
+"简单边框" = "เรียบง่าย";
+
+/* No comment provided by engineer. */
+"建议图片拼接后，直接通过美图秀秀分享到微博。因为从手机相册分享时，大尺寸图片会被微博严重压缩。" = "แชร์ภาพต่อของคุณโดยตรงจาก Meitu เพื่อให้ภาพมีคุณภาพมากขึ้น!";
+
+/* No comment provided by engineer. */
+"键盘" = "แป้นพิมพ์";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-阴影tab-角度滑竿标签 */
+"角度" = "มุม";
+
+/* No comment provided by engineer. */
+"矫正" = "แก้ไข";
+
+/* No comment provided by engineer. */
+"叫上朋友一起玩" = "เชิญเพื่อน";
+
+/* No comment provided by engineer. */
+"接收哪些人的私信" = "รับข้อความส่วนตัวจากผู้ใช้เหล่านี้";
+
+/* No comment provided by engineer. */
+"接受哪些人的私信" = "รับข้อความส่วนตัวจากผู้ใช้เหล่านี้";
+
+/* No comment provided by engineer. */
+"接受最新功能动态" = "รับการอัปเดตฟังก์ชันใหม่ล่าสุด";
+
+/* No comment provided by engineer. */
+"节选" = "การเลือกแล้ว";
+
+/* No comment provided by engineer. */
+"结构" = "โครงสร้าง";
+
+/* No comment provided by engineer. */
+"睫毛" = "ขนตา";
+
+/* No comment provided by engineer. */
+"解散相册" = "Delete album";
+
+/* No comment provided by engineer. */
+"解散相册后，相册中的所有内容将被删除并且相册中所有成员将被移出相册。" = "When an album is deleted, all content within it will be eliminated and all members will be removed.";
+
+/* No comment provided by engineer. */
+"解锁" = "ปลดล็อก";
+
+/* No comment provided by engineer. */
+"解锁%@个地标，超过%d%%的用户" = "ปลดล็อก %@ แลนด์มาร์ก คุณทำได้ดีกว่าผู้ใช้อีกตั้ง %d%% คน!";
+
+/* No comment provided by engineer. */
+"解锁并分享" = "ปลดล็อค และแชร์";
+
+/* No comment provided by engineer. */
+"解锁成功" = "ปลดล็อค";
+
+/* (No Comment) */
+"解锁A" = "ฟรี";
+
+/* No comment provided by engineer. */
+"介绍一下自己吧！" = "แนะนำตัว!";
+
+/* No comment provided by engineer. */
+"今天" = "วันนี้";
+
+/* No comment provided by engineer. */
+"今天你化妆了吗？快来晒一晒吧！" = "Show your daily makeup looks!";
+
+/* No comment provided by engineer. */
+"仅看视频" = "วิดีโอเท่านั้น";
+
+/* No comment provided by engineer. */
+"仅上面" = "บน";
+
+/* No comment provided by engineer. */
+"仅下面" = "ล่าง";
+
+/* No comment provided by engineer. */
+"仅限本设备使用" = "ใช้ได้เฉพาะเครื่องนี้เท่านั้น";
+
+/* No comment provided by engineer. */
+"仅右边" = "ขวา";
+
+/* No comment provided by engineer. */
+"仅支持%@M以内的视频" = "Only supports video within %@M!";
+
+/* No comment provided by engineer. */
+"仅支持%@s以内的视频" = "Only supports video within %@s!";
+
+/* No comment provided by engineer. */
+"仅支持单人脸照片哦~" = "รองรับเฉพาะภาพที่มีหน้าบุคคลเดียวเท่านั้น";
+
+/* No comment provided by engineer. */
+"仅支持单人哦" = "รายการนี้รองรับบุคคลเดียวเท่านั้น";
+
+/* No comment provided by engineer. */
+"仅自己可见" = "Private";
+
+/* No comment provided by engineer. */
+"仅左边" = "ซ้าย";
+
+/* No comment provided by engineer. */
+"尽量为半身自拍" = "เหนือเอว แนะนำให้เซลฟี";
+
+/* No comment provided by engineer. */
+"近(五官)" = "ใกล้";
+
+/* No comment provided by engineer. */
+"进入人像美容" = "ปรับแต่ง";
+
+/* No comment provided by engineer. */
+"进入图片美化" = "แก้ไข";
+
+/* No comment provided by engineer. */
+"进入相机" = "เปิดกล้อง";
+
+/* No comment provided by engineer. */
+"经典" = "คลาสสิค";
+
+/* No comment provided by engineer. */
+"精选" = "สำหรับคุณ";
+
+/* No comment provided by engineer. */
+"精选美志" = "แบบเด่นๆ";
+
+/* No comment provided by engineer. */
+"精致" = "ภูติจิ๋ว";
+
+/* No comment provided by engineer. */
+"精致五官" = "ปรับแต่ง";
+
+/* No comment provided by engineer. */
+"精准识别需要使用美图云服务器，全程信息加密不会泄露您的照片。" = "เซิร์ฟเวอร์คลาวด์ Meitu จำเป็นต่อการประมวลผลการรู้จำที่แม่นยำ ข้อมูลทั้งหมดที่ส่งไปได้รับการเข้ารหัสไว้ และจะไม่บันทึกลงในเซิร์ฟเวอร์";
+
+/* 美容-祛皱-智能的一个tab */
+"颈纹" = "ริ้วรอยบนลำคอ";
+
+/* No comment provided by engineer. */
+"警告" = "แจ้งเตือน";
+
+/* No comment provided by engineer. */
+"静物" = "สิ่งของ";
+
+/* No comment provided by engineer. */
+"镜像" = "กระจก";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-对齐tab-右侧居底按钮 */
+"居底" = "ชิดล่าง";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-对齐tab-右侧居顶按钮 */
+"居顶" = "ชิดบน";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-对齐tab-左侧居右按钮 */
+"居右" = "ชิดขวา";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-对齐tab-右侧居中按钮
+   首页-视频美化-选中任一图片或视频-文字tab-样式tab-对齐tab-左侧居中按钮 */
+"居中" = "กึ่งกลาง";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-对齐tab-左侧居左按钮 */
+"居左" = "ชิดซ้าย";
+
+/* No comment provided by engineer. */
+"橘子汽水" = "Soda";
+
+/* No comment provided by engineer. */
+"举报" = "รายงาน";
+
+/* No comment provided by engineer. */
+"举报成功" = "รายงานแล้ว";
+
+/* No comment provided by engineer. */
+"举报原因" = "เหตุผลที่รายงาน";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-阴影tab-距离滑竿标签 */
+"距离" = "ระยะห่าง";
+
+/* No comment provided by engineer. */
+"觉得不错的话就给个五星好评吧^ ^~" = "หากคุณพอใจ กรุณาให้คะแนนเรา “5 ดาว”";
+
+/* No comment provided by engineer. */
+"卡点" = "Snap to Beat";
+
+/* No comment provided by engineer. */
+"卡点关闭" = "ปิดการยึดบีท";
+
+/* No comment provided by engineer. */
+"卡点开启" = "เปิดการยึดบีท";
+
+/* No comment provided by engineer. */
+"卡点失败，换个音乐试试" = "ไม่สามารถใช้การยึดบีทได้ กรุณาลองเพลงอื่น";
+
+/* No comment provided by engineer. */
+"开启防抖后取景会迟缓哦" = "กล้องจะปรับโฟกัสช้าหากเปิดระบบป้องกันการสั่นไหวไว้";
+
+/* No comment provided by engineer. */
+"开启后当前操作步骤会存为配方，\n下次一键套用~" = "เมื่อเปิดใช้งาน ขั้นตอนการดำเนินการปัจจุบันจะถูกบันทึกเป็นเทมเพลต";
+
+/* No comment provided by engineer. */
+"开启麦克风权限" = "ให้ “Meitu” ใช้ไมโครโฟนของคุณ";
+
+/* No comment provided by engineer. */
+"开启推送通知才能及时收到消息哦" = "เปิดการแจ้งเตือนเพื่อรับข้อความได้ทันที";
+
+/* No comment provided by engineer. */
+"开启推送通知获得权限" = "อนุญาตเข้าถึงการแจ้งเตือนแบบพุช";
+
+/* No comment provided by engineer. */
+"开启位置权限" = "ให้ “Meitu” สืบค้นตำแหน่งของคุณ";
+
+/* No comment provided by engineer. */
+"开启我的颜值管家" = "เปิด ความงามของฉัน";
+
+/* No comment provided by engineer. */
+"开启相机权限" = "ให้ “Meitu” ใช้กล้องของคุณ";
+
+/* No comment provided by engineer. */
+"开启颜值管家" = "เปิด ความงามของฉัน";
+
+/* No comment provided by engineer. */
+"开启运动与健康权限" = "ให้ “Meitu” สืบค้นข้อมูล Motion & Fitness ของคุณ";
+
+/* No comment provided by engineer. */
+"开启照片权限" = "ให้ “Meitu” สืบค้นภาพของคุณ";
+
+/* No comment provided by engineer. */
+"开始编辑" = "เริ่ม";
+
+/* No comment provided by engineer. */
+"开始处理" = "เริ่ม";
+
+/* No comment provided by engineer. */
+"开始收藏" = "เพิ่มตอนนี้";
+
+/* No comment provided by engineer. */
+"开通会员可享" = "สมัครรับเพื่อเพลิดเพลิน";
+
+/* No comment provided by engineer. */
+"开源组件许可" = "ไลบรารี่ที่เราใช้";
+
+/* No comment provided by engineer. */
+"颗粒" = "อนุภาค";
+
+/* No comment provided by engineer. */
+"可擦除动画路径与保护笔" = "แนวทางการเคลื่อนไหวหรือเส้นตรงอาจะถูกลบไป";
+
+/* No comment provided by engineer. */
+"可调整个人水印尺寸与相对位置，保存后可自动记忆哦" = "ขนาดและตำแหน่งที่เกี่ยวข้องกันของลายน้ำส่วนตัวสามารถปรับได้ และยังสามารถจดจำไว้โดยอัตโนมัติหลังบันทึกแล้วด้วย";
+
+/* No comment provided by engineer. */
+"可通过iTunes从电脑导入本地音乐至手机" = "คุณสามารถนำเข้าเพลงที่ดาวน์โหลดจากคอมพิวเตอร์ของคุณมายังโทรศัพท์ได้โดยใช้ iTunes";
+
+/* No comment provided by engineer. */
+"可涂抹擦除选中的贴纸哦~" = "แตะเพื่อลบสติกเกอร์";
+
+/* No comment provided by engineer. */
+"可选择登录后购买，其他iOS设备也可使用" = "คุณสามารถลงชื่อเข้าใช้ได้โดยตรงหรือใช้ iOS เครื่องอื่นเพื่อซื้อ";
+
+/* No comment provided by engineer. */
+"可选择片段上锁，锁定片段将不允许其他用户替换" = "คุณสามารถล็อคคลิปของคุณได้ ผู้ใช้รายอื่นไม่สามารถเปลี่ยนคลิปที่ล็อคได้";
+
+/* No comment provided by engineer. */
+"可以切换广角哦~" = "ลองใช้โหมดมุมกว้าง!";
+
+/* No comment provided by engineer. */
+"可在[我的配方]上传" = "สามารถอัปโหลดที่ [แม่แบบของฉัน]";
+
+/* No comment provided by engineer. */
+"可直接登录或使用其他设备支付购买" = "คุณสามารถลงชื่อเข้าใช้ได้โดยตรงหรือใช้เครื่องอื่นเพื่อซื้อ";
+
+/* No comment provided by engineer. */
+"抠图" = "คัตเอาต์";
+
+/* No comment provided by engineer. */
+"抠图识别" = "ตรวจจับและตัดออก";
+
+/* No comment provided by engineer. */
+"快" = "เร็ว";
+
+/* No comment provided by engineer. */
+"快来发表图片评论" = "Come and use pictures to comment";
+
+/* No comment provided by engineer. */
+"快速保存图片" = "บันทึกอย่างรวดเร็ว";
+
+/* No comment provided by engineer. */
+"快速登录" = "เข้าสู่ระบบ";
+
+/* No comment provided by engineer. */
+"宽(五官)" = "กว้าง";
+
+/* No comment provided by engineer. */
+"宽窄" = "ความกว้าง";
+
+/* No comment provided by engineer. */
+"款滤镜" = "ฟิลเตอร์";
+
+/* No comment provided by engineer. */
+"来，关注美图秀秀吧" = "ติดตาม Meitu ตอนนี้!";
+
+/* No comment provided by engineer. */
+"来看看我的MT" = "ตรวจสอบ MT ของฉัน";
+
+/* No comment provided by engineer. */
+"来看看我的MT：“%@”" = "ตรวจสอบ MT ของฉัน: “%@\"";
+
+/* No comment provided by engineer. */
+"来美图秀秀社区，获取最新变美秘笈" = "Get the latest tutorials on MT Community!";
+
+/* No comment provided by engineer. */
+"来源于搜狗输入法表情搜索" = "อิโมจิโดย Sogou";
+
+/* No comment provided by engineer. */
+"来这儿看穿搭，让你更百搭～" = "Find outfit tips here! ";
+
+/* No comment provided by engineer. */
+"来自美图" = "จาก Meitu";
+
+/* No comment provided by engineer. */
+"来自美图创意平台" = "แหล่ง:แพลตฟอร์มผู้สร้างMeitu";
+
+/* No comment provided by engineer. */
+"来自艺术家" = "โดยศิลปิน";
+
+/* No comment provided by engineer. */
+"了解[《社区举报管理规范》]" = "Learn about Community Reporting Regulations";
+
+/* No comment provided by engineer. */
+"了解滤镜详情" = "รายละเอียดฟิลเตอร์";
+
+/* No comment provided by engineer. */
+"了解详情" = "ดูรายละเอียด";
+
+/* No comment provided by engineer. */
+"冷调色" = "โทนสีเย็น";
+
+/* No comment provided by engineer. */
+"冷艳" = "เจ๋ง";
+
+/* No comment provided by engineer. */
+"历史标签" = "ประวัติ";
+
+/* No comment provided by engineer. */
+"历史话题" = "ประวัติ";
+
+/* No comment provided by engineer. */
+"立即绑定" = "เชื่อมโยง";
+
+/* No comment provided by engineer. */
+"立即参与" = "เข้าร่วมเลย";
+
+/* No comment provided by engineer. */
+"立即登录" = "เข้าสู่ระบบ";
+
+/* No comment provided by engineer. */
+"立即登录注册" = "ล็อกอิน/ลงทะเบียนเลย";
+
+/* No comment provided by engineer. */
+"立即更新" = "อัพเดตตอนนี้";
+
+/* No comment provided by engineer. */
+"立即解锁" = "ปลดล็อก";
+
+/* No comment provided by engineer. */
+"立即开启" = "เปิด";
+
+/* No comment provided by engineer. */
+"立即开通" = "สมัครรับเลย";
+
+/* No comment provided by engineer. */
+"立即体验" = "ลองใช้เลย";
+
+/* No comment provided by engineer. */
+"立即续费" = "ต่ออายุเดี๋ยวนี้";
+
+/* No comment provided by engineer. */
+"立体" = "คอนทัวร์";
+
+/* No comment provided by engineer. */
+"连接" = "เชื่อมต่อ";
+
+/* No comment provided by engineer. */
+"连接成功！" = "การเชื่อมต่อเสร็จสมบูรณ์!";
+
+/* No comment provided by engineer. */
+"连接失败，请重新连接！" = "ล็อกอินล้มเหลว กรุณาลองใหม่อีกครั้ง!";
+
+/* No comment provided by engineer. */
+"连接失败！" = "เชื่อมต่อล้มเหลว!";
+
+/* 美容-祛皱-无网提示 */
+"连接网络后皱纹检测更加准确哦" = "เชื่อมต่ออินเทอร์เน็ต การตรวจจับริ้วรอยจะมีความแม่นยำมากขึ้น";
+
+/* No comment provided by engineer. */
+"脸部不能遮挡哦" = "อย่าบัง ใบหน้าของคุณ";
+
+/* (No Comment) */
+"脸宽(面部重塑)" = "หน้ากว้าง";
+
+/* No comment provided by engineer. */
+"脸型" = "ใบหน้า";
+
+/* (No Comment) */
+"脸型(面部重塑)" = "ครึ่งล่าง";
+
+/* No comment provided by engineer. */
+"两指张合可缩放虚化区域" = "หนีบนิ้วเพื่อซูมบริเวณที่เบลอ";
+
+/* No comment provided by engineer. */
+"两指张合可以缩放虚化区域哦~" = "จีบนิ้วเพื่อซูมพื้นที่เบลอ";
+
+/* No comment provided by engineer. */
+"亮度" = "ความสว่าง";
+
+/* No comment provided by engineer. */
+"亮光" = "แสงสว่าง";
+
+/* No comment provided by engineer. */
+"亮眼" = "ตาบลิ้ง";
+
+/* No comment provided by engineer. */
+"亮眼画笔" = "ขนาด";
+
+/* No comment provided by engineer. */
+"刘海" = "หน้าม้า";
+
+/* No comment provided by engineer. */
+"浏览" = "เรียกดู";
+
+/* No comment provided by engineer. */
+"留下你的联系方式，方便我们更好的为你解决问题哦~" = "กรุณากรอกข้อมูลติดต่อของคุณเพื่อช่วยเราให้แก้ไขปัญหาได้ดียิ่งขึ้น";
+
+/* No comment provided by engineer. */
+"六边形" = "หกเหลี่ยม";
+
+/* 海外地区-审核开关关闭-订阅会员-支付时取消
+   一键美颜滑竿名称 */
+"滤镜" = "ฟิลเตอร์";
+
+/* No comment provided by engineer. */
+"滤镜拍后将为你开启瘦脸大眼" = "หลังจากถ่ายภาพโดยใช้ฟิลเตอร์แล้ว ฟังก์ชันปรับหน้าเรียวและปรับขนาดดวงตาจะได้รับการปรับใช้";
+
+/* No comment provided by engineer. */
+"滤镜拍后将为你自动祛斑祛痘" = "หลังจากถ่ายภาพโดยใช้ฟิลเตอร์แล้ว ฟังก์ชันลบสิวจะได้รับการปรับใช้โดยอัตโนมัติ";
+
+/* No comment provided by engineer. */
+"滤镜拍后祛斑祛痘已关闭" = "ฟังก์ชันลบสิวถูกปิดไว้สำหรับภาพที่ถ่ายโดยใช้ฟิลเตอร์";
+
+/* No comment provided by engineer. */
+"滤镜拍后瘦脸大眼已关闭" = "ฟังก์ชันปรับเรียวและปรับขนาดถูกปิดไว้สำหรับภาพที่ถ่ายโดยใช้ฟิลเตอร์";
+
+/* No comment provided by engineer. */
+"滤镜期限" = "วันหมดอายุของฟิลเตอร์";
+
+/* No comment provided by engineer. */
+"滤镜去选后将不在列表中出现，重新选中即可出现哦。" = "ฟิลเตอร์จะไม่ปรากฎในรายการหลังจากยกเลิกการเลือก โดยจะแสดงอีกครั้งหากคุณทำการเลือกใหม่";
+
+/* No comment provided by engineer. */
+"滤镜下架找不到了？ 去 美图秀秀小程序 看看>" = "มีฟิลเตอร์ที่คุณชอบ แต่ไม่มีแสดงไว้อีกแล้ว? ค้นหาดูได้ใน Meitu Mini Program!";
+
+/* No comment provided by engineer. */
+"滤色" = "ฟิลเตอร์สี";
+
+/* 审核开关关闭-订阅会员-支付时取消 */
+"马赛克" = "โมเสค";
+
+/* No comment provided by engineer. */
+"马赛克笔" = "โมเสค";
+
+/* No comment provided by engineer. */
+"马赛克需下载人像识别模型至本地才可使用哦，赶快下载体验吧~" = "ดาวน์โหลดโมเดลรู้จำรูปเหมือนลงในอุปกรณ์ของคุณเพื่อใช้ฟังก์ชันโมเสก ลองเลย!";
+
+/* No comment provided by engineer. */
+"马赛克样式" = "แบบโมเสค";
+
+/* No comment provided by engineer. */
+"马上更新" = "อัพเดตตอนนี้";
+
+/* No comment provided by engineer. */
+"马上观看" = "รับชมตอนนี้";
+
+/* No comment provided by engineer. */
+"马上认证，获得专属身份标识" = "ยืนยันตอนนี้";
+
+/* No comment provided by engineer. */
+"马上下载" = "ดาวน์โหลดตอนนี้";
+
+/* No comment provided by engineer. */
+"卖萌贴图神器！" = "ปรับสไตล์ภาพของคุณด้วยสติกเกอร์น่ารัก ๆ";
+
+/* No comment provided by engineer. */
+"慢" = "ช้า";
+
+/* No comment provided by engineer. */
+"没有内容呢，不如你来发一条？" = "ยังไม่มีเนื้อหาใด ๆ โพสต์บางอย่าง!";
+
+/* No comment provided by engineer. */
+"没有识别到头部哦，换张照片试试~" = "ไม่สามารถตรวจพบศีรษะได้ กรุณาลองใช้รูปอื่น!";
+
+/* No comment provided by engineer. */
+"没有找到该话题，快去创建ta吧" = "ไม่พบหัวข้อ สร้างใหม่เลย!";
+
+/* No comment provided by engineer. */
+"没有找到你要的用户" = "ไม่สามารถค้นหาผู้ใช้ที่เกี่ยวข้อง";
+
+/* No comment provided by engineer. */
+"没有找到视频内容" = "ไม่พบเนื้อหาวิดีโอ";
+
+/* No comment provided by engineer. */
+"没有找到相关信息" = "ไม่พบรายการ";
+
+/* No comment provided by engineer. */
+"没有Logo" = "ยังไม่มีโลโก้";
+
+/* (No Comment) */
+"眉峰(面部重塑)" = "แนวคิ้ว";
+
+/* (No Comment) */
+"眉高(面部重塑)" = "ตำแหน่ง";
+
+/* No comment provided by engineer. */
+"眉毛" = "คิ้ว";
+
+/* (No Comment) */
+"眉毛(面部重塑)" = "คิ้ว";
+
+/* No comment provided by engineer. */
+"媒体与Apple Music" = "สื่อ & Apple Music";
+
+/* No comment provided by engineer. */
+"媒体资料库" = "คลังสื่อ";
+
+/* No comment provided by engineer. */
+"每天问自己一遍，今天比昨天更美了吗" = "Am I more beautiful than yesterday?";
+
+/* No comment provided by engineer. */
+"美白" = "ฟันขาว";
+
+/* No comment provided by engineer. */
+"美肤" = "แต่งผิว";
+
+/* 经典首页工具按钮文案(两行) */
+"美化(经典首页)" = "Photo ";
+
+/* No comment provided by engineer. */
+"美化美容使用攻略" = "คำแนะนำในการปรับแต่งและรีทัช";
+
+/* No comment provided by engineer. */
+"美化下一张" = "ถัดไป";
+
+/* No comment provided by engineer. */
+"美拍" = "Meipai";
+
+/* No comment provided by engineer. */
+"美拍 – 最火的短视频社区" = "Meipai - กลุ่มเผยแพร่วิดีโอที่ฮอตที่สุด";
+
+/* (No Comment) */
+"美容(经典首页)" = "Retouching";
+
+/* No comment provided by engineer. */
+"美容下一张" = "ถัดไป";
+
+/* No comment provided by engineer. */
+"美食" = "อาหาร";
+
+/* No comment provided by engineer. */
+"美瞳" = "คอนแทคเลนส์";
+
+/* No comment provided by engineer. */
+"美图产品服务协议" = "ข้อตกลงการให้บริการ Meitu";
+
+/* No comment provided by engineer. */
+"美图出品【海报工厂】" = "PosterLabs";
+
+/* No comment provided by engineer. */
+"美图定制" = "MeituDIY";
+
+/* No comment provided by engineer. */
+"美图粉钻会员专享" = "เข้าถึงฟรีสำหรับ VIP";
+
+/* No comment provided by engineer. */
+"美图粉钻会员专享权益" = "สิทธิประโยชน์ Meitu VIP";
+
+/* No comment provided by engineer. */
+"美图黑科技" = "เทคแมจิค";
+
+/* No comment provided by engineer. */
+"美图精选和个性化推送" = "เนื้อหาเด่นและเฉพาะบุคคล";
+
+/* No comment provided by engineer. */
+"美图钱包" = "Meitu Wallet";
+
+/* No comment provided by engineer. */
+"美图认证" = "ยืนยันโดย Meitu";
+
+/* No comment provided by engineer. */
+"美图贴贴" = "สติกเกอร์ Meitu";
+
+/* No comment provided by engineer. */
+"美图修炼手册" = "สอนใช้งาน MT";
+
+/* No comment provided by engineer. */
+"美图秀秀" = "Meitu";
+
+/* (No Comment) */
+"美图秀秀(经典首页)" = "Meitu";
+
+/* No comment provided by engineer. */
+"美图秀秀服务条款" = "เงื่อนไขการให้บริการ Meitu";
+
+/* No comment provided by engineer. */
+"美图秀秀工具箱" = "Meitu Highlight";
+
+/* No comment provided by engineer. */
+"美图秀秀九格切图" = "เก้ากริด";
+
+/* No comment provided by engineer. */
+"美图秀秀社区" = "ชุมชน Meitu";
+
+/* No comment provided by engineer. */
+"美图秀秀无法访问本地音乐" = "Meitu ไม่สามารถเข้าถึงเพลงที่ดาวน์โหลดได้";
+
+/* No comment provided by engineer. */
+"美图秀秀小程序" = "Meitu Mini Program";
+
+/* No comment provided by engineer. */
+"美图秀秀小应用" = "มินิแอพ";
+
+/* No comment provided by engineer. */
+"美图秀秀ID 已复制" = "คัดลอก Meitu ID แล้ว";
+
+/* No comment provided by engineer. */
+"美图遥控器" = "Meitu Remote";
+
+/* No comment provided by engineer. */
+"美图遥控器连接发生未知错误" = "เกิดข้อผิดพลาดที่ระบุไม่ได้สำหรับการเชื่อมต่อ Meitu Remote";
+
+/* No comment provided by engineer. */
+"美图用户推荐" = "แนะนำโดยผู้ใช้ Meitu";
+
+/* No comment provided by engineer. */
+"美图帐号" = "บัญชี Meitu";
+
+/* No comment provided by engineer. */
+"美图帐号登录" = "ล็อกอินบัญชี Meitu";
+
+/* No comment provided by engineer. */
+"美图AI" = "Meitu AI";
+
+/* No comment provided by engineer. */
+"美图ID" = "Meitu ID";
+
+/* No comment provided by engineer. */
+"美图ID已复制" = "คัดลอกMeitu ID แล้ว";
+
+/* No comment provided by engineer. */
+"美腿" = "ขา";
+
+/* No comment provided by engineer. */
+"美形" = "ส่วนเว้าโค้ง";
+
+/* 一键美颜滑竿名称 */
+"美型" = "โครง";
+
+/* No comment provided by engineer. */
+"美颜" = "รีทัช";
+
+/* No comment provided by engineer. */
+"美颜相机" = "บิวตี้แคม";
+
+/* No comment provided by engineer. */
+"美颜相机版本过低，请更新至最新版本。" = "กรุณาติดตั้ง BeautyCam เวอร์ชันล่าสุด";
+
+/* No comment provided by engineer. */
+"美志" = "บันทึกความงาม";
+
+/* No comment provided by engineer. */
+"美妆" = "เมคอัพ";
+
+/* No comment provided by engineer. */
+"萌拍" = "AR";
+
+/* No comment provided by engineer. */
+"萌拍不支持使用精致五官哦～" = "สติกเกอร์ไม่รองรับฟังก์ชันนี้";
+
+/* No comment provided by engineer. */
+"萌趣" = "น่ารัก";
+
+/* No comment provided by engineer. */
+"免费解锁" = "ปลดล็อคได้ฟรี";
+
+/* No comment provided by engineer. */
+"免费开通" = "เปิดใช้งานฟรี";
+
+/* No comment provided by engineer. */
+"免费使用" = "ใช้ฟรี";
+
+/* No comment provided by engineer. */
+"免费下载" = "ดาวน์โหลดฟรี";
+
+/* No comment provided by engineer. */
+"面部" = "ใบหน้า";
+
+/* No comment provided by engineer. */
+"面部重塑" = "แปลงโฉม";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-描边tab标题 */
+"描边" = "ลากเส้น";
+
+/* No comment provided by engineer. */
+"描述这个视频..." = "รายละเอียดข้อความ";
+
+/* No comment provided by engineer. */
+"描述这张照片..." = "รายละเอียดข้อความ";
+
+/* No comment provided by engineer. */
+"名片分享，点击预览" = "แชร์นามบัตร แตะเพื่อดูตัวอย่าง";
+
+/* No comment provided by engineer. */
+"明度" = "ความสว่าง";
+
+/* No comment provided by engineer. */
+"模板" = "แม่แบบ";
+
+/* No comment provided by engineer. */
+"模板草稿" = "แบบร่างเทมเพลต";
+
+/* No comment provided by engineer. */
+"模板上传失败" = "อัปโหลดเทมเพลตไม่สำเร็จ";
+
+/* No comment provided by engineer. */
+"模板上传中..." = "กำลังอัปโหลดเทมเพลต...";
+
+/* No comment provided by engineer. */
+"模板下载失败，请重试..." = "ดาวน์โหลดเทมเพลตไม่สำเร็จ กรุณาลองอีกครั้ง";
+
+/* No comment provided by engineer. */
+"模板原作者：" = "ผู้เขียนเดิม: ";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-阴影tab-模糊滑竿标签 */
+"模糊" = "เบลอ";
+
+/* No comment provided by engineer. */
+"模特" = "โมเดล";
+
+/* No comment provided by engineer. */
+"模型下载失败" = "ดาวน์โหลดเทมเพลตไม่สำเร็จ";
+
+/* No comment provided by engineer. */
+"模型下载提示" = "ดาวน์โหลดตัวแบบ";
+
+/* No comment provided by engineer. */
+"磨皮" = "Làm mịn";
+
+/* No comment provided by engineer. */
+"魔法照片" = "ภาพขยับ";
+
+/* No comment provided by engineer. */
+"魔法照片人像识别" = "การรู้จำรูปเหมือนภาพขยับ";
+
+/* No comment provided by engineer. */
+"魔法照片需下载人像识别模型至本地才可使用哦，赶快下载体验吧~" = "ดาวน์โหลดโมเดลรู้จำรูปเหมือนลงในอุปกรณ์ของคุณเพื่อใช้ฟังก์ชันภาพขยับ ลองเลย!";
+
+/* No comment provided by engineer. */
+"魔幻笔" = "แปรงวิเศษ";
+
+/* No comment provided by engineer. */
+"拿下首评" = "เป็นคนแรกที่แสดงความเห็น";
+
+/* 一键美颜底部效果tab */
+"奶油橘" = "ครีม";
+
+/* No comment provided by engineer. */
+"男" = "ชาย";
+
+/* No comment provided by engineer. */
+"男神" = "หนุ่มๆ";
+
+/* No comment provided by engineer. */
+"男友" = "หนุ่มๆ";
+
+/* No comment provided by engineer. */
+"内容" = "โพสต์";
+
+/* No comment provided by engineer. */
+"内容太长啦~" = "เนื้อหายาวเกินไป";
+
+/* No comment provided by engineer. */
+"内置滤镜不能少于2个哦~" = "ต้องใช้ฟิลเตอร์ไม่ต่ำกว่า 2 ชนิด";
+
+/* No comment provided by engineer. */
+"内置滤镜不能少于3个哦~" = "ต้องใช้ฟิลเตอร์ไม่ต่ำกว่า 3 ชนิด";
+
+/* No comment provided by engineer. */
+"内置特效不能少于3个哦~" = "ไม่น้อยกว่า 3 ฟิลเตอร์ในแอพของคุณ";
+
+/* No comment provided by engineer. */
+"你安装的%@版本过低或尚未安装哦~" = "คุณยังไม่ได้ติดตั้ง %@ หรือติดตั้งเวอร์ชั่นเก่าเกินไป";
+
+/* No comment provided by engineer. */
+"你撤回了一条消息" = "คุณยกเลิก 1 ข้อความ";
+
+/* No comment provided by engineer. */
+"你当前处于非WiFi条件，继续下载会耗费你相应的数据流量，是否继续下载呢？" = "คุณไม่ได้เชื่อมต่อเครือข่าย WiFi การดาวน์โหลดอาจใช้ข้อมูลเป็นจำนวนมาก ยังต้องการทำต่อหรือไม่?";
+
+/* No comment provided by engineer. */
+"你当前处于非WiFi条件下，是否继续下载素材？" = "ไม่ได้เชื่อมต่อกับ Wi-Fi ดาวน์โหลดต่อหรือไม่";
+
+/* No comment provided by engineer. */
+"你当前处于非WiFi条件下，字体包下载需要耗费较多流量，是否继续下载？" = "คุณไม่ได้เชื่อมต่อ WiFi ยังต้องการดาวน์โหลดอยู่หรือไม่";
+
+/* No comment provided by engineer. */
+"你的草稿卸载美图秀秀后会丢失，请及时发布噢～" = "ฉบับร่างจะถูกลบไปหากคุณถอนการติดตั้ง กรุณาแชร์เนื้อหาให้เร็วที่สุด";
+
+/* No comment provided by engineer. */
+"你的反馈已经超出最大限制的1000个字符啦~" = "สูงสุด 1,000 ตัวอักษร";
+
+/* No comment provided by engineer. */
+"你的联系方式含有非法字符哦" = "ข้อมูลติดต่อของคุณมีอักขระที่เราไม่รองรับ";
+
+/* No comment provided by engineer. */
+"你的联系方式已超过最大限制的140个字符哦~" = "สูงสุด 140 ตัวอักษร";
+
+/* No comment provided by engineer. */
+"你的位置权限未开启，将导致地理位置信息不准确哦" = "ให้ “Meitu” สืบค้นตำแหน่งของคุณ ไม่ได้เปิดใช้การสืบค้นตำแหน่งไว้ อาจทำให้ข้อมูลระบุตำแหน่งไม่แม่นยำ ";
+
+/* No comment provided by engineer. */
+"你的相册中还没有内容" = "Your album is empty! ";
+
+/* No comment provided by engineer. */
+"你的颜值管家当前处于关闭中，无法应用你所设定的美颜参数。" = "ความงามของฉัน ปิดอยู่ คุณไม่สามารถใช้ค่าการปรับแต่งความงามของคุณได้";
+
+/* No comment provided by engineer. */
+"你关注的人都在这里" = "ค้นหาทุกคนที่คุณกำลังติดตามที่นี่่";
+
+/* No comment provided by engineer. */
+"你还没有开启麦克风权限，开启之后即可录音" = "กรุณาอนุญาตการเข้าถึงไมโครโฟนเพื่ออัดเสียง";
+
+/* No comment provided by engineer. */
+"你还没有开启麦克风权限，开启之后即可摄像" = "กรุณาให้ “Meitu” ใช้ไมโครโฟนเพื่อบันทึกวิดีโอ";
+
+/* No comment provided by engineer. */
+"你还没有开启相机权限，开启之后即可拍照或录像" = "กรุณาให้ “Meitu” ใช้งานกล้องเพื่อถ่ายภาพหรือวิดีโอ";
+
+/* No comment provided by engineer. */
+"你还没有开启运动与健康权限，开启之后美图秀秀才能访问哦" = "กรุณาให้ “Meitu” สืบค้น Motion &a Fitness เพื่อตรวจสอบกิจกรรมของคุณได้อย่างถูกต้อง ";
+
+/* No comment provided by engineer. */
+"你还没有开启照片权限，开启之后即可保存图片" = "กรุณาให้ “Meitu” สืบค้นภาพเพื่อบันทึกภาพถ่าย";
+
+/* No comment provided by engineer. */
+"你还没有开启照片权限，开启之后美图秀秀才能访问你的照片" = "กรุณาให้ “Meitu” สืบค้นภาพเพื่อโหลดภาพถ่ายของคุณ";
+
+/* No comment provided by engineer. */
+"你还未安装口袋购物客户端，需下载后才能使用。" = "คุณยังไม่ได้ติดตั้ง PocketShop ดาวน์โหลดเพื่อเริ่มต้น ";
+
+/* No comment provided by engineer. */
+"你还未安装美拍客户端，需下载后才能使用。" = "คุณยังไม่ได้ติดตั้ง BeautyCam ดาวน์โหลดเพื่อเริ่มต้น ";
+
+/* No comment provided by engineer. */
+"你还未下载任何素材哦，快去素材中心下载吧！" = "คุณไม่มีเนื้อหาใด ๆ ที่ดาวน์โหลด ไปที่ ศูนย์เนื้อหา ตอนนี้!";
+
+/* No comment provided by engineer. */
+"你可能感兴趣" = "คุณอาจชอบ...";
+
+/* No comment provided by engineer. */
+"你可能喜欢的素材或效果" = "วัตถุดิบหรือเอฟเฟกต์ที่คุณอาจชอบ";
+
+/* No comment provided by engineer. */
+"你可能喜欢的素材或效果；" = "วัตถุดิบหรือเอฟเฟกต์ที่คุณอาจชอบ;";
+
+/* No comment provided by engineer. */
+"你可以在【我】中，设置你的个性化颜值管家哦" = "กำหนดความงามของคุณได้ใน \"ฉัน\"";
+
+/* No comment provided by engineer. */
+"你可以在【我】中，设置你的专属个人水印哦" = "คุณสามารถจัดการโลโก้ได้ใน Me";
+
+/* No comment provided by engineer. */
+"你可拥有%1$ld个相册，每个相册最多%2$ld位成员。" = "You can create %1$ld albums, and you can add up to %2$ld members to each album.";
+
+/* No comment provided by engineer. */
+"你来晚了～原作者已删除此内容" = "ขออภัย ผู้สร้างได้ลบรายการนี้ออกไปแล้ว";
+
+/* 私信详情页-文本消息字数超限 */
+"你输入的文字超过了规定字数，请重新编辑" = "คุณถึงขีดจำกัดตัวอักษรที่กำหนดแล้ว กรุณาลองใหม่อีกครั้ง";
+
+/* No comment provided by engineer. */
+"你所编辑的图片尚未保存，是否保存？" = "บันทึกการเปลี่ยนแปลง?";
+
+/* No comment provided by engineer. */
+"你所导入的图片比例过长，无法使用，请重新选择。" = "รูปภาพที่คุณนำเข้ามีความยาวมากเกินไป ไม่สามารถใช้ได้ กรุณาเลือกรูปอื่น";
+
+/* No comment provided by engineer. */
+"你所购买的遥控器非官方二代美图遥控器，无法连接你的手机。" = "เราไม่สามารถเชื่อมต่อกับโทรศัพท์มือถือของคุณ เนื่องจากรีโมตที่คุณซื้อไม่ได้ Meitu Remote รุ่นที่ 2 ของแท้";
+
+/* No comment provided by engineer. */
+"你所在地区未开放本功能。" = "ฟังก์ชันนี้ใช้งานไม่ได้ในพื้นที่ของคุณ";
+
+/* No comment provided by engineer. */
+"你添加的标签正在审核中，审核后将会展示你的商品/品牌标签" = "ป้ายที่คุณเพิ่มกำลังอยู่ระหว่างการพิจารณา หากผ่านการพิจารณาแล้ว ป้ายสินค้า/แบรนด์ของคุณจะถูกแสดงขึ้น";
+
+/* No comment provided by engineer. */
+"你想和我说什么？" = "คุณต้องการพูดอะไรกับฉันหรือเปล่า";
+
+/* No comment provided by engineer. */
+"你已经购买粉钻会员啦" = "คุณซื้อ VIP Meitu แล้ว";
+
+/* No comment provided by engineer. */
+"你暂未授权云美化服务，不能撤销" = "คุณไม่สามารถเรียกคืนบริการแต่งสวยบนคลาวด์ได้เนื่องจากคุณยังไม่ได้อนุญาต";
+
+/* No comment provided by engineer. */
+"昵称" = "ชื่อเล่น";
+
+/* No comment provided by engineer. */
+"昵称不能为空" = "ชื่อเล่นต้องไม่เว้นว่าง";
+
+/* No comment provided by engineer. */
+"昵称最多10个字哦" = "สูงสุด 10 ตัวอักษร";
+
+/* No comment provided by engineer. */
+"年" = "ปี";
+
+/* No comment provided by engineer. */
+"年龄" = "อายุ";
+
+/* No comment provided by engineer. */
+"您的好友最近不想动弹" = "ยังไม่มีการแจ้งเตือน";
+
+/* 海外地区-审核开关关闭-订阅会员-支付时取消 */
+"您将错过以下特权" = "คุณจะพลาดสิทธิพิเศษดังต่อไปนี้";
+
+/* No comment provided by engineer. */
+"您使用的已经是美图秀秀最新版啦！" = "คุณมีเวอร์ชั่นล่าสุดอยู่แล้ว";
+
+/* No comment provided by engineer. */
+"您输入的内容为空，请及时反馈问题给我们哦~" = "กรุณากรอกข้อความของคุณ เราต้องการรับฟังความเห็นจากคุณ ☺";
+
+/* No comment provided by engineer. */
+"您所在区域发生了改变, 是否要切换到当地版本" = "ภูมิภาคของคุณมีการเปลี่ยนแปลง ต้องการสลับไปยังเวอร์ชันท้องถิ่นหรือไม่? ";
+
+/* No comment provided by engineer. */
+"您选择的图片尺寸过大，请重新选择" = "ภาพใหญ่เกินไป กรุณาเลือกภาพอื่น";
+
+/* No comment provided by engineer. */
+"浓淡" = "เฉด";
+
+/* No comment provided by engineer. */
+"女" = "หญิง";
+
+/* No comment provided by engineer. */
+"女神" = "เทพธิดา";
+
+/* No comment provided by engineer. */
+"女团齐刘海" = "ผมหน้าม้า";
+
+/* No comment provided by engineer. */
+"暖调白" = "โทนสีอุ่น ";
+
+/* No comment provided by engineer. */
+"拍摄" = "ถ่าย";
+
+/* No comment provided by engineer. */
+"拍照" = "กล้อง";
+
+/* No comment provided by engineer. */
+"拍照(社区)" = "ถ่ายภาพ";
+
+/* No comment provided by engineer. */
+"拍照后将自动保存到相册" = "รูปภาพจะได้รับการบันทึก";
+
+/* No comment provided by engineer. */
+"拍照时将有拍照声音哦" = "จะมีเสียงชัตเตอร์เมื่อทำการถ่ายภาพ";
+
+/* No comment provided by engineer. */
+"排序" = "คำสั่ง";
+
+/* No comment provided by engineer. */
+"配方" = "แม่แบบ";
+
+/* No comment provided by engineer. */
+"配方包含付费素材" = "แม่แบบมีไอเทมที่ต้องชำระเงิน";
+
+/* No comment provided by engineer. */
+"配方上传成功" = "อัปโหลดแม่แบบสำเร็จ";
+
+/* No comment provided by engineer. */
+"配方上传失败" = "แม่แบบอัปโหลดไม่สำเร็จ";
+
+/* No comment provided by engineer. */
+"配方上传中" = "กำลังอัปโหลดแม่แบบ";
+
+/* No comment provided by engineer. */
+"配方应用出错，换其他的试试哦~" = "เกิดข้อผิดพลาดขึ้นขณะประยุกต์ใช้ กรุณาลองแบบอื่น";
+
+/* No comment provided by engineer. */
+"配件设置" = "การตั้งค่าอุปกรณ์เสริม";
+
+/* No comment provided by engineer. */
+"朋友圈" = "โมเมนต์";
+
+/* No comment provided by engineer. */
+"朋友圈新玩法!" = "วิธีใหม่ ๆ ในการแชร์ภาพผ่าน Moments";
+
+/* 片段 */
+"片段" = "คลิป";
+
+/* No comment provided by engineer. */
+"片段时长过短，暂不支持该转场" = "ระยะเวลาของคลิปสั้นเกินกว่าจะใช้การเปลี่ยนภาพแบบนี้";
+
+/* No comment provided by engineer. */
+"片段时长过短，暂不支持继续调慢" = "ระยะเวลาของคลิปสั้นเกินกว่าจะปรับความเร็ว";
+
+/* No comment provided by engineer. */
+"片段时长过短，暂不支持添加转场" = "ระยะเวลาคลิปสั้นเกินกว่าจะเพิ่มการเปลี่ยนภาพ";
+
+/* No comment provided by engineer. */
+"拼接" = "รวมรูป";
+
+/* No comment provided by engineer. */
+"拼接模式暂不支持视频哦" = "ไม่รองรับโหมดตัดปะวิดีโอในขณะนี้";
+
+/* No comment provided by engineer. */
+"拼图" = "ต่อภาพ";
+
+/* (No Comment) */
+"拼图(经典首页)" = "Collage";
+
+/* (No Comment) */
+"拼图（社区首页）" = "ต่อภาพ";
+
+/* No comment provided by engineer. */
+"拼图边框" = "กรอบ";
+
+/* No comment provided by engineer. */
+"拼图大升级" = "อัพเดตการต่อภาพ";
+
+/* No comment provided by engineer. */
+"拼图功能需要至少%ld张图片!" = "ภาพต่อจะต้องมีภาพอย่างน้อย %ld ภาพ!";
+
+/* No comment provided by engineer. */
+"品牌" = "แบรนด์";
+
+/* No comment provided by engineer. */
+"评论" = "ความเห็น";
+
+/* No comment provided by engineer. */
+"评论(%d)" = "Comment (%d)";
+
+/* No comment provided by engineer. */
+"评论成功" = "เพิ่มคอมเมนต์แล้ว";
+
+/* No comment provided by engineer. */
+"评论成功 " = "ที่แสดงความเห็น";
+
+/* No comment provided by engineer. */
+"评论你的美志：" = "แสดงความเห็น";
+
+/* No comment provided by engineer. */
+"评论详情" = "ดูรายละเอียด";
+
+/* No comment provided by engineer. */
+"屏蔽理由" = "เหตุผลที่ปิดกั้น";
+
+/* No comment provided by engineer. */
+"普通" = "ปานกลาง";
+
+/* No comment provided by engineer. */
+"其他" = "อื่น ๆ";
+
+/* No comment provided by engineer. */
+"起始时间" = "เวลาเริ่ม";
+
+/* No comment provided by engineer. */
+"气泡水" = "โซดา";
+
+/* No comment provided by engineer. */
+"前天" = "2 วันก่อน";
+
+/* 前往设置 */
+"前往设置" = "ไปที่ การตั้งค่า";
+
+/* No comment provided by engineer. */
+"前往下载" = "ดาวน์โหลด";
+
+/* No comment provided by engineer. */
+"前置自拍将为你自动镜像" = "การถ่ายเซลฟีด้วยกล้องหน้าจะถูกกลับด้านเองโดยอัตโนมัติ";
+
+/* No comment provided by engineer. */
+"强度" = "ความเข้ม";
+
+/* No comment provided by engineer. */
+"切换" = "เปลี่ยน";
+
+/* No comment provided by engineer. */
+"切换后当前磨皮效果将被清除" = "เมื่อเปลี่ยนแล้ว เอฟเฟกต์เรียบลื่นนี้จะถูกล้างทิ้ง";
+
+/* No comment provided by engineer. */
+"切换后置有惊喜哦" = "ลองใช้กล้องหลัง";
+
+/* No comment provided by engineer. */
+"切换摄像头试试" = "ลองสลับกล้อง";
+
+/* No comment provided by engineer. */
+"亲，没有更多可加载了..." = "ไม่มีข้อมูลมากกว่านี้";
+
+/* No comment provided by engineer. */
+"亲爱哒~ 写下你的美图定制的订单编号及需要解决的问题，美老师会尽快为你解决哦。" = "เรียนผู้ใช้ กรุณาแจ้งปัญหาของคุณ และหมายเลขคำสั่งเฉพาะจาก Meitu ของคุณ เราจะดำเนินการโดยเร็วที่สุด";
+
+/* No comment provided by engineer. */
+"青柠" = "Lime";
+
+/* No comment provided by engineer. */
+"轻美型" = "สไตล์";
+
+/* (No Comment) */
+"倾斜(面部重塑)" = "เฉียง";
+
+/* No comment provided by engineer. */
+"清除缓存" = "ล้างแคช";
+
+/* No comment provided by engineer. */
+"清除中..." = "กำลังล้าง";
+
+/* No comment provided by engineer. */
+"清空" = "ล้างทั้งหมด";
+
+/* No comment provided by engineer. */
+"清晰" = "สดใส";
+
+/* No comment provided by engineer. */
+"请 重新点击 手机与遥控器" = "กรุณาคลิกที่โทรศัพท์และ Meitu Remote อีกครั้ง";
+
+/* No comment provided by engineer. */
+"请保持正脸哦~" = "กรุณาหันหน้าให้ตรง";
+
+/* No comment provided by engineer. */
+"请打开微博上传分享哦！" = "เปิด Weibo เพื่ออัปโหลดและแชร์!";
+
+/* No comment provided by engineer. */
+"请到Messenger上传视频进行分享。" = "กรุณาอัปโหลดไปที่ Messenger เพื่อแชร์วิดีโอนี้";
+
+/* No comment provided by engineer. */
+"请到WhatsApp上传视频进行分享。" = "กรุณาอัปโหลดไปที่ WhatsApp เพื่อแชร์วิดีโอนี้";
+
+/* No comment provided by engineer. */
+"请点击选择一个人物后使用描边效果哦～" = "กรุณาเลือกบุคคลเพื่อใช้เอฟเฟกต์ลากเส้น";
+
+/* No comment provided by engineer. */
+"请附上原作品链接，或发送邮件至%@" = "Please attach the link of the original work. Alternatively, you can send a detailed report to %@";
+
+/* No comment provided by engineer. */
+"请检查系统设置，是否开启了“访问限制”功能，并解除限制" = "กรุณาปิด ข้อจำกัด ใน การตั้งค่า > ทั่วไป > ข้อจำกัด";
+
+/* No comment provided by engineer. */
+"请开启位置信息权限" = "อนุญาตให้ \"Meitu\" เข้าถึงตำแหน่งที่ตั้งของคุณ";
+
+/* No comment provided by engineer. */
+"请履行监管义务，确保相册成员不传播违规违法内容" = "Please fulfill your regulatory obligations by ensuring that album members do not share illegal content.";
+
+/* No comment provided by engineer. */
+"请求开启地理位置权限，为你推荐附近精彩内容" = "เราต้องการเข้าถึงตำแหน่งที่ตั้งเพื่อแนะนำเนื้อหาที่น่าตื่นเต้นใกล้ๆ คุณให้";
+
+/* No comment provided by engineer. */
+"请求失败" = "Request failed";
+
+/* No comment provided by engineer. */
+"请求失败, 请检查您的网络后重试。" = "คำขอล้มเหลว กรุณาตรวจสอบค่าเครือข่ายของคุณ และลองใหม่อีกครั้งในภายหลัง";
+
+/* No comment provided by engineer. */
+"请使用单人无遮挡正面照~" = "กรุณาเลือกรูปภาพที่ไม่มีสิ่งใดบังใบหน้าไว้";
+
+/* No comment provided by engineer. */
+"请输入昵称" = "ใส่ชื่อเล่น";
+
+/* No comment provided by engineer. */
+"请输入QQ号\\手机号码\\邮箱" = "ข้อมูลติดต่อ (QQ\\โทรศัพท์\\อีเมล)";
+
+/* No comment provided by engineer. */
+"请填写生日信息" = "กรุณากรอกวันเกิด";
+
+/* No comment provided by engineer. */
+"请通知我" = "กรุณาแจ้งเตือนฉัน";
+
+/* No comment provided by engineer. */
+"请先上传视频" = "กรุณาอัปโหลดวิดีโอก่อน";
+
+/* No comment provided by engineer. */
+"请先添加收藏" = "กรุณาเพิ่มลงในรายการโปรดก่อน";
+
+/* No comment provided by engineer. */
+"请先完善资料哦~" = "กรุณากรอกโพรไฟล์ของคุณให้ครบถ้วน";
+
+/* No comment provided by engineer. */
+"请先选择%ld个图片或视频" = "กรุณาเลือก %ld รูปภาพหรือวิดีโอก่อน";
+
+/* No comment provided by engineer. */
+"请先选择%ld张照片" = "กรุณาเลือก %ld ภาพก่อน";
+
+/* No comment provided by engineer. */
+"请先选择至少2个视频或照片" = "กรุณาเลือกอย่างน้อย 2 รายการ";
+
+/* No comment provided by engineer. */
+"请选择%ld个图片" = "กรุณาเลือก%ldภาพ";
+
+/* No comment provided by engineer. */
+"请选择%ld个图片或视频" = "กรุณาเลือกรูปภาพหรือวิดีโอ %ld ชิ้น";
+
+/* No comment provided by engineer. */
+"请选择%ld张照片" = "กรุณาเลือก %ld ภาพ";
+
+/* No comment provided by engineer. */
+"请选择1-9个图片" = "กรุณาเลือก1-9ภาพ";
+
+/* No comment provided by engineer. */
+"请选择1-9个图片或视频" = "กรุณาเลือกรูปภาพหรือวิดีโอ 1-9 ชิ้น";
+
+/* No comment provided by engineer. */
+"请选择1-9张照片" = "กรุณาเลือก1-9ภาพ";
+
+/* No comment provided by engineer. */
+"请选择分类" = "เลือก";
+
+/* No comment provided by engineer. */
+"请选择举报类型" = "กรุณาเลือกชนิดการรายงาน";
+
+/* No comment provided by engineer. */
+"请选择生日" = "กรุณาเลือกวันเกิดของคุณ";
+
+/* No comment provided by engineer. */
+"请选择素材" = "เลือก";
+
+/* No comment provided by engineer. */
+"请选择图片或视频哦~" = "กรุณาเลือกรูปภาพหรือวิดีโอ";
+
+/* No comment provided by engineer. */
+"请选择图片哦~" = "กรุณาเลือกรูปภาพ";
+
+/* No comment provided by engineer. */
+"请选择至少2个视频或照片" = "กรุณาเลือกอย่างน้อย 2 รายการ";
+
+/* No comment provided by engineer. */
+"曲线" = "เส้นโค้ง";
+
+/* No comment provided by engineer. */
+"祛斑祛痘" = "Xoá mụn";
+
+/* No comment provided by engineer. */
+"祛黑眼圈" = "Xóa thâm";
+
+/* No comment provided by engineer. */
+"祛黑眼圈Label" = "ขนาด";
+
+/* No comment provided by engineer. */
+"祛皱" = "กระชับ";
+
+/* No comment provided by engineer. */
+"取消" = "ยกเลิก";
+
+/* No comment provided by engineer. */
+"取消保存" = "ยกเลิก";
+
+/* No comment provided by engineer. */
+"取消订阅" = "ยกเลิกการสมัครรับ";
+
+/* No comment provided by engineer. */
+"取消付费素材" = "ยกเลิกการใช้ไอเทมที่ต้องชำระเงิน";
+
+/* No comment provided by engineer. */
+"取消萌拍" = "ยกเลิก AR";
+
+/* No comment provided by engineer. */
+"取消全选" = "ยกเลิก";
+
+/* No comment provided by engineer. */
+"取消上传" = "ยกเลิก";
+
+/* No comment provided by engineer. */
+"取消下载" = "ยกเลิก";
+
+/* No comment provided by engineer. */
+"去暗沉" = "ตาบลิ้ง";
+
+/* No comment provided by engineer. */
+"去登录" = "ล็อกอิน";
+
+/* No comment provided by engineer. */
+"去开启" = "เปิดเลย";
+
+/* No comment provided by engineer. */
+"去美化" = "แก้ไข";
+
+/* No comment provided by engineer. */
+"去美容" = "ปรับแต่ง";
+
+/* 去设置 */
+"去设置" = "ไปที่ การตั้งค่า";
+
+/* No comment provided by engineer. */
+"去雾" = "ไล่หมอก";
+
+/* 去系统相册选择 */
+"去系统相册选择" = "อัลบั้มรูป";
+
+/* No comment provided by engineer. */
+"去选后本分类将不在列表中出现，重新选中该分类滤镜即可出现哦。" = "หลังยกเลิกการเลือก หมวดหมู่นี้จะไม่แสดงในรายการของคุณอีกต่อไป";
+
+/* No comment provided by engineer. */
+"全 选" = "เลือกทั้งหมด";
+
+/* No comment provided by engineer. */
+"全部" = "ทั้งหมด";
+
+/* No comment provided by engineer. */
+"全部内容" = "ทั้งหมด";
+
+/* No comment provided by engineer. */
+"全部评论" = "ทุกคอมเมนต์";
+
+/* No comment provided by engineer. */
+"全部删除" = "Delete all";
+
+/* No comment provided by engineer. */
+"全屏" = "เต็มจอ";
+
+/* No comment provided by engineer. */
+"全新肤色" = "โทนสีผิวแบบใหม่";
+
+/* No comment provided by engineer. */
+"全新肤色功能需要升级皮肤识别后使用" = "ฟังก์ชันโทนสีผิวแบบใหม่จำเป็นต้องอัปเกรด";
+
+/* No comment provided by engineer. */
+"全新马赛克人像保护" = "โมเสกล็อกภาพบุคคลใหม่";
+
+/* No comment provided by engineer. */
+"全新面部重塑" = "เปลี่ยนทรง 3D ใหม่";
+
+/* No comment provided by engineer. */
+"全新染发画笔" = "แปรงย้อมผมใหม่";
+
+/* No comment provided by engineer. */
+"全新视频美化" = "ตัดต่อวิดีโอใหม่ทั้งหมด";
+
+/* No comment provided by engineer. */
+"全新微笑嘴唇" = "รอยยิ้มใหม่เอี่ยม!";
+
+/* No comment provided by engineer. */
+"全新增发" = "ตัวตัดต่อผมใหม่";
+
+/* No comment provided by engineer. */
+"全新增高塑形" = "ฟังก์ชันปรับทรงรูปร่างใหม่ล่าสุด";
+
+/* No comment provided by engineer. */
+"全新CG滤镜效果需要使用美图云服务器，快来一起穿越次元~" = "เอฟเฟกต์ฟิลเตอร์ CG ใหม่จำเป็นต้องใช้ Meitu Cloud Server รีบมาเล่นและผ่านมิติไปด้วยกัน ~";
+
+/* No comment provided by engineer. */
+"全选" = "เลือกทั้งหมด";
+
+/* No comment provided by engineer. */
+"权限受限" = "ถูกจำกัดสิทธิ์ ";
+
+/* No comment provided by engineer. */
+"颧骨" = "โหนกแก้ม";
+
+/* (No Comment) */
+"颧骨(面部重塑)" = "โหนกแก้ม";
+
+/* No comment provided by engineer. */
+"确定" = "ตกลง";
+
+/* No comment provided by engineer. */
+"确定不再关注Ta吗？" = "แน่ใจว่าต้องการเลิกติดตามผู้ใช้นี้หรือไม่";
+
+/* No comment provided by engineer. */
+"确定关闭颜值管家？" = "ปิด ความงามของฉัน หรือไม่?";
+
+/* No comment provided by engineer. */
+"确定恢复到默认效果吗" = "รีเซ็ตเป็นค่าเริ่มต้น?";
+
+/* No comment provided by engineer. */
+"确定恢复到默认效果吗?" = "รีเซ็ตค่าเอฟเฟกต์เป็นค่าเริ่มต้น?";
+
+/* No comment provided by engineer. */
+"确定删除该滤镜？" = "ยืนยันการลบฟิลเตอร์นี้?";
+
+/* No comment provided by engineer. */
+"确定删除你的颜值管家？" = "ลบ ความงามของฉัน ของคุณหรือไม่?";
+
+/* No comment provided by engineer. */
+"确定删除所选中的素材?" = "ลบรายการที่เลือกหรือไม่";
+
+/* No comment provided by engineer. */
+"确定重新发送该反馈？" = "ส่งความเห็นหรือไม่";
+
+/* No comment provided by engineer. */
+"确认" = "ยืนยัน";
+
+/* No comment provided by engineer. */
+"确认删除" = "ลบ";
+
+/* No comment provided by engineer. */
+"确认删除%ld个收藏？" = "แน่ใจหรือไม่ว่าคุณต้องการลบ %ld รายการโปรด?";
+
+/* No comment provided by engineer. */
+"确认删除该消息?" = "แน่ใจว่าต้องการลบข้อความนี้หรือไม่";
+
+/* No comment provided by engineer. */
+"确认删除这个收藏夹？" = "แน่ใจหรือไม่ว่าคุณต้องการลบรายการโปรดเหล่านี้?";
+
+/* No comment provided by engineer. */
+"确认删除这条内容吗?" = "Delete this item?";
+
+/* No comment provided by engineer. */
+"确认删除作品" = "ลบบันทึกแบบร่าง?";
+
+/* No comment provided by engineer. */
+"确认添加" = "เพิ่ม";
+
+/* No comment provided by engineer. */
+"染发" = "ย้อมสีผม";
+
+/* No comment provided by engineer. */
+"让你变美的小技巧都在这～" = "Find all of our beauty tutorials here!";
+
+/* No comment provided by engineer. */
+"热度" = "ระดับความนิยม";
+
+/* No comment provided by engineer. */
+"热门标签" = "ฮ็อต";
+
+/* No comment provided by engineer. */
+"热门更加好看" = "เนื้อหาเทรนด์ที่แนะนำอย่างแม่นยำสำหรับคุณ";
+
+/* No comment provided by engineer. */
+"热门话题" = "ฮ็อต";
+
+/* No comment provided by engineer. */
+"人解锁" = "ปลดล็อกแล้วโดยผู้ใช้ คน";
+
+/* No comment provided by engineer. */
+"人人都是摄影师!" = "ขึ้นเป็นช่างภาพ!";
+
+/* No comment provided by engineer. */
+"人身攻击" = "การล่วงละเมิด";
+
+/* No comment provided by engineer. */
+"人物" = "บุคคล ";
+
+/* No comment provided by engineer. */
+"人物N" = "บุคคล N";
+
+/* (No Comment) */
+"人像(经典首页)" = "Portrait ";
+
+/* No comment provided by engineer. */
+"人像保护" = "ภาพบุคคล";
+
+/* 人像保护提示特殊处理 */
+"人像保护(开启)" = "ล็อกภาพบุคคล";
+
+/* No comment provided by engineer. */
+"人像精修" = "รีทัช";
+
+/* No comment provided by engineer. */
+"人像美容" = "ปรับแต่ง";
+
+/* (No Comment) */
+"人像美容（社区首页）" = "ปรับแต่ง";
+
+/* No comment provided by engineer. */
+"人像识别出现异常，建议换张照片试试哦" = "การรู้จำใบหน้าผิดพลาด กรุณาลองรูปภาพอื่น";
+
+/* No comment provided by engineer. */
+"人像识别功能可快速绘制人像区域，快下载通用模型到本地，体验全新效果吧～" = "ฟังก์ชันการจดจำใบหน้าของเราคือวิธีที่รวดเร็วและไม่ยุ่งยากในการสร้างภาพวาด ดาวน์โหลดมาลองใช้ได้แล้ว!";
+
+/* No comment provided by engineer. */
+"人形" = "ภาพบุคคล";
+
+/* No comment provided by engineer. */
+"人正在观看" = "viewers online";
+
+/* No comment provided by engineer. */
+"人中" = "ร่องใต้จมูก";
+
+/* (No Comment) */
+"人中(面部重塑)" = "ร่องใต้จมูก";
+
+/* No comment provided by engineer. */
+"认证通过" = "Authenticated";
+
+/* No comment provided by engineer. */
+"日系刘海1" = "สไตล์ญี่ปุ่น 1";
+
+/* No comment provided by engineer. */
+"日系刘海2" = "สไตล์ญี่ปุ่น 2";
+
+/* No comment provided by engineer. */
+"融合" = "ผสม";
+
+/* No comment provided by engineer. */
+"柔光" = "แสงอ่อน";
+
+/* No comment provided by engineer. */
+"如何开启定位" = "ทำยังไง";
+
+/* No comment provided by engineer. */
+"入场" = "เปิด";
+
+/* No comment provided by engineer. */
+"入场动画" = "เปิด";
+
+/* 一键美颜底部效果tab */
+"软妹" = "สาว";
+
+/* No comment provided by engineer. */
+"锐化" = "ปรับคมชัด";
+
+/* No comment provided by engineer. */
+"若您未开启网络权限，请点此开启。" = "กรุณาแตะที่นี่เพื่อเปิดการเข้าถึงอินเทอร์เน็ตหากคุณยังไม่ได้เปิดไว้";
+
+/* No comment provided by engineer. */
+"扫描效果二维码进行预览" = "สแกนคิวอาร์โค้ดเพื่อพรีวิวเอฟเฟกต์";
+
+/* No comment provided by engineer. */
+"色彩" = "สี";
+
+/* No comment provided by engineer. */
+"色调" = "โทน";
+
+/* No comment provided by engineer. */
+"色调分离" = "การแยก";
+
+/* No comment provided by engineer. */
+"色情低俗" = "เนื้อหาลามกอนาจาร";
+
+/* No comment provided by engineer. */
+"色散" = "แพร่กระจาย";
+
+/* No comment provided by engineer. */
+"色温" = "อุณหภูมิ";
+
+/* No comment provided by engineer. */
+"色相" = "เนื้อสี";
+
+/* No comment provided by engineer. */
+"晒给朋友看" = "โชว์เพื่อนของคุณ";
+
+/* (No Comment) */
+"山根(面部重塑)" = "สันจมูก";
+
+/* No comment provided by engineer. */
+"删除" = "ลบ";
+
+/* No comment provided by engineer. */
+"删除(%ld)" = "ลบ(%ld)";
+
+/* No comment provided by engineer. */
+"删除草稿" = "ลบแบบร่าง";
+
+/* 私信会话详情页-删除消息提示 */
+"删除成功" = "ลบแล้ว";
+
+/* No comment provided by engineer. */
+"删除成员" = "Remove members";
+
+/* No comment provided by engineer. */
+"删除成员后，TA将无法进入相册，但TA曾经上传的内容仍会保留在相册中。" = "After removing a member, (s)he will be unable to access the album, but any content (s)he may have uploaded will remain.";
+
+/* No comment provided by engineer. */
+"删除点" = "ลบบีท";
+
+/* No comment provided by engineer. */
+"删除分类后将同时删除分类中的所有素材，确定删除?" = "คุณจะลบเนื้อหาใหมวดหมู่ที่เลือก แน่ใจหรือไม่";
+
+/* No comment provided by engineer. */
+"删除后将无法使用你所设置的美颜参数" = "หากคุณลบไป จะไม่สามารถใช้โปรไฟร์ \nความงามแบบปรับแต่งเองได้";
+
+/* No comment provided by engineer. */
+"删除收藏夹" = "ลบรายการโปรด";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-文本tab-删除线按钮 */
+"删除线" = "ขีดทับ";
+
+/* No comment provided by engineer. */
+"删除字体" = "ลบแบบอักษร";
+
+/* No comment provided by engineer. */
+"闪光灯常亮" = "ค้างไว้ เปิด";
+
+/* No comment provided by engineer. */
+"闪光灯关闭" = "แฟลช ปิด";
+
+/* No comment provided by engineer. */
+"闪光灯开启" = "แฟลช เปิด";
+
+/* No comment provided by engineer. */
+"闪光灯已常亮" = "เปิดแฟลชค้างไว้";
+
+/* No comment provided by engineer. */
+"闪光灯已关闭" = "แฟลช ปิด";
+
+/* No comment provided by engineer. */
+"闪光灯已开启" = "แฟลช เปิด";
+
+/* No comment provided by engineer. */
+"闪光灯已自动" = "อัตโนมัติ";
+
+/* No comment provided by engineer. */
+"闪光灯自动" = "อัตโนมัติ";
+
+/* No comment provided by engineer. */
+"商品" = "ผลิตภัณฑ์";
+
+/* No comment provided by engineer. */
+"上传" = "Upload";
+
+/* No comment provided by engineer. */
+"上传成功" = "อัปโหลดแล้ว";
+
+/* No comment provided by engineer. */
+"上传失败" = "อัปโหลดไม่สำเร็จ";
+
+/* No comment provided by engineer. */
+"上传失败，请重试" = "Failed to upload, please try again.";
+
+/* No comment provided by engineer. */
+"上传完成" = "Uploaded";
+
+/* No comment provided by engineer. */
+"上传中" = "Uploading...";
+
+/* No comment provided by engineer. */
+"上传作品为您原创或已获合法授权，请勿上传侵犯侵害他人版权等合法权益作品" = "กรุณาอัปโหลดเนื้อหาที่เป็นต้นฉบับหรือมีลิขสิทธิ์เท่านั้น ห้ามอัปโหลดเนื้อหาใดๆ ที่อาจละเมิดลิขสิทธิ์หรือสิทธิ์ตามกฎหมายของผู้อื่น";
+
+/* No comment provided by engineer. */
+"上滑查看更多" = "เลื่อนขึ้นเพื่อดูเพิ่ม";
+
+/* No comment provided by engineer. */
+"上滑查看相似内容" = "เลื่อนขึ้นเพื่อดูโพสต์ที่คล้ายกัน";
+
+/* No comment provided by engineer. */
+"上滑看更多" = "เลื่อนขึ้นรับชมมากขึ้น";
+
+/* (No Comment) */
+"上下(面部重塑)" = "ตำแหน่ง";
+
+/* No comment provided by engineer. */
+"上下镜像" = "พลิก";
+
+/* No comment provided by engineer. */
+"尚未开启蓝牙" = "ยังไม่ได้เปิดใช้ Bluetooth";
+
+/* No comment provided by engineer. */
+"稍后处理" = "ไว้ภายหลัง";
+
+/* No comment provided by engineer. */
+"稍后设置" = "ภายหลัง";
+
+/* No comment provided by engineer. */
+"设为背景图" = "กำหนดเป็นพื้นหลัง";
+
+/* No comment provided by engineer. */
+"设置" = "การตั้งค่า";
+
+/* No comment provided by engineer. */
+"设置封面" = "กำหนดปก";
+
+/* No comment provided by engineer. */
+"设置我的个人水印" = "สร้างโลโก้ของฉัน";
+
+/* No comment provided by engineer. */
+"设置语言" = "ภาษา";
+
+/* No comment provided by engineer. */
+"社区" = "ชุมชน";
+
+/* No comment provided by engineer. */
+"社区草稿" = "ชุมชน";
+
+/* No comment provided by engineer. */
+"身形" = "ร่างกาย";
+
+/* No comment provided by engineer. */
+"什么是私人相册" = "What is a Private Album?";
+
+/* No comment provided by engineer. */
+"生日" = "วันเกิด";
+
+/* No comment provided by engineer. */
+"生图" = "ธรรมชาติ";
+
+/* No comment provided by engineer. */
+"生图模式" = "โหมดธรรมชาติ";
+
+/* No comment provided by engineer. */
+"声音变调" = "เปลี่ยนระดับเสียง";
+
+/* No comment provided by engineer. */
+"时长 %.1lfs" = "ระยะเวลา %.1lf";
+
+/* No comment provided by engineer. */
+"实拍" = "เรียลช็อต";
+
+/* No comment provided by engineer. */
+"实拍是使用美图秀秀相机拍摄的内容，快来分享你的实拍吧！" = "เรียลช็อต คือรูปภาพหรือวิดีโอที่ถ่ายด้วยกล้อง Meitu มาแชร์ผลงานอันยอดเยี่ยมของคุณกัน!";
+
+/* No comment provided by engineer. */
+"实时美颜" = "ปรับแต่ง";
+
+/* No comment provided by engineer. */
+"实时美颜已关闭" = "ปรับผิวเรียบ ปิด";
+
+/* No comment provided by engineer. */
+"实时美颜已开启" = "ปรับผิวเรียบ เปิด";
+
+/* No comment provided by engineer. */
+"实时与好友互动" = "ติดต่อกับเพื่อนๆ ในแบบเรียลไทม์";
+
+/* No comment provided by engineer. */
+"使用" = "ใช้";
+
+/* (No Comment) */
+"使用(经典首页)" = "User";
+
+/* No comment provided by engineer. */
+"使用(特效详情)" = "ใช้";
+
+/* No comment provided by engineer. */
+"使用3D塑颜功能，需下载通用素材模型到本地才可使用哦，赶紧下载体验全新效果吧~" = "ดาวน์โหลดโมเดลวัตถุดิบธรรมดาลงในอุปกรณ์ของคุณเพื่อใช้ฟังก์ชันเปลี่ยนทรง 3D และเพลิดเพลินกับเอฟเฟกต์ใหม่ๆ สุดเจ๋ง!";
+
+/* No comment provided by engineer. */
+"使用攻略" = "คู่มือ ผู้ใช้งาน";
+
+/* (No Comment) */
+"使用攻略（社区首页）" = "แนะนำการ";
+
+/* No comment provided by engineer. */
+"使用经典美颜" = "โหมดคลาสสิก";
+
+/* No comment provided by engineer. */
+"使用抠图功能，需要下载人像识别和背景填充模型到本地哦~" = "กรุณาดาวน์โหลดการตรวจจับรูปเหมือนและโมดูลถมพื้นหลังในเครื่องก่อนใช้ฟังก์ชันคัตเอาต์";
+
+/* No comment provided by engineer. */
+"使用抠图功能，需要下载人像识别模型到本地哦~" = "กรุณาดาวน์โหลดโมดูลการตรวจจับรูปเหมือนลงในเครื่องก่อนใช้ฟังก์ชันคัตเอาต์";
+
+/* No comment provided by engineer. */
+"使用量" = "uses";
+
+/* No comment provided by engineer. */
+"使用量%@" = "ผู้ใช้ %@ คนลองแล้ว";
+
+/* (No Comment) */
+"使用美颜档案功能，需下载通用素材模型到本地才可使用哦，赶紧下载体验全新效果吧~" = "ดาวน์โหลดโมเดลวัตถุดิบธรรมดาลงในอุปกรณ์ของคุณเพื่อใช้ฟังก์ชันโปรไฟล์ความงาม และเพลิดเพลินกับเอฟเฟกต์ใหม่ๆ สุดเจ๋ง!";
+
+/* No comment provided by engineer. */
+"使用萌拍时不支持微调五官哦~" = "AR ไม่รองรับการปรับแต่งคุณลักษณะใบหน้า!";
+
+/* No comment provided by engineer. */
+"使用染发画笔，需要下载头发模型哦，赶快下载换新发色吧~" = "ดาวน์โหลดเอฟเฟกต์ลงบนอุปกรณ์ของคุณเพื่อใช้แปรงย้อมผม!";
+
+/* No comment provided by engineer. */
+"使用同款" = "ยืนยัน";
+
+/* No comment provided by engineer. */
+"使用同款效果失败" = "ใช้เอฟเฟกต์เดียวกันไม่สำเร็จ";
+
+/* No comment provided by engineer. */
+"使用微笑嘴唇功能，需下载通用素材模型到本地才可使用哦，赶紧下载体验全新效果吧~" = "ดาวน์โหลดโมเดลเอฟเฟกต์ครอบจักรวาลลงในอุปกรณ์ของคุณเพื่อใช้งานฟังก์ชันริมผีปากยิ้ม และสนุกกับลุคใหม่สุดเจ๋ง!";
+
+/* No comment provided by engineer. */
+"使用小头功能需要下载身体模型哦\n模型约1M，下载需要1秒左右" = "ดาวน์โหลดโมเดลร่างกายลงในอุปกรณ์ของคุณเพื่อใช้การปรับศีรษะ\nโมเดลมีขนาดประมาณ 1M ใช้เวลาดาวน์โหลดประมาณ 1 วินาที";
+
+/* No comment provided by engineer. */
+"使用颜值管家功能，需下载通用素材模型到本地才可使用哦，赶紧下载体验全新效果吧~" = "ดาวน์โหลดโมเดลวัตถุดิบธรรมดาลงในอุปกรณ์ของคุณเพื่อใช้ฟัความงามของฉัน และเพลิดเพลินกับเอฟเฟกต์ใหม่ๆ สุดเจ๋ง!";
+
+/* No comment provided by engineer. */
+"使用有人体的照片效果更佳哦~" = "เลือกรูปภาพที่เป็นภาพเหมือนเพื่อเอฟเฟกต์ที่ดีขึ้น";
+
+/* No comment provided by engineer. */
+"使用增发功能需要下载头发模型。" = "ฟังก์ชั่นตัวตัดต่อผมจำเป็นต้องดาวน์โหลดแบบผม";
+
+/* No comment provided by engineer. */
+"使用增高塑形功能，需下载通用素材模型到本地才可使用哦，赶紧下载体验全新效果吧~" = "กรุณาดาวน์โหลดเทมเพลตวัตถุดิบธรรมดาลงบนอุปกรณ์ของคุณก่อนใช้งานฟังก์ชัน ปรับทรงรูปร่างดาวน์โหลดตอนนี้แล้วลองได้เลย!";
+
+/* No comment provided by engineer. */
+"识别到多人，请选择一位进行美容" = "พบหน้าหลายหน้า กรุณาเลือกหนึ่งรายการเพื่อปรับแต่ง";
+
+/* No comment provided by engineer. */
+"识别失败" = "ตรวจจับไม่สำเร็จ";
+
+/* No comment provided by engineer. */
+"视频" = "วิดีโอ";
+
+/* No comment provided by engineer. */
+"视频(%d)" = "วิดีโอ (%d)";
+
+/* (No Comment) */
+"视频(经典首页)" = "Editing";
+
+/* No comment provided by engineer. */
+"视频保存失败" = "บันทึกวิดีโอไม่สำเร็จ";
+
+/* No comment provided by engineer. */
+"视频编辑草稿将自动保存在这\n快去创作你的作品吧" = "แบบร่างวิดีโอจะบันทึกไว้โดยอัตโนมัติที่นี่!\nโพสต์งานของคุณเลย!";
+
+/* No comment provided by engineer. */
+"视频编辑草稿将自动保存在这\n已保存的项目也能再次编辑哦" = "ค้นหาแบบร่างวิดีโอที่นี่!\nรายการที่บันทึกไว้สามารถแก้ไขได้อีกเช่นกัน";
+
+/* No comment provided by engineer. */
+"视频草稿" = "แบบร่างวิดีโอ";
+
+/* (No Comment) */
+"视频草稿（草稿箱）" = "วิดีโอ";
+
+/* No comment provided by engineer. */
+"视频尺寸超出限制" = "ขนาดวิดีโอเกินที่จำกัดไว้";
+
+/* No comment provided by engineer. */
+"视频导入中..." = "กำลังนำเข้าวิดีโอ...";
+
+/* No comment provided by engineer. */
+"视频动画" = "วิดีโอ";
+
+/* No comment provided by engineer. */
+"视频发布到美图相册之后，视频原声可能会被其他用户用来拍摄视频或用作背景音乐。如果你不想被他人使用，可进入设置-隐私与通知中关闭。" = "เมื่อวิดีโอของคุณโพสต์ลงในแกลเลอรี MT แล้ว ไฟล์เสียงต้นฉบับของคุณอาจได้รับการใช้งานโดยผู้อื่นเพื่อบันทึกวิดีโอ หรือเป็นเพลงประกอบเบื้องหลัง หากคุณไม่ต้องการให้ผู้อื่นใช้งานไฟล์เสียงของคุณ สามารถปิดการเข้าถึงได้ใน การตั้งค่า - ความเป็นส่วนตัวและการแจ้งเตือน";
+
+/* No comment provided by engineer. */
+"视频还未保存，你要放弃本次拍摄么？" = "ยังไม่ได้บันทึกวิดีโอของคุณ แน่ใจว่าต้องการยกเลิกหรือไม่";
+
+/* No comment provided by engineer. */
+"视频加载失败" = "โหลดวิดีโอไม่สำเร็จ";
+
+/* No comment provided by engineer. */
+"视频加载中，请稍后" = "วิดีโอกำลังโหลด โปรดรอ...";
+
+/* No comment provided by engineer. */
+"视频将被保存在视频美化功能的视频草稿中" = "วิดีโอนี้จะได้รับการบันทึกเป็นฉบับร่างใน [วิดีโอ].";
+
+/* No comment provided by engineer. */
+"视频将在WiFi条件下自动播放哦" = "วิดีโอจะเล่นอัตโนมัติเมื่อใช้ Wi-Fi";
+
+/* No comment provided by engineer. */
+"视频美化" = "วิดีโอ";
+
+/* (No Comment) */
+"视频美化（社区首页）" = "วิดีโอ";
+
+/* No comment provided by engineer. */
+"视频拼图暂不支持拼接哦" = "ไม่รองรับแถบตัดปะวิดีโอในขณะนี้";
+
+/* No comment provided by engineer. */
+"视频上传失败，请重新上传" = "อัปโหลดวิดีโอล้มเหลว กรุณาลองใหม่อีกครั้ง";
+
+/* No comment provided by engineer. */
+"视频生成中..." = "กำลังจัดทำวิดีโอ...";
+
+/* No comment provided by engineer. */
+"视频时长最短1秒哦" = "อย่างน้อย 1 วินาทีสำหรับวิดีโอ";
+
+/* No comment provided by engineer. */
+"视频时长最短3秒哦" = "อย่างน้อย 3 วินาทีสำหรับวิดีโอ";
+
+/* No comment provided by engineer. */
+"视频提取" = "จากวิดีโอ";
+
+/* No comment provided by engineer. */
+"视频提取音乐失败，换个视频试试吧" = "แยกไฟล์เพลงไม่สำเร็จ กรุณาลองวิดีโออื่น";
+
+/* No comment provided by engineer. */
+"视频压缩失败" = "บีบอัดวิดีโอไม่สำเร็จ";
+
+/* No comment provided by engineer. */
+"视频压缩失败，可能系统存储空间不足，请清理后重试" = "การบีบอัดวิดีโอล้มเหลวเนื่องจากพื้นที่เก็บข้อมูลไม่พอ กรุณาจัดการให้เรียบร้อย แล้วลองอีกครั้งในภายหลัง";
+
+/* No comment provided by engineer. */
+"视频压缩中..." = "กำลังบีบอัด...";
+
+/* No comment provided by engineer. */
+"视频已保存" = "บันทึกแล้ว";
+
+/* No comment provided by engineer. */
+"视频已保存到相册；" = "บันทึกลงอัลบั้มแล้ว";
+
+/* No comment provided by engineer. */
+"视频正在上传，请不要退出" = "กำลังอัปโหลดวิดีโอ กรุณาอย่าออก";
+
+/* No comment provided by engineer. */
+"视频总时长不能超过5分钟" = "ไม่เกิน 5 นาทีสำหรับวิดีโอ";
+
+/* No comment provided by engineer. */
+"是" = "ใช่";
+
+/* No comment provided by engineer. */
+"是否保存当前图片?" = "ต้องการบันทึกรูปภาพหรือไม่?";
+
+/* No comment provided by engineer. */
+"是否保存为草稿" = "บันทึกแบบร่าง?";
+
+/* No comment provided by engineer. */
+"是否放弃当前操作?" = "ทิ้งการเปลี่ยนแปลงหรือไม่?";
+
+/* No comment provided by engineer. */
+"是否放弃当前操作图片?" = "แน่ใจว่าต้องการออกจากการตัดต่อภาพนี้หรือไม่";
+
+/* No comment provided by engineer. */
+"是否放弃当前所操作的图片?" = "คุณแน่ใจหรือว่าต้องการทิ้งสิ่งที่คุณได้แก้ไข?";
+
+/* No comment provided by engineer. */
+"是否确定使用旧版磨皮?" = "เปลี่ยนไปฟังก์ชัน \"ขัดผิว\" ก่อนหน้านี้หรือไม่?";
+
+/* No comment provided by engineer. */
+"是否确定使用新版磨皮?" = "เปลี่ยนไปฟังก์ชัน \"ขัดผิว\" ใหม่หรือไม่?";
+
+/* No comment provided by engineer. */
+"是否确认删除评论?" = "ลบเอกสารนี้?";
+
+/* No comment provided by engineer. */
+"收藏" = "รายการโปรด";
+
+/* (No Comment) */
+"收藏（我）" = "รายการโปรด";
+
+/* No comment provided by engineer. */
+"收藏动态" = "การแจ้งเตือน";
+
+/* No comment provided by engineer. */
+"收藏夹不存在" = "ไม่มีโฟลเดอร์ที่ชื่นชอบ";
+
+/* No comment provided by engineer. */
+"收藏夹最多10个字" = "สูงสุด 10 ตัวอักษร";
+
+/* No comment provided by engineer. */
+"收藏夹最多创建%ld个" = "ไม่เกิน %ld รายการโปรด";
+
+/* No comment provided by engineer. */
+"收藏恋爱瞬间" = "Sweet memories with that special someone";
+
+/* No comment provided by engineer. */
+"收藏至" = "เพิ่มไปยัง";
+
+/* No comment provided by engineer. */
+"收起" = "ย่อ";
+
+/* No comment provided by engineer. */
+"收起图层" = "ย่อ";
+
+/* No comment provided by engineer. */
+"手臂" = "แขน";
+
+/* 祛皱-tab */
+"手动" = "ด้วยมือ";
+
+/* No comment provided by engineer. */
+"手动圈选保护区域" = "ใช้นิ้วของคุณวาดวงกลมบริเวณที่ต้องการล็อก";
+
+/* No comment provided by engineer. */
+"手绘自拍" = "วาดด้วยมือ";
+
+/* No comment provided by engineer. */
+"首发" = "พรีเมียร์";
+
+/* No comment provided by engineer. */
+"首页" = "หน้าหลัก";
+
+/* No comment provided by engineer. */
+"首页主题设置" = "การตั้งค่าธีม";
+
+/* No comment provided by engineer. */
+"授权已过期，请重新登录" = "ทำรายการเกินกำหนดเวลา กรุณาล็อกอินอีกครั้ง";
+
+/* No comment provided by engineer. */
+"瘦鼻" = "จมูกเรียว";
+
+/* No comment provided by engineer. */
+"瘦脸" = "หน้าเรียว";
+
+/* No comment provided by engineer. */
+"瘦脸范围" = "ขนาด";
+
+/* No comment provided by engineer. */
+"瘦脸瘦身" = "หุ่นเพรียว";
+
+/* No comment provided by engineer. */
+"瘦身" = "ร่างกาย";
+
+/* No comment provided by engineer. */
+"瘦腿" = "ขาเรียว";
+
+/* No comment provided by engineer. */
+"输入收藏夹名" = "ใส่ชื่อรายการโปรดของคุณ";
+
+/* No comment provided by engineer. */
+"输入文字" = "เพิ่มข้อความ";
+
+/* No comment provided by engineer. */
+"输入自己要添加的标签哟～" = "ใส่ป้ายของคุณ";
+
+/* No comment provided by engineer. */
+"双击可以点赞哦" = "แตะสองครั้งเพื่อถูกใจ";
+
+/* No comment provided by engineer. */
+"双眼皮" = "ตาสองชั้น";
+
+/* No comment provided by engineer. */
+"双指操作缩放" = "ใช้สองนิ้วขยายได้นะ";
+
+/* No comment provided by engineer. */
+"双指放大图片涂抹更细致哦" = "ใช้สองนี้วเพื่อขยายภาพเพื่อให้แก้ไขได้อย่างละเอียดมากขึ้น!";
+
+/* No comment provided by engineer. */
+"双指可缩放和旋转" = "ใช้สองนิ้วเพื่อซูมเข้า/ออกหรือหมุน";
+
+/* No comment provided by engineer. */
+"双指可以缩放照片哦" = "จีบนิ้วเพื่อซูม";
+
+/* No comment provided by engineer. */
+"水平" = "แนวนอน";
+
+/* No comment provided by engineer. */
+"水平翻转" = "แนวนอน";
+
+/* No comment provided by engineer. */
+"水印" = "ลายน้ำ";
+
+/* No comment provided by engineer. */
+"水印功能已关闭" = "ปิดการใช้ลายน้ำ";
+
+/* No comment provided by engineer. */
+"水印功能已开启" = "เปิดการใช้ลายน้ำ";
+
+/* No comment provided by engineer. */
+"瞬间让照片高大上的拼图神器！" = "ต่อภาพของคุณเป็นโปสเตอร์ที่มีสไตล์";
+
+/* No comment provided by engineer. */
+"说点什么..." = "พูดบางอย่าง...";
+
+/* No comment provided by engineer. */
+"说点什么吧" = "คุณคิดอะไรอยู่?";
+
+/* No comment provided by engineer. */
+"私密收藏夹" = "รายการโปรดส่วนตัว";
+
+/* No comment provided by engineer. */
+"私人相册" = "อัลบั้มส่วนตัว";
+
+/* No comment provided by engineer. */
+"私信" = "ข้อความส่วนตัว";
+
+/* No comment provided by engineer. */
+"搜索" = "ค้นหา";
+
+/* No comment provided by engineer. */
+"搜索标签或添加你的标签" = "ค้นหาแท็กหรือเพิ่มแท็กของคุณเอง";
+
+/* No comment provided by engineer. */
+"搜索附近位置" = "ค้นหาสถานที่ใกล้เคียง";
+
+/* No comment provided by engineer. */
+"搜索附近位置失败" = "ไม่พบสถานที่";
+
+/* No comment provided by engineer. */
+"搜索话题" = "หัวข้อ";
+
+/* No comment provided by engineer. */
+"搜索历史" = "ประวัติการค้นหา";
+
+/* No comment provided by engineer. */
+"搜索美图ID、昵称" = "Meitu ID/ชื่อเล่น";
+
+/* No comment provided by engineer. */
+"搜索美图ID、昵称、话题、内容" = "Meitu ID/ชื่อเล่น/หัวข้อ/เนื้อหา";
+
+/* No comment provided by engineer. */
+"搜索内容" = "ค้นหา";
+
+/* No comment provided by engineer. */
+"搜索用户“%@" = "ค้นหาผู้้ใช้ “%@";
+
+/* No comment provided by engineer. */
+"素材管理" = "จัดการ";
+
+/* No comment provided by engineer. */
+"素材上新，好玩的活动再也不会错过啦" = "ไม่พลาดวัตถุดิบใหม่ๆและกิจกรรมน่าตื่นเต้นอีกต่อไป!";
+
+/* No comment provided by engineer. */
+"素材下载失败" = "ไม่สามารถดาวน์โหลดเนื้อหา";
+
+/* No comment provided by engineer. */
+"素材下载数量：%ld个" = "%ld ไฟล์จะถูกดาวน์โหลด";
+
+/* No comment provided by engineer. */
+"素材下载中" = "กำลังดาวน์โหลดเนื้อหา";
+
+/* No comment provided by engineer. */
+"素材下载中..." = "กำลังดาวน์โหลดเนื้อหา...";
+
+/* No comment provided by engineer. */
+"素材已下架，换其他试试吧" = "องค์ประกอบนี้ถูกนำออกแล้ว กรุณาใช้อย่างอื่น";
+
+/* No comment provided by engineer. */
+"素材暂不支持使用描边效果哦~" = "[ลากเส้น] ไม่รองรับกับวัตถุดิบทั้งหมด";
+
+/* No comment provided by engineer. */
+"素材中心" = "เนื้อหา";
+
+/* (No Comment) */
+"素材中心（社区首页）" = "เนื้อหา";
+
+/* No comment provided by engineer. */
+"素材中心全新升级啦！" = "ศูนย์เนื้อหาถูกอัพเกรดแล้ว!";
+
+/* No comment provided by engineer. */
+"素材中心需要有网络才可以使用哦！当前无可用网络，请确保您已经开启GPRS或WIFI!" = "สิทธิ์การสืบค้นเนื้อหาจะต้องเชื่อมต่ออินเทอร์เน็ต กรุณาตรวจสอบการตั้งค่าเครือข่ายของคุณ";
+
+/* No comment provided by engineer. */
+"素材中心在这里哦~" = "ศูนย์เนื้อหาย้ายมาที่นี่";
+
+/* 一键美颜底部效果tab */
+"素肌" = "ผิวเดิม ";
+
+/* No comment provided by engineer. */
+"速度" = "ความเร็ว";
+
+/* No comment provided by engineer. */
+"速度: %@" = "ความเร็ว: %@";
+
+/* No comment provided by engineer. */
+"速度:%.0f" = "ความเร็ว: %.0f";
+
+/* No comment provided by engineer. */
+"随时分享" = "แชร์ได้ตลอดเวลา";
+
+/* No comment provided by engineer. */
+"缩放" = "ซูม";
+
+/* No comment provided by engineer. */
+"所有人" = "ผู้ใช้ทั้งหมด";
+
+/* No comment provided by engineer. */
+"所在地" = "ตำแหน่ง";
+
+/* No comment provided by engineer. */
+"锁定后可一键调整颜色及透明度哦" = "เมื่อล็อกแล้ว คุณจะสามารถปรับสีและความโปร่งใสได้ในการแตะครั้งเดียว";
+
+/* 视频美化-同款删除后只剩带锁视频-点击调色 */
+"锁定视频不支持调色" = "วิดีโอที่ถูกล็อกไม่รองรับการปรับสี";
+
+/* 视频美化-同款删除后只剩带锁视频-点击画布 */
+"锁定视频不支持画布调节" = "ไม่รองรับการปรับแคนวาสสำหรับวิดีโอที่ถูกล็อก";
+
+/* No comment provided by engineer. */
+"锁定视频不支持滤镜调节" = "วิดีโอที่ล็อกอยู่ไม่สามารถใช้การปรับฟิลเตอร์ได้";
+
+/* No comment provided by engineer. */
+"他们太害羞了，不然你主动点？" = "พวกเขาขี้อายเกินไป! ทำไมคุณไม่ลองพูดอะไรก่อนล่ะ";
+
+/* No comment provided by engineer. */
+"他们在" = "พวกเขาอยู่ใน ";
+
+/* No comment provided by engineer. */
+"他人保存我的图片时有水印" = "เพิ่มลายน้ำลงในรูปภาพที่คุณบันทึกไว้";
+
+/* 美容-祛皱-智能的一个tab */
+"抬头纹" = "ริ้วรอยบนหน้าผาก";
+
+/* (No Comment) */
+"太阳穴(面部重塑)" = "ขมับ";
+
+/* No comment provided by engineer. */
+"探索" = "สำรวจ";
+
+/* No comment provided by engineer. */
+"特殊滤镜请选中人像使用哦~" = "กรุณาเลือกรูปเหมือนเพื่อใช้ฟิลเตอร์พิเศษนี้";
+
+/* No comment provided by engineer. */
+"特殊效果需要下载模型使用哦~\n模型约5M,下载需要4秒左右" = "สเปเชียลเอฟเฟกต์ต้องการดาวน์โหลดตัวแบบก่อน\n(ตัวแบบขนาดประมาณ 5M จะใช้เวลาดาวน์โหลดประมาณ 4 วินาที)";
+
+/* No comment provided by engineer. */
+"特效" = "เอฟเฟกต์";
+
+/* No comment provided by engineer. */
+"特效程度" = "ระดับเอฟเฟกต์";
+
+/* No comment provided by engineer. */
+"特效去选后将不在内置中出现，重新选中即可出现哦。" = "ฟิลเตอร์ที่ไม่ได้เลือกจะไม่ปรากฏขึ้นที่แอพ เลือกใหม่เพื่อให้ปรากฏขึ้น";
+
+/* No comment provided by engineer. */
+"提到了你" = "ได้กล่าวถึงคุณ";
+
+/* No comment provided by engineer. */
+"提交" = "ส่ง";
+
+/* No comment provided by engineer. */
+"提取音乐" = "แยกเพลง";
+
+/* (No Comment) */
+"提升(面部重塑)" = "ปรับปรุง";
+
+/* No comment provided by engineer. */
+"提示" = "ข้อควรทราบ";
+
+/* No comment provided by engineer. */
+"体验海量素材，个性化功能" = "เข้าถึงทุกฟีเจอร์";
+
+/* No comment provided by engineer. */
+"体验全新拼图" = "ลองการต่อภาพใหม่ ๆ";
+
+/* No comment provided by engineer. */
+"替换" = "แทนที่";
+
+/* No comment provided by engineer. */
+"替换视频" = "แทนที่คลิป";
+
+/* No comment provided by engineer. */
+"天鹅颈" = "คอเรียวยาว";
+
+/* No comment provided by engineer. */
+"天生" = "ธรรมชาติ";
+
+/* No comment provided by engineer. */
+"添加" = "เพิ่ม";
+
+/* No comment provided by engineer. */
+"添加标签" = "เพิ่มแท็ก";
+
+/* No comment provided by engineer. */
+"添加成员" = "Add new members";
+
+/* No comment provided by engineer. */
+"添加点" = "เพิ่มบีท";
+
+/* No comment provided by engineer. */
+"添加合适的标签，会获取更多曝光" = "ใส่แท็กดีๆเพื่อให้เข้าถึงได้มากขึ้น";
+
+/* No comment provided by engineer. */
+"添加合适的产品，推荐给你的粉丝吧～" = "เพิ่มสินค้าที่เหมาะสม และแนะนำให้กับผู้ติดตามของคุณ!";
+
+/* No comment provided by engineer. */
+"添加评论" = "Add a comment...";
+
+/* No comment provided by engineer. */
+"添加失败" = "การเพิ่มล้มเหลว";
+
+/* No comment provided by engineer. */
+"添加视频" = "เพิ่มวิดีโอแล้ว";
+
+/* No comment provided by engineer. */
+"添加音乐" = "เพิ่มเพลง";
+
+/* No comment provided by engineer. */
+"添加有颜文字描述" = "เพิ่มคำอธิบายโพสต์ Youyan";
+
+/* 一键美颜底部效果tab */
+"甜酷" = "อ่อนหวาน";
+
+/* No comment provided by engineer. */
+"条内容" = " โพสต์";
+
+/* No comment provided by engineer. */
+"条评论" = "ความเห็น";
+
+/* No comment provided by engineer. */
+"跳过" = "ข้าม";
+
+/* No comment provided by engineer. */
+"跳过，暂不登录" = "ไม่ใช่ตอนนี้";
+
+/* 海外地区-审核开关关闭-订阅会员-支付时取消 */
+"贴纸" = "สติกเกอร์";
+
+/* No comment provided by engineer. */
+"贴纸/文字" = "สติกเกอร์/ข้อความแล้ว";
+
+/* No comment provided by engineer. */
+"贴纸动画" = "สติกเกอร์";
+
+/* No comment provided by engineer. */
+"贴纸管理" = "จัดการสติกเกอร์";
+
+/* No comment provided by engineer. */
+"贴纸专辑" = "คอลเลกชันสติกเกอร์";
+
+/* No comment provided by engineer. */
+"通用" = "ทั่วไป";
+
+/* No comment provided by engineer. */
+"同款素材准备中" = "กำลังโหลดเอฟเฟกต์เดียวกันอยู่...";
+
+/* No comment provided by engineer. */
+"同时评论给作者" = "ซิงค์กับคอมเมนต์";
+
+/* No comment provided by engineer. */
+"同意" = "ยอมรับ";
+
+/* No comment provided by engineer. */
+"同意，并开始使用" = "ยอมรับและเริ่มใช้งาน ";
+
+/* No comment provided by engineer. */
+"同意并继续" = "ยอมรับ";
+
+/* (No Comment) */
+"瞳仁(面部重塑)" = "ลูกตาดำ";
+
+/* No comment provided by engineer. */
+"头像裁剪" = "ครอบตัดอวาตาร์";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-背景tab-透明滑竿标签
+   首页-视频美化-选中任一图片或视频-文字tab-样式tab-描边tab-透明滑竿标签
+   首页-视频美化-选中任一图片或视频-文字tab-样式tab-外发光tab-透明滑竿标签
+   首页-视频美化-选中任一图片或视频-文字tab-样式tab-文本tab-透明滑竿标签
+   首页-视频美化-选中任一图片或视频-文字tab-样式tab-阴影tab-透明滑竿标签 */
+"透明" = "โปร่งใส";
+
+/* No comment provided by engineer. */
+"透明度" = "โปร่งใส";
+
+/* No comment provided by engineer. */
+"图案" = "แพทเทิร์น";
+
+/* No comment provided by engineer. */
+"图层" = "ฝรั่งเศส";
+
+/* No comment provided by engineer. */
+"图片" = "รูปภาพ ";
+
+/* (No Comment) */
+"图片(经典首页)" = "Editing";
+
+/* No comment provided by engineer. */
+"图片/视频" = "รูป/วิดีโอ";
+
+/* No comment provided by engineer. */
+"图片背景" = "ภาพ";
+
+/* No comment provided by engineer. */
+"图片不支持音量调节" = "รูปไม่ซัพพอร์ตการปรับเสียง";
+
+/* No comment provided by engineer. */
+"图片超出尺寸限制" = "ขนาดรูปภาพเกินที่กำหนด";
+
+/* No comment provided by engineer. */
+"图片过大，无法选择。" = "ภาพนี้ใหญ่เกินไปสำหรับเลือก";
+
+/* No comment provided by engineer. */
+"图片过小，无法选择。" = "ภาพนี้เล็กเกินไปสำหรับเลือก";
+
+/* No comment provided by engineer. */
+"图片美化" = "ตัดต่อ รูปภาพ";
+
+/* (No Comment) */
+"图片美化（社区首页）" = "รูปภาพ";
+
+/* No comment provided by engineer. */
+"图片美化小技巧" = "คำแนะนำ";
+
+/* No comment provided by engineer. */
+"图片衔接处拖动\n可调节大小噢" = "ลากที่ขอบรูปภาพเพื่อปรับขนาด";
+
+/* No comment provided by engineer. */
+"图片已保存" = "บันทึกภาพไว้แล้ว";
+
+/* No comment provided by engineer. */
+"图片已保存至相册" = "บันทึกรูปภาพลงในอัลบั้มแล้ว";
+
+/* No comment provided by engineer. */
+"图片暂不支持变速" = "รูปภาพไม่สนับสนุนฟังก์ชัน [ความเร็ว]";
+
+/* No comment provided by engineer. */
+"图片暂不支持倒放" = "รูปภาพไม่รองรับการย้อนกลับ";
+
+/* No comment provided by engineer. */
+"图片暂不支持定格" = "รูปภาพไม่รองรับฟังก์ชันหยุดภาพ";
+
+/* No comment provided by engineer. */
+"涂抹" = "ปรับเอง";
+
+/* No comment provided by engineer. */
+"涂抹黑眼圈即可祛除" = "กดเพื่อลบขอบคล้ำ";
+
+/* No comment provided by engineer. */
+"涂抹图片可显示文字" = "ปัดรูปภาพเพื่อแสดงข้อความ";
+
+/* No comment provided by engineer. */
+"涂抹相应区域即可提亮，也可用来美白牙齿哦" = "ลากนิ้วไปที่ส่วนที่เกี่ยวข้องเพื่อปรับให้กระจ่าง สามารถใช้กับฟันได้!";
+
+/* No comment provided by engineer. */
+"涂抹相应区域即可消除哦~" = "กดในพื้นที่ที่ต้องการลบ";
+
+/* No comment provided by engineer. */
+"涂抹眼睛即可亮眼" = "กดที่ดวงตาเพื่อปรับให้สว่าง ";
+
+/* No comment provided by engineer. */
+"涂抹皱纹即可祛除" = "ปัดเพื่อลบรอยเหี่ยวย่น";
+
+/* 海外地区-审核开关关闭-订阅会员-支付时取消
+   审核开关关闭-订阅会员-支付时取消 */
+"涂鸦笔" = "ปากกาวิเศษ";
+
+/* No comment provided by engineer. */
+"推动脸颊即可瘦脸" = "กดและลากเพื่อยกใบหน้า";
+
+/* No comment provided by engineer. */
+"推荐" = "แนะนำ";
+
+/* No comment provided by engineer. */
+"推荐(首页)" = "แนะนำ";
+
+/* No comment provided by engineer. */
+"推荐话题" = "หัวข้อยอดนิยม";
+
+/* No comment provided by engineer. */
+"推荐滤镜" = "ฟิลเตอร์ที่แนะนำ";
+
+/* No comment provided by engineer. */
+"推荐用户" = "ผู้ใช้งานที่แนะนำ";
+
+/* No comment provided by engineer. */
+"推送通知" = "ส่งการแจ้งเตือน";
+
+/* No comment provided by engineer. */
+"腿" = "ขา";
+
+/* No comment provided by engineer. */
+"退出相册" = "Log out ";
+
+/* No comment provided by engineer. */
+"退出相册后你将无法查看该相册，已经上传到相册的图片/视频仍保留在相册中" = "You will unable to view this album after logging out. Your uploaded photos/videos will remain in the album.";
+
+/* No comment provided by engineer. */
+"褪色" = "เฟด";
+
+/* No comment provided by engineer. */
+"拖动到此处放弃编辑" = "ลากมาที่นี่เพื่อทิ้งการเปลี่ยนแปลง";
+
+/* No comment provided by engineer. */
+"拖动到此处删除" = "Drag here to delete";
+
+/* No comment provided by engineer. */
+"拖动拉杆即可磨皮" = "ลากแถบเลื่อนเพื่อปรับผิวให้เรียบเนียน";
+
+/* No comment provided by engineer. */
+"拖动水印可以进行移动，双指还可以缩放哦" = "ลากเพื่อย้าย ใช้สองนิ้วเพื่อซูมโลโก้เข้าหรือออก";
+
+/* No comment provided by engineer. */
+"椭圆形" = "วงกลม";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-外发光tab标题 */
+"外发光" = "เรืองแสงด้านนอก";
+
+/* No comment provided by engineer. */
+"完成" = "เสร็จสิ้น";
+
+/* No comment provided by engineer. */
+"完善资料" = "โพรไฟล์เต็ม";
+
+/* No comment provided by engineer. */
+"完善资料查看个人主页" = "ดูข้อมูลเพิ่มเติมได้ในโปรไฟล์";
+
+/* No comment provided by engineer. */
+"完善资料后查看好友列表" = "กรอกโปรไฟล์ให้ครบเพื่อดูรายชื่อเพื่อนของคุณ";
+
+/* No comment provided by engineer. */
+"完整编辑" = "แก้ไขเต็มรูปแบบ";
+
+/* No comment provided by engineer. */
+"晚上好" = "สวัสดีตอนค่ำ";
+
+/* No comment provided by engineer. */
+"网格辅助拍摄已关闭" = "ปิดฟังก์ชันตารางแล้ว";
+
+/* No comment provided by engineer. */
+"网格辅助拍摄已开启" = "เปิดฟังก์ชันตารางแล้ว";
+
+/* No comment provided by engineer. */
+"网络好像出问题了，请重试" = "ไม่สามารถเชื่อมต่อ โปรดลองใหม่อีกครั้ง";
+
+/* No comment provided by engineer. */
+"网络好像出问题了，请重试。" = "ดูเหมือนจะเกิดปัญหาการเชื่อมต่ออินเทอร์เน็ต กรุณาลองใหม่อีกครั้ง";
+
+/* No comment provided by engineer. */
+"网络好像有问题哦~" = "There seems to be a problem with your Internet connection";
+
+/* No comment provided by engineer. */
+"网络连接不流畅，稍后再试。" = "Unstable internet connection. Please try again later.";
+
+/* No comment provided by engineer. */
+"网络连接不顺畅，请稍后再试" = "การเชื่อมต่ออินเทอร์เน็ตไม่เสถียร กรุณาลองใหม่ในภายหลัง";
+
+/* No comment provided by engineer. */
+"网络提示" = "คำแนะนำด้านเครือข่าย";
+
+/* No comment provided by engineer. */
+"网络异常，点击重试" = "ไม่สามารถเชื่อมต่อ โปรดลองใหม่อีกครั้ง";
+
+/* No comment provided by engineer. */
+"网络有问题，点击重试" = "ไม่สามารถเชื่อมต่อ โปรดลองใหม่อีกครั้ง";
+
+/* No comment provided by engineer. */
+"微博" = "Weibo";
+
+/* (No Comment) */
+"微笑(面部重塑)" = "ยิ้ม";
+
+/* No comment provided by engineer. */
+"微信" = "WeChat";
+
+/* No comment provided by engineer. */
+"微信必备表情制作神器!" = "จัดทำสติกเกอร์สำหรับ WeChat";
+
+/* No comment provided by engineer. */
+"微信好友" = "WeChat";
+
+/* No comment provided by engineer. */
+"微信限制分享，请打开朋友圈上传分享哦！" = "การแชร์ถูกจำกัดโดย WeChat กรุณาเปิด Moments เพื่ออัปโหลดและแชร์!";
+
+/* No comment provided by engineer. */
+"为画中画" = "หมายถึงรูปที่อยู่ในรูป";
+
+/* No comment provided by engineer. */
+"为获得更优质的效果，需通过云端处理该照片哦。" = "เพื่อผลลัพธ์ที่ดีที่สุด ใช้คลาวด์ในการประมวลผลรูปภาพของคุณ";
+
+/* No comment provided by engineer. */
+"为你更新更多~" = "อัปเดตเพิ่มสำหรับคุณ!";
+
+/* No comment provided by engineer. */
+"为你推荐更多~" = "แนะนำเพิ่มสำหรับคุณ!";
+
+/* No comment provided by engineer. */
+"未成功保存至相册" = "บันทึกไม่สำเร็จ";
+
+/* No comment provided by engineer. */
+"未成功识别到人像，暂时无法使用智能模式哦" = "รู้จำใบหน้าไม่สำเร็จ ไม่สามารถใช้โหมดสมาร์ทได้";
+
+/* No comment provided by engineer. */
+"未导入视频，不支持裁剪" = "ไม่ได้นำเข้าวิดีโอ ไม่รองรับการตัดคลิป";
+
+/* No comment provided by engineer. */
+"未关注人的消息" = "ข้อความจากคนแปลกหน้า";
+
+/* 相册权限被禁止的提示 */
+"未获得照片访问权限，可前往系统设置中打开照片权限开关。" = "ไม่มีการอนุญาตให้เข้าถึงรูปถ่าย กรุณาไปที่การตั้งค่าระบบและอนุญาตให้เข้าถึงรูปถ่าย";
+
+/* 相册权限限制的提示 */
+"未获得照片访问权限，可通过系统相册选择照片或修改授权。" = "ไม่มีการอนุญาตให้เข้าถึงรูปถ่าย คุณสามารถเลือกอัลบั้มรูปหรือปรับการอนุญาตให้เข้าถึง";
+
+/* 美容-祛皱-智能某tab不可用点击提示 */
+"未检测到法令纹，试试手动涂抹。" = "ไม่สามารถตรวจพบริ้วรอยลักยิ้ม กรุณาใช้โหมดปกติ";
+
+/* 美容-祛皱-智能某tab不可用点击提示 */
+"未检测到颈纹，试试手动涂抹。" = "ไม่สามารถตรวจพบริ้วรอยบนลำคอ กรุณาใช้โหมดปกติ";
+
+/* No comment provided by engineer. */
+"未检测到人脸" = "ไม่สามารถตรวจสอบใบหน้าได้";
+
+/* No comment provided by engineer. */
+"未检测到人物肖像，请自由编辑抠图区域" = "ตรวจไม่พบภาพเหมือน กรุณาแก้ไขพื้นที่ที่เลือกอย่างอิสระ";
+
+/* 美容-祛皱-智能某tab不可用点击提示 */
+"未检测到抬头纹，试试手动涂抹。" = "ไม่สามารถตรวจพบริ้วรอยบนหน้าผาก กรุณาใช้โหมดปกติ";
+
+/* 美容-祛皱-智能某tab不可用点击提示 */
+"未检测到眼纹，试试手动涂抹。" = "ไม่สามารถตรวจพบริ้วรอยตีนกา กรุณาใช้โหมดปกติ";
+
+/* 美容-祛皱-切换到智能时候的自动检测失败提示
+   美容-祛皱-智能 在未检测到皱纹不可用点击提示 */
+"未检测到皱纹，试试手动涂抹祛皱~" = "ไม่สามารถตรวจพบริ้วรอย กรุณาใช้โหมดปกติ";
+
+/* No comment provided by engineer. */
+"未精准识别到五官，无法使用美妆功能。请尽量使用正脸照。" = "ตรวจจำใบหน้าล้มเหลว กรุณาใช้ภาพด้านหน้าที่ชัดเจน";
+
+/* No comment provided by engineer. */
+"未精准识别到五官，无法使用面部重塑功能。请尽量使用正脸照。" = "ไม่สามารถตรวจลักษณะใบหน้า ไม่สามารถปรับรูปทรงใบหน้า กรุณาลองใช้ภาพที่ถ่ายจากกล้องหน้า";
+
+/* No comment provided by engineer. */
+"未精准识别到五官，无法使用自动功能。请尽量使用正脸照。" = "ตรวจจำใบหน้าล้มเหลว กรุณาใช้ภาพด้านหน้าที่ชัดเจน";
+
+/* No comment provided by engineer. */
+"未开启" = "ปิด";
+
+/* No comment provided by engineer. */
+"未能定位到当前位置" = "ไม่สามารถค้นหาตำแหน่งปัจจุบันได้";
+
+/* No comment provided by engineer. */
+"未设置" = "ยังไม่ได้กำหนดค่า";
+
+/* No comment provided by engineer. */
+"未识别到肩部，无法进行调整。" = "ตรวจไม่พบไหล่ ไม่สามารถปรับได้";
+
+/* No comment provided by engineer. */
+"未识别到颈部，无法进行调整。" = "ตรวจไม่พบคอ ไม่สามารถปรับได้";
+
+/* No comment provided by engineer. */
+"未识别到人脸，无法调整" = "ตรวจจับใบหน้าไม่สำเร็จ ไม่สามารถปรับ";
+
+/* No comment provided by engineer. */
+"未识别到人物，请手动选择抠图区域后进行描边" = "ตรวจไม่พบบุคคล กรุณาเลือกพื้นที่คัตเอาต์และลากเส้นด้วยตัวเอง";
+
+/* No comment provided by engineer. */
+"未识别到人物，请自由编辑抠图区域" = "ตรวจไม่พบภาพเหมือน กรุณาแก้ไขพื้นที่ที่เลือกอย่างอิสระ";
+
+/* No comment provided by engineer. */
+"未识别到人像" = "ไม่สามารถตรวจพบรูปเหมือนได้";
+
+/* No comment provided by engineer. */
+"未识别到人像，无法开启人像保护，请尽量使用正脸照。" = "ตรวจไม่พบบุคคลเพื่อใช้งานการล็อกภาพบุคคล กรุณาใช้รูปที่ถ่ายหน้าตรง";
+
+/* No comment provided by engineer. */
+"未识别到手臂，无法进行调整。" = "ตรวจไม่พบแขน ไม่สามารถปรับได้";
+
+/* No comment provided by engineer. */
+"未识别到腿部线条，无法进行调整。" = "ตรวจไม่พบแนวขา ไม่สามารถปรับได้";
+
+/* No comment provided by engineer. */
+"未识别到完整头部，换张照片试试哦~" = "ตรวจไม่พบศีรษะทั้งหมด กรุณาลองรูปอื่น";
+
+/* No comment provided by engineer. */
+"未识别到腰部线条，无法进行调整。" = "ตรวจไม่พบเอว ไม่สามารถปรับได้";
+
+/* No comment provided by engineer. */
+"未知" = "ไม่ทราบ";
+
+/* No comment provided by engineer. */
+"温馨提示" = "คำแนะนำ";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-文本tab标题 */
+"文本" = "ข้อความ";
+
+/* No comment provided by engineer. */
+"文件过大，无法自动卡点，换个音乐试试" = "ไฟล์ใหญ่เกินกว่าจะใช้การยึดบีทโดยอัตโนมัติ กรุณาลองเพลงอื่น";
+
+/* No comment provided by engineer. */
+"文艺" = "อาร์ต ";
+
+/* No comment provided by engineer. */
+"文字" = "ข้อความ";
+
+/* No comment provided by engineer. */
+"文字功能已下线" = "ฟังก์ชันข้อความถูกนำออกไปแล้ว";
+
+/* No comment provided by engineer. */
+"文字描述" = "รายละเอียดข้อความ";
+
+/* No comment provided by engineer. */
+"文字样式" = "สไตล์";
+
+/* No comment provided by engineer. */
+"纹理减淡" = "พื้นผิวเลือน";
+
+/* No comment provided by engineer. */
+"纹理强光" = "พื้นผิวแสงจ้า";
+
+/* No comment provided by engineer. */
+"我" = "ฉัน";
+
+/* No comment provided by engineer. */
+"我的定制" = "DIY";
+
+/* No comment provided by engineer. */
+"我的粉丝正在来的路上" = "ผู้ติดตามของฉันกำลังมา";
+
+/* No comment provided by engineer. */
+"我的个人水印" = "ลายน้ำ";
+
+/* No comment provided by engineer. */
+"我的配方" = "แม่แบบของฉัน";
+
+/* No comment provided by engineer. */
+"我的钱包" = "กระเป๋าของฉัน";
+
+/* No comment provided by engineer. */
+"我的收藏" = "รายการโปรดของฉัน";
+
+/* No comment provided by engineer. */
+"我的私人相册" = "My Private Album";
+
+/* No comment provided by engineer. */
+"我的相册" = "อัลบั้ม";
+
+/* No comment provided by engineer. */
+"我的颜值管家" = "ความงามของฉัน";
+
+/* No comment provided by engineer. */
+"我的专属" = "บริการเอ็กซ์คลูซีฟ";
+
+/* No comment provided by engineer. */
+"我关注的人" = "การติดตามของฉัน";
+
+/* No comment provided by engineer. */
+"我还没有收藏" = "ไม่มีรายการโปรด";
+
+/* No comment provided by engineer. */
+"我还未解锁地标" = "แลนด์มาร์กที่ถูกล็อก";
+
+/* No comment provided by engineer. */
+"我竟然还没有个性签名" = "ว้าว! ฉันยังไม่มีระวัติส่วนตัว!";
+
+/* 审核开关关闭-订阅会员-支付时取消 */
+"我们还为您准备了" = "เราเตรียมสิ่งเหล่านี้ไว้ให้คุณด้วย";
+
+/* No comment provided by engineer. */
+"我们将为你提供" = "เราขอเสนอ";
+
+/* No comment provided by engineer. */
+"我要码" = "ฉันต้องการรหัส";
+
+/* No comment provided by engineer. */
+"我要拍" = "ถ่าย";
+
+/* No comment provided by engineer. */
+"我要使用" = "ใช้";
+
+/* No comment provided by engineer. */
+"我在这里" = "ตำแหน่งของฉัน";
+
+/* No comment provided by engineer. */
+"我正在积攒美好" = "ฉันชอบสิ่งต่าง ๆ ที่เกิดขึ้นในชีวิตของฉัน";
+
+/* No comment provided by engineer. */
+"我知道了" = "ตกลง";
+
+/* No comment provided by engineer. */
+"卧蚕" = "ถุงใต้ตา";
+
+/* No comment provided by engineer. */
+"无" = "ไม่มี";
+
+/* No comment provided by engineer. */
+"无边框" = "ไม่มี";
+
+/* No comment provided by engineer. */
+"无法选择“下载中”的图片" = "ไม่สามารถเลือกรูปภาพที่กำลังดาวน์โหลดอยู่ได้";
+
+/* No comment provided by engineer. */
+"无访问权限" = "กรุณาให้อนุญาตสืบค้นภาพ";
+
+/* No comment provided by engineer. */
+"无音乐" = "ไม่มี";
+
+/* No comment provided by engineer. */
+"五官" = "ลักษณะใบหน้า";
+
+/* No comment provided by engineer. */
+"五官立体" = "คอนทัวร์";
+
+/* No comment provided by engineer. */
+"嘻嘻，我有好多新玩意，和你一起玩好不好呀~😍" = "ดูฟีเจอร์ใหม่ล่าสุดของเรา! พบฟิลเตอร์สำหรับทุกๆ โอกาส 😍";
+
+/* No comment provided by engineer. */
+"喜欢美图秀秀吗?" = "พอใจกับ Meitu หรือไม่";
+
+/* No comment provided by engineer. */
+"系统蓝牙未打开" = "Bluetooth ระบบไม่ได้เปิดทำงาน";
+
+/* No comment provided by engineer. */
+"细(五官)" = "บาง";
+
+/* No comment provided by engineer. */
+"细节" = "รายละเอียด";
+
+/* No comment provided by engineer. */
+"下巴" = "คาง";
+
+/* (No Comment) */
+"下巴(面部重塑)" = "คาง";
+
+/* No comment provided by engineer. */
+"下颌" = "กรามล่าง";
+
+/* (No Comment) */
+"下颌(面部重塑)" = "กรามล่าง";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-文本tab-下划线按钮 */
+"下划线" = "ขีดเส้นใต้";
+
+/* No comment provided by engineer. */
+"下拉查看更多" = "ปัดลงเพื่อดูเพิ่ม";
+
+/* No comment provided by engineer. */
+"下拉查看更多内容" = "ปัดลงเพื่อดูเพิ่ม";
+
+/* No comment provided by engineer. */
+"下拉发现\n更多内容" = "ปัดลง \nเพื่อดูเพิ่ม";
+
+/* No comment provided by engineer. */
+"下拉发现新世界" = "ปัดลงเพื่อค้นพบโลกใบใหม่";
+
+/* No comment provided by engineer. */
+"下拉加载更多" = "ดึงลงเพื่อโหลดเพิ่มเติม";
+
+/* No comment provided by engineer. */
+"下拉就可以拍照哦~" = "เลื่อนลงเพื่อล็อคเก็บ";
+
+/* No comment provided by engineer. */
+"下拉刷新，看到更多变美内容" = "Slide down to discover more posts";
+
+/* No comment provided by engineer. */
+"下拉刷新，get更多变美好物" = "Slide down to discover more ";
+
+/* (No Comment) */
+"下庭(面部重塑)" = "ครึ่งล่าง";
+
+/* No comment provided by engineer. */
+"下午好" = "สวัสดีตอนบ่าย";
+
+/* No comment provided by engineer. */
+"下一步" = "ถัดไป";
+
+/* No comment provided by engineer. */
+"下载" = "ดาวน์โหลด";
+
+/* No comment provided by engineer. */
+"下载的字体可长按删除哦~" = "กดค้างเพื่อลบแบบอักษรที่ดาวน์โหลดไว้";
+
+/* No comment provided by engineer. */
+"下载活动素材中" = "กำลังดาวน์โหลด";
+
+/* No comment provided by engineer. */
+"下载全部滤镜" = "ดาวน์โหลดทั้งหมด";
+
+/* No comment provided by engineer. */
+"下载失败" = "ดาวน์โหลดล้มเหลว";
+
+/* No comment provided by engineer. */
+"下载失败，请检查网络后重试。" = "ดาวน์โหลดไม่สำเร็จ กรุณาตรวจสอบการเชื่อมต่ออินเทอร์เน็ตของคุณแล้วลองอีกครั้ง";
+
+/* No comment provided by engineer. */
+"下载失败，请重试" = "ดาวน์โหลดไม่สำเร็จ กรุณาลองอีกครั้ง";
+
+/* No comment provided by engineer. */
+"下载使用" = "ดาวน์โหลด";
+
+/* No comment provided by engineer. */
+"下载素材需要耗费一定流量，建议在WiFi环境下载哦~" = "การดาวน์โหลดเอฟเฟกต์อาจใช้ข้อมูลในเครือข่ายโทรศัพท์มือถือจำนวนมาก แนะนำให้ดาวน์โหลดขณะเชื่อมต่อ Wi-Fi";
+
+/* No comment provided by engineer. */
+"下载完成" = "ดาวน์โหลดเสร็จสิ้น";
+
+/* No comment provided by engineer. */
+"下载完成, 还有%ld个素材未下载" = "ดาวน์โหลดแล้ว ไม่สามารถดาวน์โหลด %ld เนื้อหา";
+
+/* No comment provided by engineer. */
+"下载中" = "กำลังรอ";
+
+/* No comment provided by engineer. */
+"下载中..." = "กำลังดาวน์โหลด...";
+
+/* No comment provided by engineer. */
+"下载资源包即刻体验" = "ดาวน์โหลดแพ็กทรัพยากรเพื่อใช้งานได้เลย";
+
+/* No comment provided by engineer. */
+"先去看看其他内容吧～" = "ลองดูเนื้อหาอื่นๆ ก่อน ";
+
+/* No comment provided by engineer. */
+"先使用一款马赛克哦~" = "ยืนยันเอฟเฟกต์โมเสกก่อนทำต่อ";
+
+/* No comment provided by engineer. */
+"先涂抹或添加形状哦" = "ปัดรูปภาพหรือเพิ่มวัตถุก่อนประมวลผล";
+
+/* No comment provided by engineer. */
+"先选择一张要编辑的贴纸哦~" = "เลือกสติกเกอร์เพื่อแก้ไข";
+
+/* No comment provided by engineer. */
+"显示标签" = "แสดงแท็ก";
+
+/* No comment provided by engineer. */
+"现在发布，你就是第一个占据这里的人！" = "โพสต์ตอนนี้เพื่อเป็นคนแรกที่เข้าไปยังพื้นที่นี้!";
+
+/* No comment provided by engineer. */
+"现在请点击手中的遥控器" = "ตอนนี้กรุณาคลิกที่ Meitu Remote";
+
+/* No comment provided by engineer. */
+"线条" = "เส้น";
+
+/* No comment provided by engineer. */
+"线形" = "เชิงเส้น";
+
+/* No comment provided by engineer. */
+"限时" = "จำกัด";
+
+/* No comment provided by engineer. */
+"限时素材只能在一定时间内使用哦，过期后素材将不可再使用哦~" = "เนื้อหาภายในเวลาที่จำกัดสามารถใช้ได้ภายในระยะเวลาที่กำหนด และไม่สามารถใช้ได้หลังจากหมดอายุแล้ว";
+
+/* No comment provided by engineer. */
+"相册" = "อัลบั้ม";
+
+/* (No Comment) */
+"相册（我）" = "อัลบั้ม";
+
+/* No comment provided by engineer. */
+"相册不存在" = "The album does not exist.";
+
+/* No comment provided by engineer. */
+"相册成员" = "Members";
+
+/* No comment provided by engineer. */
+"相册成员: " = "Members:";
+
+/* No comment provided by engineer. */
+"相册成员(%d)" = "Members (%d)";
+
+/* No comment provided by engineer. */
+"相册成员最多%d人哦" = "Up to %d members may be added to an album. ";
+
+/* No comment provided by engineer. */
+"相册名" = "Album name";
+
+/* No comment provided by engineer. */
+"相册默认仅自己可见，你也可以添加成员一起分享。" = "Only you can see this album, you may add friends at any time. ";
+
+/* No comment provided by engineer. */
+"相册内容仅自己可见，也可以邀请好友升级为多人相册。" = "Only you can see the contents of a private album, you may invite friends to create a private group album.";
+
+/* No comment provided by engineer. */
+"相册已解散" = "The album has been deleted.";
+
+/* No comment provided by engineer. */
+"相册中不可以传播违规违法内容哦" = "The sharing of illegal content in this album is strictly forbidden. ";
+
+/* No comment provided by engineer. */
+"相关内容" = "แนะนำ";
+
+/* No comment provided by engineer. */
+"相关权限受限，请到手机设置-美图秀秀-打开对应权限" = "จำกัดสิทธิ์ใช้งาน กรุณาไปที่การตั้งค่า จากนั้นให้สิทธิ์ที่เกี่ยวข้องแก่ “Meitu”";
+
+/* No comment provided by engineer. */
+"相机" = "กล้อง";
+
+/* (No Comment) */
+"相机（社区首页）" = "กล้อง";
+
+/* No comment provided by engineer. */
+"相机设置" = "การตั้งค่ากล้อง";
+
+/* 贴纸专辑详情页的相似专辑 */
+"相似素材" = "องค์ประกอบเหมือนกัน";
+
+/* No comment provided by engineer. */
+"详细的举报原因有助于举报被快速处理" = "เราจะดำเนินการรายงานของคุณโดยเร็วที่สุด กรุณาแนบรายละเอียดมาด้วย";
+
+/* No comment provided by engineer. */
+"想跟宝宝们说： 拼图模块大升级啦！全新拼图拥有各种好看、时尚的素材，宝宝们快来体验吧" = "เรียน ผู้ใช้ โหมดภาพตัดปะมีการอัพเดตใหม่ สามารถลององค์ประใหม่สุดน่ารักและทันสมัยได้เลยตอนนี้!";
+
+/* (No Comment) */
+"向上滑动切换内容" = "ปัดขึ้นเพื่อเปลี่ยนเนื้อหา";
+
+/* No comment provided by engineer. */
+"向世界分享我的美好生活" = "แชร์ชีวิตที่น่าสนใจของฉันกับทุก ๆ คน";
+
+/* No comment provided by engineer. */
+"向右90°" = "ขวา 90°";
+
+/* No comment provided by engineer. */
+"向左90°" = "ซ้าย90°";
+
+/* No comment provided by engineer. */
+"向左滑动查看下一张" = "ปัดไปทางซ้ายเพื่อดูถัดไป";
+
+/* No comment provided by engineer. */
+"向左滑动切换滤镜" = "กวาดไปทางซ้ายเพื่อสลับฟิลเตอร์";
+
+/* No comment provided by engineer. */
+"橡皮" = "ยางลบ";
+
+/* No comment provided by engineer. */
+"橡皮擦" = "ยางลบ";
+
+/* No comment provided by engineer. */
+"消除笔" = "ยางลบ";
+
+/* No comment provided by engineer. */
+"消息" = "ข้อความ";
+
+/* No comment provided by engineer. */
+"小(五官)" = "เล็ก";
+
+/* No comment provided by engineer. */
+"小边框" = "บาง";
+
+/* No comment provided by engineer. */
+"小叮咛" = "คำแนะนำ";
+
+/* No comment provided by engineer. */
+"小伙伴们赶紧去下载新素材，体验全新效果吧~" = "อย่าช้า! ดาวน์โหลดเนื้อหาใหม่และทดลองฟิลเตอร์ใหม่ล่าสุด!";
+
+/* No comment provided by engineer. */
+"小脸" = "เล็กลง";
+
+/* No comment provided by engineer. */
+"小麦色" = "สีน้ำตาลอ่อน ";
+
+/* No comment provided by engineer. */
+"小美好" = "Delight";
+
+/* No comment provided by engineer. */
+"小头" = "ศีรษะ";
+
+/* No comment provided by engineer. */
+"效果处理失败，请重试" = "การประมวลผลด้วยคลาวด์จะให้ผลลัพธ์ที่ดีกว่า ยินยอมให้อัปโหลดรูปภาพของคุณขึ้นบนคลาวด์หรือไม่?";
+
+/* No comment provided by engineer. */
+"效果更佳小秘诀：" = "แม่แบบเพื่อเอฟเฟกต์ที่ดีขึ้น:";
+
+/* No comment provided by engineer. */
+"效果加载中..." = "กำลังโหลดเอฟเฟกต์...";
+
+/* No comment provided by engineer. */
+"效果选择" = "เอฟเฟกต์";
+
+/* No comment provided by engineer. */
+"效果制作中..." = "สร้างเอฟเฟกต์...";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-文本tab-斜体按钮 */
+"斜体" = "ตัวเอียง";
+
+/* No comment provided by engineer. */
+"写个简单清晰的标题吧" = "ใส่หัวเรื่องให้ชัดเจน";
+
+/* No comment provided by engineer. */
+"谢谢您的建议!" = "ขอขอบคุณสำหรับความเห็นของคุณ";
+
+/* No comment provided by engineer. */
+"新粉丝" = "แฟนใหม่ๆ";
+
+/* No comment provided by engineer. */
+"新功能【3D塑颜】" = "ฟังก์ชันใหม่: เปลี่ยนทรง 3D";
+
+/* No comment provided by engineer. */
+"新建" = "สร้าง";
+
+/* No comment provided by engineer. */
+"新建区域" = "พื้นที่ใหม่";
+
+/* No comment provided by engineer. */
+"新浪微博" = "Weibo";
+
+/* No comment provided by engineer. */
+"新一代智能美颜神器，自动美肤、瘦脸瘦身、明眸亮眼，一秒拥有高颜值，打造最美自拍！" = "เครื่องมือรีทัชยุคใหม่! ปรับสภาพผิวอัตโนมัติ ยกกระชับใบหน้า ปรับขอบตาให้สว่างได้ง่าย ๆ โดยกดเพียงครั้งเดียว!";
+
+/* No comment provided by engineer. */
+"新增边框" = "เพิ่มกรอบ";
+
+/* No comment provided by engineer. */
+"新增特效" = "เพิ่มเอฟเฟกต์";
+
+/* No comment provided by engineer. */
+"新增音乐" = "เพิ่มเพลง";
+
+/* No comment provided by engineer. */
+"新增自定义贴纸哦" = "เพิ่มสติกเกอร์แบบปรับแต่งเอง";
+
+/* No comment provided by engineer. */
+"星星" = "ดาว";
+
+/* No comment provided by engineer. */
+"星座" = "ชะตาชีวิต";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-对齐tab-行间距滑竿标签 */
+"行间距" = "ระยะห่างระหว่างบรรทัด";
+
+/* No comment provided by engineer. */
+"形状" = "รูปร่าง";
+
+/* No comment provided by engineer. */
+"性别" = "เพศ";
+
+/* No comment provided by engineer. */
+"胸部定位失败啦，换张图试试~" = "กำหนดตำแหน่งบริเวณหน้าอกผิดพลาด ลองเปลี่ยนรูป";
+
+/* 跳转iOS14相册权限 */
+"修改授权" = "เปลี่ยนแปลงการให้อนุญาต";
+
+/* No comment provided by engineer. */
+"修容" = "คอนทัวร์";
+
+/* No comment provided by engineer. */
+"修容笔" = "คอนทัวร์";
+
+/* No comment provided by engineer. */
+"修图配方" = "แม่แบบ";
+
+/* 美化使用功能后右上角...打开允许使用我的配方，保存，点击“允许使用我的配方“旁边的感叹号
+   美化使用功能后右上角...打开允许使用我的配方，保存，勾选“允许使用我的配方”，弹窗文案 */
+"修图配方可同时查看原图和最终效果图哦" = "คุณสามารถดูภาพที่แต่งแล้วพร้อมกับต้นฉบับได้ในแม่แบบ";
+
+/* No comment provided by engineer. */
+"修图配方已删除" = "ลบแม่แบบการตัดต่อแล้ว";
+
+/* No comment provided by engineer. */
+"虚化" = "เบลอ";
+
+/* No comment provided by engineer. */
+"虚化功能已关闭" = "เบลอ ปิด";
+
+/* No comment provided by engineer. */
+"虚化功能已开启" = "เบลอ เปิด";
+
+/* No comment provided by engineer. */
+"虚化画面背景" = "เบลอ เปิด";
+
+/* No comment provided by engineer. */
+"虚化已关闭" = "เบลอ ปิด";
+
+/* No comment provided by engineer. */
+"虚假广告" = "โฆษณาปลอม";
+
+/* No comment provided by engineer. */
+"需要同意用户协议及隐私权政策哦" = "ต้องยอมรับข้อตกลงผู้ใช้และนโยบายความเป็นส่วนตัว";
+
+/* No comment provided by engineer. */
+"需要完善头像、性别、生日才能获得现金红包哦~~" = "ซองอั่งเปาจะมอบให้คุณเฉพาะเมื่อคุณส่งรูปภาพโปรไฟล์, เพศ และวันเกิดของคุณแล้วเท่านั้น";
+
+/* No comment provided by engineer. */
+"旋转" = "หมุนองศา";
+
+/* No comment provided by engineer. */
+"选多图或视频发布，会有更多曝光哦" = "เลือกรูปภาพหรือวิดีโอเพิ่มเติมเพื่อโพสต์และเห็นมากขึ้น!";
+
+/* No comment provided by engineer. */
+"选好了" = "เสร็จสิ้น";
+
+/* No comment provided by engineer. */
+"选几张好看的照片哦～" = "เลือกรูปภาพที่สวยงามเพื่อเริ่ม!";
+
+/* No comment provided by engineer. */
+"选图失败" = "เลือกภาพล้มเหลว";
+
+/* No comment provided by engineer. */
+"选择好友" = "เลือกเพื่อน";
+
+/* No comment provided by engineer. */
+"选择你感兴趣的内容" = "เลือกเนื้อหาที่คุณรู้สึกสนใจ";
+
+/* No comment provided by engineer. */
+"选择你感兴趣的用户" = "Choose users of interest.";
+
+/* No comment provided by engineer. */
+"选择全部片段" = "เลือกทั้งหมด";
+
+/* No comment provided by engineer. */
+"选择收藏夹" = "เลือกรายการโปรด";
+
+/* No comment provided by engineer. */
+"选择私人相册" = "Select a private album";
+
+/* No comment provided by engineer. */
+"选择素材" = "เลือกองค์ประกอบ";
+
+/* No comment provided by engineer. */
+"选择图片" = "เลือกภาพ";
+
+/* No comment provided by engineer. */
+"选择音乐" = "เลือกเพลง";
+
+/* 选择照片 */
+"选择照片" = "เลือกอัลบั้ม";
+
+/* No comment provided by engineer. */
+"选择照片，开始上传" = "Select photos and start uploading";
+
+/* No comment provided by engineer. */
+"选择正脸自拍照" = "เลือกภาพเซลฟี หันหน้าตรง";
+
+/* No comment provided by engineer. */
+"炫彩" = "แฟนตาซี";
+
+/* No comment provided by engineer. */
+"炫彩边框" = "แฟนตาซี";
+
+/* No comment provided by engineer. */
+"循环播放" = "ซ้ำ";
+
+/* No comment provided by engineer. */
+"循环动画" = "เล่นซ้ำ";
+
+/* No comment provided by engineer. */
+"延时3秒" = "ดีเล 3 วิ";
+
+/* No comment provided by engineer. */
+"延时3秒已开启" = "เปิดระบบตั้งเวลา 3 วินาที";
+
+/* No comment provided by engineer. */
+"延时6秒" = "ดีเล 6 วิ";
+
+/* No comment provided by engineer. */
+"延时6秒已开启" = "เปิดระบบตั้งเวลา 6 วินาที";
+
+/* No comment provided by engineer. */
+"延时功能已关闭" = "ระบบตั้งเวลา ปิด";
+
+/* No comment provided by engineer. */
+"延时关闭" = "ตั้งเวลา ปิด";
+
+/* 一键美颜底部效果tab */
+"盐系" = "เรียบง่าย";
+
+/* No comment provided by engineer. */
+"颜色" = "สี";
+
+/* No comment provided by engineer. */
+"颜值管家" = "ความงาม";
+
+/* (No Comment) */
+"眼高(面部重塑)" = "ขนาดตา";
+
+/* No comment provided by engineer. */
+"眼睛" = "ดวงตา";
+
+/* (No Comment) */
+"眼睛(面部重塑)" = "ตา";
+
+/* No comment provided by engineer. */
+"眼睛放大" = "เพิ่มตาโต";
+
+/* No comment provided by engineer. */
+"眼睛放大Label" = "ขนาด";
+
+/* No comment provided by engineer. */
+"眼距" = "ระยะห่าง";
+
+/* (No Comment) */
+"眼距(面部重塑)" = "ระยะทาง";
+
+/* 美容-祛皱-智能的一个tab */
+"眼纹" = "ตีนกา";
+
+/* No comment provided by engineer. */
+"眼线" = "อายไลเนอร์";
+
+/* No comment provided by engineer. */
+"眼妆" = "ดวงตา";
+
+/* 视频美化-文字-添加任意文字选中-二级列表 */
+"样式" = "สไตล์";
+
+/* No comment provided by engineer. */
+"腰" = "เอว";
+
+/* No comment provided by engineer. */
+"邀请好友加入相册，一起上传照片和视频。" = "Invite friends to join the album and share photos and videos.";
+
+/* No comment provided by engineer. */
+"邀请微信好友" = "Invite WeChat friends";
+
+/* No comment provided by engineer. */
+"邀请微信好友加入这个相册" = "Invite your WeChat friends to join this album";
+
+/* No comment provided by engineer. */
+"遥控器电量不足15%，请及时更换电池！" = "แบตเตอรี่ Meitu Remote เหลือน้อยกว่า 15% กรุณาเปลี่ยนแบตเตอรี่!";
+
+/* No comment provided by engineer. */
+"遥控器读取防伪验证随机值失败" = "ไม่สามารถโหลดรหัสสุ่มการยืนยันความปลอดภัยจากระยะไกล";
+
+/* No comment provided by engineer. */
+"遥控器连接超时" = "เกินกำหนดเวลาเชื่อมต่อระยะไกล";
+
+/* No comment provided by engineer. */
+"遥控器连接中..." = "กำลังเชื่อมต่อระยะไกล...";
+
+/* No comment provided by engineer. */
+"遥控器写入防伪验证随机值失败" = "ไม่สามารถบันทึกรหัสสุ่มการยืนยันความปลอดภัยจากระยะไกล";
+
+/* No comment provided by engineer. */
+"遥控器已进入节能模式！30秒内单击遥控器可重新连接。" = "Meitu Remote เข้าสู่โหมดประหยัดพลังงานแล้ว! คลิกที่ Meitu Remote ภายใน 30 วินาทีเพื่อกู้การเชื่อมต่อ";
+
+/* No comment provided by engineer. */
+"夜拍功能已关闭" = "โหมดกลางคืน ปิด";
+
+/* No comment provided by engineer. */
+"夜拍功能已开启" = "โหมดกลางคืน เปิด";
+
+/* No comment provided by engineer. */
+"夜拍关闭" = "ปิด";
+
+/* No comment provided by engineer. */
+"夜拍开启" = "เปิด";
+
+/* No comment provided by engineer. */
+"夜拍开启后对焦速度慢，请保持镜头稳定~" = "ถือกล้องให้นิ่งขณะใช้ โหมดกลางคืน";
+
+/* No comment provided by engineer. */
+"一般" = "มาตรฐาน";
+
+/* No comment provided by engineer. */
+"一键大片" = "ออโต้";
+
+/* No comment provided by engineer. */
+"一键美图" = "คำแนะนำ";
+
+/* 美容-一键美颜-底部标题 */
+"一键美颜" = "อัตโนมัติ";
+
+/* No comment provided by engineer. */
+"一键美妆" = "เมคอัพ";
+
+/* 美容-祛皱-自动的一个tab */
+"一键祛皱" = "กระชับผิว";
+
+/* No comment provided by engineer. */
+"一键下载" = "ดาวน์โหลด";
+
+/* No comment provided by engineer. */
+"一键P腹肌" = "เพิ่มกล้ามท้องทันที";
+
+/* No comment provided by engineer. */
+"一起上传照片和视频。" = "Upload photos and videos together.";
+
+/* No comment provided by engineer. */
+"移出黑名单" = "ลบจากบัญชีดำ";
+
+/* No comment provided by engineer. */
+"移动" = "ย้าย";
+
+/* No comment provided by engineer. */
+"移动定位点调整妆容" = "ย้ายตำแหน่งเพื่อปรับการแต่งหน้า";
+
+/* No comment provided by engineer. */
+"移动至" = "ย้ายไปที่";
+
+/* No comment provided by engineer. */
+"已保存" = "บันทึกแล้ว";
+
+/* No comment provided by engineer. */
+"已保存到系统相册" = "บันทึกลงในอัลบั้มของคุณ";
+
+/* No comment provided by engineer. */
+"已保存到相册" = "บันทึกไปอัลบั้มแล้ว";
+
+/* No comment provided by engineer. */
+"已保存图片和修图配方" = "บันทึกรูปภาพและแม่แบบแล้ว";
+
+/* No comment provided by engineer. */
+"已保存为贴纸，可在贴纸功能查看" = "บันทึกแล้ว คุณสามารถดูได้ในสติกเกอร์";
+
+/* No comment provided by engineer. */
+"已保存至相册" = "บันทึกไปอัลบั้มแล้ว";
+
+/* No comment provided by engineer. */
+"已成功保存至相册" = "บันทึกไปอัลบั้มแล้ว";
+
+/* No comment provided by engineer. */
+"已达最大值" = "ถึงเกณฑ์สูงสุดแล้ว";
+
+/* No comment provided by engineer. */
+"已达最小值" = "ถึงเกณฑ์ต่ำสุดแล้ว";
+
+/* No comment provided by engineer. */
+"已断开连接" = "ตัดการเชื่อมต่อแล้ว";
+
+/* No comment provided by engineer. */
+"已复制，快去分享给好友吧！" = "คัดลอกแล้ว แชร์กับเพื่อน ๆ ตอนนี้!";
+
+/* No comment provided by engineer. */
+"已关闭" = "ปิด";
+
+/* No comment provided by engineer. */
+"已关闭祛斑祛痘" = "ฟังก์ชันแต่งสิว-ปิด";
+
+/* No comment provided by engineer. */
+"已关闭瘦脸大眼" = "ปิดการใช้รูปร่างผอมและปรับขนาด";
+
+/* No comment provided by engineer. */
+"已关注" = "ติดตาม";
+
+/* No comment provided by engineer. */
+"已恢复购买素材" = "คืนค่าการซื้อแล้ว";
+
+/* 私信会话详情页-加入黑名单 */
+"已加入黑名单" = "เพิ่มไปยังบัญชีดำแล้ว";
+
+/* No comment provided by engineer. */
+"已解锁" = "ปลดล็อกแล้ว";
+
+/* No comment provided by engineer. */
+"已经是第一个了" = "ไม่มีรายการเพิ่มเติม";
+
+/* No comment provided by engineer. */
+"已经是最后一个了" = "ไม่มีรายการเพิ่มเติม";
+
+/* No comment provided by engineer. */
+"已经是最新会员状态啦" = "กู้คืนสถานะแล้ว";
+
+/* No comment provided by engineer. */
+"已经添加了%lu张照片" = "เลือก %lu ภาพ (สูงสุด 9)";
+
+/* No comment provided by engineer. */
+"已经添加了0张照片" = "เลือก 0 ภาพ (สูงสุด 9)";
+
+/* No comment provided by engineer. */
+"已开启" = "เปิด";
+
+/* No comment provided by engineer. */
+"已开启祛斑祛痘" = "ฟังก์ชันแต่งสิว-เปิด";
+
+/* No comment provided by engineer. */
+"已开启瘦脸大眼" = "เปิดการใช้รูปร่างผอมและปรับขนาด";
+
+/* No comment provided by engineer. */
+"已切换眉毛颜色" = "เปลี่ยนสีคิ้วแล้ว";
+
+/* No comment provided by engineer. */
+"已切换为黑色" = "เปลี่ยนเป็นสีดำ";
+
+/* No comment provided by engineer. */
+"已切换为红棕色" = "เปลี่ยนเป็นสีอำพัน";
+
+/* No comment provided by engineer. */
+"已切换为灰褐色" = "เปลี่ยนเป็นสีน้ำตาลอ่อน";
+
+/* No comment provided by engineer. */
+"已切换为浅栗色" = "เปลี่ยนเป็นสีน้ำตาลแดงอ่อน";
+
+/* No comment provided by engineer. */
+"已切换为深棕色" = "เปลี่ยนเป็นสีน้ำตาลเข้ม";
+
+/* No comment provided by engineer. */
+"已认证" = "ยืนยันแล้ว";
+
+/* 私信列表页-删除会话 */
+"已删除" = "ลบแล้ว";
+
+/* No comment provided by engineer. */
+"已是全部的位置信息" = "ไม่มีข้อมูลสถานที่";
+
+/* No comment provided by engineer. */
+"已收藏至" = "เพิ่มไปยัง";
+
+/* No comment provided by engineer. */
+"已收到你的反馈，美老师会尽快解决你的问题哦。" = "รับความเห็นแล้ว กูรูความงามจะแก้ไขปัญหาให้แก่คุณโดยเร็วที่สุด!";
+
+/* No comment provided by engineer. */
+"已套用" = "ใช้แล้ว";
+
+/* No comment provided by engineer. */
+"已添加该标签" = "ป้ายนี้กำลังใช้งานอยู่";
+
+/* No comment provided by engineer. */
+"已完成" = "Done";
+
+/* No comment provided by engineer. */
+"已为你开启静音拍照" = "เปิดการใช้งานโหมดเงียบเมื่อทำการถ่ายภาพ";
+
+/* No comment provided by engineer. */
+"已为你开启颜值管家" = "ความงามของฉัน เปิดอยู่";
+
+/* No comment provided by engineer. */
+"已为你开启自动保存原图" = "เปิดใช้การบันทึกภาพต้นฉบับโดยอัตโนมัติแล้ว";
+
+/* No comment provided by engineer. */
+"已下载" = "ดาวน์โหลดแล้ว";
+
+/* No comment provided by engineer. */
+"已选择 %lu 个素材" = "เลือก %lu รายการ";
+
+/* No comment provided by engineer. */
+"已选择%.1f秒" = "เลือกไว้ %.1f วินาที";
+
+/* No comment provided by engineer. */
+"已选择%@秒" = "เลือกไว้ %@ วินาที";
+
+/* No comment provided by engineer. */
+"已选择图片，不支持选择视频哦。" = "รูปที่เลือกไว้ ไม่สามารถเลือกวิดีโอได้";
+
+/* No comment provided by engineer. */
+"已选中 %lu 个分类" = "เลือก %lu หมวดหมู่";
+
+/* 私信会话详情页-移出黑名单 */
+"已移出黑名单" = "ลบจากบัญชีดำแล้ว";
+
+/* No comment provided by engineer. */
+"已移动至" = "ย้ายไปยัง";
+
+/* No comment provided by engineer. */
+"已应用到全部片段" = "นำไปใช้กับคลิปทั้งหมดแล้ว";
+
+/* No comment provided by engineer. */
+"以上" = "No more items";
+
+/* No comment provided by engineer. */
+"艺术家还没有添加微博链接哦～" = "ศิลปินยังไม่ได้เพิ่มลิงก์ Weibo";
+
+/* No comment provided by engineer. */
+"艺术家主页" = "โปรไฟล์ศิลปิน";
+
+/* No comment provided by engineer. */
+"意见反馈" = "ความเห็น";
+
+/* No comment provided by engineer. */
+"因为你的语言非中文，将为你隐藏MT社区。" = "ชุมชน MT ใช้ได้เฉพาะในจีนเท่านั้น";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-阴影tab标题 */
+"阴影" = "เงา";
+
+/* No comment provided by engineer. */
+"音乐" = "ดนตรี";
+
+/* No comment provided by engineer. */
+"音乐不存在" = "เพลงนี้ไม่มีอยู่";
+
+/* No comment provided by engineer. */
+"音乐列表" = "รายการเพลง";
+
+/* No comment provided by engineer. */
+"音乐提取中" = "กำลังแยกไฟล์";
+
+/* No comment provided by engineer. */
+"音乐准备中..." = "กำลังโหลด...";
+
+/* No comment provided by engineer. */
+"音量" = "ระดับเสียง";
+
+/* No comment provided by engineer. */
+"隐藏标签" = "ซ่อนแท็ก";
+
+/* No comment provided by engineer. */
+"隐私权政策" = "นโยบายความเป็นส่วนตัว";
+
+/* No comment provided by engineer. */
+"隐私与通知" = "ความเป็นส่วนตัวและการแจ้งเตือน";
+
+/* No comment provided by engineer. */
+"隐私政策" = "นโยบายความเป็นส่วนตัว";
+
+/* No comment provided by engineer. */
+"应用到全部" = "ใช้กับทั้งหมด";
+
+/* No comment provided by engineer. */
+"应用到全部片段" = "นำไปใช้กับคลิปทั้งหมด";
+
+/* No comment provided by engineer. */
+"嘤😫~你都不来看我，我有这么多好东西你都不知道~" = "คุณไม่ได้ใช้เรามาสักพักแล้ว 😫 เรามีเครื่องมือใหม่ๆ มากมายจะแชร์กับคุณ!";
+
+/* No comment provided by engineer. */
+"用户" = "ผู้ใช้";
+
+/* No comment provided by engineer. */
+"用户不存在" = "ไม่มีบัญชีผู้ใช้";
+
+/* No comment provided by engineer. */
+"用户协议" = "ข้อตกลงผู้ใช้";
+
+/* No comment provided by engineer. */
+"用户协议及隐私权政策" = "เงื่อนไขการใช้งานและนโยบายความเป็นส่วนตัว";
+
+/* No comment provided by engineer. */
+"用旧版" = "ก่อนหน้า";
+
+/* No comment provided by engineer. */
+"用美图秀秀剪视频" = "แก้ไขวิดีโอบน Meitu";
+
+/* No comment provided by engineer. */
+"用新版" = "ใหม่";
+
+/* No comment provided by engineer. */
+"由于当前版本过低，导致无法下载使用该模板，请更新至最新版本。" = "กรุณาอัปเดตเป็นเวอร์ชันล่าสุดเพื่อใช้เทมเพลตนี้";
+
+/* No comment provided by engineer. */
+"由于当前版本过低，导致无法下载使用该素材，请更新至最新版本。" = "เวอร์ชั่นนี้เก่าเกินไปสำหรับดาวน์โหลดเนื้อหานี้ กรุณาอัพเดตเป็นเวอร์ชั่นล่าสุด";
+
+/* No comment provided by engineer. */
+"由于你将该视频存储在iCloud上，需要下载到本地才可进行编辑哦，是否下载该视频？" = "วิดีโอที่ดาวน์โหลดบน iCloud ต้องดาวน์โหลดลงเครื่องก่อนจึงจะสามารถแก้ไขได้ ดำเนินการต่อหรือไม่?";
+
+/* No comment provided by engineer. */
+"由于你将该照片存储在iCloud上，需要下载到本地才可进行编辑哦，是否下载该照片？" = "คุณได้บันทึกรูปภาพนี้ลงใน iCloud แล้ว และต้องดาวน์โหลดลงเครื่องเพื่อแก้ไข ต้องการทำเช่นนั้นหรือไม่?";
+
+/* No comment provided by engineer. */
+"游客模式购买" = "ซื้อแบบโหมดผู้เยี่ยมชม";
+
+/* No comment provided by engineer. */
+"游戏" = "เกม";
+
+/* No comment provided by engineer. */
+"游戏中心" = "ศูนย์เกมส์";
+
+/* No comment provided by engineer. */
+"有%ld个素材正在下载..." = "กำลังดาวน์โหลด %ld เนื้อหา...";
+
+/* 我祛皱操作情况切换到橡皮擦的提示信息 */
+"有祛皱操作才可擦除" = "ใช้ลบริ้วรอยแล้วจึงสามารถลบได้";
+
+/* No comment provided by engineer. */
+"有什么不爽的，尽情吐槽吧！你的描述越具体，我们才能越好的解决问题哦~" = "กรุณาระบุปัญหาให้ละเอียดมากที่สุด เพื่อให้เราสามารถแก้ไขปัญหาได้ดีที่สุด";
+
+/* No comment provided by engineer. */
+"有什么不爽的，尽情吐槽吧！你也可以加入官方QQ群：993916801 ，帅气的程序猿GG将现场为你解答哦~" = "หากคุณมีข้อสงสัยใด ๆ กรุณาส่งความเห็นของคุณมาที่เรา คุณสามารถเข้าร่วมกลุ่ม QQ อย่างเป็นทางการของเรา: 993916801 นักพัฒนาของเราจะตอบข้อสงสัยของคุณที่นี่!";
+
+/* No comment provided by engineer. */
+"有颜商城" = "Youyan Mall";
+
+/* No comment provided by engineer. */
+"柚子相机" = "Pomelo";
+
+/* No comment provided by engineer. */
+"柚子相机-让普通照片一秒拥有文艺范儿！" = "รับ Pomelo Camera เพื่อยกระดับการถ่ายภาพของคุณ!";
+
+/* No comment provided by engineer. */
+"与这张照片同时发布的一组照片都会被删除。" = "Deleting an items results in all images within it being deleted as well. ";
+
+/* No comment provided by engineer. */
+"预览" = "ดูตัวอย่าง";
+
+/* No comment provided by engineer. */
+"原肤色" = "ต้นฉบับ";
+
+/* No comment provided by engineer. */
+"原价¥%@" = "ราคาเดิม¥%@";
+
+/* 一键美颜底部效果tab */
+"原生" = "ธรรมชาติ";
+
+/* No comment provided by engineer. */
+"原声" = "ดั้งเดิม";
+
+/* No comment provided by engineer. */
+"原声关闭" = "เสียงต้นฉบับ ปิด";
+
+/* No comment provided by engineer. */
+"原声开启" = "เสียงต้นฉบับ เปิด";
+
+/* No comment provided by engineer. */
+"原声已关闭" = "เสียงต้นฉบับ ปิด";
+
+/* No comment provided by engineer. */
+"原声已开启" = "เสียงต้นฉบับ เปิด";
+
+/* No comment provided by engineer. */
+"原始" = "ต้นฉบับ";
+
+/* No comment provided by engineer. */
+"原始视频文件被删除" = "วิดีโอต้นฉบับถูกลบแล้ว";
+
+/* No comment provided by engineer. */
+"原始视频文件被删除，草稿已损坏" = "แบบร่างเสียหาย: วิดีโอต้นฉบับถูกลบแล้ว";
+
+/* No comment provided by engineer. */
+"原图" = "ดั้งเดิม";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-背景tab-圆角滑竿标签 */
+"圆角" = "มุมมน";
+
+/* No comment provided by engineer. */
+"圆脸专用" = "กลม";
+
+/* No comment provided by engineer. */
+"圆形" = "ตรงกลาง";
+
+/* No comment provided by engineer. */
+"远(五官)" = "ไกล";
+
+/* No comment provided by engineer. */
+"月" = "เดือน";
+
+/* No comment provided by engineer. */
+"云端处理效果更好哦，是否同意上传照片至云端处理？" = "การประมวลผลด้วยคลาวด์จะให้ผลลัพธ์ที่ดีกว่า ยินยอมให้อัปโหลดรูปภาพของคุณขึ้นบนคลาวด์หรือไม่?";
+
+/* No comment provided by engineer. */
+"允许使用我的配方" = "อนุญาตให้ใช้แม่แบบของฉัน ";
+
+/* No comment provided by engineer. */
+"允许使用我的视频模板" = "อนุญาตให้ผู้อื่นใช้เทมเพลตนี้";
+
+/* No comment provided by engineer. */
+"允许他人保存我的视频" = "อนุญาตให้ผู้อื่นบันทึกวิดีโอของคุณ";
+
+/* No comment provided by engineer. */
+"允许他人保存我的图片" = "Allow others to save your images";
+
+/* No comment provided by engineer. */
+"允许他人使用我的视频原声" = "อนุญาตให้ผู้อื่นใช้ไฟล์เสียงต้นฉบับของคุณ";
+
+/* No comment provided by engineer. */
+"运行内存严重不足导致拍照功能无法正常使用，请先清理一些后台App" = "การที่หน่วยความจำไม่พอ อาจทำให้กล้องทำงานผิดปกติได้ กรุณาปิดแอปบางส่วนที่กำลังทำงานอยู่เบื้องหลัง";
+
+/* No comment provided by engineer. */
+"再次点击可取消选中哦" = "แตะอีกครั้งเพื่อยกเลิก";
+
+/* No comment provided by engineer. */
+"再次点击切换随机效果" = "กดอีกครั้งเพื่อแก้ไข";
+
+/* No comment provided by engineer. */
+"再次点击音量键返回" = "แตะปุ่มปรับเสียงอีกครั้งเพื่อย้อนกลับ";
+
+/* No comment provided by engineer. */
+"再看一次" = "ชมอีกครั้ง";
+
+/* No comment provided by engineer. */
+"再试一次" = "ลองอีกครั้ง";
+
+/* No comment provided by engineer. */
+"在这里, 你可以创建私人相册, 邀请[最重要的人]一起上传照片或视频" = "Create an album that can only be seen by you and select users. [Invite friends] to add their own special moments.";
+
+/* No comment provided by engineer. */
+"暂不绑定" = "ไม่ใช่ตอนนี้";
+
+/* No comment provided by engineer. */
+"暂不登录" = "ไม่ใช่ตอนนี้";
+
+/* No comment provided by engineer. */
+"暂不恢复" = "ยกเลิก";
+
+/* No comment provided by engineer. */
+"暂不支持导入超过5分钟的音乐哦" = "เพลงที่นำเข้าต้องยาวไม่เกิน 5 นาที";
+
+/* No comment provided by engineer. */
+"暂不支持多人哦" = "โหมดหลายบุคคลยังไม่รองรับในขณะนี้";
+
+/* No comment provided by engineer. */
+"暂时不支持该类型的视频哦" = "วิดีโอชนิดนี้ไม่รองรับชั่วคราว";
+
+/* No comment provided by engineer. */
+"暂未开启媒体库权限" = "ไม่สามารถเข้าถึงคลังสื่อได้";
+
+/* No comment provided by engineer. */
+"暂未搜索到你想要的地点" = "ไม่พบสถานที่";
+
+/* No comment provided by engineer. */
+"暂无@，是他们太害羞了" = "ยังไม่มีใครกล่าวถึงคุณ สงสัยแฟนๆ ของคุณขี้อาย!";
+
+/* No comment provided by engineer. */
+"暂无本地音乐" = "ไม่พบเพลงที่ดาวน์โหลด";
+
+/* No comment provided by engineer. */
+"暂无好友动态" = "ยังไม่มีการแจ้งเตือน";
+
+/* No comment provided by engineer. */
+"暂无可用的视频或图片" = "ไม่มีรูปภาพหรือวิดีโอที่ใช้ได้";
+
+/* No comment provided by engineer. */
+"暂无可用视频" = "ไม่มีวิดีโอที่ใช้ได้";
+
+/* No comment provided by engineer. */
+"暂无可用图片" = "ไม่มีรูปภาพที่ใช้ได้";
+
+/* No comment provided by engineer. */
+"暂无模板呦～" = "ไม่พบเทมเพลต";
+
+/* No comment provided by engineer. */
+"暂无评论，是他们太害羞了" = "ยังไม่มีความเห็นใดๆเพื่อนของคุณขี้อาย!";
+
+/* No comment provided by engineer. */
+"暂无收藏" = "ยังไม่มีเนื้อหาใด";
+
+/* No comment provided by engineer. */
+"暂无收藏配方~" = "ไม่พบแม่แบบการตัดต่อในรายการโปรด";
+
+/* No comment provided by engineer. */
+"暂无收藏音乐" = "ไม่พบเพลง";
+
+/* No comment provided by engineer. */
+"暂无下载素材哦" = "ไม่มีเนื้อหาที่ดาวน์โหลด";
+
+/* No comment provided by engineer. */
+"暂无新版" = "ไม่มีข้อมูลอัพเดต";
+
+/* No comment provided by engineer. */
+"赞" = "ไลค์";
+
+/* No comment provided by engineer. */
+"赞过" = "ถูกใจแล้ว";
+
+/* No comment provided by engineer. */
+"赞了你" = "ให้ไลค์คุณ";
+
+/* No comment provided by engineer. */
+"赞了你的评论" = "X ถูกใจความเห็นของคุณ";
+
+/* No comment provided by engineer. */
+"早上好" = "สวัสดีตอนเช้า";
+
+/* No comment provided by engineer. */
+"增发" = "ตัวตัดต่อผม";
+
+/* No comment provided by engineer. */
+"增高" = "สูงขึ้น";
+
+/* No comment provided by engineer. */
+"增高搬到这里啦" = "ฟังก์ชันความสูงย้ายมาอยู่ที่นี่.";
+
+/* No comment provided by engineer. */
+"增高塑形" = "ทรงรูปร่าง";
+
+/* No comment provided by engineer. */
+"增强" = "ปรับปรุง";
+
+/* No comment provided by engineer. */
+"眨眨眼" = "แวววาว";
+
+/* No comment provided by engineer. */
+"窄(五官)" = "แคบ";
+
+/* No comment provided by engineer. */
+"窄脸" = "แคบลง";
+
+/* No comment provided by engineer. */
+"展开" = "ขยาย";
+
+/* No comment provided by engineer. */
+"展开%d条回复" = "View %d replies";
+
+/* No comment provided by engineer. */
+"张嘴巴" = "อ้าปาก";
+
+/* No comment provided by engineer. */
+"长(五官)" = "ยาว";
+
+/* No comment provided by engineer. */
+"长按可更改图片顺序" = "กดค้างเพื่อเปลี่ยนลำดับ";
+
+/* No comment provided by engineer. */
+"长按可进行移动" = "กดค้างเพื่อขยับ";
+
+/* No comment provided by engineer. */
+"长按识别二维码" = "แตะค้างเพื่อสแกน QR Code";
+
+/* No comment provided by engineer. */
+"长鼻" = "ความยาว";
+
+/* (No Comment) */
+"长度(面部重塑)" = "ความยาว";
+
+/* No comment provided by engineer. */
+"长脸专用" = "ยาว";
+
+/* No comment provided by engineer. */
+"长图" = "รูปยาว";
+
+/* No comment provided by engineer. */
+"帐号管理" = "จัดการบัญชี";
+
+/* No comment provided by engineer. */
+"照片" = "ภาพถ่าย";
+
+/* No comment provided by engineer. */
+"照片(%d)" = "รูปภาพ (%d)";
+
+/* (No Comment) */
+"照片(经典首页)" = "Photo";
+
+/* No comment provided by engineer. */
+"照片瞬间高大上!" = "ปรับภาพของคุณให้เป็นโปสเตอร์ที่น่าสนใจในทันที";
+
+/* No comment provided by engineer. */
+"照片炫爆朋友圈的秘密？我只告诉你~❤️" = "อยากรู้ความลับของรูปที่แสนเพอร์เฟกต์ไหม? เปิดเราเพื่อหาคำตอบเลย ❤️";
+
+/* 一键美颜滑竿名称 */
+"遮瑕" = "คอนซีลเลอร";
+
+/* No comment provided by engineer. */
+"这就是首页啦~\\(≧▽≦)/~" = "นี่คือหน้าโฮมเพจ!";
+
+/* No comment provided by engineer. */
+"这里发现更多滤镜" = "ค้นพบฟิลเตอร์เพิ่มเติมได้ที่นี่";
+
+/* No comment provided by engineer. */
+"这里可以调整五官哦" = "ปรับองค์ประกอบใบหน้าที่นี่";
+
+/* No comment provided by engineer. */
+"这里可以删除素材哦" = "ลบเนื้อหาที่นี่";
+
+/* No comment provided by engineer. */
+"这里空空如也，快去创建你的修图配方吧" = "ยังไม่มีแม่แบบ ไปสร้างแม่แบบของคุณ";
+
+/* No comment provided by engineer. */
+"这里切换特效哦" = "กดเพื่อ\nสลับฟิลเตอร์";
+
+/* No comment provided by engineer. */
+"这里添加妆容哦" = "เพิ่มสไตล์เมคอัพที่นี่";
+
+/* No comment provided by engineer. */
+"这里添加自定义贴纸哦" = "เพิ่มสติกเกอร์แบบปรับแต่งไว้ที่นี่";
+
+/* No comment provided by engineer. */
+"这里展示你最近使用过的%d张贴纸～" = "สติกเกอร์ %d แบบที่ใช้ล่าสุดบันทึกไว้ที่นี่.";
+
+/* No comment provided by engineer. */
+"这里展示你最近使用过的50个马赛克素材" = "โมเสกที่ใช้ไปล่าสุด 50 รายการจะบันทึกไว้ที่นี่";
+
+/* No comment provided by engineer. */
+"这么久都没来撩我了，你知道我在等你吗？👄" = "เราคิดถึงคุณ! มาตัดแต่งรูปภาพเพื่อแชร์ให้ทุกคน ❤️";
+
+/* No comment provided by engineer. */
+"这一刻想分享点什么~" = "คุณคิดอะไรอยู่?";
+
+/* No comment provided by engineer. */
+"这一刻想分享点什么～" = "คุณคิดอะไรอยู่?";
+
+/* No comment provided by engineer. */
+"这一刻想说点什么" = "What's on your mind?";
+
+/* 审核开关关闭-订阅会员-支付时取消 */
+"真的要离开吗？" = "คุณมั่นใจว่าต้องการออกไปใช่หรือไม่?";
+
+/* No comment provided by engineer. */
+"整体调整" = "ทั่วไป";
+
+/* No comment provided by engineer. */
+"正常" = "ปกติ";
+
+/* No comment provided by engineer. */
+"正方形" = "สี่เหลี่ยม";
+
+/* No comment provided by engineer. */
+"正脸" = "หันหน้าตรง";
+
+/* No comment provided by engineer. */
+"正片叠底" = "ทับซ้อน";
+
+/* No comment provided by engineer. */
+"正在处理" = "กำลังประมวลผล...";
+
+/* No comment provided by engineer. */
+"正在解锁MT..." = "กำลังปลดล็อค MT...";
+
+/* 美容-祛皱-切换到智能时候的自动检测loading状态 */
+"正在进行皱纹检测..." = "กำลังตรวจหาริ้วรอย...";
+
+/* 私信列表页-删除会话 */
+"正在删除会话" = "กำลังลบบทสนทนา";
+
+/* No comment provided by engineer. */
+"正在搜索附近的位置" = "กำลังค้นหา...";
+
+/* No comment provided by engineer. */
+"正在突破次元壁..." = "กำลังทาสีภาพเซลฟี่ของคุณ...";
+
+/* No comment provided by engineer. */
+"正在下载" = "กำลังดาวน์โหลด";
+
+/* No comment provided by engineer. */
+"正在下载小应用" = "กำลังดาวน์โหลด";
+
+/* No comment provided by engineer. */
+"正在支付中" = "Paying...";
+
+/* No comment provided by engineer. */
+"政治敏感" = "อ่อนไหวทางการเมือง";
+
+/* No comment provided by engineer. */
+"支持选择上下调整哦~" = "สามารถปรับบนล่างได้";
+
+/* No comment provided by engineer. */
+"支持选择左右调整哦~" = "สามารถปรับซ้ายขวาได้";
+
+/* No comment provided by engineer. */
+"支付遇到了问题，请重新支付" = "การชำระเงินถูกรบกวน กรุณาลองอีกครั้ง";
+
+/* No comment provided by engineer. */
+"知道了" = "ตกลง";
+
+/* No comment provided by engineer. */
+"直播" = "Live Stream";
+
+/* No comment provided by engineer. */
+"直角肩" = "ไหล่เพรียว";
+
+/* No comment provided by engineer. */
+"直接保存" = "บันทึกเลย";
+
+/* No comment provided by engineer. */
+"直接分享，画质更清晰哦" = "แชร์รูปคุณภาพสูงได้โดยตรง";
+
+/* No comment provided by engineer. */
+"直接拍照才可拆颜值红包哦~" = "ถ่ายภาพโดยตรงเพื่อเปิดซองอั่งเปาที่สวยงาม!";
+
+/* No comment provided by engineer. */
+"直线" = "เส้น";
+
+/* No comment provided by engineer. */
+"只可一键使用20个文字和20个贴纸哦～" = "ไม่เกิน 20 ข้อความหรือสติกเกอร์ 20 ชิ้น ";
+
+/* No comment provided by engineer. */
+"只能添加%d个地点标签哟~" = "เพิ่มป้ายตำแหน่งที่ตั้งได้ %d ป้ายเท่านั้น";
+
+/* No comment provided by engineer. */
+"只要能陪主人一起修照片，我就很开心呢~😍" = "ถ่ายรูปวันนี้เลย! เราชอบตัดแต่งภาพที่มีคุณ 😘";
+
+/* No comment provided by engineer. */
+"至少保留一段视频" = "กรุณาเก็บอย่างน้อยหนึ่งคลิป";
+
+/* No comment provided by engineer. */
+"至少开放一个片段，才可以分享模板" = "กรุณาเลือกอย่างน้อย 1 คลิปเพื่อแชร์เทมเพลต";
+
+/* No comment provided by engineer. */
+"至少需要一张图片哦" = "ต้องมีอย่างน้อย 1 รูป ";
+
+/* No comment provided by engineer. */
+"制作壁纸" = "สร้างวอลเปเปอร์";
+
+/* No comment provided by engineer. */
+"制作下一张" = "จัดทำรายการอื่น";
+
+/* No comment provided by engineer. */
+"智能" = "ฉลาด";
+
+/* No comment provided by engineer. */
+"智能补光" = "ไฟอัจฉริยะ";
+
+/* No comment provided by engineer. */
+"智能不可缩放虚化区域" = "ส่วนเบลอที่ซูมไม่ได้แบบอัจฉริยะ";
+
+/* No comment provided by engineer. */
+"智能美白中..." = "กำลังประมวลผล";
+
+/* No comment provided by engineer. */
+"智能美型" = "รูปหน้าสวย";
+
+/* No comment provided by engineer. */
+"智能美型已关闭" = "ปรับเรียวใบหน้าและขยายดวงตา ปิด";
+
+/* No comment provided by engineer. */
+"智能美型已开启" = "ปรับเรียวใบหน้าและขยายดวงตา เปิด";
+
+/* No comment provided by engineer. */
+"智能选区" = "อัตโนมัติ";
+
+/* No comment provided by engineer. */
+"智能优化" = "อัตโนมัติ";
+
+/* No comment provided by engineer. */
+"中边框" = "ปานกลาง";
+
+/* No comment provided by engineer. */
+"中心" = "ตรงกลาง";
+
+/* No comment provided by engineer. */
+"重发该消息?" = "ส่งข้อความอีกครั้ง?";
+
+/* No comment provided by engineer. */
+"重试" = "ลองอีกครั้ง";
+
+/* No comment provided by engineer. */
+"重新点击" = "คลิกอีกครั้ง";
+
+/* No comment provided by engineer. */
+"重新加载" = "โหลดใหม่";
+
+/* No comment provided by engineer. */
+"重新连接" = "เชื่อมต่อใหม่";
+
+/* No comment provided by engineer. */
+"重新选图" = "เลือกภาพอื่น";
+
+/* No comment provided by engineer. */
+"重新支付" = "ลองใหม่อีกครั้ง";
+
+/* No comment provided by engineer. */
+"重置" = "รีเซ็ต";
+
+/* No comment provided by engineer. */
+"主人，好久没见到你了，来看看我有什么新玩意嘛~😊" = "มีรูปภาพที่คุณอยากแชร์? ใช้ฟิลเตอร์เพื่อเปลี่ยนรูปธรรมดาให้แสนพิเศษ! 😍";
+
+/* No comment provided by engineer. */
+"主题" = "ธีม";
+
+/* No comment provided by engineer. */
+"注册新帐号" = "ลงทะเบียนบัญชีใหม่";
+
+/* No comment provided by engineer. */
+"专辑" = "คอลเลกชัน";
+
+/* No comment provided by engineer. */
+"专辑下载失败" = "ดาวน์โหลดคอลเลกชันไม่สำเร็จ";
+
+/* No comment provided by engineer. */
+"专区" = "หัวข้อ";
+
+/* 审核开关关闭-订阅会员-支付时取消 */
+"专属边框" = "กรอบแบบพิเศษ";
+
+/* 审核开关关闭-订阅会员-支付时取消 */
+"专属滤镜" = "ฟิลเตอร์พิเศษ";
+
+/* 审核开关关闭-订阅会员-支付时取消 */
+"专属贴纸" = "สติกเกอร์พิเศษ";
+
+/* No comment provided by engineer. */
+"转场" = "เปลี่ยนภาพแล้ว";
+
+/* 一键美颜滑竿名称 */
+"妆容" = "ลุค";
+
+/* No comment provided by engineer. */
+"资料更新成功" = "อัพเดตข้อมูลแล้ว";
+
+/* No comment provided by engineer. */
+"资源大小超限" = "Resource size exceeds the limit.";
+
+/* No comment provided by engineer. */
+"资源加载中，请稍后" = "กำลังโหลดโปรดรอ...";
+
+/* No comment provided by engineer. */
+"资源上传失败" = "Failed to upload the resource.";
+
+/* No comment provided by engineer. */
+"资源时长不足哦" = "วิดีโอที่นำเข้ามาสั้นเกินไป";
+
+/* 首页-视频美化-选中任一图片或视频-文字tab-样式tab-对齐tab-字间距滑竿标签 */
+"字间距" = "ระยะห่างของตัวหนังสือ";
+
+/* No comment provided by engineer. */
+"字体" = "อักษร";
+
+/* No comment provided by engineer. */
+"字体删除后素材将无法使用该字体，确定删除？" = "คุณจะไม่สามารถใช้แบบอักษรที่คุณกำลังจะลบได้อีกต่อไป ดำเนินการต่อหรือไม่";
+
+/* No comment provided by engineer. */
+"字体下载失败" = "ดาวน์โหลดฟอนต์ไม่สำเร็จ";
+
+/* No comment provided by engineer. */
+"自定义" = "กำหนดเอง ";
+
+/* No comment provided by engineer. */
+"自定义贴纸" = "ปรับแต่งสติกเกอร์";
+
+/* No comment provided by engineer. */
+"自定义贴纸人像识别" = "การจดจำใบหน้าสติกเกอร์แบบปรับแต่งเอง";
+
+/* No comment provided by engineer. */
+"自定义N" = "กำหนดเอง N";
+
+/* 祛皱-tab */
+"自动" = "ปรับด้วยมือ";
+
+/* No comment provided by engineer. */
+"自动保存到相册" = "บันทึกอัตโนมัติไปอัลบั้ม";
+
+/* No comment provided by engineer. */
+"自动关闭拍照声音" = "เสียงชัดเตอร์จะถูกปิดโดยอัตโนมัติ";
+
+/* No comment provided by engineer. */
+"自动清理设备磁盘空间" = "ล้างพื้นที่ดิสก์อุปกรณ์อัตโนมัติ";
+
+/* No comment provided by engineer. */
+"自动续费服务提示" = "เคล็ดลับการต่ออายุบริการอัตโนมัติ";
+
+/* No comment provided by engineer. */
+"自拍美颜" = "รีทัชภาพเซลฟี่";
+
+/* No comment provided by engineer. */
+"自由" = "อิสระ";
+
+/* No comment provided by engineer. */
+"自由拼图背景" = "พื้นหลัง";
+
+/* No comment provided by engineer. */
+"综合" = "โดยรวม";
+
+/* No comment provided by engineer. */
+"纵向" = "แนวตั้ง";
+
+/* No comment provided by engineer. */
+"组合" = "ผสม";
+
+/* No comment provided by engineer. */
+"嘴巴" = "ปาก";
+
+/* (No Comment) */
+"嘴唇(面部重塑)" = "ปาก";
+
+/* No comment provided by engineer. */
+"嘴型" = "ปาก";
+
+/* No comment provided by engineer. */
+"最多15个汉字" = "No more than 15 characters";
+
+/* No comment provided by engineer. */
+"最多可导入" = "นำเข้า";
+
+/* No comment provided by engineer. */
+"最多可添加20个贴纸哦" = "สติกเกอร์ไม่เกิน 20 ชิ้น";
+
+/* No comment provided by engineer. */
+"最多可添加20个线条素材哦" = "สามารถเพิ่มเอฟเฟกต์เส้นได้ไม่เกิน 20 รายการ";
+
+/* No comment provided by engineer. */
+"最多可选择一个视频或18张照片哦" = "Select up to one video or 18 photos";
+
+/* No comment provided by engineer. */
+"最多可以使用%d个素材哦~" = "สูงสุด %d เอฟเฟกต์";
+
+/* No comment provided by engineer. */
+"最多可拥有%d个相册哦" = "Maximum %d albums";
+
+/* No comment provided by engineer. */
+"最多输入15个汉字" = "No more than 15 characters";
+
+/* No comment provided by engineer. */
+"最多输入30个字哦" = "คุณสามารถใส่อักขระได้สูงสุด 30 ตัว";
+
+/* No comment provided by engineer. */
+"最多添加%d个标签哟~" = "เพิ่มได้ไม่เกิน %d ป้าย";
+
+/* No comment provided by engineer. */
+"最多添加20个标签" = "สามารถใส่ได้สูงสุด 20 แท็ก";
+
+/* No comment provided by engineer. */
+"最多支持创建%d个抠图哦～" = "คัตเอาต์วัตถุไม่เกิน %d ชิ้น";
+
+/* No comment provided by engineer. */
+"最多支持添加9个哦" = "สามารถเพิ่มได้สูงสุด 9 ภาพ/ วิดีโอ";
+
+/* No comment provided by engineer. */
+"最多支持添加9张哦" = "สามารถเพิ่มได้สูงสุด 9 ภาพ";
+
+/* No comment provided by engineer. */
+"最多支持选择%ld个视频" = "วิดีโอไม่เกิน %ld ไฟล์";
+
+/* No comment provided by engineer. */
+"最多支持选择%ld张哦" = "ไม่เกิน %ld ภาพ";
+
+/* No comment provided by engineer. */
+"最多只可以发布%d字哟" = "คุณสามารถใส่อักขระได้สูงสุด %d ตัว";
+
+/* No comment provided by engineer. */
+"最多只能保存5个水印哦，请删除多余水印后再添加" = "อนุญาตให้ใช้ได้สูงสุด 5 โลโก้ กรุณาลบออกส่วนหนึ่งก่อนสร้างใหม่";
+
+/* No comment provided by engineer. */
+"最多只能选择%ld张图片哦~" = "กรุณาเลือกภาพไม่เกิน %ld ภาพ";
+
+/* No comment provided by engineer. */
+"最近联系人" = "รายชื่อติดต่อเมื่อเร็วๆ นี้";
+
+/* No comment provided by engineer. */
+"最近使用" = "ใช้งานล่าสุด";
+
+/* No comment provided by engineer. */
+"最热" = "ฮอต";
+
+/* No comment provided by engineer. */
+"最新" = "ใหม่";
+
+/* No comment provided by engineer. */
+"最新的素材，最好玩的活动再也不会错过啦" = "ไม่พลาดวัตถุดิบใหม่ๆและกิจกรรมน่าตื่นเต้นอีกต่อไป!";
+
+/* No comment provided by engineer. */
+"昨天" = "เมื่อวานนี้";
+
+/* (No Comment) */
+"左右(面部重塑)" = "左右";
+
+/* No comment provided by engineer. */
+"左右镜像" = "พสะท้อน";
+
+/* No comment provided by engineer. */
+"作品容易丢失，及时登录即可永久保存！" = "ผลงานอาจสูญหายได้ง่ายๆ ล็อกอินเพื่อบันทึกไว้อย่างถาวร!";
+
+/* No comment provided by engineer. */
+"作品已删除" = "งานถูกลบแล้ว";
+
+/* No comment provided by engineer. */
+"作者" = "ผู้แต่ง";
+
+/* No comment provided by engineer. */
+"作者赞过" = "ชอบโดยผู้แต่ง";
+
+/* No comment provided by engineer. */
+"After" = "After";
+
+/* No comment provided by engineer. */
+"again" = "อีกครั้ง";
+
+/* No comment provided by engineer. */
+"AI智能增发需要使用美图云服务器，全程信息加密不会泄露您的照片。" = "ตัวตัดต่อผม AI จำเป็นต้องใช้คลาวด์เซิฟเวอร์ของ Meitu ข้อมูลจะถูกเข้ารหัสในกระบวนการนี้";
+
+/* No comment provided by engineer. */
+"AR贴纸" = "สติกเกอร์ AR";
+
+/* No comment provided by engineer. */
+"BeautyPlus" = "BeautyPlus";
+
+/* No comment provided by engineer. */
+"BeautyPlus-把手机变成自拍神器！" = "กล้องปรับสวยสุดวิเศษสำหรับการเซลฟี่โดยเฉพาะ!";
+
+/* No comment provided by engineer. */
+"click" = "click";
+
+/* No comment provided by engineer. */
+"Common.ReleaseVersion" = "เวอร์ชั่นทางการ";
+
+/* No comment provided by engineer. */
+"Common.TestVersion" = "เวอร์ชั่นเบต้า";
+
+/* No comment provided by engineer. */
+"Copyright © " = "Copyright © ";
+
+/* No comment provided by engineer. */
+"emmm…你的照片有点深奥，ArtBot眉头一皱，发现画画并不简单，重新选一张图试试？" = "ภาพของคุณออกแนวแอบสแทร็ค ArtBot รู้สึกว่าการวาดภาพไม่ใช่เรื่องง่าย ลองเลือกภาพอื่น";
+
+/* No comment provided by engineer. */
+"Empty resource" = "Empty resource";
+
+/* No comment provided by engineer. */
+"Facebook" = "Facebook";
+
+/* No comment provided by engineer. */
+"Get同款" = "ดัดแปลง";
+
+/* No comment provided by engineer. */
+"gif图片不支持音量调节" = "รูปไฟล์ GIF ไม่รองรับการปรับระดับเสียง";
+
+/* No comment provided by engineer. */
+"HSL" = "HSL";
+
+/* No comment provided by engineer. */
+"ibon" = "ibon";
+
+/* No comment provided by engineer. */
+"iCloud视频下载中" = "กำลังดาวน์โหลดวิดีโอ iCloud...";
+
+/* No comment provided by engineer. */
+"iCloud云相册的视频，需要您先下载到系统相册，再重试哦～" = "วิดีโอในอัลบั้มบน iCloud ของคุณต้องดาวน์โหลดลงในอัลบั้มของระบบก่อน กรุณาดาวน์โหลดแล้วลองอีกครั้ง";
+
+/* No comment provided by engineer. */
+"iCloud云相册的照片，需要您先下载到系统相册，再重试哦～" = "ภาพในอัลบั้ม iCloud คุณจะต้องดาวน์โหลดไปยัง Camera Roll จากนั้นลองใหม่อีกครั้ง";
+
+/* No comment provided by engineer. */
+"iCloud照片下载中" = "กำลังดาวน์โหลด";
+
+/* No comment provided by engineer. */
+"Instagram" = "Instagram";
+
+/* No comment provided by engineer. */
+"LINE" = "LINE";
+
+/* (No Comment) */
+"M唇(面部重塑)" = "ปากกระจับ";
+
+/* No comment provided by engineer. */
+"Messenger" = "Messenger";
+
+/* No comment provided by engineer. */
+"PrivacyPolicyAttention" = "ข้อแนะนำ";
+
+/* No comment provided by engineer. */
+"PrivacyPolicyMessage1" = "ขอให้สนุกกับ Meitu! เราเห็นคุณค่าและเคารพในความเป็นส่วนตัวของคุณ กรุณาอ่านข้อตกลงบริการและนโยบายความเป็นส่วนตัวของเราอย่างถี่ถ้วน คุณต้องเห็นชอบด้วยและยอมรับในข้อตกลงทุกอย่างในทั้งสองฉบับก่อนใช้งาน Meitu";
+
+/* No comment provided by engineer. */
+"PrivacyPolicyMessage2" = "กรุณาอ่านข้อตกลงบริการและนโยบายความเป็นส่วนตัวของเราอย่างถี่ถ้วน คุณต้องเห็นชอบด้วยและยอมรับในข้อตกลงทุกอย่างในทั้งสองฉบับก่อนใช้งาน Meitu";
+
+/* No comment provided by engineer. */
+"QQ" = "QQ";
+
+/* No comment provided by engineer. */
+"QQ好友" = "เพื่อนใน QQ";
+
+/* No comment provided by engineer. */
+"QQ空间" = "Qzone";
+
+/* No comment provided by engineer. */
+"QQ限制分享，请打开QQ上传分享哦！" = "การแชร์ถูกจำกัดโดย QQ กรุณาเปิด QQ เพื่ออัปโหลดและแชร์!";
+
+/* No comment provided by engineer. */
+"RecordTip0" = "RecordTip0";
+
+/* No comment provided by engineer. */
+"RecordTip1" = "ปล่อยและลองโพสต์ท่าใหม่/ใช้มุมอื่น";
+
+/* No comment provided by engineer. */
+"RecordTip2" = "กดค้างที่ปุ่มกล้องเพื่อถ่ายส่วนต่อไป";
+
+/* No comment provided by engineer. */
+"RecordTip3" = "RecordTip3";
+
+/* No comment provided by engineer. */
+"RecordTipPress1" = "ปล่อย";
+
+/* No comment provided by engineer. */
+"RecordTipPress2" = "กดค้าง";
+
+/* No comment provided by engineer. */
+"Submit" = "Submit";
+
+/* No comment provided by engineer. */
+"Twitter" = "Twitter";
+
+/* No comment provided by engineer. */
+"V系列不支持裁切" = "ฟังก์ชันครอบตัดไม่รองรับในซีรีย์ V";
+
+/* No comment provided by engineer. */
+"WhatsApp" = "WhatsApp";
+
+/* No comment provided by engineer. */
+"WiFi下不会自动播放视频哦" = "วิดีโอจะไม่เล่นอัตโนมัติเมื่อใช้ Wi-Fi";
+
+/* No comment provided by engineer. */
+"淡出" = "เลือนออก";
+
+/* No comment provided by engineer. */
+"淡入" = "เลือนเข้า";
+
+/* No comment provided by engineer. */
+"淡入淡出" = "เลือนเข้าเลือนออก";
+
+/* 个人主页-收藏-创建收藏夹默认文案 */
+"输入收藏夹描述" = "ใส่คำธิบายรายการโปรด";
+
+/* No comment provided by engineer. */
+"系统存储空间已不足100MB，可能造成拍摄或导入的视频损坏或保存失败，建议清理存储空间后再重试。" = "คุณมีพื้นที่เก็บข้อมูลเหลือน้อยกว่า 100 MB ซึ่งอาจทำให้วิดีโอที่บันทึกไว้เสียหาย หรือส่งผลให้บันทึกไม่สำเร็จ กรุณาเคลียร์พื้นที่บางส่วนแล้วลองอีกครั้ง";
+
+/* No comment provided by engineer. */
+"限时素材只能在一定时间内使用，过期后素材将不可再使用哦~" = "องค์ประกอบจำกัดเวลาใช้ สามารถใช้ได้ภายในช่วงเวลาหนึ่งเท่านั้น หลังจากหมดอายุองค์ประกอบจะไม่สามารถใช้งานได้อีกต่อไป~";
+
+/* No comment provided by engineer. */
+"暂无收藏音效" = "ยังไม่มีเอฟเฟกต์เสียงในรายการโปรด";
+

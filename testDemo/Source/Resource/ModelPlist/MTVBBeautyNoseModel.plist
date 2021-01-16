@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_eye_size_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_eye_size_hilighted</string>
+		<key>name</key>
+		<string>大小</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_nose_ala_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_nose_ala_hilighted</string>
+		<key>name</key>
+		<string>鼻翼</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_nose_bridge_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_nose_bridge_hilighted</string>
+		<key>name</key>
+		<string>鼻梁</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_nose_tip_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_nose_tip_hilighted</string>
+		<key>name</key>
+		<string>鼻尖</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_nose_enhance_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_nose_enhance_hilighted</string>
+		<key>name</key>
+		<string>提升</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_nose_root_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_nose_root_hilighted</string>
+		<key>name</key>
+		<string>山根</string>
+	</dict>
+</array>
+</plist>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>FacePart</key>
+		<array>
+			<!-- order 亮度 对比度 高光 阴影  饱和度 锐化  色温  色调  褪色 暗角 颗粒 -->
+			<dict>
+				<key>Type</key>
+				<string>Tone</string>
+				<key>ToneArray</key>
+				<array>
+
+					<dict>
+						<key>ToneType</key><string>Light</string>
+						<key>Alpha</key><string>100</string>
+						<key>Path</key>
+						<array>
+							<dict>
+								<key>path0</key><string>light_100.png</string>
+								<key>path1</key><string>light_100_rever.png</string>
+							</dict>
+						</array>
+					</dict>
+
+					<dict>
+						<key>ToneType</key><string>Comparison</string>
+						<key>Alpha</key><string>100</string>
+						<key>Path</key>
+						<array>
+							<dict>
+								<key>path0</key><string>comparison_100.png</string>
+								<key>path1</key><string>comparison_100_rever.png</string>
+							</dict>
+						</array>
+					</dict>
+
+					<dict>
+						<key>ToneType</key><string>HighLight</string>
+						<key>Alpha</key><string>100</string>
+						<key>Path</key>
+						<array>
+							<dict>
+								<key>path0</key><string>highlight_100.png</string>
+								<key>path1</key><string>highlight_100_rever.png</string>
+							</dict>
+						</array>
+					</dict>
+
+					<dict>
+						<key>ToneType</key><string>Shadows</string>
+						<key>Alpha</key><string>100</string>
+						<key>Path</key>
+						<array>
+							<dict>
+								<key>path0</key><string>shadows_100.png</string>
+								<key>path1</key><string>shadows_100_rever.png</string>
+							</dict>
+						</array>
+					</dict>
+
+					<dict>
+						<key>ToneType</key><string>Saturation</string>
+						<key>Alpha</key><string>100</string>
+						<key>Path</key>
+						<array>
+							<dict>
+								<key>path0</key><string>saturation_100.png</string>
+								<key>path1</key><string>saturation_100_rever.png</string>
+							</dict>
+						</array>
+					</dict>
+
+					<dict>
+						<key>ToneType</key><string>Temperature</string>
+						<key>Alpha</key><string>100</string>
+						<key>Path</key>
+						<array>
+							<dict>
+								<key>path0</key><string>temperature_100.png</string>
+								<key>path1</key><string>temperature_100_rever.png</string>
+							</dict>
+						</array>
+					</dict>
+
+					<dict>
+						<key>ToneType</key><string>Tone</string>
+						<key>Alpha</key><string>100</string>
+						<key>Path</key>
+						<array>
+							<dict>
+								<key>path0</key><string>Tone_magenta.png</string>
+								<key>path1</key><string>Tone_blue.png</string>
+							</dict>
+						</array>
+					</dict>
+
+					<dict>
+						<key>ToneType</key><string>Fade</string>
+						<key>Alpha</key><string>100</string>
+						<key>Path</key>
+						<array>
+							<dict>
+								<key>path0</key><string>fade_100.png</string>
+							</dict>
+						</array>
+					</dict>
+
+					<dict>
+						<key>ToneType</key><string>DarkCorner</string>
+						<key>Alpha</key><string>100</string>
+						<key>Path</key>
+						<array>
+							<dict>
+								<key>path0</key><string>vignette1.jpg</string>
+								<key>path1</key><string>PSMultiple.png</string>
+								<key>path2</key><string>vignette2.png</string>
+								<key>path3</key><string>PSScreen.png</string>
+							</dict>
+						</array>
+					</dict>
+
+					<dict>
+						<key>ToneType</key><string>Sharpen</string>
+						<key>Alpha</key><string>100</string>
+					</dict>
+
+					<!-- <dict>
+						<key>ToneType</key><string>Particle</string>
+						<key>Alpha</key><string>100</string>
+						<key>Path</key>
+						<array>
+							<dict>
+								<key>path0</key><string>grainV1.png</string>
+							</dict>
+						</array>
+					</dict> -->
+
+				</array>
+			</dict>
+		</array>
+	</dict>
+</array>
+</plist>

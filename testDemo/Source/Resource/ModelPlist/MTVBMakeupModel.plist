@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_eyepart_eyelash_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_eyepart_eyelash_hilighted</string>
+		<key>name</key>
+		<string>睫毛</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_eyepart_eyeliner_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_eyepart_eyeliner_hilighted</string>
+		<key>name</key>
+		<string>眼线</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_eyepart_eyemazing_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_eyepart_eyemazing_hilighted</string>
+		<key>name</key>
+		<string>卧蚕</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_eyepart_double_eyelids_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_eyepart_double_eyelids_hilighted</string>
+		<key>name</key>
+		<string>双眼皮</string>
+	</dict>
+	<dict>
+		<key>type</key>
+		<integer>0</integer>
+		<key>icon</key>
+		<string>icon_vb_eyepart_beauty_eyes_normal</string>
+		<key>selectIcon</key>
+		<string>icon_vb_eyepart_beauty_eyes_hilighted</string>
+		<key>name</key>
+		<string>美瞳</string>
+	</dict>
+</array>
+</plist>
