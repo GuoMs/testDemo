@@ -17,8 +17,7 @@ Pod::Spec.new do |s|
   #这里是源代码，也就是组件代码的git地址一定要写对
   s.source       = { :git => "git@github.com:GuoMs/testDemo.git", :tag => "#{s.version}" }
   #组件代码的路径要写对不然会找不到
-  s.source_files  = "testDemo", "testDemo/*.{h,m}"
-  s.resources = ['Images/*.png', 'Sounds/*']
+  s.source_files  = "testDemo", "testDemo/**/*.{h,m}"
   s.resource_bundle = {
    'TestResource'=> [
    'testDemo/Source/Resource/Asset/**/*.{xcassets}',
